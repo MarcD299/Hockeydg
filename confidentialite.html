@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light" />
+  <link rel="icon" type="image/webp" sizes="64x64" href="assets/hockeydg-logo-64.webp" />
+  <title>Politique de confidentialité / Privacy Policy | HockeyDG</title>
+  <meta name="description" content="Politique de confidentialité de HockeyDG.com — renseignements recueillis, témoins, droits (Loi 25). Privacy Policy." />
+  <meta name="robots" content="index,follow" />
+  <style>
+    :root {
+      color-scheme: light;
+      --paper:#f5f8fc; --surface:#ffffff; --surface-2:#eaf3fb;
+      --ink:#07152d; --muted:#465a75; --line:#b9cee3;
+      --red:#d7192d; --red-dark:#a80f24; --blue:#064a96;
+      --ice:#d8ebfa; --sky:#b9d8f2; --sky-soft:#edf6fd; --navy:#021b46;
+      --shadow:0 18px 50px rgba(4,25,37,.12);
+    }
+    * { box-sizing:border-box; }
+    html[lang="en"] .lang-fr { display:none; }
+    html[lang="fr"] .lang-en { display:none; }
+    body { margin:0; background:var(--paper); color:var(--ink);
+      font-family:"Source Sans 3",-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      font-size:1rem; line-height:1.6; }
+    .wrap { width:min(860px,calc(100% - 36px)); margin-inline:auto; }
+    /* En-tête */
+    .legal-header { background:var(--surface); border-bottom:4px solid var(--blue); }
+    .legal-header-inner { display:flex; align-items:center; gap:16px; padding:14px 0; flex-wrap:wrap; }
+    .legal-brand { display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--ink); margin-right:auto; }
+    .legal-brand img { width:56px; height:56px; border-radius:50%; }
+    .legal-brand strong { font-size:1.35rem; color:var(--navy); }
+    .legal-brand strong span { color:var(--red); }
+    .legal-brand small { display:block; color:var(--muted); font-size:.82rem; font-weight:400; }
+    .back-link { display:inline-block; padding:9px 18px; border-radius:999px; background:var(--surface-2);
+      color:var(--blue); font-weight:700; text-decoration:none; border:1px solid var(--line); }
+    .back-link:hover { background:var(--ice); }
+    .lang-switch { display:flex; gap:6px; }
+    .lang-btn { min-width:44px; min-height:38px; border:0; border-radius:999px; background:transparent;
+      color:var(--muted); font-weight:700; cursor:pointer; font-size:.95rem; padding:6px 12px; }
+    .lang-btn[aria-pressed="true"] { background:var(--blue); color:#fff; }
+    /* Contenu */
+    .legal-main { padding:34px 0 60px; }
+    .legal-card { background:var(--surface); border-radius:18px; box-shadow:var(--shadow);
+      padding:clamp(22px,4vw,44px); border:1px solid var(--line); }
+    .legal-card h1 { color:var(--navy); font-size:clamp(1.5rem,3.4vw,2.1rem); margin:0 0 6px;
+      padding-bottom:14px; border-bottom:3px solid var(--red); }
+    .legal-card h2 { color:var(--blue); font-size:1.18rem; margin:28px 0 8px; }
+    .legal-card h2::before { content:""; display:inline-block; width:8px; height:8px; border-radius:50%;
+      background:var(--red); margin-right:10px; vertical-align:2px; }
+    .legal-card p, .legal-card li { color:var(--ink); }
+    .legal-card ul, .legal-card ol { padding-left:22px; }
+    .legal-card li { margin:6px 0; }
+    .legal-card a { color:var(--blue); }
+    .legal-card table { width:100%; border-collapse:collapse; margin:16px 0; font-size:.93rem;
+      border-radius:12px; overflow:hidden; }
+    .legal-card th { background:var(--navy); color:#fff; text-align:left; padding:10px 12px; }
+    .legal-card td { padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+    .legal-card tr:nth-child(even) td { background:var(--sky-soft); }
+    .legal-card blockquote { background:var(--sky-soft); border-left:4px solid var(--blue);
+      border-radius:0 12px 12px 0; padding:12px 16px; margin:16px 0; color:var(--muted); }
+    .legal-card hr { border:0; border-top:1px solid var(--line); margin:26px 0; }
+    .legal-card code { background:var(--surface-2); padding:2px 7px; border-radius:8px; font-size:.88em; }
+    .update-note { color:var(--muted); font-size:.92rem; margin:0 0 20px; }
+    .lang-divider { display:flex; align-items:center; gap:14px; margin:44px 0 8px; }
+    .lang-divider::before, .lang-divider::after { content:""; flex:1; border-top:2px solid var(--line); }
+    .lang-divider span { background:var(--navy); color:#fff; font-weight:700; padding:8px 22px; border-radius:999px; }
+    /* Pied de page */
+    .site-footer { padding:26px 0; background:var(--navy); color:#fff; border-top:5px solid var(--red); }
+    .site-footer-inner { display:flex; flex-wrap:wrap; gap:14px 28px; align-items:center; justify-content:space-between; }
+    .footer-brand { display:flex; align-items:center; gap:12px; }
+    .footer-brand img { width:52px; height:52px; border-radius:50%; }
+    .footer-brand strong { display:block; font-size:1.1rem; }
+    .footer-brand span { font-size:.85rem; opacity:.8; }
+    .footer-links { display:flex; flex-wrap:wrap; gap:8px 20px; }
+    .footer-links a { color:#fff; text-decoration:none; font-size:.92rem; opacity:.92; }
+    .footer-links a:hover { text-decoration:underline; opacity:1; }
+    /* Bandeau témoins */
+    .cookie-banner { position:fixed; left:12px; right:12px; bottom:12px; z-index:9999;
+      background:var(--surface); border:1px solid var(--line); border-radius:16px;
+      box-shadow:var(--shadow); padding:16px 18px; display:none; }
+    .cookie-banner.show { display:block; }
+    .cookie-banner p { margin:0 0 12px; font-size:.92rem; color:var(--muted); }
+    .cookie-banner p strong { color:var(--ink); }
+    .cookie-actions { display:flex; gap:10px; flex-wrap:wrap; }
+    .cookie-btn { border:0; border-radius:999px; padding:10px 22px; font-weight:700; cursor:pointer; font-size:.95rem; }
+    .cookie-accept { background:var(--blue); color:#fff; }
+    .cookie-decline { background:var(--surface-2); color:var(--blue); border:1px solid var(--line); }
+    .cookie-link { background:none; border:0; color:var(--blue); text-decoration:underline; cursor:pointer; font-size:.9rem; padding:10px 6px; }
+    @media (max-width:640px) {
+      .legal-header-inner { gap:10px; }
+      .cookie-banner { left:8px; right:8px; bottom:8px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="legal-header">
+    <div class="wrap legal-header-inner">
+      <a class="legal-brand" href="index.html" id="brandHome">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="56" height="56" />
+        <span><strong>Hockey <span>DG</span></strong><small class="lang-fr">Le hockey, mesuré autrement</small><small class="lang-en">Hockey, measured differently</small></span>
+      </a>
+      <div class="lang-switch" role="group" aria-label="Langue / Language">
+        <button class="lang-btn" type="button" data-lang="fr" aria-pressed="true">FR</button>
+        <button class="lang-btn" type="button" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+      <a class="back-link" href="index.html" id="backHome"><span class="lang-fr">← Retour au site</span><span class="lang-en">← Back to site</span></a>
+    </div>
+  </header>
+
+  <main class="wrap legal-main">
+    <article class="legal-card">
+      <div class="lang-fr"><h1>Politique de confidentialité de HockeyDG.com</h1>
+<p><strong>Dernière mise à jour :</strong> [date de publication]<br><strong>Entrée en vigueur :</strong> [date de mise en ligne]</p>
+<p>HockeyDG.com (ci-après « le Site »), édité par [nom de l'entreprise / nom de l'éditeur] (« nous »), est un média sportif en ligne. La présente politique explique, en termes clairs et simples, quels renseignements personnels nous recueillons, pourquoi, et quels sont vos droits. Elle est distincte de nos conditions d'utilisation.</p>
+<h2>1. Renseignements personnels recueillis</h2>
+<p>Le Site ne demande <strong>aucune création de compte</strong> et ne collecte <strong>aucune infolettre</strong> pour l'instant. Nous recueillons les catégories suivantes, <strong>par moyen technologique</strong> :</p>
+<table><thead><tr><th>Catégorie</th><th>Exemples</th><th>Moyen</th></tr></thead><tbody><tr><td>Renseignements techniques de navigation</td><td>Adresse IP, type d'appareil et de navigateur, pages visitées, date et heure de visite, actions posées sur le Site</td><td>Témoins (cookies) et journaux techniques</td></tr><tr><td>Préférences</td><td>Choix de langue (français/anglais)</td><td>Stockage de session</td></tr><tr><td>Correspondance</td><td>Nom et adresse courriel, contenu du message</td><td>Courriel envoyé à nos adresses de contact</td></tr></tbody></table>
+<h2>2. Témoins (cookies)</h2>
+<p>Nous utilisons des témoins <strong>strictement nécessaires</strong> au fonctionnement du Site (sécurité, mémorisation de votre choix de langue et de votre choix en matière de témoins). Ils ne nécessitent pas votre consentement mais sont décrits ici par transparence.</p>
+<p><strong>Si nous activons la mesure d'audience et/ou la publicité</strong> (ex. : Google Analytics, Google AdSense), les catégories suivantes s'ajouteront <strong>uniquement après votre consentement</strong> recueilli via notre bandeau :</p>
+<ul>
+<li><strong>Mesure d'audience</strong> : comprendre la fréquentation du Site (pages vues, durée) ;</li>
+<li><strong>Publicité</strong> : afficher des annonces, y compris personnalisées selon vos intérêts (profilage publicitaire).</li>
+</ul>
+<p>Vous pourrez <strong>retirer ou modifier votre consentement à tout moment</strong> via le lien « Témoins / Cookies » en pied de page. Refuser n'empêche pas l'accès au Site.</p>
+<h2>3. Fins de la collecte</h2>
+<ul>
+<li>Faire fonctionner le Site et assurer sa sécurité ;</li>
+<li>Mémoriser vos préférences (langue) ;</li>
+<li>[Si activés] Mesurer l'audience et améliorer le Site ;</li>
+<li>[Si activés] Financer le Site par la publicité ;</li>
+<li>Répondre à vos messages et traiter vos demandes (accès, rectification, plainte).</li>
+</ul>
+<h2>4. Communication à des tiers et transferts hors Québec</h2>
+<ul>
+<li><strong>Hébergement et outils techniques</strong> : nos fournisseurs d'hébergement et de mesure d'audience peuvent traiter des renseignements techniques pour notre compte.</li>
+<li><strong>[Si AdSense/Analytics activés] Google</strong> : Google Ireland Ltd. / Google LLC (États-Unis) recueille des données via ses témoins à des fins de mesure d'audience et de publicité, y compris personnalisée. Ces données peuvent être <strong>transférées et traitées aux États-Unis</strong>. Pour en savoir plus : <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Politique de confidentialité de Google</a> et <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">comment Google utilise les données</a>. Vous pouvez désactiver la personnalisation des annonces dans vos <a href="https://adssettings.google.com/" target="_blank" rel="noopener">paramètres Google</a>.</li>
+<li>Nous ne vendons aucun renseignement personnel.</li>
+</ul>
+<h2>5. Conservation et sécurité</h2>
+<p>Les renseignements techniques sont conservés le temps nécessaire aux fins décrites (journaux : [durée, ex. 12 mois]). Nous appliquons des mesures de sécurité raisonnables (hébergement sécurisé, accès restreint, chiffrement des communications HTTPS). Aucune méthode n'est infaillible ; en cas d'incident de confidentialité présentant un risque sérieux, nous aviserons la Commission d'accès à l'information et les personnes concernées, conformément à la loi.</p>
+<h2>6. Vos droits</h2>
+<p>Conformément à la <em>Loi sur la protection des renseignements personnels dans le secteur privé</em> (Québec) :</p>
+<ul>
+<li><strong>Droit d'accès</strong> à vos renseignements personnels et <strong>droit de rectification</strong> ;</li>
+<li><strong>Droit de retirer votre consentement</strong> à tout moment ;</li>
+<li><strong>Droit de déposer une plainte</strong> relative au traitement de vos renseignements.</li>
+</ul>
+<p>Pour exercer ces droits, écrivez à notre responsable de la protection des renseignements personnels (voir section 7). Nous répondrons <strong>par écrit dans un délai maximal de 30 jours</strong>. Si vous êtes insatisfait de notre réponse, vous pouvez vous adresser à la <strong>Commission d'accès à l'information du Québec</strong> (cai.gouv.qc.ca).</p>
+<h2>7. Responsable de la protection des renseignements personnels</h2>
+<p><strong>[Nom]</strong> — [Titre]<br>Courriel : [courriel dédié, ex. : vieprivee@[domaine]]<br>[Téléphone / adresse postale — facultatif]</p>
+<h2>8. Modifications</h2>
+<p>Nous mettrons à jour la présente politique en cas de changement de nos pratiques (ex. : ajout de la mesure d'audience ou de la publicité). La date de dernière mise à jour figurera en tête du document.</p></div>
+      <div class="lang-divider lang-en" aria-hidden="true"><span>ENGLISH</span></div><div class="lang-divider lang-fr" aria-hidden="true"><span>ANGLAIS</span></div><div class="lang-en"><h1>HockeyDG.com Privacy Policy</h1>
+<p><strong>Last updated:</strong> [publication date]<br><strong>Effective:</strong> [launch date]</p>
+<p>HockeyDG.com (the "Site"), published by [company / publisher name] ("we"), is an online sports media outlet. This policy explains, in clear and simple terms, what personal information we collect, why, and what your rights are. It is separate from our Terms of Use.</p>
+<h2>1. Personal information we collect</h2>
+<p>The Site requires <strong>no account creation</strong> and currently operates <strong>no newsletter</strong>. We collect the following categories <strong>by technological means</strong>:</p>
+<table><thead><tr><th>Category</th><th>Examples</th><th>Means</th></tr></thead><tbody><tr><td>Technical browsing data</td><td>IP address, device and browser type, pages visited, date and time of visit, actions taken on the Site</td><td>Cookies and technical logs</td></tr><tr><td>Preferences</td><td>Language choice (French/English)</td><td>Session storage</td></tr><tr><td>Correspondence</td><td>Name and email address, message content</td><td>Email sent to our contact addresses</td></tr></tbody></table>
+<h2>2. Cookies</h2>
+<p>We use <strong>strictly necessary</strong> cookies for the Site to function (security, remembering your language and cookie choices). They do not require your consent but are described here for transparency.</p>
+<p><strong>If we enable analytics and/or advertising</strong> (e.g., Google Analytics, Google AdSense), the following categories will apply <strong>only after your consent</strong> collected via our banner:</p>
+<ul>
+<li><strong>Analytics</strong>: understanding Site traffic (page views, duration);</li>
+<li><strong>Advertising</strong>: displaying ads, including personalized ads based on your interests (advertising profiling).</li>
+</ul>
+<p>You may <strong>withdraw or change your consent at any time</strong> via the "Cookies" link in the footer. Refusing does not prevent access to the Site.</p>
+<h2>3. Purposes</h2>
+<ul>
+<li>Operating the Site and keeping it secure;</li>
+<li>Remembering your preferences (language);</li>
+<li>[If enabled] Measuring audience and improving the Site;</li>
+<li>[If enabled] Funding the Site through advertising;</li>
+<li>Responding to your messages and handling your requests (access, rectification, complaints).</li>
+</ul>
+<h2>4. Disclosure to third parties and transfers outside Quebec</h2>
+<ul>
+<li><strong>Hosting and technical tools</strong>: our hosting and analytics providers may process technical data on our behalf.</li>
+<li><strong>[If AdSense/Analytics enabled] Google</strong>: Google Ireland Ltd. / Google LLC (United States) collects data via its cookies for analytics and advertising purposes, including personalized advertising. This data may be <strong>transferred to and processed in the United States</strong>. Learn more: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">how Google uses data</a>. You can turn off ad personalization in your <a href="https://adssettings.google.com/" target="_blank" rel="noopener">Google settings</a>.</li>
+<li>We do not sell personal information.</li>
+</ul>
+<h2>5. Retention and security</h2>
+<p>Technical data is kept only as long as needed for the purposes described (logs: [duration, e.g. 12 months]). We apply reasonable security measures (secure hosting, restricted access, HTTPS encryption). No method is foolproof; in the event of a confidentiality incident posing a serious risk, we will notify the Commission d'accès à l'information and the individuals concerned, as required by law.</p>
+<h2>6. Your rights</h2>
+<p>Under Quebec's <em>Act respecting the protection of personal information in the private sector</em>:</p>
+<ul>
+<li><strong>Right of access</strong> to your personal information and <strong>right of rectification</strong>;</li>
+<li><strong>Right to withdraw your consent</strong> at any time;</li>
+<li><strong>Right to file a complaint</strong> about the handling of your information.</li>
+</ul>
+<p>To exercise these rights, contact our Personal Information Protection Officer (see section 7). We will respond <strong>in writing within 30 days</strong>. If you are dissatisfied with our response, you may contact the <strong>Commission d'accès à l'information du Québec</strong> (cai.gouv.qc.ca).</p>
+<h2>7. Personal Information Protection Officer</h2>
+<p><strong>[Name]</strong> — [Title]<br>Email: [dedicated email, e.g.: privacy@[domain]]<br>[Phone / mailing address — optional]</p>
+<h2>8. Changes</h2>
+<p>We will update this policy if our practices change (e.g., adding analytics or advertising). The last-updated date will appear at the top.</p></div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer-inner">
+      <div class="footer-brand">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="52" height="52" />
+        <div><strong>HockeyDG</strong><span class="lang-fr">Le hockey, mesuré autrement</span><span class="lang-en">Hockey, measured differently</span></div>
+      </div>
+      <nav class="footer-links" aria-label="Liens légaux / Legal links">
+        <a href="confidentialite.html"><span class="lang-fr">Confidentialité</span><span class="lang-en">Privacy</span></a>
+        <a href="conditions.html"><span class="lang-fr">Conditions d'utilisation</span><span class="lang-en">Terms of Use</span></a>
+        <a href="mentions-legales.html"><span class="lang-fr">Mentions légales</span><span class="lang-en">Legal Notice</span></a>
+        <a href="https://www.facebook.com/share/19nkBv9xJt/" target="_blank" rel="noopener">Facebook</a>
+      </nav>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookieBanner" role="dialog" aria-live="polite">
+    <p><strong class="lang-fr">Nous respectons votre vie privée.</strong><strong class="lang-en">We respect your privacy.</strong><br />
+    <span class="lang-fr">Nous utilisons des témoins strictement nécessaires au fonctionnement du site. La mesure d'audience et la publicité ne seront activées qu'avec votre consentement. <a href="confidentialite.html">En savoir plus</a></span><span class="lang-en">We use strictly necessary cookies for the site to operate. Analytics and advertising will only be enabled with your consent. <a href="confidentialite.html">Learn more</a></span></p>
+    <div class="cookie-actions">
+      <button class="cookie-btn cookie-accept" type="button" id="cookieAccept"><span class="lang-fr">Accepter</span><span class="lang-en">Accept</span></button>
+      <button class="cookie-btn cookie-decline" type="button" id="cookieDecline"><span class="lang-fr">Refuser</span><span class="lang-en">Decline</span></button>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    function getLang(){
+      try {
+        var q = new URLSearchParams(window.location.search).get('lang');
+        if (q === 'en' || q === 'fr') return q;
+      } catch(e) {}
+      return document.documentElement.lang === 'en' ? 'en' : 'fr';
+    }
+    function setLang(l){
+      document.documentElement.lang = l;
+      document.querySelectorAll('.lang-btn').forEach(function(b){
+        b.setAttribute('aria-pressed', b.dataset.lang === l ? 'true' : 'false');
+      });
+      var bh = document.getElementById('backHome');
+      var br = document.getElementById('brandHome');
+      if (bh) bh.href = 'index.html?lang=' + l;
+      if (br) br.href = 'index.html?lang=' + l;
+    }
+    var lang = getLang();
+    setLang(lang);
+    document.querySelectorAll('.lang-btn').forEach(function(b){
+      b.addEventListener('click', function(){
+        setLang(b.dataset.lang);
+        var u = new URL(window.location.href);
+        u.searchParams.set('lang', b.dataset.lang);
+        history.replaceState(null, '', u.toString());
+        propagateLang();
+      });
+    });
+    /* Conserver la langue dans les liens internes */
+    function propagateLang(){
+      var l = document.documentElement.lang === 'en' ? 'en' : 'fr';
+      document.querySelectorAll('a[href$=".html"]').forEach(function(a){
+        var href = a.getAttribute('href');
+        if (href && href.indexOf('?') === -1 && href.indexOf('://') === -1) {
+          a.setAttribute('href', href + '?lang=' + l);
+        }
+      });
+    }
+    propagateLang();
+    /* Bandeau témoins (Loi 25) */
+    var KEY = 'hdg-cookie-consent';
+    var banner = document.getElementById('cookieBanner');
+    function showBanner(){ banner.classList.add('show'); }
+    function hideBanner(v){ try { localStorage.setItem(KEY, v); } catch(e) {} banner.classList.remove('show'); }
+    var stored = null;
+    try { stored = localStorage.getItem(KEY); } catch(e) {}
+    if (!stored) { showBanner(); }
+    document.getElementById('cookieAccept').addEventListener('click', function(){ hideBanner('accepted'); });
+    document.getElementById('cookieDecline').addEventListener('click', function(){ hideBanner('declined'); });
+    window.hdgReopenCookies = function(){ showBanner(); };
+  })();
+  </script>
+</body>
+</html>

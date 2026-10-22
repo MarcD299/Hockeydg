@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light" />
+  <link rel="icon" type="image/webp" sizes="64x64" href="assets/hockeydg-logo-64.webp" />
+  <title>Mentions légales / Legal Notice | HockeyDG</title>
+  <meta name="description" content="Mentions légales, crédits et sources de HockeyDG.com. Legal notice, credits and sources." />
+  <meta name="robots" content="index,follow" />
+  <style>
+    :root {
+      color-scheme: light;
+      --paper:#f5f8fc; --surface:#ffffff; --surface-2:#eaf3fb;
+      --ink:#07152d; --muted:#465a75; --line:#b9cee3;
+      --red:#d7192d; --red-dark:#a80f24; --blue:#064a96;
+      --ice:#d8ebfa; --sky:#b9d8f2; --sky-soft:#edf6fd; --navy:#021b46;
+      --shadow:0 18px 50px rgba(4,25,37,.12);
+    }
+    * { box-sizing:border-box; }
+    html[lang="en"] .lang-fr { display:none; }
+    html[lang="fr"] .lang-en { display:none; }
+    body { margin:0; background:var(--paper); color:var(--ink);
+      font-family:"Source Sans 3",-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      font-size:1rem; line-height:1.6; }
+    .wrap { width:min(860px,calc(100% - 36px)); margin-inline:auto; }
+    /* En-tête */
+    .legal-header { background:var(--surface); border-bottom:4px solid var(--blue); }
+    .legal-header-inner { display:flex; align-items:center; gap:16px; padding:14px 0; flex-wrap:wrap; }
+    .legal-brand { display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--ink); margin-right:auto; }
+    .legal-brand img { width:56px; height:56px; border-radius:50%; }
+    .legal-brand strong { font-size:1.35rem; color:var(--navy); }
+    .legal-brand strong span { color:var(--red); }
+    .legal-brand small { display:block; color:var(--muted); font-size:.82rem; font-weight:400; }
+    .back-link { display:inline-block; padding:9px 18px; border-radius:999px; background:var(--surface-2);
+      color:var(--blue); font-weight:700; text-decoration:none; border:1px solid var(--line); }
+    .back-link:hover { background:var(--ice); }
+    .lang-switch { display:flex; gap:6px; }
+    .lang-btn { min-width:44px; min-height:38px; border:0; border-radius:999px; background:transparent;
+      color:var(--muted); font-weight:700; cursor:pointer; font-size:.95rem; padding:6px 12px; }
+    .lang-btn[aria-pressed="true"] { background:var(--blue); color:#fff; }
+    /* Contenu */
+    .legal-main { padding:34px 0 60px; }
+    .legal-card { background:var(--surface); border-radius:18px; box-shadow:var(--shadow);
+      padding:clamp(22px,4vw,44px); border:1px solid var(--line); }
+    .legal-card h1 { color:var(--navy); font-size:clamp(1.5rem,3.4vw,2.1rem); margin:0 0 6px;
+      padding-bottom:14px; border-bottom:3px solid var(--red); }
+    .legal-card h2 { color:var(--blue); font-size:1.18rem; margin:28px 0 8px; }
+    .legal-card h2::before { content:""; display:inline-block; width:8px; height:8px; border-radius:50%;
+      background:var(--red); margin-right:10px; vertical-align:2px; }
+    .legal-card p, .legal-card li { color:var(--ink); }
+    .legal-card ul, .legal-card ol { padding-left:22px; }
+    .legal-card li { margin:6px 0; }
+    .legal-card a { color:var(--blue); }
+    .legal-card table { width:100%; border-collapse:collapse; margin:16px 0; font-size:.93rem;
+      border-radius:12px; overflow:hidden; }
+    .legal-card th { background:var(--navy); color:#fff; text-align:left; padding:10px 12px; }
+    .legal-card td { padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+    .legal-card tr:nth-child(even) td { background:var(--sky-soft); }
+    .legal-card blockquote { background:var(--sky-soft); border-left:4px solid var(--blue);
+      border-radius:0 12px 12px 0; padding:12px 16px; margin:16px 0; color:var(--muted); }
+    .legal-card hr { border:0; border-top:1px solid var(--line); margin:26px 0; }
+    .legal-card code { background:var(--surface-2); padding:2px 7px; border-radius:8px; font-size:.88em; }
+    .update-note { color:var(--muted); font-size:.92rem; margin:0 0 20px; }
+    .lang-divider { display:flex; align-items:center; gap:14px; margin:44px 0 8px; }
+    .lang-divider::before, .lang-divider::after { content:""; flex:1; border-top:2px solid var(--line); }
+    .lang-divider span { background:var(--navy); color:#fff; font-weight:700; padding:8px 22px; border-radius:999px; }
+    /* Pied de page */
+    .site-footer { padding:26px 0; background:var(--navy); color:#fff; border-top:5px solid var(--red); }
+    .site-footer-inner { display:flex; flex-wrap:wrap; gap:14px 28px; align-items:center; justify-content:space-between; }
+    .footer-brand { display:flex; align-items:center; gap:12px; }
+    .footer-brand img { width:52px; height:52px; border-radius:50%; }
+    .footer-brand strong { display:block; font-size:1.1rem; }
+    .footer-brand span { font-size:.85rem; opacity:.8; }
+    .footer-links { display:flex; flex-wrap:wrap; gap:8px 20px; }
+    .footer-links a { color:#fff; text-decoration:none; font-size:.92rem; opacity:.92; }
+    .footer-links a:hover { text-decoration:underline; opacity:1; }
+    /* Bandeau témoins */
+    .cookie-banner { position:fixed; left:12px; right:12px; bottom:12px; z-index:9999;
+      background:var(--surface); border:1px solid var(--line); border-radius:16px;
+      box-shadow:var(--shadow); padding:16px 18px; display:none; }
+    .cookie-banner.show { display:block; }
+    .cookie-banner p { margin:0 0 12px; font-size:.92rem; color:var(--muted); }
+    .cookie-banner p strong { color:var(--ink); }
+    .cookie-actions { display:flex; gap:10px; flex-wrap:wrap; }
+    .cookie-btn { border:0; border-radius:999px; padding:10px 22px; font-weight:700; cursor:pointer; font-size:.95rem; }
+    .cookie-accept { background:var(--blue); color:#fff; }
+    .cookie-decline { background:var(--surface-2); color:var(--blue); border:1px solid var(--line); }
+    .cookie-link { background:none; border:0; color:var(--blue); text-decoration:underline; cursor:pointer; font-size:.9rem; padding:10px 6px; }
+    @media (max-width:640px) {
+      .legal-header-inner { gap:10px; }
+      .cookie-banner { left:8px; right:8px; bottom:8px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="legal-header">
+    <div class="wrap legal-header-inner">
+      <a class="legal-brand" href="index.html" id="brandHome">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="56" height="56" />
+        <span><strong>Hockey <span>DG</span></strong><small class="lang-fr">Le hockey, mesuré autrement</small><small class="lang-en">Hockey, measured differently</small></span>
+      </a>
+      <div class="lang-switch" role="group" aria-label="Langue / Language">
+        <button class="lang-btn" type="button" data-lang="fr" aria-pressed="true">FR</button>
+        <button class="lang-btn" type="button" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+      <a class="back-link" href="index.html" id="backHome"><span class="lang-fr">← Retour au site</span><span class="lang-en">← Back to site</span></a>
+    </div>
+  </header>
+
+  <main class="wrap legal-main">
+    <article class="legal-card">
+      <div class="lang-fr"><h1>Mentions légales et crédits — HockeyDG.com</h1>
+<blockquote>⚠️ <strong>Document de travail.</strong> À publier sur le site (page « Mentions légales » ou section du pied de page). Les éléments entre [crochets] sont à compléter par Marc. Au Canada/Québec, il n'existe pas d'obligation générale de « mentions légales » comme en France ; cette page regroupe par transparence l'identification de l'éditeur, les crédits et les informations juridiques utiles.</blockquote>
+<p><strong>Dernière mise à jour :</strong> [date]</p>
+<h2>1. Éditeur du site</h2>
+<p><strong>HockeyDG.com</strong> — média sportif en ligne (hockey).<br>Édité par : <strong>[nom de l'entreprise / nom de l'éditeur]</strong><br>[Forme juridique, ex. : entreprise individuelle enregistrée au Québec — NEQ : [numéro], si applicable]<br>Contact : [courriel] · [téléphone, facultatif] · [adresse, facultatif]</p>
+<p><strong>Responsable de la protection des renseignements personnels :</strong> [nom] — [courriel dédié]<br><strong>Responsable de la publication :</strong> [nom]</p>
+<h2>2. Hébergement</h2>
+<p>[Nom de l'hébergeur] — [adresse / site web de l'hébergeur]</p>
+<h2>3. Propriété intellectuelle</h2>
+<p>Les textes, analyses et la présentation originale de HockeyDG.com sont la propriété de [nom de l'éditeur], sauf mention contraire. Toute reproduction sans autorisation écrite est interdite, sous réserve des exceptions de la <em>Loi sur le droit d'auteur</em> (Canada). Voir nos conditions d'utilisation.</p>
+<h2>4. Crédits photographiques</h2>
+<p>Les photographies illustrant HockeyDG.com proviennent de :</p>
+<ul>
+<li><strong>Wikimedia Commons</strong> — photos sous licences libres Creative Commons (CC BY, CC BY-SA) ou dans le domaine public. Chaque photo est créditée individuellement (photographe, licence, lien vers la source) conformément aux conditions de sa licence.</li>
+<li><strong>Getty Images</strong> — photos intégrées via le lecteur officiel « Embed from Getty Images », pour un usage éditorial, avec crédit automatique du photographe et lien vers Getty Images, conformément aux conditions d'utilisation de Getty Images.</li>
+</ul>
+<p>Il est interdit de copier ou de réutiliser les images à partir du site.</p>
+<h2>5. Sources des données sportives</h2>
+<p>Les résultats, classements, statistiques et calendriers sont compilés à partir de sources officielles, notamment :</p>
+<ul>
+<li><strong>LNH</strong> — API officielle (api-web.nhle.com) ;</li>
+<li><strong>LHJMQ, OHL, WHL, LAH, PWHL</strong> — données officielles via HockeyTech / LeagueStat ;</li>
+<li><strong>Liiga (Finlande)</strong> — liiga.fi ;</li>
+<li><strong>KHL</strong> — données officielles ;</li>
+<li><strong>SHL, National League (Suisse), NCAA</strong> — sources officielles et partenaires agréés.</li>
+</ul>
+<p>Les données brutes (scores, faits de match) sont des faits publics ; leur présentation sur HockeyDG.com est originale. Les sources sont mentionnées dans les sections concernées.</p>
+<h2>6. Publicité et mesure d'audience</h2>
+<p>[Si applicable au moment de la publication — sinon supprimer ce paragraphe :]<br>Le site affiche des publicités fournies par des tiers (Google AdSense) et peut utiliser des outils de mesure d'audience. Voir notre politique de confidentialité pour le détail des témoins utilisés et la gestion de votre consentement.</p>
+<h2>7. Droit applicable</h2>
+<p>Le site est édité au Québec, Canada. Il est soumis aux lois du Québec et aux lois fédérales canadiennes applicables, notamment la <em>Loi sur la protection des renseignements personnels dans le secteur privé</em> (Loi 25) et la <em>Loi sur le droit d'auteur</em>.</p>
+<h2>8. Signalement</h2>
+<p>Pour signaler une erreur, une photo dont vous détenez les droits, ou exercer vos droits (accès, rectification, plainte) : [courriel de contact] — réponse sous 30 jours pour les demandes liées aux renseignements personnels.</p></div>
+      <div class="lang-divider lang-en" aria-hidden="true"><span>ENGLISH</span></div><div class="lang-divider lang-fr" aria-hidden="true"><span>ANGLAIS</span></div><div class="lang-en"><h1>Legal Notice — HockeyDG.com</h1>
+<p><strong>Last updated:</strong> [date]</p>
+<hr>
+<h2>1. Site publisher</h2>
+<p><strong>HockeyDG.com</strong> — online sports media (hockey).<br>Published by: <strong>[company / publisher name]</strong><br>[Legal form, e.g.: sole proprietorship registered in Quebec — NEQ: [number], if applicable]<br>Contact: [email] · [phone, optional] · [address, optional]</p>
+<p><strong>Personal Information Protection Officer:</strong> [name] — [dedicated email]<br><strong>Publication manager:</strong> [name]</p>
+<h2>2. Hosting</h2>
+<p>[Host name] — [host address / website]</p>
+<h2>3. Intellectual property</h2>
+<p>The texts, analysis and original layout of HockeyDG.com are the property of [publisher name], unless stated otherwise. Any reproduction without written permission is prohibited, subject to the exceptions under Canada's <em>Copyright Act</em>. See our Terms of Use.</p>
+<h2>4. Photo credits</h2>
+<p>The photographs illustrating HockeyDG.com come from:</p>
+<ul>
+<li><strong>Wikimedia Commons</strong> — photos under free Creative Commons licences (CC BY, CC BY-SA) or in the public domain. Each photo is credited individually (photographer, licence, link to the source) in accordance with its licence terms.</li>
+<li><strong>Getty Images</strong> — photos embedded via the official "Embed from Getty Images" player, for editorial use, with automatic photographer credit and a link to Getty Images, in accordance with Getty Images' terms of use.</li>
+</ul>
+<p>Copying or reusing images from the site is prohibited.</p>
+<h2>5. Sports data sources</h2>
+<p>Scores, standings, statistics and schedules are compiled from official sources, including:</p>
+<ul>
+<li><strong>NHL</strong> — official API (api-web.nhle.com);</li>
+<li><strong>QMJHL, OHL, WHL, AHL, PWHL</strong> — official data via HockeyTech / LeagueStat;</li>
+<li><strong>Liiga (Finland)</strong> — liiga.fi;</li>
+<li><strong>KHL</strong> — official data;</li>
+<li><strong>SHL, National League (Switzerland), NCAA</strong> — official sources and licensed partners.</li>
+</ul>
+<p>Raw data (scores, game facts) are public facts; their presentation on HockeyDG.com is original. Sources are mentioned in the relevant sections.</p>
+<h2>6. Advertising and audience measurement</h2>
+<p>[If applicable at the time of publication — otherwise delete this paragraph:]<br>The site displays advertisements provided by third parties (Google AdSense) and may use audience measurement tools. See our Privacy Policy for details on the cookies used and how to manage your consent.</p>
+<h2>7. Governing law</h2>
+<p>The site is published in Quebec, Canada. It is subject to the laws of Quebec and applicable federal Canadian laws, including the <em>Act respecting the protection of personal information in the private sector</em> (Law 25) and the <em>Copyright Act</em>.</p>
+<h2>8. Reporting</h2>
+<p>To report an error, a photo you hold the rights to, or to exercise your rights (access, rectification, complaint): [contact email] — response within 30 days for personal information requests.</p></div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer-inner">
+      <div class="footer-brand">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="52" height="52" />
+        <div><strong>HockeyDG</strong><span class="lang-fr">Le hockey, mesuré autrement</span><span class="lang-en">Hockey, measured differently</span></div>
+      </div>
+      <nav class="footer-links" aria-label="Liens légaux / Legal links">
+        <a href="confidentialite.html"><span class="lang-fr">Confidentialité</span><span class="lang-en">Privacy</span></a>
+        <a href="conditions.html"><span class="lang-fr">Conditions d'utilisation</span><span class="lang-en">Terms of Use</span></a>
+        <a href="mentions-legales.html"><span class="lang-fr">Mentions légales</span><span class="lang-en">Legal Notice</span></a>
+        <a href="https://www.facebook.com/share/19nkBv9xJt/" target="_blank" rel="noopener">Facebook</a>
+      </nav>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookieBanner" role="dialog" aria-live="polite">
+    <p><strong class="lang-fr">Nous respectons votre vie privée.</strong><strong class="lang-en">We respect your privacy.</strong><br />
+    <span class="lang-fr">Nous utilisons des témoins strictement nécessaires au fonctionnement du site. La mesure d'audience et la publicité ne seront activées qu'avec votre consentement. <a href="confidentialite.html">En savoir plus</a></span><span class="lang-en">We use strictly necessary cookies for the site to operate. Analytics and advertising will only be enabled with your consent. <a href="confidentialite.html">Learn more</a></span></p>
+    <div class="cookie-actions">
+      <button class="cookie-btn cookie-accept" type="button" id="cookieAccept"><span class="lang-fr">Accepter</span><span class="lang-en">Accept</span></button>
+      <button class="cookie-btn cookie-decline" type="button" id="cookieDecline"><span class="lang-fr">Refuser</span><span class="lang-en">Decline</span></button>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    function getLang(){
+      try {
+        var q = new URLSearchParams(window.location.search).get('lang');
+        if (q === 'en' || q === 'fr') return q;
+      } catch(e) {}
+      return document.documentElement.lang === 'en' ? 'en' : 'fr';
+    }
+    function setLang(l){
+      document.documentElement.lang = l;
+      document.querySelectorAll('.lang-btn').forEach(function(b){
+        b.setAttribute('aria-pressed', b.dataset.lang === l ? 'true' : 'false');
+      });
+      var bh = document.getElementById('backHome');
+      var br = document.getElementById('brandHome');
+      if (bh) bh.href = 'index.html?lang=' + l;
+      if (br) br.href = 'index.html?lang=' + l;
+    }
+    var lang = getLang();
+    setLang(lang);
+    document.querySelectorAll('.lang-btn').forEach(function(b){
+      b.addEventListener('click', function(){
+        setLang(b.dataset.lang);
+        var u = new URL(window.location.href);
+        u.searchParams.set('lang', b.dataset.lang);
+        history.replaceState(null, '', u.toString());
+        propagateLang();
+      });
+    });
+    /* Conserver la langue dans les liens internes */
+    function propagateLang(){
+      var l = document.documentElement.lang === 'en' ? 'en' : 'fr';
+      document.querySelectorAll('a[href$=".html"]').forEach(function(a){
+        var href = a.getAttribute('href');
+        if (href && href.indexOf('?') === -1 && href.indexOf('://') === -1) {
+          a.setAttribute('href', href + '?lang=' + l);
+        }
+      });
+    }
+    propagateLang();
+    /* Bandeau témoins (Loi 25) */
+    var KEY = 'hdg-cookie-consent';
+    var banner = document.getElementById('cookieBanner');
+    function showBanner(){ banner.classList.add('show'); }
+    function hideBanner(v){ try { localStorage.setItem(KEY, v); } catch(e) {} banner.classList.remove('show'); }
+    var stored = null;
+    try { stored = localStorage.getItem(KEY); } catch(e) {}
+    if (!stored) { showBanner(); }
+    document.getElementById('cookieAccept').addEventListener('click', function(){ hideBanner('accepted'); });
+    document.getElementById('cookieDecline').addEventListener('click', function(){ hideBanner('declined'); });
+    window.hdgReopenCookies = function(){ showBanner(); };
+  })();
+  </script>
+</body>
+</html>

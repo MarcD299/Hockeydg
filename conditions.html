@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light" />
+  <link rel="icon" type="image/webp" sizes="64x64" href="assets/hockeydg-logo-64.webp" />
+  <title>Conditions d'utilisation / Terms of Use | HockeyDG</title>
+  <meta name="description" content="Conditions d'utilisation de HockeyDG.com. Terms of Use." />
+  <meta name="robots" content="index,follow" />
+  <style>
+    :root {
+      color-scheme: light;
+      --paper:#f5f8fc; --surface:#ffffff; --surface-2:#eaf3fb;
+      --ink:#07152d; --muted:#465a75; --line:#b9cee3;
+      --red:#d7192d; --red-dark:#a80f24; --blue:#064a96;
+      --ice:#d8ebfa; --sky:#b9d8f2; --sky-soft:#edf6fd; --navy:#021b46;
+      --shadow:0 18px 50px rgba(4,25,37,.12);
+    }
+    * { box-sizing:border-box; }
+    html[lang="en"] .lang-fr { display:none; }
+    html[lang="fr"] .lang-en { display:none; }
+    body { margin:0; background:var(--paper); color:var(--ink);
+      font-family:"Source Sans 3",-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      font-size:1rem; line-height:1.6; }
+    .wrap { width:min(860px,calc(100% - 36px)); margin-inline:auto; }
+    /* En-tête */
+    .legal-header { background:var(--surface); border-bottom:4px solid var(--blue); }
+    .legal-header-inner { display:flex; align-items:center; gap:16px; padding:14px 0; flex-wrap:wrap; }
+    .legal-brand { display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--ink); margin-right:auto; }
+    .legal-brand img { width:56px; height:56px; border-radius:50%; }
+    .legal-brand strong { font-size:1.35rem; color:var(--navy); }
+    .legal-brand strong span { color:var(--red); }
+    .legal-brand small { display:block; color:var(--muted); font-size:.82rem; font-weight:400; }
+    .back-link { display:inline-block; padding:9px 18px; border-radius:999px; background:var(--surface-2);
+      color:var(--blue); font-weight:700; text-decoration:none; border:1px solid var(--line); }
+    .back-link:hover { background:var(--ice); }
+    .lang-switch { display:flex; gap:6px; }
+    .lang-btn { min-width:44px; min-height:38px; border:0; border-radius:999px; background:transparent;
+      color:var(--muted); font-weight:700; cursor:pointer; font-size:.95rem; padding:6px 12px; }
+    .lang-btn[aria-pressed="true"] { background:var(--blue); color:#fff; }
+    /* Contenu */
+    .legal-main { padding:34px 0 60px; }
+    .legal-card { background:var(--surface); border-radius:18px; box-shadow:var(--shadow);
+      padding:clamp(22px,4vw,44px); border:1px solid var(--line); }
+    .legal-card h1 { color:var(--navy); font-size:clamp(1.5rem,3.4vw,2.1rem); margin:0 0 6px;
+      padding-bottom:14px; border-bottom:3px solid var(--red); }
+    .legal-card h2 { color:var(--blue); font-size:1.18rem; margin:28px 0 8px; }
+    .legal-card h2::before { content:""; display:inline-block; width:8px; height:8px; border-radius:50%;
+      background:var(--red); margin-right:10px; vertical-align:2px; }
+    .legal-card p, .legal-card li { color:var(--ink); }
+    .legal-card ul, .legal-card ol { padding-left:22px; }
+    .legal-card li { margin:6px 0; }
+    .legal-card a { color:var(--blue); }
+    .legal-card table { width:100%; border-collapse:collapse; margin:16px 0; font-size:.93rem;
+      border-radius:12px; overflow:hidden; }
+    .legal-card th { background:var(--navy); color:#fff; text-align:left; padding:10px 12px; }
+    .legal-card td { padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+    .legal-card tr:nth-child(even) td { background:var(--sky-soft); }
+    .legal-card blockquote { background:var(--sky-soft); border-left:4px solid var(--blue);
+      border-radius:0 12px 12px 0; padding:12px 16px; margin:16px 0; color:var(--muted); }
+    .legal-card hr { border:0; border-top:1px solid var(--line); margin:26px 0; }
+    .legal-card code { background:var(--surface-2); padding:2px 7px; border-radius:8px; font-size:.88em; }
+    .update-note { color:var(--muted); font-size:.92rem; margin:0 0 20px; }
+    .lang-divider { display:flex; align-items:center; gap:14px; margin:44px 0 8px; }
+    .lang-divider::before, .lang-divider::after { content:""; flex:1; border-top:2px solid var(--line); }
+    .lang-divider span { background:var(--navy); color:#fff; font-weight:700; padding:8px 22px; border-radius:999px; }
+    /* Pied de page */
+    .site-footer { padding:26px 0; background:var(--navy); color:#fff; border-top:5px solid var(--red); }
+    .site-footer-inner { display:flex; flex-wrap:wrap; gap:14px 28px; align-items:center; justify-content:space-between; }
+    .footer-brand { display:flex; align-items:center; gap:12px; }
+    .footer-brand img { width:52px; height:52px; border-radius:50%; }
+    .footer-brand strong { display:block; font-size:1.1rem; }
+    .footer-brand span { font-size:.85rem; opacity:.8; }
+    .footer-links { display:flex; flex-wrap:wrap; gap:8px 20px; }
+    .footer-links a { color:#fff; text-decoration:none; font-size:.92rem; opacity:.92; }
+    .footer-links a:hover { text-decoration:underline; opacity:1; }
+    /* Bandeau témoins */
+    .cookie-banner { position:fixed; left:12px; right:12px; bottom:12px; z-index:9999;
+      background:var(--surface); border:1px solid var(--line); border-radius:16px;
+      box-shadow:var(--shadow); padding:16px 18px; display:none; }
+    .cookie-banner.show { display:block; }
+    .cookie-banner p { margin:0 0 12px; font-size:.92rem; color:var(--muted); }
+    .cookie-banner p strong { color:var(--ink); }
+    .cookie-actions { display:flex; gap:10px; flex-wrap:wrap; }
+    .cookie-btn { border:0; border-radius:999px; padding:10px 22px; font-weight:700; cursor:pointer; font-size:.95rem; }
+    .cookie-accept { background:var(--blue); color:#fff; }
+    .cookie-decline { background:var(--surface-2); color:var(--blue); border:1px solid var(--line); }
+    .cookie-link { background:none; border:0; color:var(--blue); text-decoration:underline; cursor:pointer; font-size:.9rem; padding:10px 6px; }
+    @media (max-width:640px) {
+      .legal-header-inner { gap:10px; }
+      .cookie-banner { left:8px; right:8px; bottom:8px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="legal-header">
+    <div class="wrap legal-header-inner">
+      <a class="legal-brand" href="index.html" id="brandHome">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="56" height="56" />
+        <span><strong>Hockey <span>DG</span></strong><small class="lang-fr">Le hockey, mesuré autrement</small><small class="lang-en">Hockey, measured differently</small></span>
+      </a>
+      <div class="lang-switch" role="group" aria-label="Langue / Language">
+        <button class="lang-btn" type="button" data-lang="fr" aria-pressed="true">FR</button>
+        <button class="lang-btn" type="button" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+      <a class="back-link" href="index.html" id="backHome"><span class="lang-fr">← Retour au site</span><span class="lang-en">← Back to site</span></a>
+    </div>
+  </header>
+
+  <main class="wrap legal-main">
+    <article class="legal-card">
+      <div class="lang-fr"><h1>Conditions d'utilisation de HockeyDG.com</h1>
+<p><strong>Dernière mise à jour :</strong> [date de publication]</p>
+<p>En accédant à HockeyDG.com (le « Site »), édité par [nom de l'entreprise / nom de l'éditeur], vous acceptez les présentes conditions. Si vous n'êtes pas d'accord, veuillez ne pas utiliser le Site.</p>
+<h2>1. Objet du Site</h2>
+<p>HockeyDG.com est un média sportif en ligne proposant des articles d'actualité, des statistiques, des classements et des fiches sur le hockey (LNH, PWHL, LAH, LHJMQ, OHL, WHL, KHL, SHL, Liiga, National League, NCAA, compétitions IIHF). Le Site est offert en français et en anglais.</p>
+<h2>2. Exactitude de l'information</h2>
+<p>Nous nous efforçons de publier des informations exactes et vérifiées (nos articles s'appuient sur des sources crédibles ou des annonces officielles). Toutefois :</p>
+<ul>
+<li>les données sportives (résultats, statistiques, alignements) sont fournies <strong>à titre informatif</strong> et peuvent comporter des erreurs ou des délais de mise à jour ;</li>
+<li>les projections (gardiens partants « projetés », analyses) ne constituent pas des faits confirmés ;</li>
+<li>nous corrigeons rapidement les erreurs portées à notre connaissance : signalez-les à [courriel de contact].</li>
+</ul>
+<h2>3. Propriété intellectuelle</h2>
+<ul>
+<li>Les <strong>textes, analyses et la présentation</strong> du Site sont la propriété de [nom de l'éditeur], sauf mention contraire. Toute reproduction, même partielle, sans autorisation écrite est interdite, sous réserve des exceptions prévues par la <em>Loi sur le droit d'auteur</em> (Canada), notamment l'utilisation équitable avec mention de la source et de l'auteur.</li>
+<li>Les <strong>photographies</strong> appartiennent à leurs auteurs respectifs : photos sous licences Creative Commons (crédits affichés avec chaque photo) et photos intégrées via Getty Images (usage éditorial). Il est interdit de copier ou de réutiliser ces images à partir du Site.</li>
+<li>Les <strong>noms d'équipes, logos et marques</strong> appartiennent à leurs détenteurs respectifs et sont utilisés à des fins informatives et éditoriales (identification).</li>
+<li>Les <strong>données statistiques brutes</strong> (scores, classements) sont des faits publics ; leur présentation originale sur le Site demeure protégée.</li>
+</ul>
+<h2>4. Utilisation acceptable</h2>
+<p>Vous vous engagez à ne pas :</p>
+<ul>
+<li>perturber le fonctionnement du Site (tentatives d'intrusion, surcharge, extraction automatisée massive de données) ;</li>
+<li>utiliser le contenu du Site à des fins illégales, diffamatoires ou trompeuses ;</li>
+<li>contourner les mesures techniques de protection.</li>
+</ul>
+<h2>5. Liens externes</h2>
+<p>Le Site contient des liens vers des sites tiers (sources officielles, ligues, médias). Nous n'exerçons aucun contrôle sur ces sites et déclinons toute responsabilité quant à leur contenu.</p>
+<h2>6. Publicité</h2>
+<p>Le Site peut afficher des publicités fournies par des tiers (ex. : Google AdSense). Nous ne contrôlons pas le contenu de ces annonces. Voir notre politique de confidentialité pour l'usage des témoins publicitaires.</p>
+<h2>7. Limitation de responsabilité</h2>
+<p>Le Site est fourni « tel quel ». Dans les limites permises par la loi, [nom de l'éditeur] ne saurait être tenu responsable des dommages directs ou indirects résultant de l'utilisation du Site ou de l'impossibilité d'y accéder. Aucune disposition des présentes ne limite les droits que la loi vous reconnaît en tant que consommateur.</p>
+<h2>8. Droit applicable</h2>
+<p>Les présentes conditions sont régies par les lois du <strong>Québec</strong> et les lois fédérales du Canada applicables. Tout litige relève des tribunaux compétents du district judiciaire de [district, ex. : Québec].</p>
+<h2>9. Modifications</h2>
+<p>Nous pouvons modifier les présentes conditions ; la version en vigueur est celle publiée sur le Site, avec sa date de mise à jour.</p>
+<h2>10. Contact</h2>
+<p>[Nom de l'éditeur] — [courriel de contact] — [adresse postale, facultatif]</p></div>
+      <div class="lang-divider lang-en" aria-hidden="true"><span>ENGLISH</span></div><div class="lang-divider lang-fr" aria-hidden="true"><span>ANGLAIS</span></div><div class="lang-en"><h1>HockeyDG.com Terms of Use</h1>
+<p><strong>Last updated:</strong> [publication date]</p>
+<p>By accessing HockeyDG.com (the "Site"), published by [company / publisher name], you agree to these terms. If you do not agree, please do not use the Site.</p>
+<h2>1. Purpose of the Site</h2>
+<p>HockeyDG.com is an online sports media outlet offering news articles, statistics, standings and profiles on hockey (NHL, PWHL, AHL, QMJHL, OHL, WHL, KHL, SHL, Liiga, National League, NCAA, IIHF competitions). The Site is offered in French and English.</p>
+<h2>2. Accuracy of information</h2>
+<p>We strive to publish accurate, verified information (our articles rely on credible sources or official announcements). However:</p>
+<ul>
+<li>sports data (scores, statistics, lineups) is provided <strong>for informational purposes</strong> and may contain errors or update delays;</li>
+<li>projections ("projected" starting goalies, analysis) are not confirmed facts;</li>
+<li>we promptly correct errors brought to our attention: report them to [contact email].</li>
+</ul>
+<h2>3. Intellectual property</h2>
+<ul>
+<li>The Site's <strong>texts, analysis and layout</strong> are the property of [publisher name], unless stated otherwise. Any reproduction, even partial, without written permission is prohibited, subject to exceptions under Canada's <em>Copyright Act</em>, including fair dealing with attribution of source and author.</li>
+<li><strong>Photographs</strong> belong to their respective authors: photos under Creative Commons licences (credits shown with each photo) and photos embedded via Getty Images (editorial use). Copying or reusing these images from the Site is prohibited.</li>
+<li><strong>Team names, logos and trademarks</strong> belong to their respective owners and are used for informational and editorial purposes (identification).</li>
+<li>Raw <strong>statistical data</strong> (scores, standings) are public facts; their original presentation on the Site remains protected.</li>
+</ul>
+<h2>4. Acceptable use</h2>
+<p>You agree not to:</p>
+<ul>
+<li>disrupt the operation of the Site (intrusion attempts, overloading, large-scale automated data scraping);</li>
+<li>use the Site's content for illegal, defamatory or misleading purposes;</li>
+<li>circumvent technical protection measures.</li>
+</ul>
+<h2>5. External links</h2>
+<p>The Site contains links to third-party websites (official sources, leagues, media). We exercise no control over these sites and accept no responsibility for their content.</p>
+<h2>6. Advertising</h2>
+<p>The Site may display advertisements provided by third parties (e.g., Google AdSense). We do not control the content of these ads. See our Privacy Policy for the use of advertising cookies.</p>
+<h2>7. Limitation of liability</h2>
+<p>The Site is provided "as is". To the extent permitted by law, [publisher name] shall not be liable for direct or indirect damages arising from use of the Site or inability to access it. Nothing herein limits the rights the law grants you as a consumer.</p>
+<h2>8. Governing law</h2>
+<p>These terms are governed by the laws of <strong>Quebec</strong> and applicable federal laws of Canada. Any dispute falls under the competent courts of the judicial district of [district, e.g.: Québec].</p>
+<h2>9. Changes</h2>
+<p>We may modify these terms; the current version is the one published on the Site, with its update date.</p>
+<h2>10. Contact</h2>
+<p>[Publisher name] — [contact email] — [mailing address, optional]</p></div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer-inner">
+      <div class="footer-brand">
+        <img src="assets/hockeydg-logo-128.webp" alt="Logo HockeyDG" width="52" height="52" />
+        <div><strong>HockeyDG</strong><span class="lang-fr">Le hockey, mesuré autrement</span><span class="lang-en">Hockey, measured differently</span></div>
+      </div>
+      <nav class="footer-links" aria-label="Liens légaux / Legal links">
+        <a href="confidentialite.html"><span class="lang-fr">Confidentialité</span><span class="lang-en">Privacy</span></a>
+        <a href="conditions.html"><span class="lang-fr">Conditions d'utilisation</span><span class="lang-en">Terms of Use</span></a>
+        <a href="mentions-legales.html"><span class="lang-fr">Mentions légales</span><span class="lang-en">Legal Notice</span></a>
+        <a href="https://www.facebook.com/share/19nkBv9xJt/" target="_blank" rel="noopener">Facebook</a>
+      </nav>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookieBanner" role="dialog" aria-live="polite">
+    <p><strong class="lang-fr">Nous respectons votre vie privée.</strong><strong class="lang-en">We respect your privacy.</strong><br />
+    <span class="lang-fr">Nous utilisons des témoins strictement nécessaires au fonctionnement du site. La mesure d'audience et la publicité ne seront activées qu'avec votre consentement. <a href="confidentialite.html">En savoir plus</a></span><span class="lang-en">We use strictly necessary cookies for the site to operate. Analytics and advertising will only be enabled with your consent. <a href="confidentialite.html">Learn more</a></span></p>
+    <div class="cookie-actions">
+      <button class="cookie-btn cookie-accept" type="button" id="cookieAccept"><span class="lang-fr">Accepter</span><span class="lang-en">Accept</span></button>
+      <button class="cookie-btn cookie-decline" type="button" id="cookieDecline"><span class="lang-fr">Refuser</span><span class="lang-en">Decline</span></button>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    function getLang(){
+      try {
+        var q = new URLSearchParams(window.location.search).get('lang');
+        if (q === 'en' || q === 'fr') return q;
+      } catch(e) {}
+      return document.documentElement.lang === 'en' ? 'en' : 'fr';
+    }
+    function setLang(l){
+      document.documentElement.lang = l;
+      document.querySelectorAll('.lang-btn').forEach(function(b){
+        b.setAttribute('aria-pressed', b.dataset.lang === l ? 'true' : 'false');
+      });
+      var bh = document.getElementById('backHome');
+      var br = document.getElementById('brandHome');
+      if (bh) bh.href = 'index.html?lang=' + l;
+      if (br) br.href = 'index.html?lang=' + l;
+    }
+    var lang = getLang();
+    setLang(lang);
+    document.querySelectorAll('.lang-btn').forEach(function(b){
+      b.addEventListener('click', function(){
+        setLang(b.dataset.lang);
+        var u = new URL(window.location.href);
+        u.searchParams.set('lang', b.dataset.lang);
+        history.replaceState(null, '', u.toString());
+        propagateLang();
+      });
+    });
+    /* Conserver la langue dans les liens internes */
+    function propagateLang(){
+      var l = document.documentElement.lang === 'en' ? 'en' : 'fr';
+      document.querySelectorAll('a[href$=".html"]').forEach(function(a){
+        var href = a.getAttribute('href');
+        if (href && href.indexOf('?') === -1 && href.indexOf('://') === -1) {
+          a.setAttribute('href', href + '?lang=' + l);
+        }
+      });
+    }
+    propagateLang();
+    /* Bandeau témoins (Loi 25) */
+    var KEY = 'hdg-cookie-consent';
+    var banner = document.getElementById('cookieBanner');
+    function showBanner(){ banner.classList.add('show'); }
+    function hideBanner(v){ try { localStorage.setItem(KEY, v); } catch(e) {} banner.classList.remove('show'); }
+    var stored = null;
+    try { stored = localStorage.getItem(KEY); } catch(e) {}
+    if (!stored) { showBanner(); }
+    document.getElementById('cookieAccept').addEventListener('click', function(){ hideBanner('accepted'); });
+    document.getElementById('cookieDecline').addEventListener('click', function(){ hideBanner('declined'); });
+    window.hdgReopenCookies = function(){ showBanner(); };
+  })();
+  </script>
+</body>
+</html>
