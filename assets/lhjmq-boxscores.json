@@ -1,6 +1,6 @@
 {
  "ligue": "LHJMQ",
- "date_donnees": "2026-10-21",
+ "date_donnees": "2026-10-22",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "33077": {
@@ -2668,7 +2668,7 @@
     "visiting_audio_url_fr": "https://www.fm1069.ca/",
     "tickets_url": "https://www.ticketmaster.ca/halifax-mooseheads-tickets/artist/927104?home_away=home",
     "tickets_url_fr": "https://www.ticketmaster.ca/halifax-mooseheads-tickets/artist/927104?home_away=home",
-    "last_modified": "2026-10-19 00:29:16",
+    "last_modified": "2026-10-21 11:23:31",
     "watch_now_url": "",
     "watch_now_droid_url": "",
     "visiting_goals_actual": "3",
@@ -10603,7 +10603,7 @@
     "visiting_audio_url_fr": "https://stream.statsradio.com:8110/stream",
     "tickets_url": "https://ledrakkar.ticketacces.net/fr/organisation/index.cfm",
     "tickets_url_fr": "https://ledrakkar.ticketacces.net/fr/organisation/index.cfm",
-    "last_modified": "2026-10-19 00:57:08",
+    "last_modified": "2026-10-21 11:26:05",
     "watch_now_url": "",
     "watch_now_droid_url": "",
     "visiting_goals_actual": "3",
