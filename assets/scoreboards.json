@@ -1,38 +1,4 @@
 {
- "2026-10-16": [
-  {
-   "gameId": 2026020119,
-   "date": "2026-10-16",
-   "status": "FINAL",
-   "away": "PIT",
-   "awayScore": 2,
-   "home": "COL",
-   "homeScore": 5,
-   "venue": "Ball Arena",
-   "broadcasts": [
-    "SN+",
-    "TVAS",
-    "SN-PIT",
-    "ALT",
-    "KTVD"
-   ]
-  },
-  {
-   "gameId": 2026020120,
-   "date": "2026-10-16",
-   "status": "FINAL",
-   "away": "BOS",
-   "awayScore": 4,
-   "home": "ANA",
-   "homeScore": 2,
-   "venue": "Honda Center",
-   "broadcasts": [
-    "FOXLA+",
-    "Prime Video",
-    "NESN"
-   ]
-  }
- ],
  "2026-10-17": [
   {
    "gameId": 2026020121,
@@ -725,11 +691,11 @@
   {
    "gameId": 2026020166,
    "date": "2026-10-23",
-   "status": "20:00 HE",
+   "status": "FINAL",
    "away": "MTL",
-   "awayScore": null,
+   "awayScore": 4,
    "home": "CHI",
-   "homeScore": null,
+   "homeScore": 1,
    "venue": "United Center",
    "broadcasts": [
     "NHLN",
@@ -741,11 +707,11 @@
   {
    "gameId": 2026020167,
    "date": "2026-10-23",
-   "status": "21:00 HE",
+   "status": "FINAL",
    "away": "TBL",
-   "awayScore": null,
+   "awayScore": 3,
    "home": "COL",
-   "homeScore": null,
+   "homeScore": 6,
    "venue": "Ball Arena",
    "broadcasts": [
     "SN360",
@@ -785,6 +751,7 @@
    "broadcasts": [
     "ABTV ",
     "SN",
+    "SN1",
     "MSGSN"
    ]
   },
@@ -1502,6 +1469,153 @@
     "SN360",
     "Prime Video",
     "KONG"
+   ]
+  }
+ ],
+ "2026-10-31": [
+  {
+   "gameId": 2026020217,
+   "date": "2026-10-31",
+   "status": "13:00 HE",
+   "away": "CHI",
+   "awayScore": null,
+   "home": "BOS",
+   "homeScore": null,
+   "venue": "TD Garden",
+   "broadcasts": [
+    "SN1",
+    "CHSN",
+    "NESN"
+   ]
+  },
+  {
+   "gameId": 2026020218,
+   "date": "2026-10-31",
+   "status": "13:00 HE",
+   "away": "STL",
+   "awayScore": null,
+   "home": "DET",
+   "homeScore": null,
+   "venue": "Little Caesars Arena",
+   "broadcasts": [
+    "DSN",
+    "STLNHL",
+    "BN+"
+   ]
+  },
+  {
+   "gameId": 2026020219,
+   "date": "2026-10-31",
+   "status": "14:00 HE",
+   "away": "TBL",
+   "awayScore": null,
+   "home": "NSH",
+   "homeScore": null,
+   "venue": "Bridgestone Arena",
+   "broadcasts": [
+    "The Spot",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020220,
+   "date": "2026-10-31",
+   "status": "14:00 HE",
+   "away": "EDM",
+   "awayScore": null,
+   "home": "NYI",
+   "homeScore": null,
+   "venue": "UBS Arena",
+   "broadcasts": [
+    "SN",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020221,
+   "date": "2026-10-31",
+   "status": "16:00 HE",
+   "away": "BUF",
+   "awayScore": null,
+   "home": "LAK",
+   "homeScore": null,
+   "venue": "Crypto.com Arena",
+   "broadcasts": [
+    "ABTV ",
+    "SN1",
+    "MSG-B"
+   ]
+  },
+  {
+   "gameId": 2026020222,
+   "date": "2026-10-31",
+   "status": "16:00 HE",
+   "away": "OTT",
+   "awayScore": null,
+   "home": "SJS",
+   "homeScore": null,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "TSN5",
+    "RDSI",
+    "NBCSCA"
+   ]
+  },
+  {
+   "gameId": 2026020223,
+   "date": "2026-10-31",
+   "status": "19:00 HE",
+   "away": "PIT",
+   "awayScore": null,
+   "home": "MTL",
+   "homeScore": null,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "SNE",
+    "TVAS",
+    "SN-PIT"
+   ]
+  },
+  {
+   "gameId": 2026020224,
+   "date": "2026-10-31",
+   "status": "19:00 HE",
+   "away": "TOR",
+   "awayScore": null,
+   "home": "VAN",
+   "homeScore": null,
+   "venue": "Rogers Arena",
+   "broadcasts": [
+    "SN"
+   ]
+  },
+  {
+   "gameId": 2026020225,
+   "date": "2026-10-31",
+   "status": "20:00 HE",
+   "away": "CBJ",
+   "awayScore": null,
+   "home": "DAL",
+   "homeScore": null,
+   "venue": "American Airlines Center",
+   "broadcasts": [
+    "CBJNHL",
+    "CBJHN",
+    "Prime Video"
+   ]
+  },
+  {
+   "gameId": 2026020226,
+   "date": "2026-10-31",
+   "status": "22:00 HE",
+   "away": "CGY",
+   "awayScore": null,
+   "home": "COL",
+   "homeScore": null,
+   "venue": "Ball Arena",
+   "broadcasts": [
+    "SN",
+    "ALT"
    ]
   }
  ]

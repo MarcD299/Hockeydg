@@ -1,285 +1,5 @@
 [
  {
-  "gameId": 2026020119,
-  "away": "PIT",
-  "home": "COL",
-  "awayScore": 2,
-  "homeScore": 5,
-  "periods": [
-   {
-    "period": 1,
-    "away": 2,
-    "home": 1
-   },
-   {
-    "period": 2,
-    "away": 2,
-    "home": 4
-   },
-   {
-    "period": 3,
-    "away": 2,
-    "home": 5
-   }
-  ],
-  "shots": {
-   "away": 32,
-   "home": 32
-  },
-  "teamStats": {
-   "away": {
-    "pp": "0/3",
-    "pim": 8,
-    "hits": 14,
-    "blocks": 14,
-    "foPct": 40.4
-   },
-   "home": {
-    "pp": "1/4",
-    "pim": 6,
-    "hits": 12,
-    "blocks": 14,
-    "foPct": 59.6
-   }
-  },
-  "goalies": [
-   {
-    "team": "PIT",
-    "name": "A. Silovs",
-    "toi": "57:26",
-    "savesShots": "27/32",
-    "shotsAgainst": 32,
-    "goalsAgainst": 5
-   },
-   {
-    "team": "COL",
-    "name": "M. Blackwood",
-    "toi": "60:00",
-    "savesShots": "30/32",
-    "shotsAgainst": 32,
-    "goalsAgainst": 2
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "08:28",
-    "team": "PIT",
-    "scorer": "Evgeni Malkin",
-    "assists": [
-     "Ville Koivunen",
-     "Erik Karlsson"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "08:57",
-    "team": "PIT",
-    "scorer": "Bryan Rust",
-    "assists": [
-     "Sidney Crosby",
-     "Samuel Girard"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "11:01",
-    "team": "COL",
-    "scorer": "Artturi Lehkonen",
-    "assists": [
-     "Nathan MacKinnon",
-     "Martin Necas"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "00:25",
-    "team": "COL",
-    "scorer": "Artturi Lehkonen",
-    "assists": [
-     "Nathan MacKinnon",
-     "Martin Necas"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "04:24",
-    "team": "COL",
-    "scorer": "Gabriel Landeskog",
-    "assists": [
-     "Brock Nelson",
-     "Nazem Kadri"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "14:57",
-    "team": "COL",
-    "scorer": "T.J. Hughes",
-    "assists": [
-     "Nathan MacKinnon",
-     "Cale Makar"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "15:06",
-    "team": "COL",
-    "scorer": "Nathan MacKinnon",
-    "assists": [
-     "Cale Makar",
-     "Martin Necas"
-    ],
-    "strength": "pp"
-   }
-  ],
-  "threeStars": [
-   "N. MacKinnon",
-   "A. Lehkonen",
-   "T. Hughes"
-  ]
- },
- {
-  "gameId": 2026020120,
-  "away": "BOS",
-  "home": "ANA",
-  "awayScore": 4,
-  "homeScore": 2,
-  "periods": [
-   {
-    "period": 1,
-    "away": 0,
-    "home": 2
-   },
-   {
-    "period": 2,
-    "away": 1,
-    "home": 2
-   },
-   {
-    "period": 3,
-    "away": 4,
-    "home": 2
-   }
-  ],
-  "shots": {
-   "away": 22,
-   "home": 28
-  },
-  "teamStats": {
-   "away": {
-    "pp": "3/4",
-    "pim": 12,
-    "hits": 11,
-    "blocks": 19,
-    "foPct": 69.0
-   },
-   "home": {
-    "pp": "0/6",
-    "pim": 8,
-    "hits": 23,
-    "blocks": 7,
-    "foPct": 31.0
-   }
-  },
-  "goalies": [
-   {
-    "team": "BOS",
-    "name": "M. DiPietro",
-    "toi": "60:00",
-    "savesShots": "26/28",
-    "shotsAgainst": 28,
-    "goalsAgainst": 2
-   },
-   {
-    "team": "ANA",
-    "name": "L. Dostal",
-    "toi": "59:21",
-    "savesShots": "18/22",
-    "shotsAgainst": 22,
-    "goalsAgainst": 4
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "19:22",
-    "team": "ANA",
-    "scorer": "Tim Washe",
-    "assists": [
-     "Jackson LaCombe",
-     "Tristan Luneau"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "19:43",
-    "team": "ANA",
-    "scorer": "Beckett Sennecke",
-    "assists": [
-     "Nikita Nesterenko",
-     "Cutter Gauthier"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "03:15",
-    "team": "BOS",
-    "scorer": "Frederic Brunet",
-    "assists": [
-     "James Hagens",
-     "David Pastrnak"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 3,
-    "time": "03:26",
-    "team": "BOS",
-    "scorer": "David Pastrnak",
-    "assists": [
-     "Elias Lindholm",
-     "Pavel Zacha"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 3,
-    "time": "08:18",
-    "team": "BOS",
-    "scorer": "Elias Lindholm",
-    "assists": [
-     "Pavel Zacha",
-     "Morgan Geekie"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 3,
-    "time": "16:20",
-    "team": "BOS",
-    "scorer": "Matthew Poitras",
-    "assists": [
-     "James Hagens"
-    ],
-    "strength": "ev"
-   }
-  ],
-  "threeStars": [
-   "D. Pastrnak",
-   "N. Klepov",
-   "J. Hagens"
-  ]
- },
- {
   "gameId": 2026020121,
   "away": "NJD",
   "home": "WSH",
@@ -5130,8 +4850,8 @@
    }
   ],
   "shots": {
-   "away": 17,
-   "home": 29
+   "away": 16,
+   "home": 28
   },
   "teamStats": {
    "away": {
@@ -5154,16 +4874,16 @@
     "team": "ANA",
     "name": "V. Husso",
     "toi": "58:01",
-    "savesShots": "25/28",
-    "shotsAgainst": 28,
+    "savesShots": "24/27",
+    "shotsAgainst": 27,
     "goalsAgainst": 3
    },
    {
     "team": "NJD",
     "name": "N. Daws",
     "toi": "60:00",
-    "savesShots": "16/17",
-    "shotsAgainst": 17,
+    "savesShots": "15/16",
+    "shotsAgainst": 16,
     "goalsAgainst": 1
    }
   ],
@@ -5251,7 +4971,7 @@
   ],
   "shots": {
    "away": 26,
-   "home": 21
+   "home": 22
   },
   "teamStats": {
    "away": {
@@ -5274,8 +4994,8 @@
     "team": "FLA",
     "name": "C. Black",
     "toi": "57:05",
-    "savesShots": "17/20",
-    "shotsAgainst": 20,
+    "savesShots": "18/21",
+    "shotsAgainst": 21,
     "goalsAgainst": 3
    },
    {
@@ -5377,14 +5097,14 @@
     "pim": 13,
     "hits": 17,
     "blocks": 18,
-    "foPct": 37.0
+    "foPct": 38.9
    },
    "home": {
     "pp": "1/3",
     "pim": 11,
     "hits": 25,
     "blocks": 14,
-    "foPct": 63.0
+    "foPct": 61.1
    }
   },
   "goalies": [
@@ -5489,7 +5209,7 @@
    }
   ],
   "shots": {
-   "away": 29,
+   "away": 28,
    "home": 31
   },
   "teamStats": {
@@ -5521,8 +5241,8 @@
     "team": "STL",
     "name": "J. Hofer",
     "toi": "60:00",
-    "savesShots": "27/29",
-    "shotsAgainst": 29,
+    "savesShots": "26/28",
+    "shotsAgainst": 28,
     "goalsAgainst": 2
    }
   ],
@@ -5764,7 +5484,7 @@
    }
   ],
   "shots": {
-   "away": 37,
+   "away": 39,
    "home": 22
   },
   "teamStats": {
@@ -5772,7 +5492,7 @@
     "pp": "0/4",
     "pim": 8,
     "hits": 26,
-    "blocks": 8,
+    "blocks": 9,
     "foPct": 56.6
    },
    "home": {
@@ -5796,8 +5516,8 @@
     "team": "CGY",
     "name": "D. Cooley",
     "toi": "60:00",
-    "savesShots": "36/37",
-    "shotsAgainst": 37,
+    "savesShots": "38/39",
+    "shotsAgainst": 39,
     "goalsAgainst": 1
    }
   ],
@@ -5878,7 +5598,7 @@
     "pp": "1/2",
     "pim": 8,
     "hits": 30,
-    "blocks": 15,
+    "blocks": 14,
     "foPct": 52.5
    },
    "home": {
@@ -6054,7 +5774,7 @@
   ],
   "shots": {
    "away": 36,
-   "home": 23
+   "home": 25
   },
   "teamStats": {
    "away": {
@@ -6077,8 +5797,8 @@
     "team": "UTA",
     "name": "K. Vejmelka",
     "toi": "58:14",
-    "savesShots": "18/22",
-    "shotsAgainst": 22,
+    "savesShots": "20/24",
+    "shotsAgainst": 24,
     "goalsAgainst": 4
    },
    {
@@ -6332,6 +6052,293 @@
    "L. Raymond",
    "M. Brandsegg-Nygård",
    "J. Lekkerimäki"
+  ]
+ },
+ {
+  "gameId": 2026020166,
+  "away": "MTL",
+  "home": "CHI",
+  "awayScore": 4,
+  "homeScore": 1,
+  "periods": [
+   {
+    "period": 1,
+    "away": 1,
+    "home": 1
+   },
+   {
+    "period": 2,
+    "away": 3,
+    "home": 1
+   },
+   {
+    "period": 3,
+    "away": 4,
+    "home": 1
+   }
+  ],
+  "shots": {
+   "away": 28,
+   "home": 21
+  },
+  "teamStats": {
+   "away": {
+    "pp": "0/3",
+    "pim": 10,
+    "hits": 23,
+    "blocks": 11,
+    "foPct": 62.7
+   },
+   "home": {
+    "pp": "0/5",
+    "pim": 6,
+    "hits": 11,
+    "blocks": 8,
+    "foPct": 37.3
+   }
+  },
+  "goalies": [
+   {
+    "team": "MTL",
+    "name": "J. Fowler",
+    "toi": "59:55",
+    "savesShots": "20/21",
+    "shotsAgainst": 21,
+    "goalsAgainst": 1
+   },
+   {
+    "team": "CHI",
+    "name": "S. Knight",
+    "toi": "59:14",
+    "savesShots": "24/27",
+    "shotsAgainst": 27,
+    "goalsAgainst": 3
+   }
+  ],
+  "goals": [
+   {
+    "period": 1,
+    "time": "04:23",
+    "team": "CHI",
+    "scorer": "Connor Bedard",
+    "assists": [
+     "Patrick Kane"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 1,
+    "time": "17:29",
+    "team": "MTL",
+    "scorer": "Jake Evans",
+    "assists": [
+     "Kirby Dach",
+     "Owen Beck"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "07:45",
+    "team": "MTL",
+    "scorer": "Jake Evans",
+    "assists": [
+     "Kaiden Guhle"
+    ],
+    "strength": "sh"
+   },
+   {
+    "period": 2,
+    "time": "18:26",
+    "team": "MTL",
+    "scorer": "Kaiden Guhle",
+    "assists": [
+     "Jake Evans",
+     "Alexandre Carrier"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 3,
+    "time": "17:22",
+    "team": "MTL",
+    "scorer": "Mike Matheson",
+    "assists": [
+     "Phillip Danault"
+    ],
+    "strength": "ev"
+   }
+  ],
+  "threeStars": [
+   "J. Evans",
+   "K. Guhle",
+   "M. Matheson"
+  ]
+ },
+ {
+  "gameId": 2026020167,
+  "away": "TBL",
+  "home": "COL",
+  "awayScore": 3,
+  "homeScore": 6,
+  "periods": [
+   {
+    "period": 1,
+    "away": 0,
+    "home": 2
+   },
+   {
+    "period": 2,
+    "away": 2,
+    "home": 4
+   },
+   {
+    "period": 3,
+    "away": 3,
+    "home": 6
+   }
+  ],
+  "shots": {
+   "away": 34,
+   "home": 24
+  },
+  "teamStats": {
+   "away": {
+    "pp": "1/4",
+    "pim": 8,
+    "hits": 30,
+    "blocks": 12,
+    "foPct": 59.4
+   },
+   "home": {
+    "pp": "1/3",
+    "pim": 10,
+    "hits": 16,
+    "blocks": 20,
+    "foPct": 40.6
+   }
+  },
+  "goalies": [
+   {
+    "team": "TBL",
+    "name": "A. Vasilevskiy",
+    "toi": "59:52",
+    "savesShots": "18/23",
+    "shotsAgainst": 23,
+    "goalsAgainst": 5
+   },
+   {
+    "team": "COL",
+    "name": "M. Blackwood",
+    "toi": "60:00",
+    "savesShots": "31/34",
+    "shotsAgainst": 34,
+    "goalsAgainst": 3
+   }
+  ],
+  "goals": [
+   {
+    "period": 1,
+    "time": "01:08",
+    "team": "COL",
+    "scorer": "Devon Toews",
+    "assists": [
+     "Martin Necas",
+     "Nathan MacKinnon"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 1,
+    "time": "05:52",
+    "team": "COL",
+    "scorer": "Nazem Kadri",
+    "assists": [
+     "T.J. Hughes",
+     "Nathan MacKinnon"
+    ],
+    "strength": "pp"
+   },
+   {
+    "period": 2,
+    "time": "00:24",
+    "team": "COL",
+    "scorer": "Fedor Svechkov",
+    "assists": [
+     "Jaden Schwartz"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "08:13",
+    "team": "TBL",
+    "scorer": "Jake Guentzel",
+    "assists": [
+     "Charle-Edouard D'Astous",
+     "Brayden Point"
+    ],
+    "strength": "pp"
+   },
+   {
+    "period": 2,
+    "time": "13:57",
+    "team": "COL",
+    "scorer": "Artturi Lehkonen",
+    "assists": [
+     "Nathan MacKinnon",
+     "Devon Toews"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "19:17",
+    "team": "TBL",
+    "scorer": "Jake Guentzel",
+    "assists": [
+     "Brayden Point",
+     "Brandon Hagel"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 3,
+    "time": "04:18",
+    "team": "COL",
+    "scorer": "Nathan MacKinnon",
+    "assists": [
+     "Artturi Lehkonen",
+     "Martin Necas"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 3,
+    "time": "15:13",
+    "team": "TBL",
+    "scorer": "Charle-Edouard D'Astous",
+    "assists": [
+     "Gage Goncalves",
+     "Max Crozier"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 3,
+    "time": "17:19",
+    "team": "COL",
+    "scorer": "Martin Necas",
+    "assists": [
+     "Gabriel Landeskog"
+    ],
+    "strength": "ev"
+   }
+  ],
+  "threeStars": [
+   "N. MacKinnon",
+   "M. Necas",
+   "A. Lehkonen"
   ]
  }
 ]
