@@ -1,6 +1,6 @@
 {
  "ligue": "USHL",
- "date_donnees": "2026-10-29",
+ "date_donnees": "2026-10-30",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "13560": {
@@ -71,7 +71,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.usahockeyntdp.com/tix",
     "tickets_url_fr": "",
-    "last_modified": "2026-10-29 00:25:13",
+    "last_modified": "2026-10-29 14:16:26",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154441",
@@ -919,7 +919,7 @@
       {
        "player_id": "10383",
        "jersey_number": "10",
-       "first_name": "Joshua",
+       "first_name": "Josh",
        "last_name": "Toll"
       },
       {
@@ -966,7 +966,7 @@
       "jersey_number": "10",
       "team_id": "18",
       "team_code": "MKG",
-      "first_name": "Joshua",
+      "first_name": "Josh",
       "last_name": "Toll"
      },
      "assist1_player": {
@@ -1001,7 +1001,7 @@
       {
        "player_id": "10383",
        "jersey_number": "10",
-       "first_name": "Joshua",
+       "first_name": "Josh",
        "last_name": "Toll"
       },
       {
@@ -1212,11 +1212,11 @@
       "last_name": "Arnold",
       "period_start": "1st",
       "time_start": "0:00",
-      "period_end": "3rd",
-      "time_end": "0:00",
-      "saves": "26",
-      "secs": "2400",
-      "seconds": "2400",
+      "period_end": "2nd",
+      "time_end": "10:01",
+      "saves": "21",
+      "secs": "1801",
+      "seconds": "1801",
       "goals_against": "2",
       "win": "0",
       "loss": "1",
@@ -1226,21 +1226,21 @@
       "shutout": "0",
       "shootout_goals_against": "0",
       "shootout_saves": "0",
-      "secs_mmss": "40:00",
-      "shots_against": 28
+      "secs_mmss": "30:01",
+      "shots_against": 23
      },
      {
       "id": "33663",
       "player_id": "11493",
       "first_name": "Mason",
       "last_name": "Martin",
-      "period_start": "3rd",
-      "time_start": "0:00",
+      "period_start": "2nd",
+      "time_start": "10:01",
       "period_end": "3rd",
       "time_end": "20:00",
-      "saves": "12",
-      "secs": "1200",
-      "seconds": "1200",
+      "saves": "17",
+      "secs": "1799",
+      "seconds": "1799",
       "goals_against": "3",
       "win": "0",
       "loss": "0",
@@ -1250,8 +1250,8 @@
       "shutout": "0",
       "shootout_goals_against": "0",
       "shootout_saves": "0",
-      "secs_mmss": "20:00",
-      "shots_against": 15
+      "secs_mmss": "29:59",
+      "shots_against": 20
      }
     ]
    },
@@ -1267,11 +1267,11 @@
       "position_str": "G",
       "status": "",
       "rookie": "1",
-      "seconds": 1200,
-      "time": "20:00",
-      "shots_against": 15,
+      "seconds": 1799,
+      "time": "29:59",
+      "shots_against": 20,
       "goals_against": 3,
-      "saves": 12,
+      "saves": 17,
       "goals": 0,
       "assists": 0,
       "pim": 0,
@@ -1288,11 +1288,11 @@
       "position_str": "G",
       "status": "",
       "rookie": "1",
-      "seconds": 2400,
-      "time": "40:00",
-      "shots_against": 28,
+      "seconds": 1801,
+      "time": "30:01",
+      "shots_against": 23,
       "goals_against": 2,
-      "saves": 26,
+      "saves": 21,
       "goals": 0,
       "assists": 0,
       "pim": 0,
@@ -2054,7 +2054,7 @@
      {
       "person_id": "11234",
       "player_id": "10383",
-      "first_name": "Joshua",
+      "first_name": "Josh",
       "last_name": "Toll",
       "start": "0",
       "position": "1",
@@ -2419,7 +2419,24 @@
       "person_id": "9306"
      }
     ],
-    "home": []
+    "home": [
+     {
+      "coach_id": "47",
+      "last_name": "Fohr",
+      "first_name": "Nick",
+      "description": "Head Coach",
+      "person_role_id": "3",
+      "person_id": "606"
+     },
+     {
+      "coach_id": "",
+      "last_name": "Weber",
+      "first_name": "Mike",
+      "description": "Assistant Coach",
+      "person_role_id": "4",
+      "person_id": "12501"
+     }
+    ]
    },
    "pimBench": {
     "visitor": 0,
