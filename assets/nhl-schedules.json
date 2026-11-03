@@ -1,6 +1,6 @@
 {
+ "date": "2026-11-03",
  "season": "20262027",
- "fetched": "2026-10-25",
  "teams": {
   "ANA": [
    {
@@ -188,36 +188,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "VAN",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 6,
+    "homeScore": 5
    },
    {
     "id": 2026020211,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "BUF",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 7,
+    "homeScore": 6
    },
    {
     "id": 2026020231,
     "date": "2026-11-01",
     "startUTC": "2026-11-02T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "OTT",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020246,
@@ -1258,48 +1258,48 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "BOS",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 2
    },
    {
     "id": 2026020207,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Enterprise Center",
     "away": "BOS",
     "home": "STL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020217,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T17:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "TD Garden",
     "away": "CHI",
     "home": "BOS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020232,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "TD Garden",
     "away": "VGK",
     "home": "BOS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020257,
@@ -2304,36 +2304,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "BUF",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 0
    },
    {
     "id": 2026020211,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "BUF",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 7,
+    "homeScore": 6
    },
    {
     "id": 2026020221,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T20:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Crypto.com Arena",
     "away": "BUF",
     "home": "LAK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 2
    },
    {
     "id": 2026020247,
@@ -3386,36 +3386,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "BOS",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 2
    },
    {
     "id": 2026020206,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "CBJ",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020227,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "WPG",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 0,
+    "homeScore": 7
    },
    {
     "id": 2026020245,
@@ -4396,36 +4396,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-27T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Xfinity Mobile Arena",
     "away": "CBJ",
     "home": "PHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020206,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "CBJ",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020225,
     "date": "2026-10-31",
     "startUTC": "2026-11-01T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "CBJ",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 3
    },
    {
     "id": 2026020244,
@@ -5466,60 +5466,60 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-27T00:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Scotiabank Saddledome",
     "away": "TOR",
     "home": "CGY",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020200,
     "date": "2026-10-28",
     "startUTC": "2026-10-29T00:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Place",
     "away": "CGY",
     "home": "EDM",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 0,
+    "homeScore": 4
    },
    {
     "id": 2026020216,
     "date": "2026-10-30",
     "startUTC": "2026-10-31T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Scotiabank Saddledome",
     "away": "SEA",
     "home": "CGY",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 6
    },
    {
     "id": 2026020226,
     "date": "2026-10-31",
     "startUTC": "2026-11-01T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Ball Arena",
     "away": "CGY",
     "home": "COL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020235,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "CGY",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 1
    },
    {
     "id": 2026020250,
@@ -6524,60 +6524,60 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T19:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "FLA",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 2
    },
    {
     "id": 2026020190,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "LAK",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 2
    },
    {
     "id": 2026020203,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Little Caesars Arena",
     "away": "CHI",
     "home": "DET",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020217,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T17:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "TD Garden",
     "away": "CHI",
     "home": "BOS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020234,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "COL",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020248,
@@ -7594,48 +7594,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-26T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "COL",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 6
    },
    {
     "id": 2026020201,
     "date": "2026-10-28",
     "startUTC": "2026-10-29T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Ball Arena",
     "away": "NJD",
     "home": "COL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020226,
     "date": "2026-10-31",
     "startUTC": "2026-11-01T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Ball Arena",
     "away": "CGY",
     "home": "COL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020234,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "COL",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020244,
@@ -8640,48 +8640,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T22:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "NYI",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020193,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "NJD",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020209,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "MTL",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020225,
     "date": "2026-10-31",
     "startUTC": "2026-11-01T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "CBJ",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 3
    },
    {
     "id": 2026020243,
@@ -9710,48 +9710,48 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-27T01:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Place",
     "away": "DET",
     "home": "EDM",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020203,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Little Caesars Arena",
     "away": "CHI",
     "home": "DET",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020218,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T17:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Little Caesars Arena",
     "away": "STL",
     "home": "DET",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 4
    },
    {
     "id": 2026020233,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Amerant Bank Arena",
     "away": "DET",
     "home": "FLA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 3
    },
    {
     "id": 2026020238,
@@ -10768,48 +10768,48 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-27T01:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Place",
     "away": "DET",
     "home": "EDM",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020200,
     "date": "2026-10-28",
     "startUTC": "2026-10-29T00:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Place",
     "away": "CGY",
     "home": "EDM",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 0,
+    "homeScore": 4
    },
    {
     "id": 2026020220,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "UBS Arena",
     "away": "EDM",
     "home": "NYI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 0
    },
    {
     "id": 2026020230,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Madison Square Garden",
     "away": "EDM",
     "home": "NYR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 1
    },
    {
     "id": 2026020239,
@@ -11826,48 +11826,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T19:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "FLA",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 2
    },
    {
     "id": 2026020194,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Canada Life Centre",
     "away": "FLA",
     "home": "WPG",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020215,
     "date": "2026-10-30",
     "startUTC": "2026-10-30T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Amerant Bank Arena",
     "away": "WPG",
     "home": "FLA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020233,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Amerant Bank Arena",
     "away": "DET",
     "home": "FLA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 3
    },
    {
     "id": 2026020248,
@@ -12860,48 +12860,48 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-26T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Madison Square Garden",
     "away": "LAK",
     "home": "NYR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 6,
+    "homeScore": 3
    },
    {
     "id": 2026020190,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "United Center",
     "away": "LAK",
     "home": "CHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 2
    },
    {
     "id": 2026020212,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Crypto.com Arena",
     "away": "OTT",
     "home": "LAK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 6
    },
    {
     "id": 2026020221,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T20:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Crypto.com Arena",
     "away": "BUF",
     "home": "LAK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 2
    },
    {
     "id": 2026020249,
@@ -13954,48 +13954,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-26T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Arena",
     "away": "MIN",
     "home": "VAN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 2
    },
    {
     "id": 2026020195,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Delta Center",
     "away": "MIN",
     "home": "UTA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 1
    },
    {
     "id": 2026020210,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Grand Casino Arena",
     "away": "NYI",
     "home": "MIN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020228,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T20:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Capital One Arena",
     "away": "MIN",
     "home": "WSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020241,
@@ -15000,48 +15000,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Princess Auto Stadium",
     "away": "MTL",
     "home": "WPG",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 1
    },
    {
     "id": 2026020191,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Enterprise Center",
     "away": "MTL",
     "home": "STL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 0
    },
    {
     "id": 2026020209,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "MTL",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020223,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Centre Bell",
     "away": "PIT",
     "home": "MTL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020237,
@@ -16058,48 +16058,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-26T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "COL",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 6
    },
    {
     "id": 2026020192,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "NYI",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020208,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "WSH",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020219,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "TBL",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020245,
@@ -17128,36 +17128,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "NJD",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020201,
     "date": "2026-10-28",
     "startUTC": "2026-10-29T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Ball Arena",
     "away": "NJD",
     "home": "COL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020214,
     "date": "2026-10-30",
     "startUTC": "2026-10-30T22:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "T-Mobile Arena",
     "away": "NJD",
     "home": "VGK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020239,
@@ -18174,48 +18174,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T22:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "American Airlines Center",
     "away": "NYI",
     "home": "DAL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020192,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "NYI",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020210,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Grand Casino Arena",
     "away": "NYI",
     "home": "MIN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020220,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "UBS Arena",
     "away": "EDM",
     "home": "NYI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 0
    },
    {
     "id": 2026020255,
@@ -19268,24 +19268,24 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-26T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Madison Square Garden",
     "away": "LAK",
     "home": "NYR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 6,
+    "homeScore": 3
    },
    {
     "id": 2026020230,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Madison Square Garden",
     "away": "EDM",
     "home": "NYR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 1
    },
    {
     "id": 2026020240,
@@ -20326,48 +20326,48 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "T-Mobile Arena",
     "away": "OTT",
     "home": "VGK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020212,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Crypto.com Arena",
     "away": "OTT",
     "home": "LAK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 6
    },
    {
     "id": 2026020222,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T20:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "OTT",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020231,
     "date": "2026-11-01",
     "startUTC": "2026-11-02T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "OTT",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020247,
@@ -21396,36 +21396,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-27T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Xfinity Mobile Arena",
     "away": "CBJ",
     "home": "PHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020199,
     "date": "2026-10-28",
     "startUTC": "2026-10-28T23:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Capital One Arena",
     "away": "PHI",
     "home": "WSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020229,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T21:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Xfinity Mobile Arena",
     "away": "UTA",
     "home": "PHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020241,
@@ -22442,24 +22442,24 @@
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "PPG Paints Arena",
     "away": "UTA",
     "home": "PIT",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020223,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Centre Bell",
     "away": "PIT",
     "home": "MTL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020242,
@@ -23500,24 +23500,24 @@
     "date": "2026-10-28",
     "startUTC": "2026-10-29T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Climate Pledge Arena",
     "away": "TOR",
     "home": "SEA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020216,
     "date": "2026-10-30",
     "startUTC": "2026-10-31T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Scotiabank Saddledome",
     "away": "SEA",
     "home": "CGY",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 6
    },
    {
     "id": 2026020250,
@@ -24558,48 +24558,48 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "BUF",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 0
    },
    {
     "id": 2026020213,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "VAN",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020222,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T20:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "OTT",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020235,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "CGY",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 1
    },
    {
     "id": 2026020249,
@@ -25604,36 +25604,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Enterprise Center",
     "away": "MTL",
     "home": "STL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 0
    },
    {
     "id": 2026020207,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Enterprise Center",
     "away": "BOS",
     "home": "STL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020218,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T17:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Little Caesars Arena",
     "away": "STL",
     "home": "DET",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 4
    },
    {
     "id": 2026020240,
@@ -26662,24 +26662,24 @@
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Benchmark International Arena",
     "away": "WPG",
     "home": "TBL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 6
    },
    {
     "id": 2026020219,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "TBL",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020238,
@@ -27744,36 +27744,36 @@
     "date": "2026-10-26",
     "startUTC": "2026-10-27T00:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Scotiabank Saddledome",
     "away": "TOR",
     "home": "CGY",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020202,
     "date": "2026-10-28",
     "startUTC": "2026-10-29T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Climate Pledge Arena",
     "away": "TOR",
     "home": "SEA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 5
    },
    {
     "id": 2026020224,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Arena",
     "away": "TOR",
     "home": "VAN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 2
    },
    {
     "id": 2026020236,
@@ -28790,36 +28790,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T01:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Delta Center",
     "away": "MIN",
     "home": "UTA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 1
    },
    {
     "id": 2026020205,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "PPG Paints Arena",
     "away": "UTA",
     "home": "PIT",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020229,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T21:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Xfinity Mobile Arena",
     "away": "UTA",
     "home": "PHI",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 3,
+    "homeScore": 6
    },
    {
     "id": 2026020236,
@@ -29848,48 +29848,48 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-26T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Arena",
     "away": "MIN",
     "home": "VAN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 2
    },
    {
     "id": 2026020197,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Honda Center",
     "away": "VAN",
     "home": "ANA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 6,
+    "homeScore": 5
    },
    {
     "id": 2026020213,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "SAP Center at San Jose",
     "away": "VAN",
     "home": "SJS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020224,
     "date": "2026-10-31",
     "startUTC": "2026-10-31T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Rogers Arena",
     "away": "TOR",
     "home": "VAN",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 2
    },
    {
     "id": 2026020246,
@@ -30918,36 +30918,36 @@
     "date": "2026-10-27",
     "startUTC": "2026-10-28T02:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "T-Mobile Arena",
     "away": "OTT",
     "home": "VGK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 1,
+    "homeScore": 4
    },
    {
     "id": 2026020214,
     "date": "2026-10-30",
     "startUTC": "2026-10-30T22:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "T-Mobile Arena",
     "away": "NJD",
     "home": "VGK",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 2
    },
    {
     "id": 2026020232,
     "date": "2026-11-02",
     "startUTC": "2026-11-03T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "TD Garden",
     "away": "VGK",
     "home": "BOS",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 3
    },
    {
     "id": 2026020242,
@@ -31940,60 +31940,60 @@
     "date": "2026-10-25",
     "startUTC": "2026-10-25T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Princess Auto Stadium",
     "away": "MTL",
     "home": "WPG",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 1
    },
    {
     "id": 2026020194,
     "date": "2026-10-27",
     "startUTC": "2026-10-28T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Canada Life Centre",
     "away": "FLA",
     "home": "WPG",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020204,
     "date": "2026-10-29",
     "startUTC": "2026-10-29T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Benchmark International Arena",
     "away": "WPG",
     "home": "TBL",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 6
    },
    {
     "id": 2026020215,
     "date": "2026-10-30",
     "startUTC": "2026-10-30T23:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Amerant Bank Arena",
     "away": "WPG",
     "home": "FLA",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020227,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T18:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Lenovo Center",
     "away": "WPG",
     "home": "CAR",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 0,
+    "homeScore": 7
    },
    {
     "id": 2026020237,
@@ -32998,36 +32998,36 @@
     "date": "2026-10-28",
     "startUTC": "2026-10-28T23:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Capital One Arena",
     "away": "PHI",
     "home": "WSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 2,
+    "homeScore": 5
    },
    {
     "id": 2026020208,
     "date": "2026-10-29",
     "startUTC": "2026-10-30T00:00:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Bridgestone Arena",
     "away": "WSH",
     "home": "NSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 4,
+    "homeScore": 3
    },
    {
     "id": 2026020228,
     "date": "2026-11-01",
     "startUTC": "2026-11-01T20:30:00Z",
     "type": 2,
-    "state": "FUT",
+    "state": "OFF",
     "venue": "Capital One Arena",
     "away": "MIN",
     "home": "WSH",
-    "awayScore": null,
-    "homeScore": null
+    "awayScore": 5,
+    "homeScore": 1
    },
    {
     "id": 2026020243,

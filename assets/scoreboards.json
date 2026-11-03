@@ -1,50 +1,4 @@
 {
- "2026-10-26": [
-  {
-   "gameId": 2026020185,
-   "date": "2026-10-26",
-   "status": "FINAL",
-   "away": "LAK",
-   "awayScore": 6,
-   "home": "NYR",
-   "homeScore": 3,
-   "venue": "Madison Square Garden",
-   "broadcasts": [
-    "ABTV ",
-    "NHLN",
-    "TVAS",
-    "MSG"
-   ]
-  },
-  {
-   "gameId": 2026020186,
-   "date": "2026-10-26",
-   "status": "FINAL",
-   "away": "TOR",
-   "awayScore": 2,
-   "home": "CGY",
-   "homeScore": 5,
-   "venue": "Scotiabank Saddledome",
-   "broadcasts": [
-    "SN+"
-   ]
-  },
-  {
-   "gameId": 2026020187,
-   "date": "2026-10-26",
-   "status": "FINAL",
-   "away": "DET",
-   "awayScore": 4,
-   "home": "EDM",
-   "homeScore": 3,
-   "venue": "Rogers Place",
-   "broadcasts": [
-    "DSN",
-    "SN+",
-    "TVAS"
-   ]
-  }
- ],
  "2026-10-27": [
   {
    "gameId": 2026020188,
@@ -724,11 +678,11 @@
   {
    "gameId": 2026020232,
    "date": "2026-11-02",
-   "status": "19:00 HE",
+   "status": "FINAL",
    "away": "VGK",
-   "awayScore": null,
+   "awayScore": 2,
    "home": "BOS",
-   "homeScore": null,
+   "homeScore": 3,
    "venue": "TD Garden",
    "broadcasts": [
     "NHLN",
@@ -741,11 +695,11 @@
   {
    "gameId": 2026020233,
    "date": "2026-11-02",
-   "status": "19:00 HE",
+   "status": "FINAL",
    "away": "DET",
-   "awayScore": null,
+   "awayScore": 5,
    "home": "FLA",
-   "homeScore": null,
+   "homeScore": 3,
    "venue": "Amerant Bank Arena",
    "broadcasts": [
     "DSN",
@@ -755,11 +709,11 @@
   {
    "gameId": 2026020234,
    "date": "2026-11-02",
-   "status": "20:00 HE",
+   "status": "FINAL",
    "away": "COL",
-   "awayScore": null,
+   "awayScore": 5,
    "home": "CHI",
-   "homeScore": null,
+   "homeScore": 2,
    "venue": "United Center",
    "broadcasts": [
     "CHSN+",
@@ -769,11 +723,11 @@
   {
    "gameId": 2026020235,
    "date": "2026-11-02",
-   "status": "21:00 HE",
+   "status": "FINAL",
    "away": "CGY",
-   "awayScore": null,
+   "awayScore": 2,
    "home": "SJS",
-   "homeScore": null,
+   "homeScore": 1,
    "venue": "SAP Center at San Jose",
    "broadcasts": [
     "SN+",
@@ -1544,6 +1498,116 @@
     "TVAS",
     "NBCSCA",
     "MSGSN"
+   ]
+  }
+ ],
+ "2026-11-10": [
+  {
+   "gameId": 2026020286,
+   "date": "2026-11-10",
+   "status": "19:00 HE",
+   "away": "COL",
+   "awayScore": null,
+   "home": "TOR",
+   "homeScore": null,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "TVAS",
+    "TSN4",
+    "ALT"
+   ]
+  },
+  {
+   "gameId": 2026020287,
+   "date": "2026-11-10",
+   "status": "19:00 HE",
+   "away": "MIN",
+   "awayScore": null,
+   "home": "MTL",
+   "homeScore": null,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "MINNHL",
+    "Wild+",
+    "TSN2",
+    "RDS"
+   ]
+  },
+  {
+   "gameId": 2026020288,
+   "date": "2026-11-10",
+   "status": "19:00 HE",
+   "away": "WSH",
+   "awayScore": null,
+   "home": "OTT",
+   "homeScore": null,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "TSN5",
+    "RDS2",
+    "MNMT"
+   ]
+  },
+  {
+   "gameId": 2026020291,
+   "date": "2026-11-10",
+   "status": "19:00 HE",
+   "away": "NJD",
+   "awayScore": null,
+   "home": "WPG",
+   "homeScore": null,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "TSN3",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020289,
+   "date": "2026-11-10",
+   "status": "19:30 HE",
+   "away": "FLA",
+   "awayScore": null,
+   "home": "CBJ",
+   "homeScore": null,
+   "venue": "Nationwide Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SN"
+   ]
+  },
+  {
+   "gameId": 2026020290,
+   "date": "2026-11-10",
+   "status": "20:00 HE",
+   "away": "DET",
+   "awayScore": null,
+   "home": "STL",
+   "homeScore": null,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "TNT",
+    "truTV",
+    "HBO MAX",
+    "SN+"
+   ]
+  },
+  {
+   "gameId": 2026020292,
+   "date": "2026-11-10",
+   "status": "22:00 HE",
+   "away": "NSH",
+   "awayScore": null,
+   "home": "LAK",
+   "homeScore": null,
+   "venue": "Crypto.com Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SNE"
    ]
   }
  ]
