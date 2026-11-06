@@ -1,6 +1,6 @@
 {
  "ligue": "WHL",
- "date_donnees": "2026-11-05",
+ "date_donnees": "2026-11-06",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "1023252": {
@@ -73,7 +73,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-06-30 13:00:23",
-    "last_modified": "2026-11-04 19:23:55",
+    "last_modified": "2026-11-05 11:20:10",
     "htv_game_id": "",
     "flo_core_event_id": "",
     "flo_live_event_id": "",
@@ -276,7 +276,7 @@
      "period_id": "2",
      "period": "2nd",
      "offence": "35",
-     "pp": "0",
+     "pp": "1",
      "bench": "0",
      "penalty_shot": "0",
      "minutes": 2,
@@ -548,12 +548,12 @@
       "last_name": "Vanek"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "29748",
+      "jersey_number": "10",
+      "team_id": "202",
+      "team_code": "CGY",
+      "first_name": "Kale",
+      "last_name": "McCann"
      },
      "assist2_player": {
       "player_id": null,
@@ -656,12 +656,12 @@
       "last_name": "Kresl"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "30765",
+      "jersey_number": "9",
+      "team_id": "202",
+      "team_code": "CGY",
+      "first_name": "Carter",
+      "last_name": "Sanderson"
      },
      "assist2_player": {
       "player_id": null,
@@ -1550,7 +1550,7 @@
       "status": "C",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -1576,7 +1576,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -1901,18 +1901,18 @@
    },
    "powerPlayCount": {
     "visitor": 0,
-    "home": 1
+    "home": 2
    },
    "goalCount": {
     "visitor": 3,
     "home": 1
    },
    "assistCount": {
-    "visitor": 1,
+    "visitor": 3,
     "home": 2
    },
    "pointsCount": {
-    "visitor": 4,
+    "visitor": 6,
     "home": 3
    },
    "pimTotal": {
@@ -4437,7 +4437,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-06-30 13:00:23",
-    "last_modified": "2026-11-04 21:45:07",
+    "last_modified": "2026-11-05 06:40:37",
     "htv_game_id": "",
     "flo_core_event_id": "",
     "flo_live_event_id": "",
@@ -5148,10 +5148,10 @@
      ],
      "minus": [
       {
-       "player_id": "29755",
-       "jersey_number": "3",
-       "first_name": "Cameron",
-       "last_name": "Jacobson"
+       "player_id": "29945",
+       "jersey_number": "2",
+       "first_name": "Avery",
+       "last_name": "Laliberte"
       },
       {
        "player_id": "30804",
@@ -5207,12 +5207,12 @@
       "last_name": "Ruck"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "29384",
+      "jersey_number": "26",
+      "team_id": "206",
+      "team_code": "MH",
+      "first_name": "Markus",
+      "last_name": "Ruck"
      },
      "assist2_player": {
       "player_id": null,
@@ -5256,10 +5256,10 @@
      ],
      "minus": [
       {
-       "player_id": "29755",
-       "jersey_number": "3",
-       "first_name": "Cameron",
-       "last_name": "Jacobson"
+       "player_id": "29945",
+       "jersey_number": "2",
+       "first_name": "Avery",
+       "last_name": "Laliberte"
       },
       {
        "player_id": "30804",
@@ -6024,7 +6024,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 0,
-      "plusminus": -2,
+      "plusminus": -4,
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -6050,7 +6050,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 1,
-      "plusminus": -1,
+      "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -6929,7 +6929,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 3,
+      "assists": 4,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "5",
@@ -7020,11 +7020,11 @@
     "home": 5
    },
    "assistCount": {
-    "visitor": 9,
+    "visitor": 10,
     "home": 7
    },
    "pointsCount": {
-    "visitor": 15,
+    "visitor": 16,
     "home": 12
    },
    "pimTotal": {
@@ -7175,7 +7175,7 @@
     "12_hour_start_time_without_seconds": "7:06 pm",
     "12_hour_end_time_without_seconds": "9:29 pm",
     "length": "2:23",
-    "timezone_short": "PDT"
+    "timezone_short": "PCT"
    },
    "txt_title": "GAME SUMMARY",
    "txt_scoring": "Scoring",
@@ -9391,7 +9391,7 @@
     "12_hour_start_time_without_seconds": "7:07 pm",
     "12_hour_end_time_without_seconds": "9:43 pm",
     "length": "2:36",
-    "timezone_short": "PDT"
+    "timezone_short": "PCT"
    },
    "txt_title": "GAME SUMMARY",
    "txt_scoring": "Scoring",

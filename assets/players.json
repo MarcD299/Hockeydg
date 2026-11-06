@@ -202,24 +202,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 2,
    "a": 6,
    "p": 8,
-   "plusMinus": 5,
-   "pim": 4,
-   "shots": 16,
-   "shootingPctg": 12.5,
+   "plusMinus": 4,
+   "pim": 6,
+   "shots": 17,
+   "shootingPctg": 11.8,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 973,
+   "gp": 974,
    "g": 350,
    "a": 290,
    "p": 640
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "11:33",
+    "shots": 1,
+    "plusMinus": -1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -266,18 +278,6 @@
     "toi": "12:49",
     "shots": 1,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "11:27",
-    "shots": 0,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -350,393 +350,6 @@
   ],
   "awards": []
  },
- "8475913": {
-  "playerId": 8475913,
-  "firstName": "Mark",
-  "lastName": "Stone",
-  "sweaterNumber": 61,
-  "position": "R",
-  "birthDate": "1992-05-13",
-  "birthCity": "Winnipeg",
-  "birthCountry": "CAN",
-  "heightCm": 191,
-  "weightKg": 95,
-  "shootsCatches": "R",
-  "draft": "2010 R6 #28 OTT",
-  "team": "VGK",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8475913.png",
-  "bio": {
-   "birthCity": "Winnipeg",
-   "birthCountry": "CAN",
-   "draftDetails": {
-    "year": 2010,
-    "teamAbbrev": "OTT",
-    "round": 6,
-    "pickInRound": 28,
-    "overallPick": 178
-   }
-  },
-  "seasonStats": {
-   "gp": 17,
-   "g": 10,
-   "a": 9,
-   "p": 19,
-   "plusMinus": 6,
-   "pim": 9,
-   "shots": 35,
-   "shootingPctg": 28.6,
-   "ppPoints": 9,
-   "shPoints": 2
-  },
-  "careerStats": {
-   "gp": 783,
-   "g": 269,
-   "a": 457,
-   "p": 726
-  },
-  "last5Games": [
-   {
-    "date": "2026-11-03",
-    "opponent": "PIT",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "20:40",
-    "shots": 3,
-    "plusMinus": -1,
-    "pim": 0
-   },
-   {
-    "date": "2026-11-02",
-    "opponent": "BOS",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "21:35",
-    "shots": 2,
-    "plusMinus": -1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-30",
-    "opponent": "NJD",
-    "homeAway": "H",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "16:17",
-    "shots": 1,
-    "plusMinus": -2,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-27",
-    "opponent": "OTT",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "20:08",
-    "shots": 3,
-    "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "CBJ",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "20:21",
-    "shots": 1,
-    "plusMinus": 0,
-    "pim": 0
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20052006,
-    "team": null,
-    "gp": 29,
-    "g": 20,
-    "a": 34,
-    "p": 54,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20062007,
-    "team": null,
-    "gp": 30,
-    "g": 34,
-    "a": 23,
-    "p": 57,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20072008,
-    "team": null,
-    "gp": 40,
-    "g": 22,
-    "a": 31,
-    "p": 53,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20072008,
-    "team": null,
-    "gp": 9,
-    "g": 7,
-    "a": 7,
-    "p": 14,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20072008,
-    "team": null,
-    "gp": 7,
-    "g": 8,
-    "a": 5,
-    "p": 13,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   }
-  ],
-  "awards": [
-   {
-    "trophy": "Stanley Cup",
-    "seasons": [
-     20222023
-    ]
-   }
-  ]
- },
- "8476453": {
-  "playerId": 8476453,
-  "firstName": "Nikita",
-  "lastName": "Kucherov",
-  "sweaterNumber": 86,
-  "position": "R",
-  "birthDate": "1993-06-17",
-  "birthCity": "Maykop",
-  "birthCountry": "RUS",
-  "heightCm": 180,
-  "weightKg": 78,
-  "shootsCatches": "L",
-  "draft": "2011 R2 #28 TBL",
-  "team": "TBL",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8476453.png",
-  "bio": {
-   "birthCity": "Maykop",
-   "birthCountry": "RUS",
-   "draftDetails": {
-    "year": 2011,
-    "teamAbbrev": "TBL",
-    "round": 2,
-    "pickInRound": 28,
-    "overallPick": 58
-   }
-  },
-  "seasonStats": {
-   "gp": 14,
-   "g": 4,
-   "a": 16,
-   "p": 20,
-   "plusMinus": 6,
-   "pim": 6,
-   "shots": 38,
-   "shootingPctg": 10.5,
-   "ppPoints": 6,
-   "shPoints": 0
-  },
-  "careerStats": {
-   "gp": 893,
-   "g": 405,
-   "a": 739,
-   "p": 1144
-  },
-  "last5Games": [
-   {
-    "date": "2026-11-03",
-    "opponent": "DET",
-    "homeAway": "H",
-    "g": 0,
-    "a": 2,
-    "p": 2,
-    "toi": "21:40",
-    "shots": 3,
-    "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-31",
-    "opponent": "NSH",
-    "homeAway": "R",
-    "g": 0,
-    "a": 3,
-    "p": 3,
-    "toi": "23:41",
-    "shots": 1,
-    "plusMinus": 3,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-29",
-    "opponent": "WPG",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "16:13",
-    "shots": 3,
-    "plusMinus": 0,
-    "pim": 2
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "UTA",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "20:02",
-    "shots": 3,
-    "plusMinus": -1,
-    "pim": 2
-   },
-   {
-    "date": "2026-10-23",
-    "opponent": "COL",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "20:43",
-    "shots": 2,
-    "plusMinus": -1,
-    "pim": 0
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20092010,
-    "team": null,
-    "gp": 53,
-    "g": 29,
-    "a": 25,
-    "p": 54,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20092010,
-    "team": null,
-    "gp": 5,
-    "g": 0,
-    "a": 2,
-    "p": 2,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 41,
-    "g": 27,
-    "a": 31,
-    "p": 58,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 8,
-    "g": 0,
-    "a": 2,
-    "p": 2,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 7,
-    "g": 11,
-    "a": 10,
-    "p": 21,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   }
-  ],
-  "awards": [
-   {
-    "trophy": "Stanley Cup",
-    "seasons": [
-     20202021,
-     20192020
-    ]
-   },
-   {
-    "trophy": "Art Ross Trophy",
-    "seasons": [
-     20242025,
-     20232024,
-     20182019
-    ]
-   },
-   {
-    "trophy": "Hart Memorial Trophy",
-    "seasons": [
-     20252026,
-     20182019
-    ]
-   },
-   {
-    "trophy": "Ted Lindsay Award",
-    "seasons": [
-     20242025,
-     20182019
-    ]
-   }
-  ]
- },
  "8476479": {
   "playerId": 8476479,
   "firstName": "Phillip",
@@ -764,24 +377,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 1,
    "a": 5,
    "p": 6,
    "plusMinus": 4,
    "pim": 0,
-   "shots": 21,
-   "shootingPctg": 4.8,
+   "shots": 22,
+   "shootingPctg": 4.5,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 801,
+   "gp": 802,
    "g": 132,
    "a": 285,
    "p": 417
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "16:04",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -827,18 +452,6 @@
     "p": 0,
     "toi": "19:21",
     "shots": 0,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "18:58",
-    "shots": 1,
     "plusMinus": 0,
     "pim": 0
    }
@@ -1114,25 +727,37 @@
    }
   },
   "seasonStats": {
-   "gp": 11,
-   "w": 7,
+   "gp": 12,
+   "w": 8,
    "l": 3,
    "ot": 1,
-   "gaa": 2.908063,
-   "savePct": 0.878788,
+   "gaa": 2.749491,
+   "savePct": 0.886207,
    "so": 0,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 609,
-   "w": 377,
+   "gp": 610,
+   "w": 378,
    "l": 181,
-   "gaa": 2.506507,
-   "savePct": 0.916209,
+   "gaa": 2.504002,
+   "savePct": 0.916275,
    "so": 42
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "CHI",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "59:54",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-11-03",
     "opponent": "DET",
@@ -1177,18 +802,6 @@
     "a": null,
     "p": null,
     "toi": "59:52",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-20",
-    "opponent": "VGK",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "59:57",
     "shots": null,
     "plusMinus": null,
     "pim": null
@@ -1311,24 +924,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 7,
    "a": 3,
    "p": 10,
-   "plusMinus": 7,
-   "pim": 14,
-   "shots": 32,
-   "shootingPctg": 21.9,
+   "plusMinus": 8,
+   "pim": 16,
+   "shots": 33,
+   "shootingPctg": 21.2,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 703,
+   "gp": 704,
    "g": 167,
    "a": 116,
    "p": 283
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "12:22",
+    "shots": 1,
+    "plusMinus": 1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -1376,18 +1001,6 @@
     "shots": 2,
     "plusMinus": 0,
     "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "14:32",
-    "shots": 3,
-    "plusMinus": 0,
-    "pim": 2
    }
   ],
   "seasonTotals": [
@@ -1851,24 +1464,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
+   "gp": 17,
    "g": 12,
    "a": 5,
    "p": 17,
    "plusMinus": 12,
    "pim": 4,
-   "shots": 34,
-   "shootingPctg": 35.3,
+   "shots": 36,
+   "shootingPctg": 33.3,
    "ppPoints": 2,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 676,
+   "gp": 677,
    "g": 177,
    "a": 176,
    "p": 353
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "NSH",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "18:31",
+    "shots": 2,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "CBJ",
@@ -1915,18 +1540,6 @@
     "toi": "18:33",
     "shots": 2,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "NSH",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "18:32",
-    "shots": 5,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -2033,24 +1646,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
+   "gp": 17,
    "g": 9,
    "a": 18,
    "p": 27,
    "plusMinus": 5,
    "pim": 12,
-   "shots": 61,
-   "shootingPctg": 14.8,
+   "shots": 62,
+   "shootingPctg": 14.5,
    "ppPoints": 6,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 966,
+   "gp": 967,
    "g": 429,
    "a": 740,
    "p": 1169
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "NSH",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "24:00",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "CBJ",
@@ -2095,18 +1720,6 @@
     "a": 0,
     "p": 1,
     "toi": "19:00",
-    "shots": 2,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "NSH",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "19:49",
     "shots": 2,
     "plusMinus": 0,
     "pim": 0
@@ -2245,24 +1858,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
-   "g": 13,
-   "a": 16,
-   "p": 29,
-   "plusMinus": 15,
-   "pim": 0,
-   "shots": 57,
-   "shootingPctg": 22.8,
+   "gp": 17,
+   "g": 14,
+   "a": 17,
+   "p": 31,
+   "plusMinus": 16,
+   "pim": 2,
+   "shots": 63,
+   "shootingPctg": 22.2,
    "ppPoints": 11,
-   "shPoints": 0
+   "shPoints": 1
   },
   "careerStats": {
-   "gp": 871,
-   "g": 447,
-   "a": 635,
-   "p": 1082
+   "gp": 872,
+   "g": 448,
+   "a": 636,
+   "p": 1084
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "ANA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "24:06",
+    "shots": 6,
+    "plusMinus": 1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "NJD",
@@ -2308,18 +1933,6 @@
     "p": 0,
     "toi": "19:06",
     "shots": 2,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-26",
-    "opponent": "DET",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "25:10",
-    "shots": 3,
     "plusMinus": 0,
     "pim": 0
    }
@@ -2417,357 +2030,6 @@
     ]
    }
   ]
- },
- "8477939": {
-  "playerId": 8477939,
-  "firstName": "William",
-  "lastName": "Nylander",
-  "sweaterNumber": 88,
-  "position": "R",
-  "birthDate": "1996-05-01",
-  "birthCity": "Calgary",
-  "birthCountry": "CAN",
-  "heightCm": 183,
-  "weightKg": 91,
-  "shootsCatches": "R",
-  "draft": "2014 R1 #8 TOR",
-  "team": "TOR",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8477939.png",
-  "bio": {
-   "birthCity": "Calgary",
-   "birthCountry": "CAN",
-   "draftDetails": {
-    "year": 2014,
-    "teamAbbrev": "TOR",
-    "round": 1,
-    "pickInRound": 8,
-    "overallPick": 8
-   }
-  },
-  "seasonStats": {
-   "gp": 17,
-   "g": 10,
-   "a": 11,
-   "p": 21,
-   "plusMinus": -1,
-   "pim": 4,
-   "shots": 49,
-   "shootingPctg": 20.4,
-   "ppPoints": 7,
-   "shPoints": 0
-  },
-  "careerStats": {
-   "gp": 767,
-   "g": 302,
-   "a": 410,
-   "p": 712
-  },
-  "last5Games": [
-   {
-    "date": "2026-11-03",
-    "opponent": "UTA",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "21:24",
-    "shots": 3,
-    "plusMinus": -1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-31",
-    "opponent": "VAN",
-    "homeAway": "R",
-    "g": 1,
-    "a": 1,
-    "p": 2,
-    "toi": "19:43",
-    "shots": 2,
-    "plusMinus": 2,
-    "pim": 2
-   },
-   {
-    "date": "2026-10-28",
-    "opponent": "SEA",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "22:13",
-    "shots": 3,
-    "plusMinus": -1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-26",
-    "opponent": "CGY",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "19:14",
-    "shots": 4,
-    "plusMinus": 0,
-    "pim": 2
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "EDM",
-    "homeAway": "R",
-    "g": 2,
-    "a": 0,
-    "p": 2,
-    "toi": "15:59",
-    "shots": 3,
-    "plusMinus": 2,
-    "pim": 0
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20082009,
-    "team": null,
-    "gp": 28,
-    "g": 25,
-    "a": 26,
-    "p": 51,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 29,
-    "g": 34,
-    "a": 27,
-    "p": 61,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 18,
-    "g": 12,
-    "a": 14,
-    "p": 26,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 9,
-    "g": 7,
-    "a": 5,
-    "p": 12,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 8,
-    "g": 1,
-    "a": 3,
-    "p": 4,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   }
-  ],
-  "awards": []
- },
- "8478009": {
-  "playerId": 8478009,
-  "firstName": "Ilya",
-  "lastName": "Sorokin",
-  "sweaterNumber": 30,
-  "position": "G",
-  "birthDate": "1995-08-04",
-  "birthCity": "Mezhdurechensk",
-  "birthCountry": "RUS",
-  "heightCm": 188,
-  "weightKg": 88,
-  "shootsCatches": "L",
-  "draft": "2014 R3 #18 NYI",
-  "team": "NYI",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8478009.png",
-  "bio": {
-   "birthCity": "Mezhdurechensk",
-   "birthCountry": "RUS",
-   "draftDetails": {
-    "year": 2014,
-    "teamAbbrev": "NYI",
-    "round": 3,
-    "pickInRound": 18,
-    "overallPick": 78
-   }
-  },
-  "seasonStats": {
-   "gp": 10,
-   "w": 6,
-   "l": 4,
-   "ot": 0,
-   "gaa": 2.40937,
-   "savePct": 0.911439,
-   "so": 1,
-   "saves": null,
-   "shotsAgainst": null
-  },
-  "careerStats": {
-   "gp": 318,
-   "w": 160,
-   "l": 117,
-   "gaa": 2.589908,
-   "savePct": 0.914646,
-   "so": 30
-  },
-  "last5Games": [
-   {
-    "date": "2026-10-31",
-    "opponent": "EDM",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "59:26",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-29",
-    "opponent": "MIN",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "60:33",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "DAL",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "59:56",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-20",
-    "opponent": "ANA",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "60:00",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-17",
-    "opponent": "TOR",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "60:00",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 27,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": 11,
-    "l": 8,
-    "gaa": 2.57,
-    "savePct": null,
-    "so": 1
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 5,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": 1,
-    "l": 1,
-    "gaa": 2.77,
-    "savePct": null,
-    "so": 0
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 3,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": 0,
-    "l": 2,
-    "gaa": 3.4,
-    "savePct": null,
-    "so": 0
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 3,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": 1,
-    "l": 2,
-    "gaa": 3.03,
-    "savePct": null,
-    "so": 0
-   },
-   {
-    "season": 20132014,
-    "team": null,
-    "gp": 4,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": 2,
-    "l": 1,
-    "gaa": 2.69,
-    "savePct": null,
-    "so": 0
-   }
-  ],
-  "awards": []
  },
  "8478048": {
   "playerId": 8478048,
@@ -2979,10 +2241,10 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 2,
-   "a": 3,
-   "p": 5,
+   "a": 4,
+   "p": 6,
    "plusMinus": 5,
    "pim": 2,
    "shots": 12,
@@ -2991,12 +2253,24 @@
    "shPoints": 1
   },
   "careerStats": {
-   "gp": 433,
+   "gp": 434,
    "g": 54,
-   "a": 103,
-   "p": 157
+   "a": 104,
+   "p": 158
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "19:47",
+    "shots": 0,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -3042,18 +2316,6 @@
     "p": 0,
     "toi": "15:24",
     "shots": 0,
-    "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "18:06",
-    "shots": 1,
     "plusMinus": 1,
     "pim": 0
    }
@@ -3154,24 +2416,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
+   "gp": 17,
    "g": 13,
-   "a": 4,
-   "p": 17,
-   "plusMinus": -4,
-   "pim": 0,
-   "shots": 68,
-   "shootingPctg": 19.1,
+   "a": 6,
+   "p": 19,
+   "plusMinus": -2,
+   "pim": 2,
+   "shots": 70,
+   "shootingPctg": 18.6,
    "ppPoints": 7,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 711,
+   "gp": 712,
    "g": 336,
-   "a": 355,
-   "p": 691
+   "a": 357,
+   "p": 693
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "VAN",
+    "homeAway": "H",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "18:17",
+    "shots": 2,
+    "plusMinus": 2,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "MTL",
@@ -3218,18 +2492,6 @@
     "toi": "19:09",
     "shots": 4,
     "plusMinus": -2,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-27",
-    "opponent": "FLA",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "21:34",
-    "shots": 3,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -3336,24 +2598,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
-   "g": 9,
-   "a": 31,
-   "p": 40,
-   "plusMinus": 20,
+   "gp": 17,
+   "g": 10,
+   "a": 34,
+   "p": 44,
+   "plusMinus": 21,
    "pim": 2,
-   "shots": 43,
-   "shootingPctg": 20.9,
-   "ppPoints": 16,
-   "shPoints": 1
+   "shots": 46,
+   "shootingPctg": 21.7,
+   "ppPoints": 18,
+   "shPoints": 2
   },
   "careerStats": {
-   "gp": 810,
-   "g": 418,
-   "a": 842,
-   "p": 1260
+   "gp": 811,
+   "g": 419,
+   "a": 845,
+   "p": 1264
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "ANA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 3,
+    "p": 4,
+    "toi": "24:25",
+    "shots": 3,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "NJD",
@@ -3400,18 +2674,6 @@
     "toi": "18:50",
     "shots": 3,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-26",
-    "opponent": "DET",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "26:27",
-    "shots": 2,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -3553,24 +2815,36 @@
    }
   },
   "seasonStats": {
-   "gp": 17,
+   "gp": 18,
    "g": 7,
-   "a": 15,
-   "p": 22,
-   "plusMinus": 6,
+   "a": 16,
+   "p": 23,
+   "plusMinus": 7,
    "pim": 2,
-   "shots": 40,
-   "shootingPctg": 17.5,
+   "shots": 45,
+   "shootingPctg": 15.6,
    "ppPoints": 8,
    "shPoints": 2
   },
   "careerStats": {
-   "gp": 707,
+   "gp": 708,
    "g": 273,
-   "a": 447,
-   "p": 720
+   "a": 448,
+   "p": 721
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "DET",
+    "homeAway": "R",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "21:46",
+    "shots": 5,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "PIT",
@@ -3617,18 +2891,6 @@
     "toi": "21:16",
     "shots": 1,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "CBJ",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "21:43",
-    "shots": 6,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -3735,25 +2997,37 @@
    }
   },
   "seasonStats": {
-   "gp": 12,
+   "gp": 13,
    "w": 8,
    "l": 3,
-   "ot": 0,
-   "gaa": 2.79931,
-   "savePct": 0.893688,
+   "ot": 1,
+   "gaa": 2.806799,
+   "savePct": 0.892638,
    "so": 0,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 303,
+   "gp": 304,
    "w": 134,
    "l": 116,
-   "gaa": 2.893568,
-   "savePct": 0.905103,
+   "gaa": 2.89355,
+   "savePct": 0.905031,
    "so": 17
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "NSH",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "62:18",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-11-03",
     "opponent": "CBJ",
@@ -3798,18 +3072,6 @@
     "a": null,
     "p": null,
     "toi": "59:27",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-23",
-    "opponent": "TBL",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "60:00",
     "shots": null,
     "plusMinus": null,
     "pim": null
@@ -3885,6 +3147,188 @@
   "awards": [
    {
     "trophy": "William M. Jennings Trophy",
+    "seasons": [
+     20252026
+    ]
+   }
+  ]
+ },
+ "8478427": {
+  "playerId": 8478427,
+  "firstName": "Sebastian",
+  "lastName": "Aho",
+  "sweaterNumber": 20,
+  "position": "C",
+  "birthDate": "1997-07-26",
+  "birthCity": "Rauma",
+  "birthCountry": "FIN",
+  "heightCm": 183,
+  "weightKg": 86,
+  "shootsCatches": "L",
+  "draft": "2015 R2 #5 CAR",
+  "team": "CAR",
+  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8478427.png",
+  "bio": {
+   "birthCity": "Rauma",
+   "birthCountry": "FIN",
+   "draftDetails": {
+    "year": 2015,
+    "teamAbbrev": "CAR",
+    "round": 2,
+    "pickInRound": 5,
+    "overallPick": 35
+   }
+  },
+  "seasonStats": {
+   "gp": 18,
+   "g": 9,
+   "a": 14,
+   "p": 23,
+   "plusMinus": 10,
+   "pim": 16,
+   "shots": 53,
+   "shootingPctg": 17.0,
+   "ppPoints": 7,
+   "shPoints": 3
+  },
+  "careerStats": {
+   "gp": 774,
+   "g": 319,
+   "a": 415,
+   "p": 734
+  },
+  "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "NYI",
+    "homeAway": "R",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "22:09",
+    "shots": 4,
+    "plusMinus": 3,
+    "pim": 0
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "NSH",
+    "homeAway": "R",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "20:51",
+    "shots": 4,
+    "plusMinus": -1,
+    "pim": 0
+   },
+   {
+    "date": "2026-11-01",
+    "opponent": "WPG",
+    "homeAway": "H",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "21:16",
+    "shots": 1,
+    "plusMinus": 1,
+    "pim": 0
+   },
+   {
+    "date": "2026-10-29",
+    "opponent": "CBJ",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "17:38",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 2
+   },
+   {
+    "date": "2026-10-27",
+    "opponent": "BOS",
+    "homeAway": "H",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "21:18",
+    "shots": 5,
+    "plusMinus": 1,
+    "pim": 2
+   }
+  ],
+  "seasonTotals": [
+   {
+    "season": 20112012,
+    "team": null,
+    "gp": 4,
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20112012,
+    "team": null,
+    "gp": 8,
+    "g": 8,
+    "a": 3,
+    "p": 11,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20122013,
+    "team": null,
+    "gp": 38,
+    "g": 28,
+    "a": 32,
+    "p": 60,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20122013,
+    "team": null,
+    "gp": 5,
+    "g": 2,
+    "a": 2,
+    "p": 4,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20122013,
+    "team": null,
+    "gp": 5,
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   }
+  ],
+  "awards": [
+   {
+    "trophy": "Stanley Cup",
     "seasons": [
      20252026
     ]
@@ -4094,24 +3538,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 1,
    "a": 5,
    "p": 6,
    "plusMinus": 5,
    "pim": 12,
-   "shots": 13,
-   "shootingPctg": 7.7,
+   "shots": 14,
+   "shootingPctg": 7.1,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 384,
+   "gp": 385,
    "g": 21,
    "a": 94,
    "p": 115
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "21:41",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -4159,18 +3615,6 @@
     "shots": 0,
     "plusMinus": 0,
     "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "20:32",
-    "shots": 1,
-    "plusMinus": -1,
-    "pim": 2
    }
   ],
   "seasonTotals": [
@@ -4423,182 +3867,6 @@
     ]
    }
   ]
- },
- "8478872": {
-  "playerId": 8478872,
-  "firstName": "Karel",
-  "lastName": "Vejmelka",
-  "sweaterNumber": 70,
-  "position": "G",
-  "birthDate": "1996-05-25",
-  "birthCity": "Trebic",
-  "birthCountry": "CZE",
-  "heightCm": 193,
-  "weightKg": 100,
-  "shootsCatches": "R",
-  "draft": "2015 R5 #24 NSH",
-  "team": "UTA",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png",
-  "bio": {
-   "birthCity": "Trebic",
-   "birthCountry": "CZE",
-   "draftDetails": {
-    "year": 2015,
-    "teamAbbrev": "NSH",
-    "round": 5,
-    "pickInRound": 24,
-    "overallPick": 145
-   }
-  },
-  "seasonStats": {
-   "gp": 12,
-   "w": 6,
-   "l": 5,
-   "ot": 0,
-   "gaa": 3.306934,
-   "savePct": 0.871886,
-   "so": 1,
-   "saves": null,
-   "shotsAgainst": null
-  },
-  "careerStats": {
-   "gp": 274,
-   "w": 114,
-   "l": 122,
-   "gaa": 3.111073,
-   "savePct": 0.898266,
-   "so": 9
-  },
-  "last5Games": [
-   {
-    "date": "2026-11-01",
-    "opponent": "PHI",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "58:25",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-27",
-    "opponent": "MIN",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "57:22",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "TBL",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "61:44",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-22",
-    "opponent": "SEA",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "58:14",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-17",
-    "opponent": "EDM",
-    "homeAway": "H",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "33:48",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 24,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": null,
-    "l": null,
-    "gaa": 2.41,
-    "savePct": 0.904,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 17,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": null,
-    "l": null,
-    "gaa": 2.87,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 2,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": null,
-    "l": null,
-    "gaa": 2.0,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 1,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": null,
-    "l": null,
-    "gaa": 0.0,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 5,
-    "g": null,
-    "a": null,
-    "p": null,
-    "w": null,
-    "l": null,
-    "gaa": 2.17,
-    "savePct": null,
-    "so": null
-   }
-  ],
-  "awards": []
  },
  "8479314": {
   "playerId": 8479314,
@@ -5012,24 +4280,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
+   "gp": 17,
    "g": 2,
-   "a": 17,
-   "p": 19,
+   "a": 19,
+   "p": 21,
    "plusMinus": 2,
    "pim": 6,
-   "shots": 22,
-   "shootingPctg": 9.1,
-   "ppPoints": 4,
+   "shots": 23,
+   "shootingPctg": 8.7,
+   "ppPoints": 5,
    "shPoints": 2
   },
   "careerStats": {
-   "gp": 502,
+   "gp": 503,
    "g": 74,
-   "a": 367,
-   "p": 441
+   "a": 369,
+   "p": 443
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "PHI",
+    "homeAway": "H",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "25:28",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "STL",
@@ -5076,18 +4356,6 @@
     "toi": "24:34",
     "shots": 0,
     "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-22",
-    "opponent": "TOR",
-    "homeAway": "R",
-    "g": 0,
-    "a": 4,
-    "p": 4,
-    "toi": "23:59",
-    "shots": 0,
-    "plusMinus": 4,
     "pim": 0
    }
   ],
@@ -5194,24 +4462,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
+   "gp": 17,
    "g": 4,
-   "a": 17,
-   "p": 21,
-   "plusMinus": -8,
+   "a": 18,
+   "p": 22,
+   "plusMinus": -9,
    "pim": 16,
-   "shots": 41,
-   "shootingPctg": 9.8,
-   "ppPoints": 14,
+   "shots": 42,
+   "shootingPctg": 9.5,
+   "ppPoints": 15,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 699,
+   "gp": 700,
    "g": 226,
-   "a": 391,
-   "p": 617
+   "a": 392,
+   "p": 618
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "MTL",
+    "homeAway": "R",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "22:24",
+    "shots": 1,
+    "plusMinus": -1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "TOR",
@@ -5259,18 +4539,6 @@
     "shots": 3,
     "plusMinus": 1,
     "pim": 6
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "TBL",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "16:07",
-    "shots": 1,
-    "plusMinus": -1,
-    "pim": 2
    }
   ],
   "seasonTotals": [
@@ -5333,181 +4601,6 @@
     "g": 36,
     "a": 41,
     "p": 77,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   }
-  ],
-  "awards": []
- },
- "8479420": {
-  "playerId": 8479420,
-  "firstName": "Tage",
-  "lastName": "Thompson",
-  "sweaterNumber": 72,
-  "position": "C",
-  "birthDate": "1997-10-30",
-  "birthCity": "Phoenix",
-  "birthCountry": "USA",
-  "heightCm": 198,
-  "weightKg": 100,
-  "shootsCatches": "R",
-  "draft": "2016 R1 #26 STL",
-  "team": "BUF",
-  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8479420.png",
-  "bio": {
-   "birthCity": "Phoenix",
-   "birthCountry": "USA",
-   "draftDetails": {
-    "year": 2016,
-    "teamAbbrev": "STL",
-    "round": 1,
-    "pickInRound": 26,
-    "overallPick": 26
-   }
-  },
-  "seasonStats": {
-   "gp": 15,
-   "g": 10,
-   "a": 8,
-   "p": 18,
-   "plusMinus": 6,
-   "pim": 6,
-   "shots": 65,
-   "shootingPctg": 15.4,
-   "ppPoints": 5,
-   "shPoints": 0
-  },
-  "careerStats": {
-   "gp": 544,
-   "g": 226,
-   "a": 198,
-   "p": 424
-  },
-  "last5Games": [
-   {
-    "date": "2026-11-04",
-    "opponent": "OTT",
-    "homeAway": "H",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "19:34",
-    "shots": 2,
-    "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-31",
-    "opponent": "LAK",
-    "homeAway": "R",
-    "g": 2,
-    "a": 0,
-    "p": 2,
-    "toi": "20:09",
-    "shots": 8,
-    "plusMinus": 1,
-    "pim": 2
-   },
-   {
-    "date": "2026-10-29",
-    "opponent": "ANA",
-    "homeAway": "R",
-    "g": 3,
-    "a": 2,
-    "p": 5,
-    "toi": "17:49",
-    "shots": 4,
-    "plusMinus": 3,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-27",
-    "opponent": "SJS",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "17:10",
-    "shots": 6,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "WSH",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "17:00",
-    "shots": 0,
-    "plusMinus": -1,
-    "pim": 0
-   }
-  ],
-  "seasonTotals": [
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 12,
-    "g": 23,
-    "a": 29,
-    "p": 52,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20102011,
-    "team": null,
-    "gp": 5,
-    "g": 8,
-    "a": 5,
-    "p": 13,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20112012,
-    "team": null,
-    "gp": 22,
-    "g": 16,
-    "a": 5,
-    "p": 21,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20122013,
-    "team": null,
-    "gp": 14,
-    "g": 12,
-    "a": 13,
-    "p": 25,
-    "w": null,
-    "l": null,
-    "gaa": null,
-    "savePct": null,
-    "so": null
-   },
-   {
-    "season": 20132014,
-    "team": null,
-    "gp": 16,
-    "g": 17,
-    "a": 14,
-    "p": 31,
     "w": null,
     "l": null,
     "gaa": null,
@@ -5720,24 +4813,36 @@
    }
   },
   "seasonStats": {
-   "gp": 9,
-   "g": 5,
-   "a": 7,
-   "p": 12,
-   "plusMinus": 6,
+   "gp": 10,
+   "g": 6,
+   "a": 9,
+   "p": 15,
+   "plusMinus": 8,
    "pim": 2,
-   "shots": 26,
-   "shootingPctg": 19.2,
-   "ppPoints": 2,
+   "shots": 30,
+   "shootingPctg": 20.0,
+   "ppPoints": 3,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 546,
-   "g": 172,
-   "a": 316,
-   "p": 488
+   "gp": 547,
+   "g": 173,
+   "a": 318,
+   "p": 491
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 2,
+    "p": 3,
+    "toi": "20:04",
+    "shots": 4,
+    "plusMinus": 2,
+    "pim": 0
+   },
    {
     "date": "2026-10-20",
     "opponent": "SJS",
@@ -5783,18 +4888,6 @@
     "p": 1,
     "toi": "23:32",
     "shots": 5,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-10",
-    "opponent": "DET",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "26:06",
-    "shots": 3,
     "plusMinus": 0,
     "pim": 0
    }
@@ -5902,25 +4995,37 @@
    }
   },
   "seasonStats": {
-   "gp": 4,
-   "w": 3,
+   "gp": 5,
+   "w": 4,
    "l": 1,
    "ot": 0,
-   "gaa": 2.25611,
-   "savePct": 0.929134,
+   "gaa": 2.204777,
+   "savePct": 0.924138,
    "so": 1,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 8,
-   "w": 3,
+   "gp": 9,
+   "w": 4,
    "l": 3,
-   "gaa": 3.233336,
-   "savePct": 0.887006,
+   "gaa": 3.061696,
+   "savePct": 0.887179,
    "so": 1
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "PIT",
+    "homeAway": "R",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "60:00",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-10-31",
     "opponent": "CHI",
@@ -6066,24 +5171,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 2,
    "a": 3,
    "p": 5,
-   "plusMinus": -1,
-   "pim": 8,
-   "shots": 21,
-   "shootingPctg": 9.5,
+   "plusMinus": -2,
+   "pim": 10,
+   "shots": 22,
+   "shootingPctg": 9.1,
    "ppPoints": 1,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 298,
+   "gp": 299,
    "g": 50,
    "a": 66,
    "p": 116
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "13:10",
+    "shots": 1,
+    "plusMinus": -1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -6130,18 +5247,6 @@
     "toi": "11:58",
     "shots": 0,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "12:26",
-    "shots": 1,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -6241,25 +5346,37 @@
    }
   },
   "seasonStats": {
-   "gp": 6,
+   "gp": 7,
    "w": 2,
-   "l": 1,
+   "l": 2,
    "ot": 2,
-   "gaa": 1.737079,
-   "savePct": 0.926829,
+   "gaa": 1.791288,
+   "savePct": 0.929936,
    "so": 1,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 104,
+   "gp": 105,
    "w": 34,
-   "l": 50,
-   "gaa": 3.218166,
-   "savePct": 0.898249,
+   "l": 51,
+   "gaa": 3.206905,
+   "savePct": 0.898726,
    "so": 2
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "VGK",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "57:35",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-11-03",
     "opponent": "TBL",
@@ -6304,18 +5421,6 @@
     "a": null,
     "p": null,
     "toi": "60:00",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-10",
-    "opponent": "MTL",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "65:00",
     "shots": null,
     "plusMinus": null,
     "pim": null
@@ -6782,24 +5887,36 @@
    }
   },
   "seasonStats": {
-   "gp": 16,
-   "g": 9,
-   "a": 19,
-   "p": 28,
+   "gp": 17,
+   "g": 10,
+   "a": 20,
+   "p": 30,
    "plusMinus": 23,
-   "pim": 0,
-   "shots": 45,
-   "shootingPctg": 20.0,
-   "ppPoints": 9,
+   "pim": 2,
+   "shots": 48,
+   "shootingPctg": 20.8,
+   "ppPoints": 10,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 445,
-   "g": 85,
-   "a": 276,
-   "p": 361
+   "gp": 446,
+   "g": 86,
+   "a": 277,
+   "p": 363
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "ANA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "24:12",
+    "shots": 3,
+    "plusMinus": 0,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "NJD",
@@ -6845,18 +5962,6 @@
     "p": 1,
     "toi": "22:12",
     "shots": 4,
-    "plusMinus": 2,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-26",
-    "opponent": "DET",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "31:41",
-    "shots": 2,
     "plusMinus": 2,
     "pim": 0
    }
@@ -6957,24 +6062,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 0,
-   "a": 6,
-   "p": 6,
-   "plusMinus": 0,
+   "a": 8,
+   "p": 8,
+   "plusMinus": 1,
    "pim": 12,
-   "shots": 33,
+   "shots": 34,
    "shootingPctg": 0.0,
    "ppPoints": 1,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 483,
+   "gp": 484,
    "g": 62,
-   "a": 221,
-   "p": 283
+   "a": 223,
+   "p": 285
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "20:35",
+    "shots": 1,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -7021,18 +6138,6 @@
     "toi": "19:35",
     "shots": 2,
     "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "19:25",
-    "shots": 1,
-    "plusMinus": 1,
     "pim": 0
    }
   ],
@@ -7308,24 +6413,36 @@
    }
   },
   "seasonStats": {
-   "gp": 13,
-   "g": 0,
-   "a": 3,
-   "p": 3,
-   "plusMinus": -2,
+   "gp": 14,
+   "g": 1,
+   "a": 4,
+   "p": 5,
+   "plusMinus": 0,
    "pim": 6,
-   "shots": 9,
-   "shootingPctg": 0.0,
-   "ppPoints": 0,
+   "shots": 11,
+   "shootingPctg": 9.1,
+   "ppPoints": 1,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 319,
-   "g": 51,
-   "a": 88,
-   "p": 139
+   "gp": 320,
+   "g": 52,
+   "a": 89,
+   "p": 141
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "11:28",
+    "shots": 2,
+    "plusMinus": 2,
+    "pim": 0
+   },
    {
     "date": "2026-10-29",
     "opponent": "DAL",
@@ -7372,18 +6489,6 @@
     "toi": "11:32",
     "shots": 1,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-20",
-    "opponent": "SJS",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "10:15",
-    "shots": 1,
-    "plusMinus": -1,
     "pim": 0
    }
   ],
@@ -7483,24 +6588,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
-   "g": 10,
+   "gp": 16,
+   "g": 11,
    "a": 4,
-   "p": 14,
-   "plusMinus": 3,
-   "pim": 6,
-   "shots": 48,
-   "shootingPctg": 20.8,
+   "p": 15,
+   "plusMinus": 5,
+   "pim": 8,
+   "shots": 54,
+   "shootingPctg": 20.4,
    "ppPoints": 3,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 383,
-   "g": 179,
+   "gp": 384,
+   "g": 180,
    "a": 142,
-   "p": 321
+   "p": 322
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "18:25",
+    "shots": 6,
+    "plusMinus": 2,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -7547,18 +6664,6 @@
     "toi": "16:21",
     "shots": 3,
     "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 2,
-    "p": 2,
-    "toi": "15:50",
-    "shots": 0,
-    "plusMinus": 1,
     "pim": 0
    }
   ],
@@ -7814,6 +6919,181 @@
   ],
   "awards": []
  },
+ "8481605": {
+  "playerId": 8481605,
+  "firstName": "Jackson",
+  "lastName": "LaCombe",
+  "sweaterNumber": 2,
+  "position": "D",
+  "birthDate": "2001-01-09",
+  "birthCity": "Eden Prairie",
+  "birthCountry": "USA",
+  "heightCm": 188,
+  "weightKg": 96,
+  "shootsCatches": "L",
+  "draft": "2019 R2 #8 ANA",
+  "team": "ANA",
+  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8481605.png",
+  "bio": {
+   "birthCity": "Eden Prairie",
+   "birthCountry": "USA",
+   "draftDetails": {
+    "year": 2019,
+    "teamAbbrev": "ANA",
+    "round": 2,
+    "pickInRound": 8,
+    "overallPick": 39
+   }
+  },
+  "seasonStats": {
+   "gp": 16,
+   "g": 1,
+   "a": 17,
+   "p": 18,
+   "plusMinus": -3,
+   "pim": 14,
+   "shots": 10,
+   "shootingPctg": 10.0,
+   "ppPoints": 10,
+   "shPoints": 0
+  },
+  "careerStats": {
+   "gp": 246,
+   "g": 27,
+   "a": 109,
+   "p": 136
+  },
+  "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "EDM",
+    "homeAway": "R",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "33:09",
+    "shots": 0,
+    "plusMinus": 0,
+    "pim": 2
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "VAN",
+    "homeAway": "R",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "23:41",
+    "shots": 0,
+    "plusMinus": -1,
+    "pim": 0
+   },
+   {
+    "date": "2026-11-01",
+    "opponent": "OTT",
+    "homeAway": "H",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "28:04",
+    "shots": 2,
+    "plusMinus": 0,
+    "pim": 2
+   },
+   {
+    "date": "2026-10-29",
+    "opponent": "BUF",
+    "homeAway": "H",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "29:36",
+    "shots": 1,
+    "plusMinus": -1,
+    "pim": 0
+   },
+   {
+    "date": "2026-10-27",
+    "opponent": "VAN",
+    "homeAway": "H",
+    "g": 0,
+    "a": 3,
+    "p": 3,
+    "toi": "28:47",
+    "shots": 1,
+    "plusMinus": 0,
+    "pim": 0
+   }
+  ],
+  "seasonTotals": [
+   {
+    "season": 20132014,
+    "team": null,
+    "gp": 4,
+    "g": 3,
+    "a": 1,
+    "p": 4,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20132014,
+    "team": null,
+    "gp": 4,
+    "g": 3,
+    "a": 1,
+    "p": 4,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20142015,
+    "team": null,
+    "gp": 5,
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20152016,
+    "team": null,
+    "gp": 61,
+    "g": 13,
+    "a": 21,
+    "p": 34,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20152016,
+    "team": null,
+    "gp": 8,
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   }
+  ],
+  "awards": []
+ },
  "8481611": {
   "playerId": 8481611,
   "firstName": "Pyotr",
@@ -8024,24 +7304,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 3,
-   "a": 3,
-   "p": 6,
-   "plusMinus": -4,
-   "pim": 10,
+   "a": 4,
+   "p": 7,
+   "plusMinus": -3,
+   "pim": 12,
    "shots": 15,
    "shootingPctg": 20.0,
    "ppPoints": 1,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 353,
+   "gp": 354,
    "g": 73,
-   "a": 84,
-   "p": 157
+   "a": 85,
+   "p": 158
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "12:14",
+    "shots": 0,
+    "plusMinus": 1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -8089,18 +7381,6 @@
     "shots": 1,
     "plusMinus": 1,
     "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "15:01",
-    "shots": 0,
-    "plusMinus": 0,
-    "pim": 4
    }
   ],
   "seasonTotals": [
@@ -8206,25 +7486,37 @@
    }
   },
   "seasonStats": {
-   "gp": 10,
+   "gp": 11,
    "w": 5,
-   "l": 4,
+   "l": 5,
    "ot": 1,
-   "gaa": 2.984167,
-   "savePct": 0.88764,
+   "gaa": 3.257018,
+   "savePct": 0.876289,
    "so": 2,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 68,
+   "gp": 69,
    "w": 32,
-   "l": 24,
-   "gaa": 3.075048,
-   "savePct": 0.88586,
+   "l": 25,
+   "gaa": 3.118907,
+   "savePct": 0.884034,
    "so": 4
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "BOS",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "60:00",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-11-03",
     "opponent": "VGK",
@@ -8269,18 +7561,6 @@
     "a": null,
     "p": null,
     "toi": "60:00",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-19",
-    "opponent": "UTA",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "58:44",
     "shots": null,
     "plusMinus": null,
     "pim": null
@@ -8382,24 +7662,36 @@
    }
   },
   "seasonStats": {
-   "gp": 11,
+   "gp": 12,
    "g": 2,
    "a": 3,
    "p": 5,
-   "plusMinus": 2,
-   "pim": 8,
-   "shots": 13,
-   "shootingPctg": 15.4,
+   "plusMinus": 3,
+   "pim": 10,
+   "shots": 14,
+   "shootingPctg": 14.3,
    "ppPoints": 0,
    "shPoints": 1
   },
   "careerStats": {
-   "gp": 219,
+   "gp": 220,
    "g": 20,
    "a": 54,
    "p": 74
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "23:11",
+    "shots": 1,
+    "plusMinus": 1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -8447,18 +7739,6 @@
     "shots": 1,
     "plusMinus": 1,
     "pim": 4
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "23:10",
-    "shots": 1,
-    "plusMinus": 0,
-    "pim": 0
    }
   ],
   "seasonTotals": [
@@ -8705,6 +7985,182 @@
   ],
   "awards": []
  },
+ "8482193": {
+  "playerId": 8482193,
+  "firstName": "Dylan",
+  "lastName": "Garand",
+  "sweaterNumber": 33,
+  "position": "G",
+  "birthDate": "2002-06-07",
+  "birthCity": "Victoria",
+  "birthCountry": "CAN",
+  "heightCm": 185,
+  "weightKg": 83,
+  "shootsCatches": "L",
+  "draft": "2020 R4 #10 NYR",
+  "team": "NYR",
+  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482193.png",
+  "bio": {
+   "birthCity": "Victoria",
+   "birthCountry": "CAN",
+   "draftDetails": {
+    "year": 2020,
+    "teamAbbrev": "NYR",
+    "round": 4,
+    "pickInRound": 10,
+    "overallPick": 103
+   }
+  },
+  "seasonStats": {
+   "gp": 13,
+   "w": 6,
+   "l": 6,
+   "ot": 1,
+   "gaa": 2.517968,
+   "savePct": 0.906149,
+   "so": 1,
+   "saves": null,
+   "shotsAgainst": null
+  },
+  "careerStats": {
+   "gp": 16,
+   "w": 8,
+   "l": 6,
+   "gaa": 2.328678,
+   "savePct": 0.916049,
+   "so": 1
+  },
+  "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "PHI",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "59:45",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "STL",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "60:00",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
+   {
+    "date": "2026-11-01",
+    "opponent": "EDM",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "57:50",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
+   {
+    "date": "2026-10-26",
+    "opponent": "LAK",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "38:05",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
+   {
+    "date": "2026-10-24",
+    "opponent": "OTT",
+    "homeAway": "R",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "58:29",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   }
+  ],
+  "seasonTotals": [
+   {
+    "season": 20162017,
+    "team": null,
+    "gp": 13,
+    "g": null,
+    "a": null,
+    "p": null,
+    "w": 13,
+    "l": 0,
+    "gaa": 1.15,
+    "savePct": 0.959,
+    "so": 4
+   },
+   {
+    "season": 20162017,
+    "team": null,
+    "gp": 3,
+    "g": null,
+    "a": null,
+    "p": null,
+    "w": 2,
+    "l": 1,
+    "gaa": 2.57,
+    "savePct": 0.927,
+    "so": 1
+   },
+   {
+    "season": 20172018,
+    "team": null,
+    "gp": 3,
+    "g": null,
+    "a": null,
+    "p": null,
+    "w": 1,
+    "l": 2,
+    "gaa": 3.14,
+    "savePct": 0.905,
+    "so": 0
+   },
+   {
+    "season": 20172018,
+    "team": null,
+    "gp": 22,
+    "g": null,
+    "a": null,
+    "p": null,
+    "w": 15,
+    "l": 5,
+    "gaa": 2.12,
+    "savePct": 0.931,
+    "so": 4
+   },
+   {
+    "season": 20172018,
+    "team": null,
+    "gp": 4,
+    "g": null,
+    "a": null,
+    "p": null,
+    "w": 3,
+    "l": 1,
+    "gaa": 2.01,
+    "savePct": 0.925,
+    "so": 0
+   }
+  ],
+  "awards": []
+ },
  "8482445": {
   "playerId": 8482445,
   "firstName": "Devin",
@@ -8902,25 +8358,37 @@
    }
   },
   "seasonStats": {
-   "gp": 6,
-   "w": 2,
+   "gp": 7,
+   "w": 3,
    "l": 2,
    "ot": 2,
-   "gaa": 4.054625,
-   "savePct": 0.852761,
+   "gaa": 4.041862,
+   "savePct": 0.846995,
    "so": 0,
    "saves": null,
    "shotsAgainst": null
   },
   "careerStats": {
-   "gp": 65,
-   "w": 38,
+   "gp": 66,
+   "w": 39,
    "l": 16,
-   "gaa": 2.891743,
-   "savePct": 0.898883,
+   "gaa": 2.908789,
+   "savePct": 0.89779,
    "so": 1
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": null,
+    "a": null,
+    "p": null,
+    "toi": "60:30",
+    "shots": null,
+    "plusMinus": null,
+    "pim": null
+   },
    {
     "date": "2026-10-29",
     "opponent": "DAL",
@@ -8965,18 +8433,6 @@
     "a": null,
     "p": null,
     "toi": "57:13",
-    "shots": null,
-    "plusMinus": null,
-    "pim": null
-   },
-   {
-    "date": "2026-10-03",
-    "opponent": "PIT",
-    "homeAway": "R",
-    "g": null,
-    "a": null,
-    "p": null,
-    "toi": "59:04",
     "shots": null,
     "plusMinus": null,
     "pim": null
@@ -9254,24 +8710,36 @@
    }
   },
   "seasonStats": {
-   "gp": 17,
-   "g": 10,
+   "gp": 18,
+   "g": 11,
    "a": 6,
-   "p": 16,
-   "plusMinus": 13,
+   "p": 17,
+   "plusMinus": 14,
    "pim": 2,
-   "shots": 52,
-   "shootingPctg": 19.2,
+   "shots": 55,
+   "shootingPctg": 20.0,
    "ppPoints": 3,
    "shPoints": 1
   },
   "careerStats": {
-   "gp": 200,
-   "g": 51,
+   "gp": 201,
+   "g": 52,
    "a": 61,
-   "p": 112
+   "p": 113
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "NYI",
+    "homeAway": "R",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "14:13",
+    "shots": 3,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "NSH",
@@ -9318,18 +8786,6 @@
     "toi": "15:03",
     "shots": 1,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "STL",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "15:30",
-    "shots": 5,
-    "plusMinus": 2,
     "pim": 0
    }
   ],
@@ -9436,24 +8892,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 5,
    "a": 2,
    "p": 7,
    "plusMinus": 1,
    "pim": 4,
-   "shots": 23,
-   "shootingPctg": 21.7,
+   "shots": 27,
+   "shootingPctg": 18.5,
    "ppPoints": 2,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 190,
+   "gp": 191,
    "g": 41,
    "a": 41,
    "p": 82
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "15:47",
+    "shots": 4,
+    "plusMinus": 0,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -9500,18 +8968,6 @@
     "toi": "12:19",
     "shots": 1,
     "plusMinus": 1,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "11:42",
-    "shots": 2,
-    "plusMinus": 0,
     "pim": 0
    }
   ],
@@ -9611,24 +9067,36 @@
    }
   },
   "seasonStats": {
-   "gp": 8,
+   "gp": 9,
    "g": 1,
    "a": 0,
    "p": 1,
-   "plusMinus": 1,
+   "plusMinus": 2,
    "pim": 6,
-   "shots": 11,
-   "shootingPctg": 9.1,
+   "shots": 12,
+   "shootingPctg": 8.3,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 108,
+   "gp": 109,
    "g": 23,
    "a": 17,
    "p": 40
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "8:59",
+    "shots": 1,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -9676,18 +9144,6 @@
     "shots": 1,
     "plusMinus": 0,
     "pim": 2
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "14:18",
-    "shots": 2,
-    "plusMinus": 0,
-    "pim": 0
    }
   ],
   "seasonTotals": [
@@ -9780,24 +9236,36 @@
    "draftDetails": {}
   },
   "seasonStats": {
-   "gp": 14,
-   "g": 0,
+   "gp": 15,
+   "g": 1,
    "a": 2,
-   "p": 2,
+   "p": 3,
    "plusMinus": -1,
-   "pim": 25,
-   "shots": 9,
-   "shootingPctg": 0.0,
+   "pim": 30,
+   "shots": 11,
+   "shootingPctg": 9.1,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 244,
-   "g": 10,
+   "gp": 245,
+   "g": 11,
    "a": 25,
-   "p": 35
+   "p": 36
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "9:53",
+    "shots": 2,
+    "plusMinus": 0,
+    "pim": 5
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -9842,18 +9310,6 @@
     "a": 0,
     "p": 0,
     "toi": "10:18",
-    "shots": 1,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-23",
-    "opponent": "CHI",
-    "homeAway": "R",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "10:38",
     "shots": 1,
     "plusMinus": 0,
     "pim": 0
@@ -10273,6 +9729,181 @@
   ],
   "awards": []
  },
+ "8483431": {
+  "playerId": 8483431,
+  "firstName": "Logan",
+  "lastName": "Cooley",
+  "sweaterNumber": 92,
+  "position": "C",
+  "birthDate": "2004-05-04",
+  "birthCity": "Pittsburgh",
+  "birthCountry": "USA",
+  "heightCm": 183,
+  "weightKg": 87,
+  "shootsCatches": "L",
+  "draft": "2022 R1 #3 ARI",
+  "team": "UTA",
+  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8483431.png",
+  "bio": {
+   "birthCity": "Pittsburgh",
+   "birthCountry": "USA",
+   "draftDetails": {
+    "year": 2022,
+    "teamAbbrev": "ARI",
+    "round": 1,
+    "pickInRound": 3,
+    "overallPick": 3
+   }
+  },
+  "seasonStats": {
+   "gp": 17,
+   "g": 11,
+   "a": 10,
+   "p": 21,
+   "plusMinus": -4,
+   "pim": 6,
+   "shots": 29,
+   "shootingPctg": 37.9,
+   "ppPoints": 12,
+   "shPoints": 0
+  },
+  "careerStats": {
+   "gp": 228,
+   "g": 80,
+   "a": 93,
+   "p": 173
+  },
+  "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "MTL",
+    "homeAway": "R",
+    "g": 3,
+    "a": 1,
+    "p": 4,
+    "toi": "19:31",
+    "shots": 3,
+    "plusMinus": -1,
+    "pim": 2
+   },
+   {
+    "date": "2026-11-03",
+    "opponent": "TOR",
+    "homeAway": "R",
+    "g": 0,
+    "a": 0,
+    "p": 0,
+    "toi": "18:39",
+    "shots": 3,
+    "plusMinus": 0,
+    "pim": 0
+   },
+   {
+    "date": "2026-11-01",
+    "opponent": "PHI",
+    "homeAway": "R",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "18:10",
+    "shots": 2,
+    "plusMinus": -2,
+    "pim": 2
+   },
+   {
+    "date": "2026-10-29",
+    "opponent": "PIT",
+    "homeAway": "R",
+    "g": 3,
+    "a": 0,
+    "p": 3,
+    "toi": "18:36",
+    "shots": 5,
+    "plusMinus": 2,
+    "pim": 0
+   },
+   {
+    "date": "2026-10-27",
+    "opponent": "MIN",
+    "homeAway": "H",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "20:39",
+    "shots": 3,
+    "plusMinus": 1,
+    "pim": 0
+   }
+  ],
+  "seasonTotals": [
+   {
+    "season": 20162017,
+    "team": null,
+    "gp": 4,
+    "g": 5,
+    "a": 2,
+    "p": 7,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20182019,
+    "team": null,
+    "gp": 69,
+    "g": 44,
+    "a": 39,
+    "p": 83,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20182019,
+    "team": null,
+    "gp": 6,
+    "g": 5,
+    "a": 2,
+    "p": 7,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20192020,
+    "team": null,
+    "gp": 8,
+    "g": 7,
+    "a": 5,
+    "p": 12,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   },
+   {
+    "season": 20192020,
+    "team": null,
+    "gp": 4,
+    "g": 1,
+    "a": 2,
+    "p": 3,
+    "w": null,
+    "l": null,
+    "gaa": null,
+    "savePct": null,
+    "so": null
+   }
+  ],
+  "awards": []
+ },
  "8483445": {
   "playerId": 8483445,
   "firstName": "Cutter",
@@ -10300,24 +9931,36 @@
    }
   },
   "seasonStats": {
-   "gp": 14,
-   "g": 10,
-   "a": 5,
-   "p": 15,
-   "plusMinus": -6,
+   "gp": 15,
+   "g": 11,
+   "a": 6,
+   "p": 17,
+   "plusMinus": -5,
    "pim": 6,
-   "shots": 59,
-   "shootingPctg": 16.9,
-   "ppPoints": 10,
+   "shots": 62,
+   "shootingPctg": 17.7,
+   "ppPoints": 12,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 173,
-   "g": 71,
-   "a": 58,
-   "p": 129
+   "gp": 174,
+   "g": 72,
+   "a": 59,
+   "p": 131
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "EDM",
+    "homeAway": "R",
+    "g": 1,
+    "a": 1,
+    "p": 2,
+    "toi": "17:57",
+    "shots": 3,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "VAN",
@@ -10362,18 +10005,6 @@
     "a": 1,
     "p": 1,
     "toi": "16:28",
-    "shots": 4,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "PHI",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "18:37",
     "shots": 4,
     "plusMinus": 0,
     "pim": 0
@@ -10475,24 +10106,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 3,
-   "a": 11,
-   "p": 14,
-   "plusMinus": 6,
+   "a": 13,
+   "p": 16,
+   "plusMinus": 8,
    "pim": 8,
-   "shots": 26,
-   "shootingPctg": 11.5,
-   "ppPoints": 3,
+   "shots": 29,
+   "shootingPctg": 10.3,
+   "ppPoints": 4,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 181,
+   "gp": 182,
    "g": 21,
-   "a": 139,
-   "p": 160
+   "a": 141,
+   "p": 162
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "27:00",
+    "shots": 3,
+    "plusMinus": 2,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -10539,18 +10182,6 @@
     "toi": "22:04",
     "shots": 1,
     "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 1,
-    "a": 0,
-    "p": 1,
-    "toi": "21:12",
-    "shots": 1,
-    "plusMinus": 1,
     "pim": 0
    }
   ],
@@ -10663,24 +10294,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 2,
-   "a": 9,
-   "p": 11,
-   "plusMinus": -1,
-   "pim": 12,
-   "shots": 35,
-   "shootingPctg": 5.7,
+   "a": 10,
+   "p": 12,
+   "plusMinus": 0,
+   "pim": 14,
+   "shots": 39,
+   "shootingPctg": 5.1,
    "ppPoints": 4,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 297,
+   "gp": 298,
    "g": 74,
-   "a": 121,
-   "p": 195
+   "a": 122,
+   "p": 196
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 0,
+    "a": 1,
+    "p": 1,
+    "toi": "19:41",
+    "shots": 4,
+    "plusMinus": 1,
+    "pim": 2
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -10726,18 +10369,6 @@
     "p": 0,
     "toi": "17:29",
     "shots": 2,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-25",
-    "opponent": "WPG",
-    "homeAway": "R",
-    "g": 0,
-    "a": 1,
-    "p": 1,
-    "toi": "16:22",
-    "shots": 3,
     "plusMinus": 0,
     "pim": 0
    }
@@ -10838,24 +10469,36 @@
    }
   },
   "seasonStats": {
-   "gp": 9,
-   "g": 0,
+   "gp": 10,
+   "g": 1,
    "a": 1,
-   "p": 1,
-   "plusMinus": 4,
+   "p": 2,
+   "plusMinus": 5,
    "pim": 0,
-   "shots": 9,
-   "shootingPctg": 0.0,
+   "shots": 11,
+   "shootingPctg": 9.1,
    "ppPoints": 0,
    "shPoints": 0
   },
   "careerStats": {
-   "gp": 24,
-   "g": 0,
+   "gp": 25,
+   "g": 1,
    "a": 2,
-   "p": 2
+   "p": 3
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "UTA",
+    "homeAway": "H",
+    "g": 1,
+    "a": 0,
+    "p": 1,
+    "toi": "10:48",
+    "shots": 2,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "WPG",
@@ -10901,18 +10544,6 @@
     "p": 0,
     "toi": "10:23",
     "shots": 0,
-    "plusMinus": 0,
-    "pim": 0
-   },
-   {
-    "date": "2026-10-20",
-    "opponent": "SJS",
-    "homeAway": "H",
-    "g": 0,
-    "a": 0,
-    "p": 0,
-    "toi": "12:56",
-    "shots": 2,
     "plusMinus": 0,
     "pim": 0
    }
@@ -11013,24 +10644,36 @@
    }
   },
   "seasonStats": {
-   "gp": 15,
+   "gp": 16,
    "g": 5,
-   "a": 17,
-   "p": 22,
-   "plusMinus": -4,
+   "a": 19,
+   "p": 24,
+   "plusMinus": -3,
    "pim": 4,
-   "shots": 24,
-   "shootingPctg": 20.8,
-   "ppPoints": 14,
+   "shots": 26,
+   "shootingPctg": 19.2,
+   "ppPoints": 16,
    "shPoints": 1
   },
   "careerStats": {
-   "gp": 216,
+   "gp": 217,
    "g": 66,
-   "a": 97,
-   "p": 163
+   "a": 99,
+   "p": 165
   },
   "last5Games": [
+   {
+    "date": "2026-11-05",
+    "opponent": "EDM",
+    "homeAway": "R",
+    "g": 0,
+    "a": 2,
+    "p": 2,
+    "toi": "25:30",
+    "shots": 2,
+    "plusMinus": 1,
+    "pim": 0
+   },
    {
     "date": "2026-11-03",
     "opponent": "VAN",
@@ -11078,18 +10721,6 @@
     "shots": 1,
     "plusMinus": 1,
     "pim": 0
-   },
-   {
-    "date": "2026-10-24",
-    "opponent": "PHI",
-    "homeAway": "R",
-    "g": 1,
-    "a": 1,
-    "p": 2,
-    "toi": "20:26",
-    "shots": 2,
-    "plusMinus": 0,
-    "pim": 2
    }
   ],
   "seasonTotals": [
