@@ -1,6 +1,6 @@
 {
  "ligue": "USHL",
- "date_donnees": "2026-11-08",
+ "date_donnees": "2026-11-09",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "13588": {
@@ -71,7 +71,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.ticketmaster.com/youngstown-phantoms-tickets/artist/1373960",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 01:45:12",
+    "last_modified": "2026-11-08 18:14:55",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154400",
@@ -908,20 +908,20 @@
       "last_name": "Wiitala"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10218",
+      "jersey_number": "15",
+      "team_id": "17",
+      "team_code": "MAD",
+      "first_name": "Harper",
+      "last_name": "Frey"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "11192",
+      "jersey_number": "4",
+      "team_id": "17",
+      "team_code": "MAD",
+      "first_name": "Colin",
+      "last_name": "Yandle"
      },
      "plus": [
       {
@@ -941,6 +941,12 @@
        "jersey_number": "12",
        "first_name": "Rio",
        "last_name": "Treharne"
+      },
+      {
+       "player_id": "10218",
+       "jersey_number": "15",
+       "first_name": "Harper",
+       "last_name": "Frey"
       },
       {
        "player_id": "10928",
@@ -1228,12 +1234,12 @@
       "last_name": "Rider"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10922",
+      "jersey_number": "28",
+      "team_id": "17",
+      "team_code": "MAD",
+      "first_name": "Gustavs",
+      "last_name": "Griva"
      },
      "plus": [
       {
@@ -1269,6 +1275,12 @@
      ],
      "minus": [
       {
+       "player_id": "11529",
+       "jersey_number": "18",
+       "first_name": "Patrick",
+       "last_name": "McCormick"
+      },
+      {
        "player_id": "10604",
        "jersey_number": "19",
        "first_name": "Lukas",
@@ -1281,16 +1293,10 @@
        "last_name": "Cover"
       },
       {
-       "player_id": "10914",
-       "jersey_number": "36",
-       "first_name": "Brayden",
-       "last_name": "Thompson"
-      },
-      {
-       "player_id": "11442",
-       "jersey_number": "41",
-       "first_name": "Axel",
-       "last_name": "Brongel-Larsson"
+       "player_id": "11443",
+       "jersey_number": "44",
+       "first_name": "Wilhelm",
+       "last_name": "Hasselhuhn"
       },
       {
        "player_id": "10302",
@@ -1336,12 +1342,12 @@
       "last_name": "Wiitala"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10614",
+      "jersey_number": "7",
+      "team_id": "17",
+      "team_code": "MAD",
+      "first_name": "Logan",
+      "last_name": "Lutner"
      },
      "plus": [
       {
@@ -1628,12 +1634,12 @@
       "last_name": "Dosan"
      },
      "assist1_player": {
-      "player_id": "10925",
-      "jersey_number": "22",
+      "player_id": "11192",
+      "jersey_number": "4",
       "team_id": "17",
       "team_code": "MAD",
-      "first_name": "Cooper",
-      "last_name": "Snee"
+      "first_name": "Colin",
+      "last_name": "Yandle"
      },
      "assist2_player": {
       "player_id": null,
@@ -1936,12 +1942,12 @@
       "last_name": "MacSwain"
      },
      "assist2_player": {
-      "player_id": "10927",
-      "jersey_number": "9",
+      "player_id": "11456",
+      "jersey_number": "6",
       "team_id": "17",
       "team_code": "MAD",
-      "first_name": "Will",
-      "last_name": "Dosan"
+      "first_name": "Aiden",
+      "last_name": "Ali"
      },
      "plus": [
       {
@@ -2353,7 +2359,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 1,
-      "plusminus": -3,
+      "plusminus": -4,
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -2483,7 +2489,7 @@
       "rookie": "1",
       "goals": 0,
       "assists": 1,
-      "plusminus": -2,
+      "plusminus": -1,
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -2509,7 +2515,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 1,
-      "plusminus": -2,
+      "plusminus": -1,
       "pim": 2,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -2561,7 +2567,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 0,
-      "plusminus": 0,
+      "plusminus": -1,
       "pim": 2,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -2738,7 +2744,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 2,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -2790,7 +2796,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": 0,
       "pim": 4,
       "faceoff_wins": "0",
@@ -2816,7 +2822,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+3",
       "pim": 0,
       "faceoff_wins": "0",
@@ -2868,7 +2874,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+2",
       "pim": 2,
       "faceoff_wins": "0",
@@ -2972,8 +2978,8 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 1,
-      "plusminus": "+1",
+      "assists": 2,
+      "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -3050,7 +3056,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -3128,7 +3134,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -3235,11 +3241,11 @@
     "home": 4
    },
    "assistCount": {
-    "visitor": 10,
+    "visitor": 14,
     "home": 8
    },
    "pointsCount": {
-    "visitor": 18,
+    "visitor": 22,
     "home": 12
    },
    "pimTotal": {
@@ -6602,7 +6608,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.ticketmaster.com/sioux-falls-stampede-tickets/artist/806724",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 02:56:37",
+    "last_modified": "2026-11-09 00:09:04",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154495",
@@ -7585,20 +7591,20 @@
       "last_name": "Sigurd"
      },
      "assist1_player": {
+      "player_id": "10610",
+      "jersey_number": "95",
+      "team_id": "14",
+      "team_code": "FGO",
+      "first_name": "AJ",
+      "last_name": "Garcia"
+     },
+     "assist2_player": {
       "player_id": "10605",
       "jersey_number": "4",
       "team_id": "14",
       "team_code": "FGO",
       "first_name": "AJ",
       "last_name": "Francisco"
-     },
-     "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
      },
      "plus": [
       {
@@ -7789,20 +7795,20 @@
       "last_name": "Kouhia"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "11288",
+      "jersey_number": "5",
+      "team_id": "14",
+      "team_code": "FGO",
+      "first_name": "Melker",
+      "last_name": "Sigurd"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10605",
+      "jersey_number": "4",
+      "team_id": "14",
+      "team_code": "FGO",
+      "first_name": "AJ",
+      "last_name": "Francisco"
      },
      "plus": [
       {
@@ -8095,12 +8101,12 @@
       "last_name": "Mattern"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10783",
+      "jersey_number": "15",
+      "team_id": "14",
+      "team_code": "FGO",
+      "first_name": "Zaide",
+      "last_name": "Penner"
      },
      "assist2_player": {
       "player_id": null,
@@ -8829,7 +8835,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 1,
+      "assists": 2,
       "plusminus": 0,
       "pim": 0,
       "faceoff_wins": "0",
@@ -8855,7 +8861,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "plusminus": 0,
       "pim": 2,
       "faceoff_wins": "0",
@@ -9011,7 +9017,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -9297,7 +9303,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -9410,11 +9416,11 @@
     "home": 1
    },
    "assistCount": {
-    "visitor": 5,
+    "visitor": 9,
     "home": 1
    },
    "pointsCount": {
-    "visitor": 10,
+    "visitor": 14,
     "home": 2
    },
    "pimTotal": {
@@ -9548,7 +9554,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.ticketmaster.com/tyson-events-center-tickets-sioux-city/venue/50001?CAMEFROM=CFC_TYSON_WEB_WEBVEN_2425MUSKETEERS",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 02:59:28",
+    "last_modified": "2026-11-08 18:20:07",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154383",
@@ -10055,12 +10061,12 @@
       "last_name": "Spencer"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "11345",
+      "jersey_number": "20",
+      "team_id": "19",
+      "team_code": "OMA",
+      "first_name": "Mason",
+      "last_name": "Noble"
      },
      "assist2_player": {
       "player_id": null,
@@ -11949,7 +11955,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -12220,11 +12226,11 @@
     "home": 6
    },
    "assistCount": {
-    "visitor": 4,
+    "visitor": 5,
     "home": 9
    },
    "pointsCount": {
-    "visitor": 7,
+    "visitor": 8,
     "home": 15
    },
    "pimTotal": {
@@ -12358,7 +12364,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://star-city-hockey-llc-ia95.vivenushop.com/",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 02:55:21",
+    "last_modified": "2026-11-08 18:17:27",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154573",
@@ -12865,20 +12871,20 @@
       "last_name": "Sokol"
      },
      "assist1_player": {
-      "player_id": "10951",
-      "jersey_number": "4",
-      "team_id": "23",
-      "team_code": "WAT",
-      "first_name": "James",
-      "last_name": "Russell"
-     },
-     "assist2_player": {
       "player_id": "10817",
       "jersey_number": "72",
       "team_id": "23",
       "team_code": "WAT",
       "first_name": "Miles",
       "last_name": "Jinman"
+     },
+     "assist2_player": {
+      "player_id": "10951",
+      "jersey_number": "4",
+      "team_id": "23",
+      "team_code": "WAT",
+      "first_name": "James",
+      "last_name": "Russell"
      },
      "plus": [
       {
@@ -12973,20 +12979,20 @@
       "last_name": "Deanovich"
      },
      "assist1_player": {
-      "player_id": "10951",
-      "jersey_number": "4",
-      "team_id": "23",
-      "team_code": "WAT",
-      "first_name": "James",
-      "last_name": "Russell"
+      "player_id": null,
+      "jersey_number": null,
+      "team_id": null,
+      "team_code": null,
+      "first_name": null,
+      "last_name": null
      },
      "assist2_player": {
-      "player_id": "11202",
-      "jersey_number": "10",
-      "team_id": "23",
-      "team_code": "WAT",
-      "first_name": "Camden",
-      "last_name": "Langfeld"
+      "player_id": null,
+      "jersey_number": null,
+      "team_id": null,
+      "team_code": null,
+      "first_name": null,
+      "last_name": null
      },
      "plus": [
       {
@@ -13865,7 +13871,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 2,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -13891,7 +13897,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+1",
       "pim": 2,
       "faceoff_wins": "0",
@@ -14396,11 +14402,11 @@
     "home": 1
    },
    "assistCount": {
-    "visitor": 4,
+    "visitor": 2,
     "home": 2
    },
    "pointsCount": {
-    "visitor": 6,
+    "visitor": 4,
     "home": 3
    },
    "pimTotal": {
@@ -14534,7 +14540,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://tickets.dubuquefightingsaints.com/",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 03:39:02",
+    "last_modified": "2026-11-08 21:15:36",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1153055",
@@ -15041,20 +15047,20 @@
       "last_name": "Färhammar"
      },
      "assist1_player": {
-      "player_id": "10112",
-      "jersey_number": "11",
-      "team_id": "18",
-      "team_code": "MKG",
-      "first_name": "Aiden",
-      "last_name": "Janz"
-     },
-     "assist2_player": {
       "player_id": "10723",
       "jersey_number": "21",
       "team_id": "18",
       "team_code": "MKG",
       "first_name": "Lars",
       "last_name": "Hutson"
+     },
+     "assist2_player": {
+      "player_id": "10112",
+      "jersey_number": "11",
+      "team_id": "18",
+      "team_code": "MKG",
+      "first_name": "Aiden",
+      "last_name": "Janz"
      },
      "plus": [
       {
@@ -15143,20 +15149,20 @@
       "last_name": "Darth"
      },
      "assist1_player": {
-      "player_id": "11275",
-      "jersey_number": "4",
-      "team_id": "13",
-      "team_code": "DBQ",
-      "first_name": "Joseph",
-      "last_name": "Kotzian"
-     },
-     "assist2_player": {
       "player_id": "10959",
       "jersey_number": "21",
       "team_id": "13",
       "team_code": "DBQ",
       "first_name": "Lincoln",
       "last_name": "Krizizke"
+     },
+     "assist2_player": {
+      "player_id": "11275",
+      "jersey_number": "4",
+      "team_id": "13",
+      "team_code": "DBQ",
+      "first_name": "Joseph",
+      "last_name": "Kotzian"
      },
      "plus": [
       {
@@ -15172,16 +15178,16 @@
        "last_name": "Dabrowski"
       },
       {
-       "player_id": "10956",
-       "jersey_number": "14",
-       "first_name": "Kane",
-       "last_name": "Johnson"
-      },
-      {
        "player_id": "10959",
        "jersey_number": "21",
        "first_name": "Lincoln",
        "last_name": "Krizizke"
+      },
+      {
+       "player_id": "10676",
+       "jersey_number": "22",
+       "first_name": "Cruz",
+       "last_name": "Martin"
       },
       {
        "player_id": "11273",
@@ -15367,12 +15373,12 @@
       "last_name": "Johnson"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10955",
+      "jersey_number": "10",
+      "team_id": "13",
+      "team_code": "DBQ",
+      "first_name": "Caden",
+      "last_name": "Dabrowski"
      },
      "plus": [
       {
@@ -15575,20 +15581,20 @@
       "last_name": "Thomasson"
      },
      "assist1_player": {
+      "player_id": "11147",
+      "jersey_number": "18",
+      "team_id": "13",
+      "team_code": "DBQ",
+      "first_name": "Joseph",
+      "last_name": "Covelluzzi"
+     },
+     "assist2_player": {
       "player_id": "10959",
       "jersey_number": "21",
       "team_id": "13",
       "team_code": "DBQ",
       "first_name": "Lincoln",
       "last_name": "Krizizke"
-     },
-     "assist2_player": {
-      "player_id": "10651",
-      "jersey_number": "9",
-      "team_id": "13",
-      "team_code": "DBQ",
-      "first_name": "Trevor",
-      "last_name": "Theuer"
      },
      "plus": [
       {
@@ -15683,20 +15689,20 @@
       "last_name": "Dabrowski"
      },
      "assist1_player": {
-      "player_id": "10676",
-      "jersey_number": "22",
-      "team_id": "13",
-      "team_code": "DBQ",
-      "first_name": "Cruz",
-      "last_name": "Martin"
-     },
-     "assist2_player": {
       "player_id": "11273",
       "jersey_number": "23",
       "team_id": "13",
       "team_code": "DBQ",
       "first_name": "Olle",
       "last_name": "Darth"
+     },
+     "assist2_player": {
+      "player_id": "10676",
+      "jersey_number": "22",
+      "team_id": "13",
+      "team_code": "DBQ",
+      "first_name": "Cruz",
+      "last_name": "Martin"
      },
      "plus": [
       {
@@ -15907,12 +15913,12 @@
       "last_name": "Covelluzzi"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10651",
+      "jersey_number": "9",
+      "team_id": "13",
+      "team_code": "DBQ",
+      "first_name": "Trevor",
+      "last_name": "Theuer"
      },
      "plus": [
       {
@@ -16219,7 +16225,7 @@
       "status": "A",
       "rookie": "1",
       "goals": 1,
-      "assists": 2,
+      "assists": 3,
       "plusminus": "+4",
       "pim": 0,
       "faceoff_wins": "0",
@@ -16298,7 +16304,7 @@
       "rookie": "1",
       "goals": 0,
       "assists": 1,
-      "plusminus": "+2",
+      "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -16349,7 +16355,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 1,
+      "assists": 2,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -16428,7 +16434,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 1,
-      "plusminus": "+1",
+      "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -17215,11 +17221,11 @@
    },
    "assistCount": {
     "visitor": 4,
-    "home": 12
+    "home": 14
    },
    "pointsCount": {
     "visitor": 6,
-    "home": 19
+    "home": 21
    },
    "pimTotal": {
     "visitor": 10,
@@ -17352,7 +17358,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://tickets.roughridershockey.com/",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-08 04:39:09",
+    "last_modified": "2026-11-08 18:25:58",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1153947",
@@ -18481,12 +18487,12 @@
       "last_name": "Janulis"
      },
      "assist2_player": {
-      "player_id": "10510",
-      "jersey_number": "26",
+      "player_id": "11005",
+      "jersey_number": "25",
       "team_id": "10",
       "team_code": "CR",
-      "first_name": "Joseph",
-      "last_name": "Fenton"
+      "first_name": "Jackson",
+      "last_name": "Fox"
      },
      "plus": [
       {
@@ -19187,7 +19193,7 @@
       "status": "C",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 0,
       "faceoff_wins": "0",
@@ -19213,7 +19219,7 @@
       "status": "A",
       "rookie": "0",
       "goals": 0,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+1",
       "pim": 15,
       "faceoff_wins": "0",
