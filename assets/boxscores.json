@@ -1,523 +1,5 @@
 [
  {
-  "gameId": 2026020232,
-  "away": "VGK",
-  "home": "BOS",
-  "awayScore": 2,
-  "homeScore": 3,
-  "periods": [
-   {
-    "period": 1,
-    "away": 0,
-    "home": 1
-   },
-   {
-    "period": 2,
-    "away": 1,
-    "home": 2
-   },
-   {
-    "period": 3,
-    "away": 2,
-    "home": 2
-   },
-   {
-    "period": 5,
-    "away": 2,
-    "home": 3
-   }
-  ],
-  "shots": {
-   "away": 23,
-   "home": 27
-  },
-  "teamStats": {
-   "away": {
-    "pp": "1/3",
-    "pim": 19,
-    "hits": 28,
-    "blocks": 15,
-    "foPct": 46.3
-   },
-   "home": {
-    "pp": "1/2",
-    "pim": 6,
-    "hits": 14,
-    "blocks": 13,
-    "foPct": 53.7
-   }
-  },
-  "goalies": [
-   {
-    "team": "VGK",
-    "name": "C. Hart",
-    "toi": "65:00",
-    "savesShots": "25/27",
-    "shotsAgainst": 27,
-    "goalsAgainst": 2
-   },
-   {
-    "team": "BOS",
-    "name": "J. Swayman",
-    "toi": "65:00",
-    "savesShots": "21/23",
-    "shotsAgainst": 23,
-    "goalsAgainst": 2
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "07:23",
-    "team": "BOS",
-    "scorer": "James Hagens",
-    "assists": [
-     "Elias Lindholm",
-     "Nikita Zadorov"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "03:23",
-    "team": "BOS",
-    "scorer": "Morgan Geekie",
-    "assists": [
-     "Pavel Zacha",
-     "David Pastrnak"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 2,
-    "time": "14:58",
-    "team": "VGK",
-    "scorer": "Mark Stone",
-    "assists": [
-     "Tomas Hertl",
-     "Mitch Marner"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 3,
-    "time": "07:23",
-    "team": "VGK",
-    "scorer": "Trevor Connelly",
-    "assists": [
-     "Noah Hanifin",
-     "Mitch Marner"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 5,
-    "time": "00:00",
-    "team": "BOS",
-    "scorer": "David Pastrnak",
-    "assists": [],
-    "strength": "ev"
-   }
-  ],
-  "threeStars": [
-   "D. Pastrnak",
-   "J. Hagens",
-   "M. Marner"
-  ]
- },
- {
-  "gameId": 2026020233,
-  "away": "DET",
-  "home": "FLA",
-  "awayScore": 5,
-  "homeScore": 3,
-  "periods": [
-   {
-    "period": 1,
-    "away": 1,
-    "home": 1
-   },
-   {
-    "period": 2,
-    "away": 2,
-    "home": 2
-   },
-   {
-    "period": 3,
-    "away": 5,
-    "home": 3
-   }
-  ],
-  "shots": {
-   "away": 29,
-   "home": 26
-  },
-  "teamStats": {
-   "away": {
-    "pp": "1/3",
-    "pim": 4,
-    "hits": 19,
-    "blocks": 17,
-    "foPct": 46.0
-   },
-   "home": {
-    "pp": "0/2",
-    "pim": 6,
-    "hits": 42,
-    "blocks": 7,
-    "foPct": 54.0
-   }
-  },
-  "goalies": [
-   {
-    "team": "DET",
-    "name": "D. Tarasov",
-    "toi": "60:00",
-    "savesShots": "23/26",
-    "shotsAgainst": 26,
-    "goalsAgainst": 3
-   },
-   {
-    "team": "FLA",
-    "name": "J. Markstrom",
-    "toi": "57:33",
-    "savesShots": "24/28",
-    "shotsAgainst": 28,
-    "goalsAgainst": 4
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "05:26",
-    "team": "DET",
-    "scorer": "Carter Mazur",
-    "assists": [
-     "Moritz Seider"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "14:19",
-    "team": "FLA",
-    "scorer": "Sam Reinhart",
-    "assists": [
-     "Carter Verhaeghe",
-     "Sandis Vilmanis"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "01:26",
-    "team": "DET",
-    "scorer": "Alex DeBrincat",
-    "assists": [
-     "Viktor Arvidsson",
-     "Justin Faulk"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "15:25",
-    "team": "FLA",
-    "scorer": "Aaron Ekblad",
-    "assists": [
-     "Garnet Hathaway",
-     "Lars Eller"
-    ],
-    "strength": "sh"
-   },
-   {
-    "period": 3,
-    "time": "02:08",
-    "team": "DET",
-    "scorer": "Justin Faulk",
-    "assists": [
-     "Andrew Copp",
-     "Michael Brandsegg-Nygård"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 3,
-    "time": "02:53",
-    "team": "DET",
-    "scorer": "Michael Brandsegg-Nygård",
-    "assists": [
-     "Lucas Raymond",
-     "Andrew Copp"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "16:40",
-    "team": "FLA",
-    "scorer": "Sam Bennett",
-    "assists": [
-     "Matthew Tkachuk",
-     "Brady Tkachuk"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "19:57",
-    "team": "DET",
-    "scorer": "Emmitt Finnie",
-    "assists": [
-     "Moritz Seider"
-    ],
-    "strength": "ev"
-   }
-  ],
-  "threeStars": [
-   "J. Faulk",
-   "S. Reinhart",
-   "M. Brandsegg-Nygård"
-  ]
- },
- {
-  "gameId": 2026020234,
-  "away": "COL",
-  "home": "CHI",
-  "awayScore": 5,
-  "homeScore": 2,
-  "periods": [
-   {
-    "period": 1,
-    "away": 2,
-    "home": 2
-   },
-   {
-    "period": 2,
-    "away": 4,
-    "home": 2
-   },
-   {
-    "period": 3,
-    "away": 5,
-    "home": 2
-   }
-  ],
-  "shots": {
-   "away": 29,
-   "home": 23
-  },
-  "teamStats": {
-   "away": {
-    "pp": "1/5",
-    "pim": 10,
-    "hits": 12,
-    "blocks": 15,
-    "foPct": 56.2
-   },
-   "home": {
-    "pp": "0/4",
-    "pim": 12,
-    "hits": 16,
-    "blocks": 11,
-    "foPct": 43.8
-   }
-  },
-  "goalies": [
-   {
-    "team": "COL",
-    "name": "M. Blackwood",
-    "toi": "60:00",
-    "savesShots": "21/23",
-    "shotsAgainst": 23,
-    "goalsAgainst": 2
-   },
-   {
-    "team": "CHI",
-    "name": "S. Knight",
-    "toi": "58:54",
-    "savesShots": "24/28",
-    "shotsAgainst": 28,
-    "goalsAgainst": 4
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "00:57",
-    "team": "CHI",
-    "scorer": "Wyatt Kaiser",
-    "assists": [
-     "Ryan Donato"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "07:05",
-    "team": "CHI",
-    "scorer": "Roman Kantserov",
-    "assists": [
-     "Connor Bedard"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "15:23",
-    "team": "COL",
-    "scorer": "Nazem Kadri",
-    "assists": [
-     "Gabriel Landeskog",
-     "Brent Burns"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 1,
-    "time": "15:49",
-    "team": "COL",
-    "scorer": "Jaden Schwartz",
-    "assists": [
-     "T.J. Hughes",
-     "Devon Toews"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 2,
-    "time": "13:38",
-    "team": "COL",
-    "scorer": "Nazem Kadri",
-    "assists": [
-     "Cale Makar",
-     "Nathan MacKinnon"
-    ],
-    "strength": "pp"
-   },
-   {
-    "period": 2,
-    "time": "19:49",
-    "team": "COL",
-    "scorer": "Jaden Schwartz",
-    "assists": [
-     "Sam Malinski",
-     "T.J. Hughes"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "17:38",
-    "team": "COL",
-    "scorer": "Devon Toews",
-    "assists": [],
-    "strength": "ev"
-   }
-  ],
-  "threeStars": [
-   "N. Kadri",
-   "J. Schwartz",
-   "T. Hughes"
-  ]
- },
- {
-  "gameId": 2026020235,
-  "away": "CGY",
-  "home": "SJS",
-  "awayScore": 2,
-  "homeScore": 1,
-  "periods": [
-   {
-    "period": 1,
-    "away": 1,
-    "home": 0
-   },
-   {
-    "period": 3,
-    "away": 2,
-    "home": 1
-   }
-  ],
-  "shots": {
-   "away": 22,
-   "home": 27
-  },
-  "teamStats": {
-   "away": {
-    "pp": "0/3",
-    "pim": 4,
-    "hits": 20,
-    "blocks": 20,
-    "foPct": 37.9
-   },
-   "home": {
-    "pp": "0/2",
-    "pim": 6,
-    "hits": 22,
-    "blocks": 8,
-    "foPct": 62.1
-   }
-  },
-  "goalies": [
-   {
-    "team": "CGY",
-    "name": "D. Wolf",
-    "toi": "60:00",
-    "savesShots": "26/27",
-    "shotsAgainst": 27,
-    "goalsAgainst": 1
-   },
-   {
-    "team": "SJS",
-    "name": "Y. Askarov",
-    "toi": "58:13",
-    "savesShots": "20/22",
-    "shotsAgainst": 22,
-    "goalsAgainst": 2
-   }
-  ],
-  "goals": [
-   {
-    "period": 1,
-    "time": "14:36",
-    "team": "CGY",
-    "scorer": "Adam Klapka",
-    "assists": [
-     "Jonathan Castagna"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "09:14",
-    "team": "CGY",
-    "scorer": "William Stromgren",
-    "assists": [
-     "Adam Klapka",
-     "Jonathan Castagna"
-    ],
-    "strength": "ev"
-   },
-   {
-    "period": 3,
-    "time": "11:57",
-    "team": "SJS",
-    "scorer": "Sam Dickinson",
-    "assists": [
-     "Michael Misa",
-     "Jacob Trouba"
-    ],
-    "strength": "ev"
-   }
-  ],
-  "threeStars": [
-   "D. Wolf",
-   "Y. Askarov",
-   "A. Klapka"
-  ]
- },
- {
   "gameId": 2026020236,
   "away": "UTA",
   "home": "TOR",
@@ -4612,7 +4094,7 @@
    }
   ],
   "shots": {
-   "away": 30,
+   "away": 29,
    "home": 31
   },
   "teamStats": {
@@ -4644,8 +4126,8 @@
     "team": "WSH",
     "name": "L. Thompson",
     "toi": "60:00",
-    "savesShots": "27/30",
-    "shotsAgainst": 30,
+    "savesShots": "26/29",
+    "shotsAgainst": 29,
     "goalsAgainst": 3
    }
   ],
@@ -4750,7 +4232,7 @@
    }
   ],
   "shots": {
-   "away": 26,
+   "away": 25,
    "home": 29
   },
   "teamStats": {
@@ -4765,7 +4247,7 @@
     "pp": "1/3",
     "pim": 4,
     "hits": 16,
-    "blocks": 18,
+    "blocks": 19,
     "foPct": 49.2
    }
   },
@@ -4782,8 +4264,8 @@
     "team": "NSH",
     "name": "J. Saros",
     "toi": "60:00",
-    "savesShots": "25/26",
-    "shotsAgainst": 26,
+    "savesShots": "24/25",
+    "shotsAgainst": 25,
     "goalsAgainst": 1
    }
   ],
@@ -5142,7 +4624,7 @@
    }
   ],
   "shots": {
-   "away": 32,
+   "away": 33,
    "home": 21
   },
   "teamStats": {
@@ -5150,7 +4632,7 @@
     "pp": "0/2",
     "pim": 4,
     "hits": 23,
-    "blocks": 14,
+    "blocks": 13,
     "foPct": 55.0
    },
    "home": {
@@ -5174,8 +4656,8 @@
     "team": "OTT",
     "name": "S. Ersson",
     "toi": "60:00",
-    "savesShots": "30/32",
-    "shotsAgainst": 32,
+    "savesShots": "31/33",
+    "shotsAgainst": 33,
     "goalsAgainst": 2
    }
   ],
@@ -5637,7 +5119,7 @@
   ],
   "shots": {
    "away": 23,
-   "home": 30
+   "home": 31
   },
   "teamStats": {
    "away": {
@@ -5660,8 +5142,8 @@
     "team": "SJS",
     "name": "A. Nedeljkovic",
     "toi": "58:29",
-    "savesShots": "26/30",
-    "shotsAgainst": 30,
+    "savesShots": "27/31",
+    "shotsAgainst": 31,
     "goalsAgainst": 4
    },
    {
@@ -6045,7 +5527,7 @@
     "pp": "1/3",
     "pim": 6,
     "hits": 11,
-    "blocks": 19,
+    "blocks": 20,
     "foPct": 46.9
    },
    "home": {
@@ -6177,7 +5659,7 @@
    }
   ],
   "shots": {
-   "away": 22,
+   "away": 23,
    "home": 30
   },
   "teamStats": {
@@ -6192,7 +5674,7 @@
     "pp": "1/2",
     "pim": 6,
     "hits": 22,
-    "blocks": 10,
+    "blocks": 11,
     "foPct": 54.9
    }
   },
@@ -6209,8 +5691,8 @@
     "team": "EDM",
     "name": "D. Levi",
     "toi": "60:00",
-    "savesShots": "20/22",
-    "shotsAgainst": 22,
+    "savesShots": "21/23",
+    "shotsAgainst": 23,
     "goalsAgainst": 2
    }
   ],
@@ -6307,8 +5789,8 @@
    }
   ],
   "shots": {
-   "away": 41,
-   "home": 36
+   "away": 42,
+   "home": 37
   },
   "teamStats": {
    "away": {
@@ -6322,7 +5804,7 @@
     "pp": "1/9",
     "pim": 54,
     "hits": 13,
-    "blocks": 7,
+    "blocks": 6,
     "foPct": 63.6
    }
   },
@@ -6331,16 +5813,16 @@
     "team": "FLA",
     "name": "J. Markstrom",
     "toi": "59:04",
-    "savesShots": "32/36",
-    "shotsAgainst": 36,
+    "savesShots": "33/37",
+    "shotsAgainst": 37,
     "goalsAgainst": 4
    },
    {
     "team": "BOS",
     "name": "J. Swayman",
     "toi": "59:48",
-    "savesShots": "40/41",
-    "shotsAgainst": 41,
+    "savesShots": "41/42",
+    "shotsAgainst": 42,
     "goalsAgainst": 1
    }
   ],
@@ -6540,7 +6022,7 @@
   ],
   "shots": {
    "away": 21,
-   "home": 25
+   "home": 26
   },
   "teamStats": {
    "away": {
@@ -6563,8 +6045,8 @@
     "team": "TBL",
     "name": "A. Vasilevskiy",
     "toi": "60:00",
-    "savesShots": "21/25",
-    "shotsAgainst": 25,
+    "savesShots": "22/26",
+    "shotsAgainst": 26,
     "goalsAgainst": 4
    },
    {
@@ -7061,6 +6543,343 @@
    "C. Gauthier",
    "M. Granlund",
    "J. LaCombe"
+  ]
+ },
+ {
+  "gameId": 2026020283,
+  "away": "NYR",
+  "home": "EDM",
+  "awayScore": 1,
+  "homeScore": 3,
+  "periods": [
+   {
+    "period": 1,
+    "away": 0,
+    "home": 1
+   },
+   {
+    "period": 2,
+    "away": 1,
+    "home": 2
+   },
+   {
+    "period": 3,
+    "away": 1,
+    "home": 3
+   }
+  ],
+  "shots": {
+   "away": 29,
+   "home": 20
+  },
+  "teamStats": {
+   "away": {
+    "pp": "0/5",
+    "pim": 28,
+    "hits": 19,
+    "blocks": 7,
+    "foPct": 54.4
+   },
+   "home": {
+    "pp": "0/3",
+    "pim": 22,
+    "hits": 23,
+    "blocks": 11,
+    "foPct": 45.6
+   }
+  },
+  "goalies": [
+   {
+    "team": "NYR",
+    "name": "D. Garand",
+    "toi": "58:21",
+    "savesShots": "17/19",
+    "shotsAgainst": 19,
+    "goalsAgainst": 2
+   },
+   {
+    "team": "EDM",
+    "name": "D. Levi",
+    "toi": "60:00",
+    "savesShots": "28/29",
+    "shotsAgainst": 29,
+    "goalsAgainst": 1
+   }
+  ],
+  "goals": [
+   {
+    "period": 1,
+    "time": "06:42",
+    "team": "EDM",
+    "scorer": "Connor McDavid",
+    "assists": [],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "02:59",
+    "team": "EDM",
+    "scorer": "Leon Draisaitl",
+    "assists": [
+     "Vasily Podkolzin",
+     "Mattias Ekholm"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "05:05",
+    "team": "NYR",
+    "scorer": "Jaroslav Chmelar",
+    "assists": [
+     "Mika Zibanejad"
+    ],
+    "strength": "sh"
+   },
+   {
+    "period": 3,
+    "time": "18:47",
+    "team": "EDM",
+    "scorer": "Leon Draisaitl",
+    "assists": [],
+    "strength": "sh"
+   }
+  ],
+  "threeStars": [
+   "D. Levi",
+   "L. Draisaitl",
+   "A. Fox"
+  ]
+ },
+ {
+  "gameId": 2026020284,
+  "away": "PHI",
+  "home": "VAN",
+  "awayScore": 3,
+  "homeScore": 1,
+  "periods": [
+   {
+    "period": 1,
+    "away": 1,
+    "home": 0
+   },
+   {
+    "period": 2,
+    "away": 2,
+    "home": 0
+   },
+   {
+    "period": 3,
+    "away": 3,
+    "home": 1
+   }
+  ],
+  "shots": {
+   "away": 17,
+   "home": 19
+  },
+  "teamStats": {
+   "away": {
+    "pp": "1/2",
+    "pim": 10,
+    "hits": 18,
+    "blocks": 14,
+    "foPct": 50.0
+   },
+   "home": {
+    "pp": "1/5",
+    "pim": 4,
+    "hits": 19,
+    "blocks": 17,
+    "foPct": 50.0
+   }
+  },
+  "goalies": [
+   {
+    "team": "PHI",
+    "name": "J. Woll",
+    "toi": "59:55",
+    "savesShots": "18/19",
+    "shotsAgainst": 19,
+    "goalsAgainst": 1
+   },
+   {
+    "team": "VAN",
+    "name": "L. Meriläinen",
+    "toi": "58:34",
+    "savesShots": "14/16",
+    "shotsAgainst": 16,
+    "goalsAgainst": 2
+   }
+  ],
+  "goals": [
+   {
+    "period": 1,
+    "time": "02:03",
+    "team": "PHI",
+    "scorer": "Michael Bunting",
+    "assists": [
+     "Christian Dvorak",
+     "Nick Seeler"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "03:05",
+    "team": "PHI",
+    "scorer": "Travis Konecny",
+    "assists": [
+     "Matvei Michkov",
+     "Christian Dvorak"
+    ],
+    "strength": "pp"
+   },
+   {
+    "period": 3,
+    "time": "12:44",
+    "team": "VAN",
+    "scorer": "Jonathan Lekkerimäki",
+    "assists": [
+     "Brock Boeser",
+     "Elias Pettersson"
+    ],
+    "strength": "pp"
+   },
+   {
+    "period": 3,
+    "time": "19:01",
+    "team": "PHI",
+    "scorer": "Travis Sanheim",
+    "assists": [],
+    "strength": "sh"
+   }
+  ],
+  "threeStars": [
+   "M. Michkov",
+   "C. Dvorak",
+   "J. Lekkerimäki"
+  ]
+ },
+ {
+  "gameId": 2026020285,
+  "away": "NYI",
+  "home": "SJS",
+  "awayScore": 2,
+  "homeScore": 3,
+  "periods": [
+   {
+    "period": 1,
+    "away": 1,
+    "home": 1
+   },
+   {
+    "period": 2,
+    "away": 2,
+    "home": 2
+   },
+   {
+    "period": 5,
+    "away": 2,
+    "home": 3
+   }
+  ],
+  "shots": {
+   "away": 32,
+   "home": 39
+  },
+  "teamStats": {
+   "away": {
+    "pp": "1/4",
+    "pim": 18,
+    "hits": 21,
+    "blocks": 13,
+    "foPct": 58.2
+   },
+   "home": {
+    "pp": "0/4",
+    "pim": 18,
+    "hits": 27,
+    "blocks": 10,
+    "foPct": 41.8
+   }
+  },
+  "goalies": [
+   {
+    "team": "NYI",
+    "name": "I. Sorokin",
+    "toi": "65:00",
+    "savesShots": "37/39",
+    "shotsAgainst": 39,
+    "goalsAgainst": 2
+   },
+   {
+    "team": "SJS",
+    "name": "Y. Askarov",
+    "toi": "64:55",
+    "savesShots": "30/32",
+    "shotsAgainst": 32,
+    "goalsAgainst": 2
+   }
+  ],
+  "goals": [
+   {
+    "period": 1,
+    "time": "06:14",
+    "team": "NYI",
+    "scorer": "Ben Hutton",
+    "assists": [
+     "Simon Holmstrom",
+     "Bo Horvat"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 1,
+    "time": "16:41",
+    "team": "SJS",
+    "scorer": "Ivar Stenberg",
+    "assists": [
+     "Tyler Toffoli",
+     "Ty Dellandrea"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 2,
+    "time": "01:11",
+    "team": "NYI",
+    "scorer": "Victor Eklund",
+    "assists": [
+     "Brayden Schenn",
+     "Matthew Schaefer"
+    ],
+    "strength": "pp"
+   },
+   {
+    "period": 2,
+    "time": "12:12",
+    "team": "SJS",
+    "scorer": "Tyler Toffoli",
+    "assists": [
+     "Dmitry Orlov",
+     "Eric Pohlkamp"
+    ],
+    "strength": "ev"
+   },
+   {
+    "period": 5,
+    "time": "00:00",
+    "team": "SJS",
+    "scorer": "Ivar Stenberg",
+    "assists": [],
+    "strength": "ev"
+   }
+  ],
+  "threeStars": [
+   "Y. Askarov",
+   "I. Sorokin",
+   "T. Toffoli"
   ]
  }
 ]

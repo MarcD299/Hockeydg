@@ -1,6 +1,6 @@
 {
  "ligue": "WHL",
- "date_donnees": "2026-11-09",
+ "date_donnees": "2026-11-10",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "1023272": {
@@ -2734,7 +2734,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-06-30 13:00:23",
-    "last_modified": "2026-11-08 17:58:15",
+    "last_modified": "2026-11-09 10:34:11",
     "htv_game_id": "",
     "flo_core_event_id": "",
     "flo_live_event_id": "",
@@ -3523,12 +3523,12 @@
       "last_name": "Katz"
      },
      "assist1_player": {
-      "player_id": "30120",
-      "jersey_number": "8",
+      "player_id": "30620",
+      "jersey_number": "7",
       "team_id": "277",
       "team_code": "PEN",
-      "first_name": "Callum",
-      "last_name": "Stone"
+      "first_name": "Tyden",
+      "last_name": "Bergeson"
      },
      "assist2_player": {
       "player_id": "30628",
@@ -4219,7 +4219,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "14",
@@ -4245,7 +4245,7 @@
       "status": "C",
       "rookie": "0",
       "goals": 1,
-      "assists": 2,
+      "assists": 1,
       "plusminus": "+4",
       "pim": 0,
       "faceoff_wins": "0",
