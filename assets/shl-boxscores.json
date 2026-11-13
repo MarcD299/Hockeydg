@@ -1,1 +1,3152 @@
-{}
+{
+ "c0z71d4baw": {
+  "uuid": "c0z71d4baw",
+  "arena": "Löfbergs Arena",
+  "home": {
+   "code": "FBK",
+   "name": "Färjestad BK",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/fbk1_fbk.svg",
+   "score": 3
+  },
+  "away": {
+   "code": "DIF",
+   "name": "Djurgårdens IF",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/dif1_dif.svg",
+   "score": 1
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Viktor Lodin",
+    "team": "FBK",
+    "G": 1,
+    "A": 1,
+    "SOG": 7,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "18:52"
+   },
+   {
+    "name": "Joakim Nygård",
+    "team": "FBK",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "15:13"
+   },
+   {
+    "name": "Lucas Carlsson",
+    "team": "DIF",
+    "G": 1,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "19:01"
+   },
+   {
+    "name": "Per Åslund",
+    "team": "FBK",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:41"
+   },
+   {
+    "name": "Marian Studenic",
+    "team": "FBK",
+    "G": 0,
+    "A": 2,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "19:49"
+   },
+   {
+    "name": "Axel Bergkvist",
+    "team": "FBK",
+    "G": 0,
+    "A": 1,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:44"
+   },
+   {
+    "name": "Mathias Emilio Pettersen",
+    "team": "DIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "10:40"
+   },
+   {
+    "name": "Philip Holm",
+    "team": "DIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "20:38"
+   },
+   {
+    "name": "Adam Ollas Mattsson",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "19:04"
+   },
+   {
+    "name": "Albert Wikman",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:59"
+   },
+   {
+    "name": "Albin Grewe",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "4:26"
+   },
+   {
+    "name": "Christoffer Jansson",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:39"
+   },
+   {
+    "name": "Colby Sissons",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "21:31"
+   },
+   {
+    "name": "David Blomgren",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:11"
+   },
+   {
+    "name": "Filip Roos",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "19:01"
+   },
+   {
+    "name": "Gabriel Carlsson",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "19:56"
+   },
+   {
+    "name": "Gustav Lindström",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:58"
+   },
+   {
+    "name": "Henrik Eriksson",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "6:54"
+   },
+   {
+    "name": "Håvard Salsten",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "11:39"
+   },
+   {
+    "name": "Isak Holtet",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Jacob Josefson",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "16:13"
+   },
+   {
+    "name": "Jesper Pettersson",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "12:27"
+   },
+   {
+    "name": "Joe Snively",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "16:56"
+   },
+   {
+    "name": "Liam Pettersson",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "10:02"
+   },
+   {
+    "name": "Linus Johansson",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "15:25"
+   },
+   {
+    "name": "Lukas Vejdemo",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "20:09"
+   },
+   {
+    "name": "Magnus Nygren",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "17:21"
+   },
+   {
+    "name": "Marcus Krüger",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "15:43"
+   },
+   {
+    "name": "Mikkel Eriksen",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:39"
+   },
+   {
+    "name": "Mikkel Øby-Olsen",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:00"
+   },
+   {
+    "name": "Nikolas Brouillard",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 27,
+    "PM": 0,
+    "TOI": "13:33"
+   },
+   {
+    "name": "Nils Åman",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:32"
+   },
+   {
+    "name": "Oliver Wahlström",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "14:36"
+   },
+   {
+    "name": "Oskar Steen",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:26"
+   },
+   {
+    "name": "Petteri Lindbohm",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 25,
+    "PM": 0,
+    "TOI": "4:00"
+   },
+   {
+    "name": "Radim Zohorna",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "17:23"
+   },
+   {
+    "name": "Sebastian Cederle",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "8:12"
+   },
+   {
+    "name": "Sebastian Hartmann",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "16:22"
+   },
+   {
+    "name": "Theo Stockselius",
+    "team": "DIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:56"
+   },
+   {
+    "name": "Victor Ejdsell",
+    "team": "FBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:28"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "FBK",
+    "GA": 1,
+    "SVS": 23,
+    "SVSpct": 0.958
+   },
+   {
+    "name": "",
+    "team": "FBK",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "DIF",
+    "GA": 3,
+    "SVS": 29,
+    "SVSpct": 0.906
+   },
+   {
+    "name": "",
+    "team": "DIF",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   }
+  ]
+ },
+ "fzan01j1h1": {
+  "uuid": "fzan01j1h1",
+  "arena": "Visionite Arena",
+  "home": {
+   "code": "IFB",
+   "name": "Björklöven",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/ifb1_ifb.svg",
+   "score": 1
+  },
+  "away": {
+   "code": "OHK",
+   "name": "Örebro Hockey",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/ohk1_ohk.svg",
+   "score": 3
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Fredrik Forsberg",
+    "team": "IFB",
+    "G": 1,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:39"
+   },
+   {
+    "name": "Kalle Kossila",
+    "team": "OHK",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "17:14"
+   },
+   {
+    "name": "Max Veronneau",
+    "team": "OHK",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "19:08"
+   },
+   {
+    "name": "Milton Oscarson",
+    "team": "OHK",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "12:21"
+   },
+   {
+    "name": "David Quenneville",
+    "team": "OHK",
+    "G": 0,
+    "A": 2,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "20:41"
+   },
+   {
+    "name": "Robin Salo",
+    "team": "OHK",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "24:19"
+   },
+   {
+    "name": "Albin Lundin",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "16:31"
+   },
+   {
+    "name": "Anton Malmström",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "8:21"
+   },
+   {
+    "name": "Axel Ottosson",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:16"
+   },
+   {
+    "name": "Chris DiDomenico",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "18:31"
+   },
+   {
+    "name": "Christopher Mastomäki",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:50"
+   },
+   {
+    "name": "Egor Polin",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "4:58"
+   },
+   {
+    "name": "Erik Norén",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "19:27"
+   },
+   {
+    "name": "Glenn Gustafsson",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "12:29"
+   },
+   {
+    "name": "Gustav Backström",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "17:59"
+   },
+   {
+    "name": "Gustav Possler",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "11:14"
+   },
+   {
+    "name": "Jesse Ylönen",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "7:27"
+   },
+   {
+    "name": "Joel Larsson",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Joel Mustonen",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "9:57"
+   },
+   {
+    "name": "Josh Dickinson",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "18:05"
+   },
+   {
+    "name": "Josiah Didier",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:51"
+   },
+   {
+    "name": "Lenni Killinen",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "9:35"
+   },
+   {
+    "name": "Liam Danielsson",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "8:59"
+   },
+   {
+    "name": "Linus Arnesson",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 4,
+    "PM": 1,
+    "TOI": "19:04"
+   },
+   {
+    "name": "Linus Cronholm",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "16:43"
+   },
+   {
+    "name": "Lucas Ekeståhl-Jonsson",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "21:28"
+   },
+   {
+    "name": "Lucas Stockselius",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:08"
+   },
+   {
+    "name": "Luke Martin",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "17:06"
+   },
+   {
+    "name": "Marcus Björk",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "19:15"
+   },
+   {
+    "name": "Marcus Nilsson",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:49"
+   },
+   {
+    "name": "Oscar Tellström",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "19:09"
+   },
+   {
+    "name": "Patrik Karlkvist",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "16:06"
+   },
+   {
+    "name": "Phil Di Giuseppe",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "21:11"
+   },
+   {
+    "name": "Philip Hemmyr",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Robin Kovacs",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "18:58"
+   },
+   {
+    "name": "Tarmo Reunanen",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "12:01"
+   },
+   {
+    "name": "Topi Niemelä",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "17:25"
+   },
+   {
+    "name": "Tristen Robins",
+    "team": "IFB",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:54"
+   },
+   {
+    "name": "William Wikman",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:02"
+   },
+   {
+    "name": "Wojciech Stachowiak",
+    "team": "OHK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "17:45"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "IFB",
+    "GA": 2,
+    "SVS": 24,
+    "SVSpct": 0.923
+   },
+   {
+    "name": "",
+    "team": "IFB",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "OHK",
+    "GA": 1,
+    "SVS": 22,
+    "SVSpct": 0.957
+   },
+   {
+    "name": "",
+    "team": "OHK",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   }
+  ]
+ },
+ "huy9kqmnyw": {
+  "uuid": "huy9kqmnyw",
+  "arena": "Scandinavium",
+  "home": {
+   "code": "FHC",
+   "name": "Frölunda HC",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/fhc1_fhc.svg",
+   "score": 4
+  },
+  "away": {
+   "code": "MIF",
+   "name": "Malmö Redhawks",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/mif1_mif.svg",
+   "score": 1
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Graeme Clarke",
+    "team": "FHC",
+    "G": 1,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "15:13"
+   },
+   {
+    "name": "Max Lindholm",
+    "team": "FHC",
+    "G": 1,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "14:37"
+   },
+   {
+    "name": "Bosse Meijer",
+    "team": "FHC",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "12:23"
+   },
+   {
+    "name": "Carl Persson",
+    "team": "MIF",
+    "G": 1,
+    "A": 0,
+    "SOG": 5,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "17:59"
+   },
+   {
+    "name": "Jacob Peterson",
+    "team": "FHC",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "15:34"
+   },
+   {
+    "name": "Erik Thorell",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "11:37"
+   },
+   {
+    "name": "Fredrik Händemark",
+    "team": "MIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "16:19"
+   },
+   {
+    "name": "Lauri Pajuniemi",
+    "team": "MIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "16:12"
+   },
+   {
+    "name": "Linus Högberg",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "24:00"
+   },
+   {
+    "name": "Noah Hasa",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "6:02"
+   },
+   {
+    "name": "Patrik Puistola",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "14:29"
+   },
+   {
+    "name": "Samuel Fagemo",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "15:46"
+   },
+   {
+    "name": "Samuel Johannesson",
+    "team": "FHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "20:08"
+   },
+   {
+    "name": "Axel Sundberg",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:56"
+   },
+   {
+    "name": "Eemil Viro",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "19:23"
+   },
+   {
+    "name": "Emil Sylvegård",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:47"
+   },
+   {
+    "name": "Filip Björkman",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 25,
+    "PM": 0,
+    "TOI": "6:44"
+   },
+   {
+    "name": "Filip Cederqvist",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 25,
+    "PM": 0,
+    "TOI": "11:01"
+   },
+   {
+    "name": "Filip Hasa",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "21:37"
+   },
+   {
+    "name": "Henrik Tömmernes",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "26:01"
+   },
+   {
+    "name": "Hjalmar Cilthe",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Janne Kuokkanen",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "18:19"
+   },
+   {
+    "name": "Jonathan Myrenberg",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "20:38"
+   },
+   {
+    "name": "Kalle Hemström",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "4:04"
+   },
+   {
+    "name": "Klas Dahlbeck",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "20:27"
+   },
+   {
+    "name": "Liam Dower Nilsson",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "12:51"
+   },
+   {
+    "name": "Max Friberg",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:52"
+   },
+   {
+    "name": "Max Westergård",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:19"
+   },
+   {
+    "name": "Nicklas Lasu",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "18:21"
+   },
+   {
+    "name": "Oliwer Kaski",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "21:23"
+   },
+   {
+    "name": "Oscar Eklind",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:05"
+   },
+   {
+    "name": "Patrik Norén",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "11:03"
+   },
+   {
+    "name": "Peter DiLiberatore",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "8:17"
+   },
+   {
+    "name": "Petter Vesterheim",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "15:09"
+   },
+   {
+    "name": "Robin Hanzl",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "18:02"
+   },
+   {
+    "name": "Seth Barton",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "14:36"
+   },
+   {
+    "name": "Stefan Milosevic",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "20:19"
+   },
+   {
+    "name": "Thomas Berg-Paulsen",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:51"
+   },
+   {
+    "name": "William von Barnekow",
+    "team": "MIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "14:26"
+   },
+   {
+    "name": "Zigge Bratt",
+    "team": "FHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "5:56"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "FHC",
+    "GA": 1,
+    "SVS": 22,
+    "SVSpct": 0.957
+   },
+   {
+    "name": "",
+    "team": "FHC",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "MIF",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "MIF",
+    "GA": 3,
+    "SVS": 16,
+    "SVSpct": 0.842
+   }
+  ]
+ },
+ "imds3e8pm2": {
+  "uuid": "imds3e8pm2",
+  "arena": "Monitor ERP Arena",
+  "home": {
+   "code": "BIF",
+   "name": "Brynäs IF",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/bif1_bif.svg",
+   "score": 10
+  },
+  "away": {
+   "code": "SAIK",
+   "name": "Skellefteå AIK",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/saik1_saik.svg",
+   "score": 4
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Kieffer Bellows",
+    "team": "BIF",
+    "G": 3,
+    "A": 1,
+    "SOG": 5,
+    "PIM": 2,
+    "PM": 2,
+    "TOI": "21:00"
+   },
+   {
+    "name": "Oskar Vuollet",
+    "team": "SAIK",
+    "G": 2,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "14:44"
+   },
+   {
+    "name": "Jakob Silfverberg",
+    "team": "BIF",
+    "G": 1,
+    "A": 2,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "19:20"
+   },
+   {
+    "name": "Bobby Trivigno",
+    "team": "BIF",
+    "G": 1,
+    "A": 1,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "13:32"
+   },
+   {
+    "name": "Calle Järnkrok",
+    "team": "BIF",
+    "G": 1,
+    "A": 1,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "19:07"
+   },
+   {
+    "name": "Hudson Fasching",
+    "team": "SAIK",
+    "G": 1,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "10:26"
+   },
+   {
+    "name": "Johan Larsson",
+    "team": "BIF",
+    "G": 1,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "17:45"
+   },
+   {
+    "name": "Axel Rindell",
+    "team": "BIF",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "18:02"
+   },
+   {
+    "name": "Linus Ölund",
+    "team": "BIF",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:40"
+   },
+   {
+    "name": "Mattias Norlinder",
+    "team": "BIF",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "17:03"
+   },
+   {
+    "name": "Zeb Forsfjäll",
+    "team": "SAIK",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:12"
+   },
+   {
+    "name": "Johannes Kinnvall",
+    "team": "BIF",
+    "G": 0,
+    "A": 2,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 3,
+    "TOI": "21:55"
+   },
+   {
+    "name": "Oskar Lindblom",
+    "team": "BIF",
+    "G": 0,
+    "A": 2,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "13:31"
+   },
+   {
+    "name": "Pontus Johansson",
+    "team": "SAIK",
+    "G": 0,
+    "A": 2,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "15:09"
+   },
+   {
+    "name": "Pär Lindholm",
+    "team": "SAIK",
+    "G": 0,
+    "A": 2,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "17:49"
+   },
+   {
+    "name": "Anton Rödin",
+    "team": "BIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "14:22"
+   },
+   {
+    "name": "Axel Jonsson-Fjällby",
+    "team": "BIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:22"
+   },
+   {
+    "name": "Jaret Anderson-Dolan",
+    "team": "BIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "16:33"
+   },
+   {
+    "name": "Jonathan Davidsson",
+    "team": "SAIK",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "13:16"
+   },
+   {
+    "name": "Robert Hägg",
+    "team": "BIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 3,
+    "TOI": "16:41"
+   },
+   {
+    "name": "Simon Bertilsson",
+    "team": "BIF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "16:10"
+   },
+   {
+    "name": "Valter Lindberg",
+    "team": "SAIK",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "13:05"
+   },
+   {
+    "name": "Andreas Johnson",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": -3,
+    "TOI": "13:37"
+   },
+   {
+    "name": "Andro Kaderli",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "14:33"
+   },
+   {
+    "name": "Arvid Lundberg",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:12"
+   },
+   {
+    "name": "Axel Andersson",
+    "team": "BIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "19:20"
+   },
+   {
+    "name": "Christian Djoos",
+    "team": "BIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Edwin Annerstedt",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Emil Djuse",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "13:39"
+   },
+   {
+    "name": "Gustav Hillström",
+    "team": "BIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:03"
+   },
+   {
+    "name": "Jonathan Pudas",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": -5,
+    "TOI": "21:09"
+   },
+   {
+    "name": "Julien Gauthier",
+    "team": "BIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "4:28"
+   },
+   {
+    "name": "Mikkel Aagaard",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": -2,
+    "TOI": "14:51"
+   },
+   {
+    "name": "Milton Gästrin",
+    "team": "BIF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "7:25"
+   },
+   {
+    "name": "Måns Forsfjäll",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": -2,
+    "TOI": "15:24"
+   },
+   {
+    "name": "Oscar Lindberg",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": -2,
+    "TOI": "16:36"
+   },
+   {
+    "name": "Rasmus Bergqvist",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:41"
+   },
+   {
+    "name": "Rickard Hugg",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "14:28"
+   },
+   {
+    "name": "Viggo Nordlund",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "12:44"
+   },
+   {
+    "name": "Viktor Grahn",
+    "team": "SAIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "20:40"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "BIF",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "BIF",
+    "GA": 4,
+    "SVS": 13,
+    "SVSpct": 0.765
+   },
+   {
+    "name": "",
+    "team": "SAIK",
+    "GA": 6,
+    "SVS": 3,
+    "SVSpct": 0.333
+   },
+   {
+    "name": "",
+    "team": "SAIK",
+    "GA": 4,
+    "SVS": 12,
+    "SVSpct": 0.75
+   }
+  ]
+ },
+ "lossvjltt3": {
+  "uuid": "lossvjltt3",
+  "arena": "Husqvarna Garden",
+  "home": {
+   "code": "HV71",
+   "name": "HV71",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/hv711_hv71.svg",
+   "score": 2
+  },
+  "away": {
+   "code": "LHF",
+   "name": "Luleå Hockey",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/lhf1_lhf.svg",
+   "score": 4
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Ben Tardif",
+    "team": "LHF",
+    "G": 1,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "17:45"
+   },
+   {
+    "name": "Brian O'Neill",
+    "team": "LHF",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "15:42"
+   },
+   {
+    "name": "Mike Hardman",
+    "team": "HV71",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "16:01"
+   },
+   {
+    "name": "Oscar Engsund",
+    "team": "LHF",
+    "G": 1,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "23:23"
+   },
+   {
+    "name": "Pavol Regenda",
+    "team": "HV71",
+    "G": 1,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "18:39"
+   },
+   {
+    "name": "Pontus Själin",
+    "team": "LHF",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:19"
+   },
+   {
+    "name": "Pontus Andreasson",
+    "team": "LHF",
+    "G": 0,
+    "A": 2,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "14:56"
+   },
+   {
+    "name": "Andreas Borgman",
+    "team": "HV71",
+    "G": 0,
+    "A": 1,
+    "SOG": 8,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "22:12"
+   },
+   {
+    "name": "Hampus Eriksson",
+    "team": "HV71",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "12:43"
+   },
+   {
+    "name": "Hugo Fransson",
+    "team": "HV71",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "23:03"
+   },
+   {
+    "name": "Isac Hedqvist",
+    "team": "LHF",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "17:32"
+   },
+   {
+    "name": "Justin Kloos",
+    "team": "HV71",
+    "G": 0,
+    "A": 1,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "18:46"
+   },
+   {
+    "name": "Mathias Bromé",
+    "team": "LHF",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "16:16"
+   },
+   {
+    "name": "Oskari Laaksonen",
+    "team": "LHF",
+    "G": 0,
+    "A": 1,
+    "SOG": 5,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "23:51"
+   },
+   {
+    "name": "William Håkansson",
+    "team": "LHF",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "12:59"
+   },
+   {
+    "name": "Aleksi Heponiemi",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "1:55"
+   },
+   {
+    "name": "Casper Juustovaara",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:12"
+   },
+   {
+    "name": "David Granberg",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "9:52"
+   },
+   {
+    "name": "David Lövgren",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:44"
+   },
+   {
+    "name": "Filip Eriksson",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "14:57"
+   },
+   {
+    "name": "Isac Brännström",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "10:47"
+   },
+   {
+    "name": "Jan Mysak",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "17:18"
+   },
+   {
+    "name": "Jesper Sellgren",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "27:17"
+   },
+   {
+    "name": "Jonathan Ang",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "15:04"
+   },
+   {
+    "name": "Joona Koppanen",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "18:19"
+   },
+   {
+    "name": "Karl Annborn",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:58"
+   },
+   {
+    "name": "Linus Lindström",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "13:09"
+   },
+   {
+    "name": "Lucas Lagerberg",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "20:57"
+   },
+   {
+    "name": "Lukas Rousek",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "13:37"
+   },
+   {
+    "name": "Markus Nurmi",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:16"
+   },
+   {
+    "name": "Markuss Komuls",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:15"
+   },
+   {
+    "name": "Neo Hirsch",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Nikola Pasic",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "16:40"
+   },
+   {
+    "name": "Oliwer Sjöström",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:36"
+   },
+   {
+    "name": "Olle Alsing",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "16:26"
+   },
+   {
+    "name": "Riley Woods",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "13:45"
+   },
+   {
+    "name": "Santeri Hatakka",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "20:05"
+   },
+   {
+    "name": "Valtteri Puustinen",
+    "team": "LHF",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "14:40"
+   },
+   {
+    "name": "Victor Laz",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:07"
+   },
+   {
+    "name": "William Ignberg Nilsson",
+    "team": "HV71",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "11:51"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "HV71",
+    "GA": 3,
+    "SVS": 18,
+    "SVSpct": 0.857
+   },
+   {
+    "name": "",
+    "team": "HV71",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "LHF",
+    "GA": 2,
+    "SVS": 34,
+    "SVSpct": 0.944
+   },
+   {
+    "name": "",
+    "team": "LHF",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   }
+  ]
+ },
+ "ox7onn1v16": {
+  "uuid": "ox7onn1v16",
+  "arena": "Saab Arena",
+  "home": {
+   "code": "LHC",
+   "name": "Linköping HC",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/lhc1_lhc.svg",
+   "score": 9
+  },
+  "away": {
+   "code": "RBK",
+   "name": "Rögle BK",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/rbk1_rbk.svg",
+   "score": 4
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Remi Elie",
+    "team": "LHC",
+    "G": 3,
+    "A": 2,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "14:07"
+   },
+   {
+    "name": "Adam Hofbauer",
+    "team": "LHC",
+    "G": 2,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "9:43"
+   },
+   {
+    "name": "Jakub Vrana",
+    "team": "LHC",
+    "G": 1,
+    "A": 3,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "15:12"
+   },
+   {
+    "name": "Zion Nybeck",
+    "team": "LHC",
+    "G": 1,
+    "A": 3,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 5,
+    "TOI": "16:46"
+   },
+   {
+    "name": "Loke Krantz",
+    "team": "LHC",
+    "G": 1,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "13:26"
+   },
+   {
+    "name": "Mark Friedman",
+    "team": "RBK",
+    "G": 1,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "19:10"
+   },
+   {
+    "name": "Arvid Degerstedt",
+    "team": "LHC",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 25,
+    "PM": -1,
+    "TOI": "13:33"
+   },
+   {
+    "name": "Joel Kellman",
+    "team": "RBK",
+    "G": 1,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "16:41"
+   },
+   {
+    "name": "Lubos Horky",
+    "team": "RBK",
+    "G": 1,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "14:59"
+   },
+   {
+    "name": "Tinus Luc Koblar",
+    "team": "RBK",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:28"
+   },
+   {
+    "name": "Dennis Everberg",
+    "team": "RBK",
+    "G": 0,
+    "A": 2,
+    "SOG": 2,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "17:17"
+   },
+   {
+    "name": "Fredrik Olofsson",
+    "team": "RBK",
+    "G": 0,
+    "A": 2,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "18:49"
+   },
+   {
+    "name": "Johan Södergran",
+    "team": "LHC",
+    "G": 0,
+    "A": 2,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:32"
+   },
+   {
+    "name": "Brendan Shinnimin",
+    "team": "LHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": 1,
+    "TOI": "18:03"
+   },
+   {
+    "name": "Calle Själin",
+    "team": "RBK",
+    "G": 0,
+    "A": 1,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "19:44"
+   },
+   {
+    "name": "Filip Johansson",
+    "team": "RBK",
+    "G": 0,
+    "A": 1,
+    "SOG": 6,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "19:19"
+   },
+   {
+    "name": "Linus Hultström",
+    "team": "LHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "18:34"
+   },
+   {
+    "name": "Oscar Fantenberg",
+    "team": "LHC",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 4,
+    "TOI": "22:49"
+   },
+   {
+    "name": "Oskar Jellvik",
+    "team": "RBK",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "11:11"
+   },
+   {
+    "name": "Albin Sundsvik",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:49"
+   },
+   {
+    "name": "Calvin de Haan",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "16:24"
+   },
+   {
+    "name": "Christoffer Ehn",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "21:56"
+   },
+   {
+    "name": "David Bernhardt",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:03"
+   },
+   {
+    "name": "Edwin Lundqvist",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Fredrik Karlström",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "18:39"
+   },
+   {
+    "name": "Isac Solberg",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "6:56"
+   },
+   {
+    "name": "Johan Johnsson",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "16:27"
+   },
+   {
+    "name": "Johannes Neumann",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "1:08"
+   },
+   {
+    "name": "Karson Kuhlman",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:14"
+   },
+   {
+    "name": "Linus Sandin",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "17:27"
+   },
+   {
+    "name": "Ludvig Claesson",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "13:01"
+   },
+   {
+    "name": "Milton Carpenhammar",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "4:01"
+   },
+   {
+    "name": "Nate Clurman",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "8:47"
+   },
+   {
+    "name": "Nils Bartholdsson",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "12:04"
+   },
+   {
+    "name": "Paul LaDue",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "17:54"
+   },
+   {
+    "name": "Sami Niku",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:20"
+   },
+   {
+    "name": "Simon Zether",
+    "team": "RBK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "11:06"
+   },
+   {
+    "name": "Theodor Lennström",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "21:29"
+   },
+   {
+    "name": "Tim Söderlund",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "0:00"
+   },
+   {
+    "name": "Zach Giuttari",
+    "team": "LHC",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 4,
+    "TOI": "21:32"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "LHC",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "LHC",
+    "GA": 4,
+    "SVS": 35,
+    "SVSpct": 0.897
+   },
+   {
+    "name": "",
+    "team": "RBK",
+    "GA": 6,
+    "SVS": 7,
+    "SVSpct": 0.538
+   },
+   {
+    "name": "",
+    "team": "RBK",
+    "GA": 3,
+    "SVS": 10,
+    "SVSpct": 0.769
+   }
+  ]
+ },
+ "oxbyiij4th": {
+  "uuid": "oxbyiij4th",
+  "arena": "Vida Arena",
+  "home": {
+   "code": "VLH",
+   "name": "Växjö Lakers",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/vlh1_vlh.svg",
+   "score": 5
+  },
+  "away": {
+   "code": "TIK",
+   "name": "Timrå IK",
+   "logo": "https://sportality.cdn.s8y.se/team-logos/tik1_tik.svg",
+   "score": 0
+  },
+  "overtime": false,
+  "shootout": false,
+  "skaters": [
+   {
+    "name": "Sebastian Strandberg",
+    "team": "VLH",
+    "G": 1,
+    "A": 1,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "15:21"
+   },
+   {
+    "name": "Eddie Levin",
+    "team": "VLH",
+    "G": 1,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "8:24"
+   },
+   {
+    "name": "Eemeli Suomi",
+    "team": "VLH",
+    "G": 1,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 4,
+    "PM": 2,
+    "TOI": "14:35"
+   },
+   {
+    "name": "Kalle Kratz",
+    "team": "VLH",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "12:17"
+   },
+   {
+    "name": "Lucas Elvenes",
+    "team": "VLH",
+    "G": 1,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "16:58"
+   },
+   {
+    "name": "Brian Cooper",
+    "team": "VLH",
+    "G": 0,
+    "A": 2,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "21:05"
+   },
+   {
+    "name": "Brogan Rafferty",
+    "team": "VLH",
+    "G": 0,
+    "A": 2,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "20:43"
+   },
+   {
+    "name": "Joel Persson",
+    "team": "VLH",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "20:30"
+   },
+   {
+    "name": "Matias Mäntykivi",
+    "team": "VLH",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:56"
+   },
+   {
+    "name": "Morgan Anderberg",
+    "team": "VLH",
+    "G": 0,
+    "A": 1,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:44"
+   },
+   {
+    "name": "Peter Cehlarik",
+    "team": "VLH",
+    "G": 0,
+    "A": 1,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "14:08"
+   },
+   {
+    "name": "Sebastian Aho",
+    "team": "VLH",
+    "G": 0,
+    "A": 1,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 2,
+    "TOI": "18:09"
+   },
+   {
+    "name": "Albin Sundin",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "7:42"
+   },
+   {
+    "name": "Anton Heikkinen",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "14:15"
+   },
+   {
+    "name": "Anton Lander",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "13:18"
+   },
+   {
+    "name": "Anton Wedin",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "18:36"
+   },
+   {
+    "name": "David Lilja",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "13:36"
+   },
+   {
+    "name": "Dennis Rasmussen",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "17:11"
+   },
+   {
+    "name": "Didrik Strömberg",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "21:17"
+   },
+   {
+    "name": "Dylan McLaughlin",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 5,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "18:42"
+   },
+   {
+    "name": "Eddie Genborg",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "18:11"
+   },
+   {
+    "name": "Erik Walli-Walterholm",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": 0,
+    "TOI": "13:08"
+   },
+   {
+    "name": "Hugo Gustafsson",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "15:02"
+   },
+   {
+    "name": "Jimi Suomi",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "14:44"
+   },
+   {
+    "name": "Karl Henriksson",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "7:32"
+   },
+   {
+    "name": "Keegan Lowe",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "18:42"
+   },
+   {
+    "name": "Linus Eriksson",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 4,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "16:26"
+   },
+   {
+    "name": "Lucas Forsell",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "8:17"
+   },
+   {
+    "name": "Ludvig Nilsson",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 1,
+    "TOI": "13:31"
+   },
+   {
+    "name": "Magnus Pääjärvi",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "11:02"
+   },
+   {
+    "name": "Marcus Hardegård",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "19:09"
+   },
+   {
+    "name": "Marcus Westfält",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "12:45"
+   },
+   {
+    "name": "Ola Palme",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "5:48"
+   },
+   {
+    "name": "Olivier Nadeau",
+    "team": "VLH",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "15:41"
+   },
+   {
+    "name": "Otto Kivenmäki",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 0,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "14:37"
+   },
+   {
+    "name": "Per Svensson",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 2,
+    "PIM": 0,
+    "PM": -3,
+    "TOI": "17:07"
+   },
+   {
+    "name": "Simon Forsmark",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -2,
+    "TOI": "15:52"
+   },
+   {
+    "name": "Tim Barkemo",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 3,
+    "PIM": 0,
+    "PM": 0,
+    "TOI": "22:15"
+   },
+   {
+    "name": "Wilhelm Hallquisth",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 0,
+    "PM": -1,
+    "TOI": "15:02"
+   },
+   {
+    "name": "William Sörbrand",
+    "team": "TIK",
+    "G": 0,
+    "A": 0,
+    "SOG": 1,
+    "PIM": 2,
+    "PM": -1,
+    "TOI": "4:54"
+   }
+  ],
+  "goalies": [
+   {
+    "name": "",
+    "team": "VLH",
+    "GA": 0,
+    "SVS": 29,
+    "SVSpct": 1.0
+   },
+   {
+    "name": "",
+    "team": "VLH",
+    "GA": 0,
+    "SVS": 0,
+    "SVSpct": 0
+   },
+   {
+    "name": "",
+    "team": "TIK",
+    "GA": 4,
+    "SVS": 9,
+    "SVSpct": 0.692
+   },
+   {
+    "name": "",
+    "team": "TIK",
+    "GA": 1,
+    "SVS": 5,
+    "SVSpct": 0.833
+   }
+  ]
+ }
+}

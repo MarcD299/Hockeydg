@@ -1,6 +1,6 @@
 {
  "ligue": "USHL",
- "date_donnees": "2026-11-12",
+ "date_donnees": "2026-11-13",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "13590": {
@@ -71,7 +71,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.ticketstaronline.com/events/detail/green-bay-gamblers-hockey",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-12 03:36:14",
+    "last_modified": "2026-11-12 18:34:56",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154385",
@@ -820,7 +820,7 @@
       "jersey_number": "22",
       "team_id": "15",
       "team_code": "GB",
-      "first_name": "Si Wan",
+      "first_name": "Siwan",
       "last_name": "Gong"
      },
      "assist2_player": {
@@ -847,7 +847,7 @@
       {
        "player_id": "11544",
        "jersey_number": "22",
-       "first_name": "Si Wan",
+       "first_name": "Siwan",
        "last_name": "Gong"
       },
       {
@@ -955,7 +955,7 @@
       {
        "player_id": "11544",
        "jersey_number": "22",
-       "first_name": "Si Wan",
+       "first_name": "Siwan",
        "last_name": "Gong"
       },
       {
@@ -1040,12 +1040,12 @@
       "last_name": "Fedotov"
      },
      "assist2_player": {
-      "player_id": "11310",
-      "jersey_number": "10",
+      "player_id": "10336",
+      "jersey_number": "23",
       "team_id": "15",
       "team_code": "GB",
-      "first_name": "Milan",
-      "last_name": "Kutsevich"
+      "first_name": "Ethan",
+      "last_name": "Drabicki"
      },
      "plus": [
       {
@@ -1203,7 +1203,7 @@
       {
        "player_id": "11544",
        "jersey_number": "22",
-       "first_name": "Si Wan",
+       "first_name": "Siwan",
        "last_name": "Gong"
       },
       {
@@ -1317,7 +1317,7 @@
       {
        "player_id": "11544",
        "jersey_number": "22",
-       "first_name": "Si Wan",
+       "first_name": "Siwan",
        "last_name": "Gong"
       },
       {
@@ -1364,12 +1364,12 @@
       "last_name": "Pajor"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10415",
+      "jersey_number": "19",
+      "team_id": "15",
+      "team_code": "GB",
+      "first_name": "Nick",
+      "last_name": "Knutson"
      },
      "plus": [
       {
@@ -1460,12 +1460,12 @@
       "last_name": "Strom"
      },
      "assist2_player": {
-      "player_id": "11243",
-      "jersey_number": "16",
+      "player_id": "9996",
+      "jersey_number": "21",
       "team_id": "11",
       "team_code": "CHI",
-      "first_name": "Arsenii",
-      "last_name": "Savin"
+      "first_name": "Dallas",
+      "last_name": "Vieau"
      },
      "plus": [
       {
@@ -1742,7 +1742,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+1",
       "pim": 2,
       "faceoff_wins": "0",
@@ -1898,7 +1898,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": 0,
       "pim": 4,
       "faceoff_wins": "0",
@@ -1916,7 +1916,7 @@
      {
       "person_id": "12508",
       "player_id": "11544",
-      "first_name": "Si Wan",
+      "first_name": "Siwan",
       "last_name": "Gong",
       "start": "0",
       "position": "8",
@@ -1950,7 +1950,7 @@
       "status": "",
       "rookie": "0",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+2",
       "pim": 4,
       "faceoff_wins": "0",
@@ -2440,7 +2440,7 @@
       "status": "",
       "rookie": "1",
       "goals": 1,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+2",
       "pim": 6,
       "faceoff_wins": "0",
@@ -2518,7 +2518,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": 0,
       "pim": 0,
       "faceoff_wins": "0",
@@ -2730,11 +2730,11 @@
    },
    "assistCount": {
     "visitor": 5,
-    "home": 7
+    "home": 8
    },
    "pointsCount": {
     "visitor": 8,
-    "home": 11
+    "home": 12
    },
    "pimTotal": {
     "visitor": 16,
