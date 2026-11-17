@@ -1,8 +1,8 @@
 {
- "collected_at": "2026-11-16T05:26:06.669181-05:00",
+ "collected_at": "2026-11-17T05:26:05.064935-05:00",
  "dates": [
-  "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "sources": {
   "goalies": "Daily Faceoff — https://www.dailyfaceoff.com/starting-goalies/",
@@ -11,202 +11,6 @@
   "puckpedia_note": "PuckPedia designe comme source fiable mais protegee par Cloudflare (challenge interactif) : collecte automatisee impossible, verification manuelle via navigateur uniquement."
  },
  "games": [
-  {
-   "date": "2026-11-16",
-   "time": "19:30",
-   "date_gmt": "2026-11-17T00:30:00.000Z",
-   "home": {
-    "abbr": "NYR",
-    "name": "New York Rangers",
-    "slug": "new-york-rangers",
-    "goalie": {
-     "name": "Dylan Garand",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 7,
-      "losses": 7,
-      "otl": 1,
-      "shutouts": 1,
-      "save_pct": "0.91",
-      "gaa": "2.37"
-     }
-    }
-   },
-   "away": {
-    "abbr": "MTL",
-    "name": "Montreal Canadiens",
-    "slug": "montreal-canadiens",
-    "goalie": {
-     "name": "Jacob Fowler",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 8,
-      "losses": 0,
-      "otl": 2,
-      "shutouts": 1,
-      "save_pct": "0.924",
-      "gaa": "2.26"
-     }
-    }
-   }
-  },
-  {
-   "date": "2026-11-16",
-   "time": "21:30",
-   "date_gmt": "2026-11-17T02:30:00.000Z",
-   "home": {
-    "abbr": "UTA",
-    "name": "Utah Mammoth",
-    "slug": "utah-mammoth",
-    "goalie": {
-     "name": "Karel Vejmelka",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 6,
-      "losses": 6,
-      "otl": 2,
-      "shutouts": 2,
-      "save_pct": "0.868",
-      "gaa": "3.14"
-     }
-    }
-   },
-   "away": {
-    "abbr": "VAN",
-    "name": "Vancouver Canucks",
-    "slug": "vancouver-canucks",
-    "goalie": {
-     "name": "Leevi Merilainen",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 3,
-      "losses": 9,
-      "otl": 1,
-      "shutouts": 0,
-      "save_pct": "0.887",
-      "gaa": "3.54"
-     }
-    }
-   }
-  },
-  {
-   "date": "2026-11-17",
-   "time": "19:00",
-   "date_gmt": "2026-11-18T00:00:00.000Z",
-   "home": {
-    "abbr": "FLA",
-    "name": "Florida Panthers",
-    "slug": "florida-panthers",
-    "goalie": {
-     "name": "Akira Schmid",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 6,
-      "losses": 3,
-      "otl": 2,
-      "shutouts": 0,
-      "save_pct": "0.885",
-      "gaa": "2.98"
-     }
-    }
-   },
-   "away": {
-    "abbr": "EDM",
-    "name": "Edmonton Oilers",
-    "slug": "edmonton-oilers",
-    "goalie": {
-     "name": "Tristan Jarry",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 6,
-      "losses": 1,
-      "otl": 3,
-      "shutouts": 2,
-      "save_pct": "0.909",
-      "gaa": "2.45"
-     }
-    }
-   }
-  },
-  {
-   "date": "2026-11-17",
-   "time": "19:00",
-   "date_gmt": "2026-11-18T00:00:00.000Z",
-   "home": {
-    "abbr": "PHI",
-    "name": "Philadelphia Flyers",
-    "slug": "philadelphia-flyers",
-    "goalie": {
-     "name": "Dan Vladar",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 3,
-      "losses": 5,
-      "otl": 4,
-      "shutouts": 0,
-      "save_pct": "0.874",
-      "gaa": "3.31"
-     }
-    }
-   },
-   "away": {
-    "abbr": "BUF",
-    "name": "Buffalo Sabres",
-    "slug": "buffalo-sabres",
-    "goalie": {
-     "name": "Alex Lyon",
-     "status": "non_confirme",
-     "status_source": null,
-     "details": "",
-     "source_name": null,
-     "source_url": null,
-     "updated_at": null,
-     "stats": {
-      "wins": 0,
-      "losses": 1,
-      "otl": 1,
-      "shutouts": 0,
-      "save_pct": "0.909",
-      "gaa": "2.48"
-     }
-    }
-   }
-  },
   {
    "date": "2026-11-17",
    "time": "19:00",
@@ -261,11 +65,11 @@
    "time": "19:00",
    "date_gmt": "2026-11-18T00:00:00.000Z",
    "home": {
-    "abbr": "NYI",
-    "name": "New York Islanders",
-    "slug": "new-york-islanders",
+    "abbr": "PHI",
+    "name": "Philadelphia Flyers",
+    "slug": "philadelphia-flyers",
     "goalie": {
-     "name": "Semyon Varlamov",
+     "name": "Joseph Woll",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -273,12 +77,61 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 2,
-      "losses": 2,
+      "wins": 3,
+      "losses": 6,
       "otl": 2,
       "shutouts": 0,
-      "save_pct": "0.898",
-      "gaa": "2.6"
+      "save_pct": "0.902",
+      "gaa": "2.91"
+     }
+    }
+   },
+   "away": {
+    "abbr": "BUF",
+    "name": "Buffalo Sabres",
+    "slug": "buffalo-sabres",
+    "goalie": {
+     "name": "Alex Lyon",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 0,
+      "losses": 1,
+      "otl": 1,
+      "shutouts": 0,
+      "save_pct": "0.909",
+      "gaa": "2.48"
+     }
+    }
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:00",
+   "date_gmt": "2026-11-18T00:00:00.000Z",
+   "home": {
+    "abbr": "NYI",
+    "name": "New York Islanders",
+    "slug": "new-york-islanders",
+    "goalie": {
+     "name": "Ilya Sorokin",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 7,
+      "losses": 4,
+      "otl": 2,
+      "shutouts": 1,
+      "save_pct": "0.915",
+      "gaa": "2.53"
      }
     }
    },
@@ -287,7 +140,7 @@
     "name": "Columbus Blue Jackets",
     "slug": "columbus-blue-jackets",
     "goalie": {
-     "name": "Jet Greaves",
+     "name": "Cam Talbot",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -295,12 +148,61 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 2,
-      "losses": 8,
+      "wins": 5,
+      "losses": 3,
+      "otl": 0,
+      "shutouts": 0,
+      "save_pct": "0.909",
+      "gaa": "2.5"
+     }
+    }
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:00",
+   "date_gmt": "2026-11-18T00:00:00.000Z",
+   "home": {
+    "abbr": "FLA",
+    "name": "Florida Panthers",
+    "slug": "florida-panthers",
+    "goalie": {
+     "name": "Jacob Markstrom",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 6,
+      "losses": 3,
+      "otl": 1,
+      "shutouts": 1,
+      "save_pct": "0.906",
+      "gaa": "2.41"
+     }
+    }
+   },
+   "away": {
+    "abbr": "EDM",
+    "name": "Edmonton Oilers",
+    "slug": "edmonton-oilers",
+    "goalie": {
+     "name": "Devon Levi",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 9,
+      "losses": 1,
       "otl": 0,
       "shutouts": 1,
-      "save_pct": "0.875",
-      "gaa": "3.42"
+      "save_pct": "0.906",
+      "gaa": "2.48"
      }
     }
    }
@@ -314,7 +216,7 @@
     "name": "Winnipeg Jets",
     "slug": "winnipeg-jets",
     "goalie": {
-     "name": "Stuart Skinner",
+     "name": "Nico Daws",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -322,12 +224,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 7,
-      "losses": 4,
-      "otl": 3,
+      "wins": 4,
+      "losses": 3,
+      "otl": 0,
       "shutouts": 0,
-      "save_pct": "0.88",
-      "gaa": "3.38"
+      "save_pct": "0.892",
+      "gaa": "2.58"
      }
     }
    },
@@ -434,7 +336,7 @@
     "name": "Toronto Maple Leafs",
     "slug": "toronto-maple-leafs",
     "goalie": {
-     "name": "Anthony Stolarz",
+     "name": "Sergei Bobrovsky",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -442,12 +344,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 5,
-      "losses": 4,
-      "otl": 0,
+      "wins": 3,
+      "losses": 8,
+      "otl": 2,
       "shutouts": 0,
-      "save_pct": "0.905",
-      "gaa": "2.69"
+      "save_pct": "0.881",
+      "gaa": "3.47"
      }
     }
    }
@@ -495,7 +397,7 @@
       "losses": 4,
       "otl": 4,
       "shutouts": 1,
-      "save_pct": "0.917",
+      "save_pct": "0.918",
       "gaa": "2.49"
      }
     }
@@ -510,7 +412,7 @@
     "name": "St Louis Blues",
     "slug": "st-louis-blues",
     "goalie": {
-     "name": "Joel Hofer",
+     "name": "Jordan Binnington",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -518,12 +420,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 8,
-      "losses": 6,
+      "wins": 1,
+      "losses": 3,
       "otl": 1,
-      "shutouts": 2,
-      "save_pct": "0.921",
-      "gaa": "2.27"
+      "shutouts": 0,
+      "save_pct": "0.851",
+      "gaa": "4.26"
      }
     }
    },
@@ -559,7 +461,7 @@
     "name": "Vegas Golden Knights",
     "slug": "vegas-golden-knights",
     "goalie": {
-     "name": "Carter Hart",
+     "name": "Adin Hill",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -567,12 +469,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 6,
-      "losses": 4,
-      "otl": 2,
+      "wins": 7,
+      "losses": 2,
+      "otl": 1,
       "shutouts": 0,
-      "save_pct": "0.888",
-      "gaa": "2.74"
+      "save_pct": "0.907",
+      "gaa": "2.47"
      }
     }
    },
@@ -581,7 +483,7 @@
     "name": "Dallas Stars",
     "slug": "dallas-stars",
     "goalie": {
-     "name": "Casey DeSmith",
+     "name": "Jake Oettinger",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -589,12 +491,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 2,
-      "losses": 2,
+      "wins": 10,
+      "losses": 4,
       "otl": 1,
-      "shutouts": 0,
-      "save_pct": "0.906",
-      "gaa": "2.36"
+      "shutouts": 4,
+      "save_pct": "0.902",
+      "gaa": "2.17"
      }
     }
    }
@@ -608,7 +510,7 @@
     "name": "San Jose Sharks",
     "slug": "san-jose-sharks",
     "goalie": {
-     "name": "Alex Nedeljkovic",
+     "name": "Yaroslav Askarov",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -616,12 +518,12 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 4,
-      "losses": 3,
+      "wins": 6,
+      "losses": 8,
       "otl": 1,
       "shutouts": 0,
-      "save_pct": "0.902",
-      "gaa": "3.07"
+      "save_pct": "0.89",
+      "gaa": "3.22"
      }
     }
    },
@@ -630,7 +532,7 @@
     "name": "Calgary Flames",
     "slug": "calgary-flames",
     "goalie": {
-     "name": "Devin Cooley",
+     "name": "Dustin Wolf",
      "status": "non_confirme",
      "status_source": null,
      "details": "",
@@ -638,12 +540,159 @@
      "source_url": null,
      "updated_at": null,
      "stats": {
-      "wins": 5,
+      "wins": 4,
       "losses": 5,
-      "otl": 0,
+      "otl": 1,
       "shutouts": 0,
+      "save_pct": "0.875",
+      "gaa": "3.58"
+     }
+    }
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:30",
+   "date_gmt": "2026-11-19T00:30:00.000Z",
+   "home": {
+    "abbr": "DET",
+    "name": "Detroit Red Wings",
+    "slug": "detroit-red-wings",
+    "goalie": {
+     "name": "Daniil Tarasov",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 3,
+      "losses": 3,
+      "otl": 1,
+      "shutouts": 2,
+      "save_pct": "0.937",
+      "gaa": "1.69"
+     }
+    }
+   },
+   "away": {
+    "abbr": "BOS",
+    "name": "Boston Bruins",
+    "slug": "boston-bruins",
+    "goalie": {
+     "name": "Jeremy Swayman",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 9,
+      "losses": 5,
+      "otl": 1,
+      "shutouts": 1,
+      "save_pct": "0.906",
+      "gaa": "2.6"
+     }
+    }
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:30",
+   "date_gmt": "2026-11-19T00:30:00.000Z",
+   "home": {
+    "abbr": "NJD",
+    "name": "New Jersey Devils",
+    "slug": "new-jersey-devils",
+    "goalie": {
+     "name": "Connor Hellebuyck",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 7,
+      "losses": 0,
+      "otl": 0,
+      "shutouts": 1,
+      "save_pct": "0.916",
+      "gaa": "2.25"
+     }
+    }
+   },
+   "away": {
+    "abbr": "MTL",
+    "name": "Montreal Canadiens",
+    "slug": "montreal-canadiens",
+    "goalie": {
+     "name": "Jacob Fowler",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 8,
+      "losses": 1,
+      "otl": 2,
+      "shutouts": 1,
+      "save_pct": "0.921",
+      "gaa": "2.34"
+     }
+    }
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "22:00",
+   "date_gmt": "2026-11-19T03:00:00.000Z",
+   "home": {
+    "abbr": "UTA",
+    "name": "Utah Mammoth",
+    "slug": "utah-mammoth",
+    "goalie": {
+     "name": "Karel Vejmelka",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 6,
+      "losses": 7,
+      "otl": 2,
+      "shutouts": 2,
+      "save_pct": "0.869",
+      "gaa": "3.14"
+     }
+    }
+   },
+   "away": {
+    "abbr": "COL",
+    "name": "Colorado Avalanche",
+    "slug": "colorado-avalanche",
+    "goalie": {
+     "name": "Mackenzie Blackwood",
+     "status": "non_confirme",
+     "status_source": null,
+     "details": "",
+     "source_name": null,
+     "source_url": null,
+     "updated_at": null,
+     "stats": {
+      "wins": 11,
+      "losses": 3,
+      "otl": 1,
+      "shutouts": 1,
       "save_pct": "0.905",
-      "gaa": "2.89"
+      "gaa": "2.52"
      }
     }
    }
@@ -654,8 +703,8 @@
    "team": "Anaheim Ducks",
    "abbr": "ANA",
    "slug": "anaheim-ducks",
-   "source": "Derek Lee",
-   "source_updated_at": "2026-11-16T01:50:37.512Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:10:53.912Z",
    "forwards": [
     [
      {
@@ -777,13 +826,13 @@
       "news_at": "2025-10-02T19:59:00.000-04:00"
      },
      {
-      "name": "Drew Helleson",
+      "name": "Ian Moore",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Hellseon is expected to be a healthy scratch vs. Buffalo on Thursday.",
-      "news_at": "2026-10-29T18:16:34.492-04:00"
+      "latest_news": "Moore (lower-body) was activated off IR and is expected to return vs. Calgary on Sunday.",
+      "news_at": "2026-11-15T19:33:28.525-05:00"
      }
     ],
     [
@@ -944,22 +993,22 @@
       "news_at": "2025-11-13T19:03:27.574-05:00"
      },
      {
-      "name": "Pavel Mintyukov",
+      "name": "Jackson Lacombe",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Mintyukov (lower-body) has been activated from IR and will play on Sunday.",
-      "news_at": "2026-11-01T19:23:10.346-05:00"
+      "latest_news": "8-year, $72,000,000 contract with the Anaheim Ducks. NTC in Years 3-5; 15 team no trade in Years 6-7; 10 team no trade in Year 8. Expires 2034 (UFA).",
+      "news_at": "2025-10-02T19:59:00.000-04:00"
      },
      {
-      "name": "Drew Helleson",
+      "name": "Ian Moore",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Hellseon is expected to be a healthy scratch vs. Buffalo on Thursday.",
-      "news_at": "2026-10-29T18:16:34.492-04:00"
+      "latest_news": "Moore (lower-body) was activated off IR and is expected to return vs. Calgary on Sunday.",
+      "news_at": "2026-11-15T19:33:28.525-05:00"
      }
     ],
     [
@@ -1026,8 +1075,8 @@
    "team": "Boston Bruins",
    "abbr": "BOS",
    "slug": "boston-bruins",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T13:52:10.290Z",
+   "source": "Belle Fraser",
+   "source_updated_at": "2026-11-16T16:47:13.743Z",
    "forwards": [
     [
      {
@@ -1127,13 +1176,13 @@
       "news_at": "2026-04-14T10:57:15.607-04:00"
      },
      {
-      "name": "Matthew Poitras",
+      "name": "Sean Kuraly",
       "position": "c",
       "position_name": "Center",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Poitras (upper-body) is out vs. Pittsburgh on Thursday.",
-      "news_at": "2026-11-05T17:54:04.028-05:00"
+      "latest_news": "Kuraly is expected to draw back into the lineup vs. Los Angeles on Tuesday.",
+      "news_at": "2026-11-16T12:33:54.403-05:00"
      },
      {
       "name": "Mark Kastelic",
@@ -1189,13 +1238,13 @@
     ],
     [
      {
-      "name": "Frederic Brunet",
+      "name": "Mason Lohrei",
       "position": "ld",
       "position_name": "Left Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Brunet will draw back into the lineup in Pittsburgh on Thursday.",
-      "news_at": "2026-11-05T17:54:53.892-05:00"
+      "latest_news": "Lohrei will be a healthy scratch on Saturday.",
+      "news_at": "2026-11-14T10:38:46.438-05:00"
      },
      {
       "name": "Connor Clifton",
@@ -1258,13 +1307,13 @@
     ],
     [
      {
-      "name": "Matthew Poitras",
+      "name": "Marat Khusnutdinov",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Poitras (upper-body) is out vs. Pittsburgh on Thursday.",
-      "news_at": "2026-11-05T17:54:04.028-05:00"
+      "latest_news": "3-year, $11,850,000 contract with the Boston Bruins. Contract breakdown to be confirmed. Expires 2030 (UFA).",
+      "news_at": "2026-10-21T19:59:00.000-04:00"
      },
      {
       "name": "Fraser Minten",
@@ -1285,22 +1334,22 @@
       "news_at": "2026-04-14T18:41:44.793-04:00"
      },
      {
-      "name": "Frederic Brunet",
+      "name": "JJ Peterka",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Brunet will draw back into the lineup in Pittsburgh on Thursday.",
-      "news_at": "2026-11-05T17:54:53.892-05:00"
+      "latest_news": "The Bruins have acquired JJ Peterka from the Mammoth for the No.23 overall pick in 2026 and a 2028 first-round pick.",
+      "news_at": "2026-06-26T19:23:18.991-04:00"
      },
      {
-      "name": "JJ Peterka",
+      "name": "Mason Lohrei",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "The Bruins have acquired JJ Peterka from the Mammoth for the No.23 overall pick in 2026 and a 2028 first-round pick.",
-      "news_at": "2026-06-26T19:23:18.991-04:00"
+      "latest_news": "Lohrei will be a healthy scratch on Saturday.",
+      "news_at": "2026-11-14T10:38:46.438-05:00"
      }
     ]
    ],
@@ -1401,8 +1450,8 @@
    "team": "Buffalo Sabres",
    "abbr": "BUF",
    "slug": "buffalo-sabres",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T14:09:07.117Z",
+   "source": "Paul Hamilton",
+   "source_updated_at": "2026-11-16T16:48:11.423Z",
    "forwards": [
     [
      {
@@ -1415,13 +1464,13 @@
       "news_at": "2026-11-03T12:12:35.916-05:00"
      },
      {
-      "name": "Peyton Krebs",
+      "name": "Jiri Kulich",
       "position": "c",
       "position_name": "Center",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "4-year, $18,000,000 contract with the Buffalo Sabres. 7 team NTC Yr 3-4. Expires 2030 (UFA).",
-      "news_at": "2026-07-13T19:59:00.000-04:00"
+      "latest_news": "Kulich will draw back into the Sabres lineup on Thursday.",
+      "news_at": "2026-11-12T18:58:15.863-05:00"
      },
      {
       "name": "Tage Thompson",
@@ -1435,13 +1484,42 @@
     ],
     [
      {
-      "name": "Jason Zucker",
+      "name": "Josh Norris",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday.",
-      "news_at": "2026-10-21T10:54:19.732-04:00"
+      "latest_news": "Norris (concussion) will play in Montreal on Saturday.",
+      "news_at": "2026-10-17T18:45:46.208-04:00"
+     },
+     {
+      "name": "Peyton Krebs",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "4-year, $18,000,000 contract with the Buffalo Sabres. 7 team NTC Yr 3-4. Expires 2030 (UFA).",
+      "news_at": "2026-07-13T19:59:00.000-04:00"
+     },
+     {
+      "name": "Josh Doan",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Doan (lower-body) will play vs. Dallas on Thursday.",
+      "news_at": "2026-10-08T18:40:52.864-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Ryan McLeod",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "McLeod will draw back into the lineup vs. Tampa Bay on Wednesday.",
+      "news_at": "2026-11-10T12:38:38.997-05:00"
      },
      {
       "name": "Noah Ostlund",
@@ -1464,60 +1542,31 @@
     ],
     [
      {
-      "name": "Jiri Kulich",
+      "name": "Beck Malenstyn",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Kulich will draw back into the Sabres lineup on Thursday.",
-      "news_at": "2026-11-12T18:58:15.863-05:00"
+      "latest_news": "6-year, $17,500,002 contract with the Buffalo Sabres. No Trade Clause in Year 1, then 7 team no trade list for remainder of contract. Expires 2032 (UFA).",
+      "news_at": "2026-06-29T19:59:00.000-04:00"
      },
-     {
-      "name": "Josh Norris",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Norris (concussion) will play in Montreal on Saturday.",
-      "news_at": "2026-10-17T18:45:46.208-04:00"
-     },
-     {
-      "name": "Josh Doan",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Doan (lower-body) will play vs. Dallas on Thursday.",
-      "news_at": "2026-10-08T18:40:52.864-04:00"
-     }
-    ],
-    [
      {
       "name": "Tyson Kozak",
-      "position": "lw",
-      "position_name": "Left Wing",
+      "position": "c",
+      "position_name": "Center",
       "injury_status": null,
       "game_time_decision": false,
       "latest_news": "Kozak will be a healthy scratch on Tuesday.",
       "news_at": "2026-10-13T18:10:06.571-04:00"
      },
      {
-      "name": "Ryan McLeod",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "McLeod will draw back into the lineup vs. Tampa Bay on Wednesday.",
-      "news_at": "2026-11-10T12:38:38.997-05:00"
-     },
-     {
-      "name": "Beck Malenstyn",
+      "name": "Jason Zucker",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "6-year, $17,500,002 contract with the Buffalo Sabres. No Trade Clause in Year 1, then 7 team no trade list for remainder of contract. Expires 2032 (UFA).",
-      "news_at": "2026-06-29T19:59:00.000-04:00"
+      "latest_news": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday.",
+      "news_at": "2026-10-21T10:54:19.732-04:00"
      }
     ]
    ],
@@ -1586,22 +1635,22 @@
    "powerplay": [
     [
      {
-      "name": "Zach Benson",
+      "name": "Josh Doan",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Benson (undisclosed) practiced on Tuesday and is expected to play vs. Ottawa on Wednesday.",
-      "news_at": "2026-11-03T12:12:35.916-05:00"
+      "latest_news": "Doan (lower-body) will play vs. Dallas on Thursday.",
+      "news_at": "2026-10-08T18:40:52.864-04:00"
      },
      {
-      "name": "Noah Ostlund",
+      "name": "Zach Benson",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "8-year, $52,800,000 contract with the Buffalo Sabres. 7 team no trade list in Years 5-8. Expires 2035 (UFA).",
-      "news_at": "2026-09-14T19:59:00.000-04:00"
+      "latest_news": "Benson (undisclosed) practiced on Tuesday and is expected to play vs. Ottawa on Wednesday.",
+      "news_at": "2026-11-03T12:12:35.916-05:00"
      },
      {
       "name": "Jack Quinn",
@@ -1633,13 +1682,13 @@
     ],
     [
      {
-      "name": "Jason Zucker",
+      "name": "Noah Ostlund",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday.",
-      "news_at": "2026-10-21T10:54:19.732-04:00"
+      "latest_news": "8-year, $52,800,000 contract with the Buffalo Sabres. 7 team no trade list in Years 5-8. Expires 2035 (UFA).",
+      "news_at": "2026-09-14T19:59:00.000-04:00"
      },
      {
       "name": "Jiri Kulich",
@@ -1651,13 +1700,13 @@
       "news_at": "2026-11-12T18:58:15.863-05:00"
      },
      {
-      "name": "Josh Doan",
+      "name": "Jason Zucker",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Doan (lower-body) will play vs. Dallas on Thursday.",
-      "news_at": "2026-10-08T18:40:52.864-04:00"
+      "latest_news": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday.",
+      "news_at": "2026-10-21T10:54:19.732-04:00"
      },
      {
       "name": "Owen Power",
@@ -1782,8 +1831,8 @@
    "team": "Calgary Flames",
    "abbr": "CGY",
    "slug": "calgary-flames",
-   "source": "Derek Wills",
-   "source_updated_at": "2026-11-16T00:42:17.342Z",
+   "source": "Projected",
+   "source_updated_at": "2026-11-17T01:32:12.002Z",
    "forwards": [
     [
      {
@@ -1874,13 +1923,13 @@
     ],
     [
      {
-      "name": "William Stromgren",
+      "name": "Brennan Othmann",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Stromgren will be back in the Flames lineup on Saturday.",
-      "news_at": "2026-11-14T18:05:04.251-05:00"
+      "latest_news": "Othmann will be a healthy scratch on Saturday.",
+      "news_at": "2026-11-14T18:05:29.666-05:00"
      },
      {
       "name": "Jonathan Castagna",
@@ -2063,22 +2112,22 @@
    "penaltykill": [
     [
      {
-      "name": "Martin Pospisil",
+      "name": "Mikael Backlund",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Pospisil is expected to be a healthy scratch on Sunday.",
-      "news_at": "2026-04-12T20:36:27.534-04:00"
+      "latest_news": "Backlund (upper-body) is on the ice for warmups and is expected to play Monday.",
+      "news_at": "2026-10-26T20:06:14.377-04:00"
      },
      {
-      "name": "Joel Farabee",
+      "name": "Yegor Sharangovich",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Farabee (illness) will return to the Flames lineup on Tuesday.",
-      "news_at": "2025-03-25T20:45:10.416-04:00"
+      "latest_news": "Sharangovich is expected to be a healthy scratch vs. San Jose on Thursday.",
+      "news_at": "2025-11-13T12:30:24.246-05:00"
      },
      {
       "name": "Jacob Middleton",
@@ -2110,13 +2159,13 @@
       "news_at": "2026-10-08T13:02:43.859-04:00"
      },
      {
-      "name": "Yegor Sharangovich",
+      "name": "Joel Farabee",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Sharangovich is expected to be a healthy scratch vs. San Jose on Thursday.",
-      "news_at": "2025-11-13T12:30:24.246-05:00"
+      "latest_news": "Farabee (illness) will return to the Flames lineup on Tuesday.",
+      "news_at": "2025-03-25T20:45:10.416-04:00"
      },
      {
       "name": "Yan Kuznetsov",
@@ -2128,19 +2177,19 @@
       "news_at": "2026-10-04T19:45:55.145-04:00"
      },
      {
-      "name": "Joel Hanley",
+      "name": "Simon Nemec",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Hanley will draw back into the lineup vs. Anaheim on Friday.",
-      "news_at": "2026-11-06T19:43:21.555-05:00"
+      "latest_news": "5-year, $36,250,000 contract with the Calgary Flames. 10 team no trade list in Yr 5. Expires 2031 (UFA).",
+      "news_at": "2026-07-06T19:59:00.000-04:00"
      }
     ]
    ],
    "goalies": [
-    "Devin Cooley",
-    "Dustin Wolf"
+    "Dustin Wolf",
+    "Devin Cooley"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -2163,18 +2212,18 @@
    "team": "Chicago Blackhawks",
    "abbr": "CHI",
    "slug": "chicago-blackhawks",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T13:49:56.564Z",
+   "source": "Mario Tirabassi",
+   "source_updated_at": "2026-11-17T02:36:53.865Z",
    "forwards": [
     [
      {
-      "name": "Roman Kantserov",
+      "name": "Tyler Bertuzzi",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "3-year, $3,225,000 contract with the Chicago Blackhawks. Expires 2029 (RFA).",
-      "news_at": "2026-05-21T19:59:00.000-04:00"
+      "game_time_decision": true,
+      "latest_news": "Bertuzzi (upper-body) is likely able to play vs. Toronto on Tuesday.",
+      "news_at": "2026-11-16T13:43:39.921-05:00"
      },
      {
       "name": "Connor Bedard",
@@ -2186,24 +2235,24 @@
       "news_at": "2026-10-13T11:43:40.848-04:00"
      },
      {
-      "name": "Tyler Bertuzzi",
+      "name": "Roman Kantserov",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Bertuzzi (upper-body) will return vs. Seattle on Thursday.",
-      "news_at": "2025-11-20T12:25:40.930-05:00"
+      "latest_news": "3-year, $3,225,000 contract with the Chicago Blackhawks. Expires 2029 (RFA).",
+      "news_at": "2026-05-21T19:59:00.000-04:00"
      }
     ],
     [
      {
-      "name": "Teuvo Teravainen",
+      "name": "Cole Smith",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Teravainen will be back in the Blackhawks lineup on Saturday.",
-      "news_at": "2026-11-14T15:13:57.323-05:00"
+      "game_time_decision": true,
+      "latest_news": "Smith (undisclosed) missed practice on Monday but is likely to play Tuesday vs. Toronto.",
+      "news_at": "2026-11-16T13:44:26.035-05:00"
      },
      {
       "name": "Anton Frondell",
@@ -2215,13 +2264,13 @@
       "news_at": "2026-03-24T12:24:34.478-04:00"
      },
      {
-      "name": "Ryan Donato",
+      "name": "Teuvo Teravainen",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "4-year, $16,000,000 contract with the Chicago Blackhawks. Yr 1: 10 Team no trade list, Yr 2 - 4 8 Team no trade list. Expires 2029 (UFA).",
-      "news_at": "2025-06-18T19:59:00.000-04:00"
+      "latest_news": "Teravainen will be back in the Blackhawks lineup on Saturday.",
+      "news_at": "2026-11-14T15:13:57.323-05:00"
      }
     ],
     [
@@ -2255,13 +2304,13 @@
     ],
     [
      {
-      "name": "Cole Smith",
+      "name": "Andrew Mangiapane",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "3-year, $9,000,000 contract with the Chicago Blackhawks. 10 team no trade list in Yr 1 ... 6 team no trade list on Yr 2. Expires 2029 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
+      "latest_news": "Mangiapane is expected to be a healthy scratch in Carolina on Saturday.",
+      "news_at": "2026-11-07T11:23:05.191-05:00"
      },
      {
       "name": "Ryan Greene",
@@ -2273,13 +2322,13 @@
       "news_at": "2026-02-04T11:08:53.929-05:00"
      },
      {
-      "name": "Andrew Mangiapane",
+      "name": "Ryan Donato",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Mangiapane is expected to be a healthy scratch in Carolina on Saturday.",
-      "news_at": "2026-11-07T11:23:05.191-05:00"
+      "latest_news": "4-year, $16,000,000 contract with the Chicago Blackhawks. Yr 1: 10 Team no trade list, Yr 2 - 4 8 Team no trade list. Expires 2029 (UFA).",
+      "news_at": "2025-06-18T19:59:00.000-04:00"
      }
     ]
    ],
@@ -2399,9 +2448,9 @@
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Bertuzzi (upper-body) will return vs. Seattle on Thursday.",
-      "news_at": "2025-11-20T12:25:40.930-05:00"
+      "game_time_decision": true,
+      "latest_news": "Bertuzzi (upper-body) is likely able to play vs. Toronto on Tuesday.",
+      "news_at": "2026-11-16T13:43:39.921-05:00"
      },
      {
       "name": "Anton Frondell",
@@ -2413,31 +2462,31 @@
       "news_at": "2026-03-24T12:24:34.478-04:00"
      },
      {
-      "name": "Teuvo Teravainen",
+      "name": "Ryan Donato",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Teravainen will be back in the Blackhawks lineup on Saturday.",
-      "news_at": "2026-11-14T15:13:57.323-05:00"
+      "latest_news": "4-year, $16,000,000 contract with the Chicago Blackhawks. Yr 1: 10 Team no trade list, Yr 2 - 4 8 Team no trade list. Expires 2029 (UFA).",
+      "news_at": "2025-06-18T19:59:00.000-04:00"
      },
      {
-      "name": "Oliver Moore",
+      "name": "Artyom Levshunov",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Moore will draw back into the lineup vs. Los Angeles on Tuesday.",
-      "news_at": "2026-10-27T12:20:29.517-04:00"
+      "latest_news": "Levshunov (hand) will miss the remainder of the 2025-26 season.",
+      "news_at": "2026-03-31T12:23:14.220-04:00"
      },
      {
-      "name": "Artyom Levshunov",
+      "name": "Teuvo Teravainen",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Levshunov (hand) will miss the remainder of the 2025-26 season.",
-      "news_at": "2026-03-31T12:23:14.220-04:00"
+      "latest_news": "Teravainen will be back in the Blackhawks lineup on Saturday.",
+      "news_at": "2026-11-14T15:13:57.323-05:00"
      }
     ]
    ],
@@ -2457,9 +2506,9 @@
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "3-year, $9,000,000 contract with the Chicago Blackhawks. 10 team no trade list in Yr 1 ... 6 team no trade list on Yr 2. Expires 2029 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
+      "game_time_decision": true,
+      "latest_news": "Smith (undisclosed) missed practice on Monday but is likely to play Tuesday vs. Toronto.",
+      "news_at": "2026-11-16T13:44:26.035-05:00"
      },
      {
       "name": "Alex Vlasic",
@@ -2530,6 +2579,414 @@
      "injury_status": "ir",
      "details": "Byram (upper-body) remains day-to-day and will not play on Saturday.",
      "news_at": "2026-11-14T15:07:10.175-05:00"
+    },
+    {
+     "name": "Cole Smith",
+     "injury_status": "dtd",
+     "details": "Smith (undisclosed) missed practice on Monday but is likely to play Tuesday vs. Toronto.",
+     "news_at": "2026-11-16T13:44:26.035-05:00"
+    },
+    {
+     "name": "Tyler Bertuzzi",
+     "injury_status": "dtd",
+     "details": "Bertuzzi (upper-body) is likely able to play vs. Toronto on Tuesday.",
+     "news_at": "2026-11-16T13:43:39.921-05:00"
+    }
+   ],
+   "game_time_decisions": [
+    "Cole Smith",
+    "Tyler Bertuzzi"
+   ]
+  },
+  "colorado-avalanche": {
+   "team": "Colorado Avalanche",
+   "abbr": "COL",
+   "slug": "colorado-avalanche",
+   "source": "Last Game (2026-11-14)",
+   "source_updated_at": "2026-11-15T13:53:38.413Z",
+   "forwards": [
+    [
+     {
+      "name": "Artturi Lehkonen",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Lehkonen (upper-body) will play in Game 1 against the Golden Knights.",
+      "news_at": "2026-05-20T19:44:17.848-04:00"
+     },
+     {
+      "name": "Brock Nelson",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Nelson (rest) is expected to draw back into Colorado's lineup vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T13:45:08.135-04:00"
+     },
+     {
+      "name": "Martin Necas",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Necas (rest) will be out vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T12:56:29.503-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Jaden Schwartz",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $9,750,000 contract with the Colorado Avalanche. Full NMC Yr 1, 15 team NTC yr 2-3. Expires 2029 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Nazem Kadri",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kadri (finger) is expected to be ready for Game 1 vs. Los Angeles.",
+      "news_at": "2026-04-17T10:04:29.544-04:00"
+     },
+     {
+      "name": "T.J. Hughes",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "1-year, $952,500 contract with the Colorado Avalanche. Gp Bonus earned at 84 GP. Expires 2027 (RFA).",
+      "news_at": "2026-04-11T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Gabriel Landeskog",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Landeskog is listed as a scratch for Thursday's game against the Kraken.",
+      "news_at": "2026-04-16T21:37:12.125-04:00"
+     },
+     {
+      "name": "Nicolas Roy",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Roy (lower-body) will return vs. New Jersey on Wednesday.",
+      "news_at": "2026-10-28T13:25:55.129-04:00"
+     },
+     {
+      "name": "Gavin Brindley",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Brindley has been recalled from the Colorado Eagles (AHL).",
+      "news_at": "2026-11-13T10:18:59.902-05:00"
+     }
+    ],
+    [
+     {
+      "name": "Parker Kelly",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kelly (illness) will play on Tuesday vs. Vancouver after missing Colorado's practice on Monday.",
+      "news_at": "2025-12-02T13:21:09.295-05:00"
+     },
+     {
+      "name": "Fedor Svechkov",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Colorado has acquired Fedor Svechkov and Zachary L'Heureux from Nashville for Jack Drury, Chase Bradley, and a 2029 3rd round pick.",
+      "news_at": "2026-06-24T17:11:20.649-04:00"
+     },
+     {
+      "name": "Logan O'Connor",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "O'Connor (personal) is expected to be back in the lineup vs. Chicago on Monday.",
+      "news_at": "2026-11-02T15:15:56.121-05:00"
+     }
+    ]
+   ],
+   "defense": [
+    [
+     {
+      "name": "Devon Toews",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Toews (rest) is expected to draw back into Colorado's lineup vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T13:45:28.895-04:00"
+     },
+     {
+      "name": "Sam Malinski",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Malinski will draw back into Colorado’s lineup vs. Toronto on Saturday.",
+      "news_at": "2026-10-10T17:00:10.370-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Brett Kulak",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "5-year, $22,500,000 contract with the Colorado Avalanche. Yr 1-3 Full NTC, Yr 4-5 15 team NTC. Expires 2031 (UFA).",
+      "news_at": "2026-06-26T19:59:00.000-04:00"
+     },
+     {
+      "name": "Noah Juulsen",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Juulsen will be back in the Avalanche lineup on Saturday.",
+      "news_at": "2026-10-31T21:50:05.380-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Alex Gagne",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Gagne has been recalled from the Colorado Eagles (AHL).",
+      "news_at": "2026-11-09T12:49:36.922-05:00"
+     },
+     {
+      "name": "Brent Burns",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "1-year, $850,000 contract with the Colorado Avalanche. PBs: $1.15M for 10 GP ... $250K bonus at 55, 60, 65, 70 GP if avg TOI is 23+mins/G. Expires 2027 (UFA).",
+      "news_at": "2026-06-26T19:59:00.000-04:00"
+     }
+    ]
+   ],
+   "powerplay": [
+    [
+     {
+      "name": "T.J. Hughes",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "1-year, $952,500 contract with the Colorado Avalanche. Gp Bonus earned at 84 GP. Expires 2027 (RFA).",
+      "news_at": "2026-04-11T19:59:00.000-04:00"
+     },
+     {
+      "name": "Nazem Kadri",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kadri (finger) is expected to be ready for Game 1 vs. Los Angeles.",
+      "news_at": "2026-04-17T10:04:29.544-04:00"
+     },
+     {
+      "name": "Artturi Lehkonen",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Lehkonen (upper-body) will play in Game 1 against the Golden Knights.",
+      "news_at": "2026-05-20T19:44:17.848-04:00"
+     },
+     {
+      "name": "Martin Necas",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Necas (rest) will be out vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T12:56:29.503-04:00"
+     },
+     {
+      "name": "Devon Toews",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Toews (rest) is expected to draw back into Colorado's lineup vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T13:45:28.895-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Gabriel Landeskog",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Landeskog is listed as a scratch for Thursday's game against the Kraken.",
+      "news_at": "2026-04-16T21:37:12.125-04:00"
+     },
+     {
+      "name": "Nicolas Roy",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Roy (lower-body) will return vs. New Jersey on Wednesday.",
+      "news_at": "2026-10-28T13:25:55.129-04:00"
+     },
+     {
+      "name": "Jaden Schwartz",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $9,750,000 contract with the Colorado Avalanche. Full NMC Yr 1, 15 team NTC yr 2-3. Expires 2029 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Sam Malinski",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Malinski will draw back into Colorado’s lineup vs. Toronto on Saturday.",
+      "news_at": "2026-10-10T17:00:10.370-04:00"
+     },
+     {
+      "name": "Brock Nelson",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Nelson (rest) is expected to draw back into Colorado's lineup vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T13:45:08.135-04:00"
+     }
+    ]
+   ],
+   "penaltykill": [
+    [
+     {
+      "name": "Parker Kelly",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kelly (illness) will play on Tuesday vs. Vancouver after missing Colorado's practice on Monday.",
+      "news_at": "2025-12-02T13:21:09.295-05:00"
+     },
+     {
+      "name": "Logan O'Connor",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "O'Connor (personal) is expected to be back in the lineup vs. Chicago on Monday.",
+      "news_at": "2026-11-02T15:15:56.121-05:00"
+     },
+     {
+      "name": "Devon Toews",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Toews (rest) is expected to draw back into Colorado's lineup vs. Seattle on Thursday.",
+      "news_at": "2026-04-16T13:45:28.895-04:00"
+     },
+     {
+      "name": "Brent Burns",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "1-year, $850,000 contract with the Colorado Avalanche. PBs: $1.15M for 10 GP ... $250K bonus at 55, 60, 65, 70 GP if avg TOI is 23+mins/G. Expires 2027 (UFA).",
+      "news_at": "2026-06-26T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Nicolas Roy",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Roy (lower-body) will return vs. New Jersey on Wednesday.",
+      "news_at": "2026-10-28T13:25:55.129-04:00"
+     },
+     {
+      "name": "Artturi Lehkonen",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Lehkonen (upper-body) will play in Game 1 against the Golden Knights.",
+      "news_at": "2026-05-20T19:44:17.848-04:00"
+     },
+     {
+      "name": "Brett Kulak",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "5-year, $22,500,000 contract with the Colorado Avalanche. Yr 1-3 Full NTC, Yr 4-5 15 team NTC. Expires 2031 (UFA).",
+      "news_at": "2026-06-26T19:59:00.000-04:00"
+     },
+     {
+      "name": "Sam Malinski",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Malinski will draw back into Colorado’s lineup vs. Toronto on Saturday.",
+      "news_at": "2026-10-10T17:00:10.370-04:00"
+     }
+    ]
+   ],
+   "goalies": [
+    "Mackenzie Blackwood",
+    "Scott Wedgewood"
+   ],
+   "scratches": [],
+   "injured_reserve": [
+    {
+     "name": "Josh Manson",
+     "injury_status": "ir",
+     "details": "Manson (ankle) has been placed on LTIR.",
+     "news_at": "2026-11-09T17:40:43.352-05:00"
+    },
+    {
+     "name": "Zachary L'Heureux",
+     "injury_status": "out",
+     "details": "L'Heureux (upper-body) will miss at least two more games.",
+     "news_at": "2026-10-17T15:58:23.533-04:00"
+    },
+    {
+     "name": "Nathan MacKinnon",
+     "injury_status": "out",
+     "details": "MacKinnon will miss at least a month with a lower-body injury.",
+     "news_at": "2026-11-14T11:49:45.740-05:00"
+    },
+    {
+     "name": "Cale Makar",
+     "injury_status": "out",
+     "details": "Makar is expected to miss a couple of weeks with a lower-body injury.",
+     "news_at": "2026-11-14T11:50:08.446-05:00"
     }
    ],
    "game_time_decisions": []
@@ -2895,8 +3352,8 @@
     ]
    ],
    "goalies": [
-    "Jet Greaves",
-    "Cam Talbot"
+    "Cam Talbot",
+    "Jet Greaves"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -2915,8 +3372,8 @@
     {
      "name": "Sean Monahan",
      "injury_status": "dtd",
-     "details": "Monahan (upper-body) will not play on Saturday; he's considered day-to-day.",
-     "news_at": "2026-11-14T10:56:29.527-05:00"
+     "details": "Monahan (upper-body) will not travel on Columbus' upcoming road trip.",
+     "news_at": "2026-11-16T12:39:23.283-05:00"
     }
    ],
    "game_time_decisions": []
@@ -2925,8 +3382,8 @@
    "team": "Dallas Stars",
    "abbr": "DAL",
    "slug": "dallas-stars",
-   "source": "Robert Tiffin",
-   "source_updated_at": "2026-11-16T00:38:45.019Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:08:02.460Z",
    "forwards": [
     [
      {
@@ -2959,13 +3416,13 @@
     ],
     [
      {
-      "name": "Arttu Hyry",
+      "name": "Jamie Benn",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Arttu Hyry has been recalled from Texas (AHL).",
-      "news_at": "2026-10-01T11:01:13.544-04:00"
+      "latest_news": "1-year, $850,000 contract with the Dallas Stars. $200K each after 10, 20, 40 games ... $150K for making playoffs ... $100K winning each round. Expires 2027 (UFA).",
+      "news_at": "2026-07-03T19:59:00.000-04:00"
      },
      {
       "name": "Roope Hintz",
@@ -2977,13 +3434,13 @@
       "news_at": "2026-10-19T13:05:55.946-04:00"
      },
      {
-      "name": "Tyler Seguin",
+      "name": "Arttu Hyry",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Seguin (knee) has been cleared for contact.",
-      "news_at": "2026-09-16T16:09:56.522-04:00"
+      "latest_news": "Arttu Hyry has been recalled from Texas (AHL).",
+      "news_at": "2026-10-01T11:01:13.544-04:00"
      }
     ],
     [
@@ -3006,13 +3463,13 @@
       "news_at": "2026-01-07T18:59:00.000-05:00"
      },
      {
-      "name": "Jamie Benn",
+      "name": "Tyler Seguin",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "1-year, $850,000 contract with the Dallas Stars. $200K each after 10, 20, 40 games ... $150K for making playoffs ... $100K winning each round. Expires 2027 (UFA).",
-      "news_at": "2026-07-03T19:59:00.000-04:00"
+      "latest_news": "Seguin (knee) has been cleared for contact.",
+      "news_at": "2026-09-16T16:09:56.522-04:00"
      }
     ],
     [
@@ -3081,9 +3538,9 @@
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Myers is expected to be a healthy scratch in Game Six.",
-      "news_at": "2026-04-30T11:53:18.820-04:00"
+      "game_time_decision": true,
+      "latest_news": "Myers (upper-body) left Sunday’s game vs. Florida and did not return.",
+      "news_at": "2026-11-16T10:08:49.429-05:00"
      }
     ],
     [
@@ -3253,13 +3710,13 @@
       "news_at": "2026-11-03T11:53:23.407-05:00"
      },
      {
-      "name": "Colin Blackwell",
+      "name": "Justin Hryckowian",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Blackwell will draw back into the lineup vs. Florida on Sunday.",
-      "news_at": "2026-11-15T18:49:11.691-05:00"
+      "latest_news": "2-year, $1,900,000 contract with the Dallas Stars. Expires 2028 (UFA).",
+      "news_at": "2026-01-07T18:59:00.000-05:00"
      },
      {
       "name": "Nils Lundkvist",
@@ -3275,15 +3732,15 @@
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Myers is expected to be a healthy scratch in Game Six.",
-      "news_at": "2026-04-30T11:53:18.820-04:00"
+      "game_time_decision": true,
+      "latest_news": "Myers (upper-body) left Sunday’s game vs. Florida and did not return.",
+      "news_at": "2026-11-16T10:08:49.429-05:00"
      }
     ]
    ],
    "goalies": [
-    "Casey DeSmith",
-    "Jake Oettinger"
+    "Jake Oettinger",
+    "Casey DeSmith"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -3316,6 +3773,401 @@
      "injury_status": "ir",
      "details": "The Stars have placed Lian Bichsel (lower-body) on IR.",
      "news_at": "2026-11-14T10:09:14.764-05:00"
+    },
+    {
+     "name": "Tyler Myers",
+     "injury_status": "dtd",
+     "details": "Myers (upper-body) left Sunday’s game vs. Florida and did not return.",
+     "news_at": "2026-11-16T10:08:49.429-05:00"
+    }
+   ],
+   "game_time_decisions": [
+    "Tyler Myers"
+   ]
+  },
+  "detroit-red-wings": {
+   "team": "Detroit Red Wings",
+   "abbr": "DET",
+   "slug": "detroit-red-wings",
+   "source": "Last Game (2026-11-14)",
+   "source_updated_at": "2026-11-15T13:58:55.936Z",
+   "forwards": [
+    [
+     {
+      "name": "Alex DeBrincat",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "7-year, $91,000,000 contract with the Detroit Red Wings. NTC Yr 1-4, 10 team trade list Yr 5, 18 team M-NTC Yr 6, 13 team M-NTC Yr 7. Expires 2034 (UFA).",
+      "news_at": "2026-10-13T19:59:00.000-04:00"
+     },
+     {
+      "name": "Emmitt Finnie",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $2,665,001 contract with the Detroit Red Wings. Expires 2027 (RFA).",
+      "news_at": "2024-03-27T19:59:00.000-04:00"
+     },
+     {
+      "name": "Marco Kasper",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kasper (upper-body) has been activated from IR and will return in St. Louis.",
+      "news_at": "2026-11-10T12:13:20.641-05:00"
+     }
+    ],
+    [
+     {
+      "name": "Michael Brandsegg-Nygård",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Brandsegg-Nygard has been reassigned to Grand Rapids (AHL).",
+      "news_at": "2026-04-16T14:19:09.195-04:00"
+     },
+     {
+      "name": "Andrew Copp",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Copp (lower-body) took full part in warmups and is expected to return to the lineup on Thursday.",
+      "news_at": "2026-03-19T18:43:29.231-04:00"
+     },
+     {
+      "name": "Lucas Raymond",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Raymond (upper body) will return to the lineup vs. Edmonton on Sunday.",
+      "news_at": "2025-10-19T14:36:45.274-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Carter Mazur",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Mazur will draw back into the lineup in Florida on Thursday.",
+      "news_at": "2026-11-12T12:08:23.595-05:00"
+     },
+     {
+      "name": "J.T. Compher",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Compher (undisclosed) is expected to return in Vancouver on Thursday.",
+      "news_at": "2026-10-22T14:43:43.816-04:00"
+     },
+     {
+      "name": "Viktor Arvidsson",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "2-year, $10,000,000 contract with the Detroit Red Wings. 10 team no trade list both years. Expires 2028 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Michael Rasmussen",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Rasmussen will draw back into the Red Wings lineup on Saturday.",
+      "news_at": "2026-11-14T11:58:31.100-05:00"
+     },
+     {
+      "name": "Sheldon Dries",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Dries has been recalled from Grand Rapids (AHL) under emergency conditions.",
+      "news_at": "2026-10-29T16:15:59.952-04:00"
+     },
+     {
+      "name": "Keegan Kolesar",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Detroit has acquired Keegan Kolesar from Vegas for a 2027 7th round pick and a 2029 3rd round pick.",
+      "news_at": "2026-07-01T17:19:01.295-04:00"
+     }
+    ]
+   ],
+   "defense": [
+    [
+     {
+      "name": "William Wallinder",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Wallinder draws back into the Red Wings lineup on Thursday.",
+      "news_at": "2026-10-22T21:56:08.076-04:00"
+     },
+     {
+      "name": "Moritz Seider",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "7-year, $59,850,000 contract with the Detroit Red Wings. Yrs 5-7: 10 team no trade list. Expires 2031 (UFA).",
+      "news_at": "2024-09-19T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Ben Chiarot",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Chiarot (undisclosed) is dealing with a minor injury but is expected to be ready for Detroit's season opener vs. New York.",
+      "news_at": "2026-10-01T12:14:41.791-04:00"
+     },
+     {
+      "name": "Justin Faulk",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Faulk (lower-body) will play against the Blue Jackets on Tuesday.",
+      "news_at": "2026-04-07T18:43:22.369-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Andreas Englund",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Englund will draw back into the lineup in Calgary on Saturday.",
+      "news_at": "2026-10-24T22:04:00.333-04:00"
+     },
+     {
+      "name": "Anton Johansson",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Johansson has been reassigned to Grand Rapids (AHL) from Leksands (SHL).",
+      "news_at": "2026-03-29T13:37:23.210-04:00"
+     }
+    ]
+   ],
+   "powerplay": [
+    [
+     {
+      "name": "Viktor Arvidsson",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "2-year, $10,000,000 contract with the Detroit Red Wings. 10 team no trade list both years. Expires 2028 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Emmitt Finnie",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $2,665,001 contract with the Detroit Red Wings. Expires 2027 (RFA).",
+      "news_at": "2024-03-27T19:59:00.000-04:00"
+     },
+     {
+      "name": "Lucas Raymond",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Raymond (upper body) will return to the lineup vs. Edmonton on Sunday.",
+      "news_at": "2025-10-19T14:36:45.274-04:00"
+     },
+     {
+      "name": "Alex DeBrincat",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "7-year, $91,000,000 contract with the Detroit Red Wings. NTC Yr 1-4, 10 team trade list Yr 5, 18 team M-NTC Yr 6, 13 team M-NTC Yr 7. Expires 2034 (UFA).",
+      "news_at": "2026-10-13T19:59:00.000-04:00"
+     },
+     {
+      "name": "Moritz Seider",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "7-year, $59,850,000 contract with the Detroit Red Wings. Yrs 5-7: 10 team no trade list. Expires 2031 (UFA).",
+      "news_at": "2024-09-19T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Carter Mazur",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Mazur will draw back into the lineup in Florida on Thursday.",
+      "news_at": "2026-11-12T12:08:23.595-05:00"
+     },
+     {
+      "name": "J.T. Compher",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Compher (undisclosed) is expected to return in Vancouver on Thursday.",
+      "news_at": "2026-10-22T14:43:43.816-04:00"
+     },
+     {
+      "name": "Marco Kasper",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kasper (upper-body) has been activated from IR and will return in St. Louis.",
+      "news_at": "2026-11-10T12:13:20.641-05:00"
+     },
+     {
+      "name": "Michael Brandsegg-Nygård",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Brandsegg-Nygard has been reassigned to Grand Rapids (AHL).",
+      "news_at": "2026-04-16T14:19:09.195-04:00"
+     },
+     {
+      "name": "Justin Faulk",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Faulk (lower-body) will play against the Blue Jackets on Tuesday.",
+      "news_at": "2026-04-07T18:43:22.369-04:00"
+     }
+    ]
+   ],
+   "penaltykill": [
+    [
+     {
+      "name": "J.T. Compher",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Compher (undisclosed) is expected to return in Vancouver on Thursday.",
+      "news_at": "2026-10-22T14:43:43.816-04:00"
+     },
+     {
+      "name": "Michael Rasmussen",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Rasmussen will draw back into the Red Wings lineup on Saturday.",
+      "news_at": "2026-11-14T11:58:31.100-05:00"
+     },
+     {
+      "name": "Ben Chiarot",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Chiarot (undisclosed) is dealing with a minor injury but is expected to be ready for Detroit's season opener vs. New York.",
+      "news_at": "2026-10-01T12:14:41.791-04:00"
+     },
+     {
+      "name": "Moritz Seider",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "7-year, $59,850,000 contract with the Detroit Red Wings. Yrs 5-7: 10 team no trade list. Expires 2031 (UFA).",
+      "news_at": "2024-09-19T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Andrew Copp",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Copp (lower-body) took full part in warmups and is expected to return to the lineup on Thursday.",
+      "news_at": "2026-03-19T18:43:29.231-04:00"
+     },
+     {
+      "name": "Keegan Kolesar",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Detroit has acquired Keegan Kolesar from Vegas for a 2027 7th round pick and a 2029 3rd round pick.",
+      "news_at": "2026-07-01T17:19:01.295-04:00"
+     },
+     {
+      "name": "Andreas Englund",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Englund will draw back into the lineup in Calgary on Saturday.",
+      "news_at": "2026-10-24T22:04:00.333-04:00"
+     },
+     {
+      "name": "Justin Faulk",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Faulk (lower-body) will play against the Blue Jackets on Tuesday.",
+      "news_at": "2026-04-07T18:43:22.369-04:00"
+     }
+    ]
+   ],
+   "goalies": [
+    "Daniil Tarasov",
+    "John Gibson"
+   ],
+   "scratches": [],
+   "injured_reserve": [
+    {
+     "name": "Albert Johansson",
+     "injury_status": "ir",
+     "details": "Johansson (undisclosed) has been placed on IR retroactive to October 24th.",
+     "news_at": "2026-11-04T17:12:04.738-05:00"
+    },
+    {
+     "name": "Simon Edvinsson",
+     "injury_status": "out",
+     "details": "The Red Wings activated Edvinsson (lower-body) off injured reserve on Thursday.",
+     "news_at": "2026-02-26T18:39:54.239-05:00"
+    },
+    {
+     "name": "Dylan Larkin",
+     "injury_status": "out",
+     "details": "Detroit has suspended Dylan Larkin without pay.",
+     "news_at": "2026-10-29T17:37:55.562-04:00"
     }
    ],
    "game_time_decisions": []
@@ -3324,8 +4176,8 @@
    "team": "Edmonton Oilers",
    "abbr": "EDM",
    "slug": "edmonton-oilers",
-   "source": "Edmonton Oilers",
-   "source_updated_at": "2026-11-15T23:33:55.964Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:02:15.209Z",
    "forwards": [
     [
      {
@@ -3527,13 +4379,13 @@
       "news_at": "2026-04-20T19:10:35.907-04:00"
      },
      {
-      "name": "Vasily Podkolzin",
+      "name": "Kasperi Kapanen",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Podkolzin (illness) will play vs. Philadelphia on Saturday.",
-      "news_at": "2026-01-03T15:20:06.809-05:00"
+      "latest_news": "1-year, $2,600,000 contract with the Edmonton Oilers. Expires 2027 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
      },
      {
       "name": "Connor McDavid",
@@ -3574,13 +4426,13 @@
       "news_at": "2026-11-10T12:52:32.389-05:00"
      },
      {
-      "name": "Kasperi Kapanen",
+      "name": "Vasily Podkolzin",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "1-year, $2,600,000 contract with the Edmonton Oilers. Expires 2027 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
+      "latest_news": "Podkolzin (illness) will play vs. Philadelphia on Saturday.",
+      "news_at": "2026-01-03T15:20:06.809-05:00"
      },
      {
       "name": "Ryan Shea",
@@ -3605,22 +4457,22 @@
    "penaltykill": [
     [
      {
-      "name": "Jason Dickinson",
+      "name": "Alex Formenton",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Dickinson (lower body) will return vs. Calgary on Wednesday.",
-      "news_at": "2026-10-27T01:06:42.370-04:00"
+      "latest_news": "1-year, $850,000 contract with the Edmonton Oilers. Expires 2027 (UFA).",
+      "news_at": "2026-09-09T19:59:00.000-04:00"
      },
      {
-      "name": "Alex Formenton",
+      "name": "Connor McDavid",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "1-year, $850,000 contract with the Edmonton Oilers. Expires 2027 (UFA).",
-      "news_at": "2026-09-09T19:59:00.000-04:00"
+      "latest_news": "McDavid (undisclosed) took full part in warmups and is expected to play in Game 5 against the Ducks.",
+      "news_at": "2026-04-28T21:49:42.766-04:00"
      },
      {
       "name": "Ryan Shea",
@@ -3681,8 +4533,8 @@
     ]
    ],
    "goalies": [
-    "Tristan Jarry",
-    "Devon Levi"
+    "Devon Levi",
+    "Tristan Jarry"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -3713,8 +4565,8 @@
     {
      "name": "Isaac Howard",
      "injury_status": "ir",
-     "details": "Howard (lower-body) is considered week-to-week.",
-     "news_at": "2026-11-03T12:15:19.240-05:00"
+     "details": "Howard (lower-body) has been activated from IR and loaned to Bakersfield (AHL).",
+     "news_at": "2026-11-16T14:01:45.026-05:00"
     },
     {
      "name": "Ryan Nugent-Hopkins",
@@ -3729,8 +4581,8 @@
    "team": "Florida Panthers",
    "abbr": "FLA",
    "slug": "florida-panthers",
-   "source": "Rob Darragh",
-   "source_updated_at": "2026-11-16T00:41:26.456Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:05:09.436Z",
    "forwards": [
     [
      {
@@ -3970,13 +4822,13 @@
       "news_at": "2026-04-15T18:40:19.572-04:00"
      },
      {
-      "name": "Anton Lundell",
+      "name": "Lars Eller",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Lundell (undisclosed) is taking warm-ups and is expected to play on Sunday.",
-      "news_at": "2026-11-08T12:39:42.618-05:00"
+      "latest_news": "1-year, $850,000 contract with the Florida Panthers. $50,000 bonuses each at: 20, 40, 50, 60 GP and winning the Stanley Cup. Expires 2027 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
      },
      {
       "name": "Eetu Luostarinen",
@@ -3997,13 +4849,13 @@
       "news_at": "2026-10-04T19:33:06.204-04:00"
      },
      {
-      "name": "Gustav Forsling",
+      "name": "Anton Lundell",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Forsling (upper-body) is expected to return in Anaheim on Sunday.",
-      "news_at": "2026-10-04T19:36:37.433-04:00"
+      "latest_news": "Lundell (undisclosed) is taking warm-ups and is expected to play on Sunday.",
+      "news_at": "2026-11-08T12:39:42.618-05:00"
      }
     ]
    ],
@@ -4048,13 +4900,13 @@
     ],
     [
      {
-      "name": "Lars Eller",
+      "name": "Sam Reinhart",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "1-year, $850,000 contract with the Florida Panthers. $50,000 bonuses each at: 20, 40, 50, 60 GP and winning the Stanley Cup. Expires 2027 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
+      "latest_news": "Reinhart (undisclosed) is likely to miss the remainder of the 2025-26 season.",
+      "news_at": "2026-03-31T11:07:46.530-04:00"
      },
      {
       "name": "Garnet Hathaway",
@@ -4086,8 +4938,8 @@
     ]
    ],
    "goalies": [
-    "Akira Schmid",
-    "Jacob Markstrom"
+    "Jacob Markstrom",
+    "Akira Schmid"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -4660,13 +5512,13 @@
     ],
     [
      {
-      "name": "Olli Maatta",
+      "name": "Matt Kiersted",
       "position": "ld",
       "position_name": "Left Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Maatta (upper-body) will draw back into Minnesota's lineup on Thursday in Calgary.",
-      "news_at": "2026-10-22T14:03:03.469-04:00"
+      "latest_news": "Kiersted will draw back into the lineup in Seattle on Saturday.",
+      "news_at": "2026-10-24T14:38:14.777-04:00"
      },
      {
       "name": "Zach Bogosian",
@@ -4796,22 +5648,22 @@
       "news_at": "2026-07-02T11:48:07.745-04:00"
      },
      {
-      "name": "Olli Maatta",
+      "name": "Jonas Brodin",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Maatta (upper-body) will draw back into Minnesota's lineup on Thursday in Calgary.",
-      "news_at": "2026-10-22T14:03:03.469-04:00"
+      "latest_news": "Brodin (lower-body) will be out for Game 3 vs. Colorado.",
+      "news_at": "2026-05-08T13:12:37.734-04:00"
      },
      {
-      "name": "Jonas Brodin",
+      "name": "Zach Bogosian",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Brodin (lower-body) will be out for Game 3 vs. Colorado.",
-      "news_at": "2026-05-08T13:12:37.734-04:00"
+      "latest_news": "Bogosian (undisclosed) will return vs. Vegas on Monday.",
+      "news_at": "2026-10-12T12:08:02.475-04:00"
      }
     ],
     [
@@ -4860,10 +5712,16 @@
    "scratches": [],
    "injured_reserve": [
     {
+     "name": "Olli Maatta",
+     "injury_status": "ir",
+     "details": "Maatta (upper-body) has been placed on IR and is expected to miss a week.",
+     "news_at": "2026-11-16T15:23:48.583-05:00"
+    },
+    {
      "name": "Filip Gustavsson",
      "injury_status": "out",
-     "details": "Gustavsson (hip) will travel with Minnesota on their upcoming road trip.",
-     "news_at": "2026-11-06T11:43:56.817-05:00"
+     "details": "Gustavsson (hip) is hopeful to be medically cleared on Tuesday.",
+     "news_at": "2026-11-16T12:53:08.117-05:00"
     }
    ],
    "game_time_decisions": []
@@ -4872,8 +5730,8 @@
    "team": "Montreal Canadiens",
    "abbr": "MTL",
    "slug": "montreal-canadiens",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T13:54:28.416Z",
+   "source": "Patrick Friolet",
+   "source_updated_at": "2026-11-17T00:10:50.579Z",
    "forwards": [
     [
      {
@@ -4987,8 +5845,8 @@
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Beck will draw back into the lineup vs. Toronto on Saturday.",
-      "news_at": "2026-11-07T12:19:08.939-05:00"
+      "latest_news": "Beck will draw back into the lineup in New York on Monday.",
+      "news_at": "2026-11-16T12:15:20.490-05:00"
      }
     ]
    ],
@@ -5271,8 +6129,8 @@
    "team": "Nashville Predators",
    "abbr": "NSH",
    "slug": "nashville-predators",
-   "source": "Last Game (11-13-26)",
-   "source_updated_at": "2026-11-15T13:28:45.748Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:14:19.015Z",
    "forwards": [
     [
      {
@@ -5648,12 +6506,405 @@
    ],
    "game_time_decisions": []
   },
+  "new-jersey-devils": {
+   "team": "New Jersey Devils",
+   "abbr": "NJD",
+   "slug": "new-jersey-devils",
+   "source": "Last Game (2026-11-14)",
+   "source_updated_at": "2026-11-15T14:02:39.761Z",
+   "forwards": [
+    [
+     {
+      "name": "Arseny Gritsyuk",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $9,750,000 contract with the New Jersey Devils. Expires 2029 (UFA).",
+      "news_at": "2026-06-30T19:59:00.000-04:00"
+     },
+     {
+      "name": "Jack Hughes",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hughes (Olympics) is expected to play vs. Buffalo on Wednesday.",
+      "news_at": "2026-02-25T10:17:47.453-05:00"
+     },
+     {
+      "name": "Jesper Bratt",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Bratt underwent successful shoulder surgery and is expected back for the start of training camp in 2025-26.",
+      "news_at": "2025-05-05T11:58:19.130-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Timo Meier",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Meier (personal) is will return to the Devils lineup on Sunday.",
+      "news_at": "2025-12-21T11:35:02.157-05:00"
+     },
+     {
+      "name": "Nico Hischier",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "5-year, $58,500,000 contract with the New Jersey Devils. NMC throughout; 18 team no trade list in Yr 4 ... 14 team no trade list in Yr 5. Expires 2032 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Luke Evangelista",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Evangelista (illness) will return vs. Colorado on Tuesday.",
+      "news_at": "2026-10-20T10:46:08.065-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Stefan Noesen",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Noesen will draw back into the lineup vs. Washington on Thursday.",
+      "news_at": "2026-11-12T11:39:06.021-05:00"
+     },
+     {
+      "name": "Evan Rodrigues",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Rodrigues (illness) missed practice on Monday.",
+      "news_at": "2026-11-02T12:47:08.847-05:00"
+     },
+     {
+      "name": "Connor Brown",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Brown (lower-body) will make his season debut vs. Colorado on Thursday.",
+      "news_at": "2026-10-20T10:47:46.647-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Jesper Boqvist",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "The Devils acquired Jesper Boqvist, Evan Rodrigues, and Ben Steeves from the Panthers for Jacob Markstrom and Angus Crookshank.",
+      "news_at": "2026-06-30T12:35:01.754-04:00"
+     },
+     {
+      "name": "Cody Glass",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Glass (undisclosed) will return in Ottawa on Saturday.",
+      "news_at": "2026-01-31T12:15:08.879-05:00"
+     },
+     {
+      "name": "Lenni Hameenaho",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hameenaho will make his season debut vs. Washington on Thursday.",
+      "news_at": "2026-11-12T11:39:52.815-05:00"
+     }
+    ]
+   ],
+   "defense": [
+    [
+     {
+      "name": "Jonas Siegenthaler",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Siegenthaler (undisclosed) will play vs. Vancouver on Saturday.",
+      "news_at": "2026-10-10T15:15:56.860-04:00"
+     },
+     {
+      "name": "Luke Hughes",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hughes has been shut down for the remainder of the 2025-26 season to undergo a procedure.",
+      "news_at": "2026-04-09T10:32:11.551-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Declan Chisholm",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Chisholm will be back in the Devils' lineup on Wednesday.",
+      "news_at": "2026-10-28T19:04:37.639-04:00"
+     },
+     {
+      "name": "Dougie Hamilton",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hamilton will draw back into New Jersey’s lineup in Minnesota on Monday.",
+      "news_at": "2026-01-12T17:55:10.808-05:00"
+     }
+    ],
+    [
+     {
+      "name": "Anton Silayev",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Silaev is expected to make his NHL debut on Saturday.",
+      "news_at": "2026-11-14T11:59:00.841-05:00"
+     },
+     {
+      "name": "Brenden Dillon",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Dillion is expected to return to the lineup on Sunday.",
+      "news_at": "2026-11-08T16:52:48.993-05:00"
+     }
+    ]
+   ],
+   "powerplay": [
+    [
+     {
+      "name": "Jesper Bratt",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Bratt underwent successful shoulder surgery and is expected back for the start of training camp in 2025-26.",
+      "news_at": "2025-05-05T11:58:19.130-04:00"
+     },
+     {
+      "name": "Nico Hischier",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "5-year, $58,500,000 contract with the New Jersey Devils. NMC throughout; 18 team no trade list in Yr 4 ... 14 team no trade list in Yr 5. Expires 2032 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Connor Brown",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Brown (lower-body) will make his season debut vs. Colorado on Thursday.",
+      "news_at": "2026-10-20T10:47:46.647-04:00"
+     },
+     {
+      "name": "Jack Hughes",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hughes (Olympics) is expected to play vs. Buffalo on Wednesday.",
+      "news_at": "2026-02-25T10:17:47.453-05:00"
+     },
+     {
+      "name": "Luke Hughes",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hughes has been shut down for the remainder of the 2025-26 season to undergo a procedure.",
+      "news_at": "2026-04-09T10:32:11.551-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Timo Meier",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Meier (personal) is will return to the Devils lineup on Sunday.",
+      "news_at": "2025-12-21T11:35:02.157-05:00"
+     },
+     {
+      "name": "Evan Rodrigues",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Rodrigues (illness) missed practice on Monday.",
+      "news_at": "2026-11-02T12:47:08.847-05:00"
+     },
+     {
+      "name": "Luke Evangelista",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Evangelista (illness) will return vs. Colorado on Tuesday.",
+      "news_at": "2026-10-20T10:46:08.065-04:00"
+     },
+     {
+      "name": "Arseny Gritsyuk",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $9,750,000 contract with the New Jersey Devils. Expires 2029 (UFA).",
+      "news_at": "2026-06-30T19:59:00.000-04:00"
+     },
+     {
+      "name": "Dougie Hamilton",
+      "position": "sk5",
+      "position_name": "Skater 5",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hamilton will draw back into New Jersey’s lineup in Minnesota on Monday.",
+      "news_at": "2026-01-12T17:55:10.808-05:00"
+     }
+    ]
+   ],
+   "penaltykill": [
+    [
+     {
+      "name": "Nico Hischier",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "5-year, $58,500,000 contract with the New Jersey Devils. NMC throughout; 18 team no trade list in Yr 4 ... 14 team no trade list in Yr 5. Expires 2032 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
+     },
+     {
+      "name": "Evan Rodrigues",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Rodrigues (illness) missed practice on Monday.",
+      "news_at": "2026-11-02T12:47:08.847-05:00"
+     },
+     {
+      "name": "Jonas Siegenthaler",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Siegenthaler (undisclosed) will play vs. Vancouver on Saturday.",
+      "news_at": "2026-10-10T15:15:56.860-04:00"
+     },
+     {
+      "name": "Dougie Hamilton",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hamilton will draw back into New Jersey’s lineup in Minnesota on Monday.",
+      "news_at": "2026-01-12T17:55:10.808-05:00"
+     }
+    ],
+    [
+     {
+      "name": "Timo Meier",
+      "position": "sk1",
+      "position_name": "Skater 1",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Meier (personal) is will return to the Devils lineup on Sunday.",
+      "news_at": "2025-12-21T11:35:02.157-05:00"
+     },
+     {
+      "name": "Arseny Gritsyuk",
+      "position": "sk2",
+      "position_name": "Skater 2",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "3-year, $9,750,000 contract with the New Jersey Devils. Expires 2029 (UFA).",
+      "news_at": "2026-06-30T19:59:00.000-04:00"
+     },
+     {
+      "name": "Brenden Dillon",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Dillion is expected to return to the lineup on Sunday.",
+      "news_at": "2026-11-08T16:52:48.993-05:00"
+     },
+     {
+      "name": "Declan Chisholm",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Chisholm will be back in the Devils' lineup on Wednesday.",
+      "news_at": "2026-10-28T19:04:37.639-04:00"
+     }
+    ]
+   ],
+   "goalies": [
+    "Connor Hellebuyck",
+    "Jake Allen"
+   ],
+   "scratches": [],
+   "injured_reserve": [
+    {
+     "name": "Seamus Casey",
+     "injury_status": "ir",
+     "details": "Casey underwent knee surgery and is expected to be out for 8-to-10 weeks.",
+     "news_at": "2026-10-02T13:31:48.422-04:00"
+    },
+    {
+     "name": "Anthony Mantha",
+     "injury_status": "out",
+     "details": "Mantha (throat) has been placed on LTIR.",
+     "news_at": "2026-11-11T17:34:10.545-05:00"
+    },
+    {
+     "name": "Johnathan Kovacevic",
+     "injury_status": "out",
+     "details": "Kovacevic (ankle) has been placed on IR retroactive to November 10th.",
+     "news_at": "2026-11-13T13:41:40.921-05:00"
+    },
+    {
+     "name": "Brett Pesce",
+     "injury_status": "dtd",
+     "details": "Pesce (illness) is out vs. Washington on Thursday.",
+     "news_at": "2026-11-12T11:45:57.785-05:00"
+    }
+   ],
+   "game_time_decisions": []
+  },
   "new-york-islanders": {
    "team": "New York Islanders",
    "abbr": "NYI",
    "slug": "new-york-islanders",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T14:11:47.385Z",
+   "source": "Stefen Rosner",
+   "source_updated_at": "2026-11-16T16:08:22.808Z",
    "forwards": [
     [
      {
@@ -5670,7 +6921,7 @@
       "position": "c",
       "position_name": "Center",
       "injury_status": null,
-      "game_time_decision": true,
+      "game_time_decision": false,
       "latest_news": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return.",
       "news_at": "2026-11-15T01:08:25.145-05:00"
      },
@@ -5733,24 +6984,24 @@
       "news_at": "2026-11-14T14:10:12.240-05:00"
      },
      {
-      "name": "Anthony Duclair",
+      "name": "Matias Maccelli",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Duclair will draw into the lineup on Sunday.",
-      "news_at": "2026-04-12T16:44:13.351-04:00"
+      "latest_news": "Maccelli (lower-body) will return in Los Angeles on Thursday.",
+      "news_at": "2026-11-12T14:27:00.084-05:00"
      }
     ],
     [
      {
-      "name": "Matias Maccelli",
+      "name": "Anthony Duclair",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Maccelli (lower-body) will return in Los Angeles on Thursday.",
-      "news_at": "2026-11-12T14:27:00.084-05:00"
+      "latest_news": "Duclair will draw into the lineup on Sunday.",
+      "news_at": "2026-04-12T16:44:13.351-04:00"
      },
      {
       "name": "Casey Cizikas",
@@ -5775,33 +7026,13 @@
    "defense": [
     [
      {
-      "name": "Logan Stanley",
+      "name": "Matthew Schaefer",
       "position": "ld",
       "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": true,
-      "latest_news": "Stanley (lower-body) left Saturday's game vs. Anaheim and did not return.",
-      "news_at": "2026-11-15T01:07:42.605-05:00"
-     },
-     {
-      "name": "Matthew Schaefer",
-      "position": "rd",
-      "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
       "latest_news": "Schaefer (illness) will play vs. New Jersey on Tuesday.",
       "news_at": "2026-01-06T11:10:27.024-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Adam Pelech",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pelech (undisclosed) will not play on Thursday.",
-      "news_at": "2025-04-17T12:08:16.473-04:00"
      },
      {
       "name": "Ryan Pulock",
@@ -5815,13 +7046,13 @@
     ],
     [
      {
-      "name": "Ben Hutton",
+      "name": "Adam Pelech",
       "position": "ld",
       "position_name": "Left Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Hutton will make his Islanders' debut vs. New Jersey on Saturday.",
-      "news_at": "2026-11-07T10:45:54.854-05:00"
+      "latest_news": "Pelech (undisclosed) will not play on Thursday.",
+      "news_at": "2025-04-17T12:08:16.473-04:00"
      },
      {
       "name": "Tony DeAngelo",
@@ -5831,6 +7062,26 @@
       "game_time_decision": false,
       "latest_news": "2-year, $9,000,000 contract with the New York Islanders. 3 team no trade list. Expires 2028 (UFA).",
       "news_at": "2026-06-26T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Ben Hutton",
+      "position": "ld",
+      "position_name": "Left Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Hutton will make his Islanders' debut vs. New Jersey on Saturday.",
+      "news_at": "2026-11-07T10:45:54.854-05:00"
+     },
+     {
+      "name": "Matthew Kessel",
+      "position": "rd",
+      "position_name": "Right Defense",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Kessel (upper-body) left Friday's practice and did not return.",
+      "news_at": "2026-11-06T12:17:30.326-05:00"
      }
     ]
    ],
@@ -5850,7 +7101,7 @@
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
-      "game_time_decision": true,
+      "game_time_decision": false,
       "latest_news": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return.",
       "news_at": "2026-11-15T01:08:25.145-05:00"
      },
@@ -5937,7 +7188,7 @@
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
-      "game_time_decision": true,
+      "game_time_decision": false,
       "latest_news": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return.",
       "news_at": "2026-11-15T01:08:25.145-05:00"
      },
@@ -5960,13 +7211,13 @@
       "news_at": "2025-04-17T12:08:16.473-04:00"
      },
      {
-      "name": "Logan Stanley",
+      "name": "Ryan Pulock",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
-      "game_time_decision": true,
-      "latest_news": "Stanley (lower-body) left Saturday's game vs. Anaheim and did not return.",
-      "news_at": "2026-11-15T01:07:42.605-05:00"
+      "game_time_decision": false,
+      "latest_news": "Pulock (upper-body) will return in Los Angeles on Thursday.",
+      "news_at": "2026-11-12T14:27:24.719-05:00"
      }
     ],
     [
@@ -6009,8 +7260,8 @@
     ]
    ],
    "goalies": [
-    "Semyon Varlamov",
-    "Ilya Sorokin"
+    "Ilya Sorokin",
+    "Semyon Varlamov"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -6023,428 +7274,20 @@
     {
      "name": "Calum Ritchie",
      "injury_status": "ir",
-     "details": "Ritchie (lower-body) has been placed on IR retroactive to October 17th.",
-     "news_at": "2026-10-26T13:28:22.920-04:00"
+     "details": "Ritchie (lower-body) returned to practice on Monday in a non-contact jersey.",
+     "news_at": "2026-11-16T11:58:50.299-05:00"
     },
     {
      "name": "Jean-Gabriel Pageau",
      "injury_status": "dtd",
-     "details": "Pageau (lower-body) is out vs. Los Angeles on Thursday and is considered day-to-day.",
-     "news_at": "2026-11-12T14:27:52.588-05:00"
+     "details": "Pageau (lower-body) has a chance to return vs. Columbus on Tuesday.",
+     "news_at": "2026-11-16T12:13:04.241-05:00"
     },
     {
      "name": "Logan Stanley",
      "injury_status": "dtd",
-     "details": "Stanley (lower-body) left Saturday's game vs. Anaheim and did not return.",
-     "news_at": "2026-11-15T01:07:42.605-05:00"
-    },
-    {
-     "name": "Bo Horvat",
-     "injury_status": "dtd",
-     "details": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return.",
-     "news_at": "2026-11-15T01:08:25.145-05:00"
-    }
-   ],
-   "game_time_decisions": [
-    "Bo Horvat",
-    "Logan Stanley"
-   ]
-  },
-  "new-york-rangers": {
-   "team": "New York Rangers",
-   "abbr": "NYR",
-   "slug": "new-york-rangers",
-   "source": "Peter Baugh",
-   "source_updated_at": "2026-11-15T17:40:33.127Z",
-   "forwards": [
-    [
-     {
-      "name": "Gabriel Perreault",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Perreault (illness) is expected to return in Washington on Tuesday.",
-      "news_at": "2025-12-23T11:42:48.428-05:00"
-     },
-     {
-      "name": "Mika Zibanejad",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Zibanejad (illness) returned to morning skate on Thursday and is expected to play vs. Philadelphia.",
-      "news_at": "2026-02-26T11:54:53.861-05:00"
-     },
-     {
-      "name": "Alexis Lafrenière",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Lafreniere (illness) is expected to play vs. Buffalo on Thursday.",
-      "news_at": "2026-01-08T11:00:57.894-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Tye Kartye",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Kartye will make his Rangers' debut vs. Pittsburgh on Saturday.",
-      "news_at": "2026-02-28T10:19:41.086-05:00"
-     },
-     {
-      "name": "J.T. Miller",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Miller (upper-body) will return vs. Minnesota on Saturday.",
-      "news_at": "2026-03-14T17:35:06.053-04:00"
-     },
-     {
-      "name": "Pavel Dorofeyev",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "The Rangers have signed Pavel Dorofeyev to a seven-year contract worth $11.0M AAV ($77.0M total).",
-      "news_at": "2026-06-26T20:24:13.858-04:00"
-     }
-    ],
-    [
-     {
-      "name": "Will Cuylle",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "2-year, $7,800,000 contract with the New York Rangers. Expires 2027 (RFA).",
-      "news_at": "2025-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Noah Laba",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Laba (lower-body) is warming up and expected to return vs. Florida on Sunday",
-      "news_at": "2026-03-29T12:34:43.702-04:00"
-     },
-     {
-      "name": "Oliver Bjorkstrand",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "1-year, $4,500,000 contract with the New York Rangers. 15 team no trade. Expires 2027 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
-     }
-    ],
-    [
-     {
-      "name": "Eeli Tolvanen",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Tolvanen (personal) will play on Saturday in Ottawa.",
-      "news_at": "2026-10-24T18:44:57.459-04:00"
-     },
-     {
-      "name": "Glenn Gawdin",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Gawdin will make his Rangers' debut on Wednesday vs, Calgary.",
-      "news_at": "2026-11-11T12:27:05.849-05:00"
-     },
-     {
-      "name": "Jaroslav Chmelar",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Chmelar has been recalled from Hartford (AHL).",
-      "news_at": "2026-11-02T17:06:42.860-05:00"
-     }
-    ]
-   ],
-   "defense": [
-    [
-     {
-      "name": "Vladislav Gavrikov",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "7-year, $49,000,000 contract with the New York Rangers. Yr 1-5: NMC, Yr 6: 20 Team NTC, Yr 7: 15 Team NTC. Expires 2032 (UFA).",
-      "news_at": "2025-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Adam Fox",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Fox (undisclosed) is expected to return vs. Philadelphia on Thursday.",
-      "news_at": "2026-02-26T11:55:40.977-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Marcus Pettersson",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "New York has acquired Marcus Pettersson from Vancouver for a 2030 1st round pick (top-10 protected).",
-      "news_at": "2026-07-01T17:24:48.169-04:00"
-     },
-     {
-      "name": "Braden Schneider",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Schneider (undisclosed) will be a game-time decision on Sunday.",
-      "news_at": "2026-10-31T12:21:33.263-04:00"
-     }
-    ],
-    [
-     {
-      "name": "Matthew Robertson",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Robertson will make his season debut in Seattle on Saturday.",
-      "news_at": "2026-11-07T17:10:01.910-05:00"
-     },
-     {
-      "name": "Scott Morrow",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Morrow will make his season debut on Sunday.",
-      "news_at": "2026-11-01T17:36:55.646-05:00"
-     }
-    ]
-   ],
-   "powerplay": [
-    [
-     {
-      "name": "Alexis Lafrenière",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Lafreniere (illness) is expected to play vs. Buffalo on Thursday.",
-      "news_at": "2026-01-08T11:00:57.894-05:00"
-     },
-     {
-      "name": "Gabriel Perreault",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Perreault (illness) is expected to return in Washington on Tuesday.",
-      "news_at": "2025-12-23T11:42:48.428-05:00"
-     },
-     {
-      "name": "Pavel Dorofeyev",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "The Rangers have signed Pavel Dorofeyev to a seven-year contract worth $11.0M AAV ($77.0M total).",
-      "news_at": "2026-06-26T20:24:13.858-04:00"
-     },
-     {
-      "name": "Mika Zibanejad",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Zibanejad (illness) returned to morning skate on Thursday and is expected to play vs. Philadelphia.",
-      "news_at": "2026-02-26T11:54:53.861-05:00"
-     },
-     {
-      "name": "Adam Fox",
-      "position": "sk5",
-      "position_name": "Skater 5",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Fox (undisclosed) is expected to return vs. Philadelphia on Thursday.",
-      "news_at": "2026-02-26T11:55:40.977-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Tye Kartye",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Kartye will make his Rangers' debut vs. Pittsburgh on Saturday.",
-      "news_at": "2026-02-28T10:19:41.086-05:00"
-     },
-     {
-      "name": "J.T. Miller",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Miller (upper-body) will return vs. Minnesota on Saturday.",
-      "news_at": "2026-03-14T17:35:06.053-04:00"
-     },
-     {
-      "name": "Will Cuylle",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "2-year, $7,800,000 contract with the New York Rangers. Expires 2027 (RFA).",
-      "news_at": "2025-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Oliver Bjorkstrand",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "1-year, $4,500,000 contract with the New York Rangers. 15 team no trade. Expires 2027 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Adam Fox",
-      "position": "sk5",
-      "position_name": "Skater 5",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Fox (undisclosed) is expected to return vs. Philadelphia on Thursday.",
-      "news_at": "2026-02-26T11:55:40.977-05:00"
-     }
-    ]
-   ],
-   "penaltykill": [
-    [
-     {
-      "name": "J.T. Miller",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Miller (upper-body) will return vs. Minnesota on Saturday.",
-      "news_at": "2026-03-14T17:35:06.053-04:00"
-     },
-     {
-      "name": "Tye Kartye",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Kartye will make his Rangers' debut vs. Pittsburgh on Saturday.",
-      "news_at": "2026-02-28T10:19:41.086-05:00"
-     },
-     {
-      "name": "Vladislav Gavrikov",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "7-year, $49,000,000 contract with the New York Rangers. Yr 1-5: NMC, Yr 6: 20 Team NTC, Yr 7: 15 Team NTC. Expires 2032 (UFA).",
-      "news_at": "2025-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Adam Fox",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Fox (undisclosed) is expected to return vs. Philadelphia on Thursday.",
-      "news_at": "2026-02-26T11:55:40.977-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Noah Laba",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Laba (lower-body) is warming up and expected to return vs. Florida on Sunday",
-      "news_at": "2026-03-29T12:34:43.702-04:00"
-     },
-     {
-      "name": "Will Cuylle",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "2-year, $7,800,000 contract with the New York Rangers. Expires 2027 (RFA).",
-      "news_at": "2025-07-01T19:59:00.000-04:00"
-     },
-     {
-      "name": "Marcus Pettersson",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "New York has acquired Marcus Pettersson from Vancouver for a 2030 1st round pick (top-10 protected).",
-      "news_at": "2026-07-01T17:24:48.169-04:00"
-     },
-     {
-      "name": "Braden Schneider",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Schneider (undisclosed) will be a game-time decision on Sunday.",
-      "news_at": "2026-10-31T12:21:33.263-04:00"
-     }
-    ]
-   ],
-   "goalies": [
-    "Dylan Garand",
-    "Joonas Korpisalo"
-   ],
-   "scratches": [],
-   "injured_reserve": [
-    {
-     "name": "Igor Shesterkin",
-     "injury_status": "ir",
-     "details": "Shesterkin (lower-body) has been placed on Season Ending Injury Reserve.",
-     "news_at": "2026-11-15T11:43:24.111-05:00"
-    },
-    {
-     "name": "Joe Veleno",
-     "injury_status": "ir",
-     "details": "Veleno (lower-body) will be placed on LTIR and is expected to miss 3-to-3.5 months.",
-     "news_at": "2026-10-10T12:42:54.421-04:00"
-    },
-    {
-     "name": "Adam Sykora",
-     "injury_status": "ir",
-     "details": "Sykora (lower body) will miss 4-5 months.",
-     "news_at": "2026-09-23T11:01:42.821-04:00"
-    },
-    {
-     "name": "Sean Durzi",
-     "injury_status": "ir",
-     "details": "Durzi (undisclosed) skated in a non-contact jersey at Monday's practice.",
-     "news_at": "2026-11-09T12:29:57.687-05:00"
-    },
-    {
-     "name": "Alberts Smits",
-     "injury_status": "ir",
-     "details": "Smits is week-to-week with an upper-body injury.",
-     "news_at": "2026-11-09T12:02:58.679-05:00"
+     "details": "Stanley (lower-body) is considered day-to-day.",
+     "news_at": "2026-11-16T11:56:16.812-05:00"
     }
    ],
    "game_time_decisions": []
@@ -6453,8 +7296,8 @@
    "team": "Ottawa Senators",
    "abbr": "OTT",
    "slug": "ottawa-senators",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T14:01:03.927Z",
+   "source": "Andrew Wilimek",
+   "source_updated_at": "2026-11-16T16:06:30.660Z",
    "forwards": [
     [
      {
@@ -6563,13 +7406,13 @@
       "news_at": "2026-05-05T19:59:00.000-04:00"
      },
      {
-      "name": "Hayden Hodgson",
+      "name": "Tyler Boucher",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Hodgson served his two-game suspension and will return to the Senators lineup on Wednesday.",
-      "news_at": "2026-11-04T19:21:42.543-05:00"
+      "latest_news": "Boucher has been recalled from Belleville (AHL) and will make his NHL debut in Winnipeg on Tuesday.",
+      "news_at": "2026-11-16T10:43:34.083-05:00"
      }
     ]
    ],
@@ -6625,26 +7468,26 @@
       "news_at": "2026-11-06T10:46:48.094-05:00"
      },
      {
-      "name": "Carter Yakemchuk",
+      "name": "Nikolas Matinpalo",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Yakemchuk will be back in the Senators lineup on Saturday.",
-      "news_at": "2026-11-14T11:59:26.093-05:00"
+      "latest_news": "Matinpalo will be a healthy scratch on Saturday.",
+      "news_at": "2026-11-14T11:59:55.426-05:00"
      }
     ]
    ],
    "powerplay": [
     [
      {
-      "name": "Drake Batherson",
+      "name": "Stephen Halliday",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "8-year, $86,000,000 contract with the Ottawa Senators. Contract breakdown to be confirmed . Expires 2035 (UFA).",
-      "news_at": "2026-09-15T19:59:00.000-04:00"
+      "latest_news": "2-year, $2,150,000 contract with the Ottawa Senators. Expires 2028 (RFA).",
+      "news_at": "2026-05-05T19:59:00.000-04:00"
      },
      {
       "name": "Shane Pinto",
@@ -6656,22 +7499,22 @@
       "news_at": "2025-12-29T19:06:56.676-05:00"
      },
      {
-      "name": "Stephen Halliday",
+      "name": "Tim Stützle",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "2-year, $2,150,000 contract with the Ottawa Senators. Expires 2028 (RFA).",
-      "news_at": "2026-05-05T19:59:00.000-04:00"
+      "latest_news": "Stutzle (rest) will not play on Sunday.",
+      "news_at": "2026-04-12T16:57:23.451-04:00"
      },
      {
-      "name": "Tim Stützle",
+      "name": "Drake Batherson",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Stutzle (rest) will not play on Sunday.",
-      "news_at": "2026-04-12T16:57:23.451-04:00"
+      "latest_news": "8-year, $86,000,000 contract with the Ottawa Senators. Contract breakdown to be confirmed . Expires 2035 (UFA).",
+      "news_at": "2026-09-15T19:59:00.000-04:00"
      },
      {
       "name": "Jake Sanderson",
@@ -6712,22 +7555,22 @@
       "news_at": "2026-07-07T19:59:00.000-04:00"
      },
      {
-      "name": "Carter Yakemchuk",
+      "name": "Thomas Chabot",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Yakemchuk will be back in the Senators lineup on Saturday.",
-      "news_at": "2026-11-14T11:59:26.093-05:00"
+      "latest_news": "Chabot (upper-body) will return in Los Angeles on Thursday.",
+      "news_at": "2026-10-29T14:20:33.593-04:00"
      },
      {
-      "name": "Thomas Chabot",
+      "name": "Jordan Spence",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Chabot (upper-body) will return in Los Angeles on Thursday.",
-      "news_at": "2026-10-29T14:20:33.593-04:00"
+      "latest_news": "4-year, $20,000,000 contract with the Ottawa Senators. 10 team no trade list in Years 3-4. Expires 2030 (UFA).",
+      "news_at": "2026-06-26T19:59:00.000-04:00"
      }
     ]
    ],
@@ -6846,8 +7689,8 @@
    "team": "Philadelphia Flyers",
    "abbr": "PHI",
    "slug": "philadelphia-flyers",
-   "source": "Siobhan Nolan",
-   "source_updated_at": "2026-11-16T00:07:30.477Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:03:48.838Z",
    "forwards": [
     [
      {
@@ -6978,13 +7821,13 @@
       "news_at": "2026-04-14T17:02:27.176-04:00"
      },
      {
-      "name": "Jamie Drysdale",
+      "name": "Rasmus Ristolainen",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "4-year, $26,000,000 contract with the Philadelphia Flyers. 6 team no trade list in Year 3 ... 4 team no trade list in Year 4. Expires 2030 (UFA).",
-      "news_at": "2026-07-17T19:59:00.000-04:00"
+      "latest_news": "Ristolainen (upper body) will be a game-time decision on Wednesday.",
+      "news_at": "2026-11-11T13:42:55.336-05:00"
      }
     ],
     [
@@ -7018,13 +7861,13 @@
       "news_at": "2026-03-09T18:34:16.201-04:00"
      },
      {
-      "name": "Rasmus Ristolainen",
+      "name": "Jamie Drysdale",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Ristolainen (upper body) will be a game-time decision on Wednesday.",
-      "news_at": "2026-11-11T13:42:55.336-05:00"
+      "latest_news": "4-year, $26,000,000 contract with the Philadelphia Flyers. 6 team no trade list in Year 3 ... 4 team no trade list in Year 4. Expires 2030 (UFA).",
+      "news_at": "2026-07-17T19:59:00.000-04:00"
      }
     ]
    ],
@@ -7105,13 +7948,13 @@
       "news_at": "2026-10-21T19:11:41.558-04:00"
      },
      {
-      "name": "Travis Sanheim",
+      "name": "Owen Tippett",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Sanheim (rest) will not play on Tuesday.",
-      "news_at": "2026-04-14T17:02:27.176-04:00"
+      "latest_news": "Tippett (upper-body) has been activated from IR and is expected to play on Sunday.",
+      "news_at": "2026-11-01T13:34:59.292-05:00"
      },
      {
       "name": "Cam York",
@@ -7154,13 +7997,13 @@
       "news_at": "2026-04-14T17:02:27.176-04:00"
      },
      {
-      "name": "Rasmus Ristolainen",
+      "name": "Cam York",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Ristolainen (upper body) will be a game-time decision on Wednesday.",
-      "news_at": "2026-11-11T13:42:55.336-05:00"
+      "latest_news": "York (upper-body) has been activated from IR and will return vs. Columbus.",
+      "news_at": "2026-10-27T10:33:13.733-04:00"
      }
     ],
     [
@@ -7192,19 +8035,19 @@
       "news_at": "2026-03-09T18:34:16.201-04:00"
      },
      {
-      "name": "Cam York",
+      "name": "Simon Benoit",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "York (upper-body) has been activated from IR and will return vs. Columbus.",
-      "news_at": "2026-10-27T10:33:13.733-04:00"
+      "latest_news": "Benoit will draw back into the lineup vs. Edmonton on Sunday.",
+      "news_at": "2026-11-15T17:21:56.536-05:00"
      }
     ]
    ],
    "goalies": [
-    "Dan Vladar",
-    "Joseph Woll"
+    "Joseph Woll",
+    "Dan Vladar"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -7227,8 +8070,8 @@
    "team": "San Jose Sharks",
    "abbr": "SJS",
    "slug": "san-jose-sharks",
-   "source": "Sheng Peng",
-   "source_updated_at": "2026-11-16T05:50:39.685Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:16:02.601Z",
    "forwards": [
     [
      {
@@ -7412,40 +8255,40 @@
    "powerplay": [
     [
      {
-      "name": "Kiefer Sherwood",
+      "name": "Ivar Stenberg",
       "position": "sk1",
       "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": true,
-      "latest_news": "Sherwood (upper-body) left Sunday's game vs. Nashville and did not return.",
-      "news_at": "2026-11-16T00:50:14.420-05:00"
-     },
-     {
-      "name": "Ivar Stenberg",
-      "position": "sk2",
-      "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
       "latest_news": "3-year, $3,225,000 contract with the San Jose Sharks. Expires 2029 (RFA).",
       "news_at": "2026-07-03T19:59:00.000-04:00"
      },
      {
-      "name": "Mason Marchment",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "5-year, $33,750,000 contract with the San Jose Sharks. Full NTC Yr 1-2, 16 team NTC Yr 3, 13 Team NTC Yr 4-5. Expires 2031 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
-     },
-     {
       "name": "Macklin Celebrini",
-      "position": "sk4",
-      "position_name": "Skater 4",
+      "position": "sk2",
+      "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
       "latest_news": "Celebrini (lower-body) is expected to play vs. Edmonton on Saturday.",
       "news_at": "2026-10-10T15:39:28.362-04:00"
+     },
+     {
+      "name": "Will Smith",
+      "position": "sk3",
+      "position_name": "Skater 3",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Smith (upper-body) will return in Detroit on Friday.",
+      "news_at": "2026-01-16T14:07:52.451-05:00"
+     },
+     {
+      "name": "Jacob Trouba",
+      "position": "sk4",
+      "position_name": "Skater 4",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Trouba (illness) is on the ice for warmups and is expected to play on Saturday.",
+      "news_at": "2026-10-03T21:38:51.703-04:00"
      },
      {
       "name": "Sam Dickinson",
@@ -7477,13 +8320,13 @@
       "news_at": "2026-01-11T17:38:42.368-05:00"
      },
      {
-      "name": "Adam Gaudette",
+      "name": "Mason Marchment",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Gaudette will draw back into the lineup in Minnesota on Friday.",
-      "news_at": "2026-11-06T19:38:50.067-05:00"
+      "latest_news": "5-year, $33,750,000 contract with the San Jose Sharks. Full NTC Yr 1-2, 16 team NTC Yr 3, 13 Team NTC Yr 4-5. Expires 2031 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
      },
      {
       "name": "Dmitry Orlov",
@@ -7495,13 +8338,13 @@
       "news_at": "2025-07-03T19:59:00.000-04:00"
      },
      {
-      "name": "Will Smith",
+      "name": "Eric Pohlkamp",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Smith (upper-body) will return in Detroit on Friday.",
-      "news_at": "2026-01-16T14:07:52.451-05:00"
+      "latest_news": "Pohlkamp will make his NHL debut in Los Angeles on Wednesday.",
+      "news_at": "2026-11-04T14:45:23.829-05:00"
      }
     ]
    ],
@@ -7517,13 +8360,13 @@
       "news_at": "2026-11-07T18:04:41.860-05:00"
      },
      {
-      "name": "Collin Graf",
+      "name": "Barclay Goodrow",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "3-year, $12,750,000 contract with the San Jose Sharks. Expires 2029 (RFA).",
-      "news_at": "2026-07-31T19:59:00.000-04:00"
+      "latest_news": "Goodrow (illness) is expected to play on Tuesday vs. Boston.",
+      "news_at": "2026-10-13T14:15:54.007-04:00"
      },
      {
       "name": "Darnell Nurse",
@@ -7555,13 +8398,13 @@
       "news_at": "2026-11-04T14:28:57.186-05:00"
      },
      {
-      "name": "Barclay Goodrow",
+      "name": "Collin Graf",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Goodrow (illness) is expected to play on Tuesday vs. Boston.",
-      "news_at": "2026-10-13T14:15:54.007-04:00"
+      "latest_news": "3-year, $12,750,000 contract with the San Jose Sharks. Expires 2029 (RFA).",
+      "news_at": "2026-07-31T19:59:00.000-04:00"
      },
      {
       "name": "Sam Dickinson",
@@ -7584,8 +8427,8 @@
     ]
    ],
    "goalies": [
-    "Alex Nedeljkovic",
-    "Yaroslav Askarov"
+    "Yaroslav Askarov",
+    "Alex Nedeljkovic"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -7616,18 +8459,18 @@
    "team": "St Louis Blues",
    "abbr": null,
    "slug": "st-louis-blues",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T17:14:32.797Z",
+   "source": "Jeremy Rutherford",
+   "source_updated_at": "2026-11-17T02:37:41.058Z",
    "forwards": [
     [
      {
-      "name": "Dylan Holloway",
+      "name": "Jake Neighbours",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "5-year, $38,750,000 contract with the St Louis Blues. 20 team no trade list in Yr 4; 15 team no trade list in Yr 5. Expires 2031 (UFA).",
-      "news_at": "2026-05-01T19:59:00.000-04:00"
+      "latest_news": "Neighbours (upper-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:01:18.608-05:00"
      },
      {
       "name": "Robert Thomas",
@@ -7650,13 +8493,13 @@
     ],
     [
      {
-      "name": "Jake Neighbours",
+      "name": "Dylan Holloway",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Neighbours (upper-body) is considered day-to-day.",
-      "news_at": "2026-11-15T13:16:04.505-05:00"
+      "latest_news": "5-year, $38,750,000 contract with the St Louis Blues. 20 team no trade list in Yr 4; 15 team no trade list in Yr 5. Expires 2031 (UFA).",
+      "news_at": "2026-05-01T19:59:00.000-04:00"
      },
      {
       "name": "Mason McTavish",
@@ -7679,13 +8522,13 @@
     ],
     [
      {
-      "name": "Dalibor Dvorsky",
+      "name": "Aleksanteri Kaskimaki",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Dvorsky will draw back into the lineup on Sunday.",
-      "news_at": "2026-03-15T13:56:45.837-04:00"
+      "latest_news": "Kaskimaki will be back in the Blues lineup on Saturday.",
+      "news_at": "2026-11-14T12:47:15.765-05:00"
      },
      {
       "name": "Pavel Buchnevich",
@@ -7697,13 +8540,13 @@
       "news_at": "2026-10-17T12:40:28.330-04:00"
      },
      {
-      "name": "Aleksanteri Kaskimaki",
+      "name": "Jonatan Berggren",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Kaskimaki will be back in the Blues lineup on Saturday.",
-      "news_at": "2026-11-14T12:47:15.765-05:00"
+      "latest_news": "Berggren will be a healthy scratch on Saturday.",
+      "news_at": "2026-11-14T12:47:29.565-05:00"
      }
     ],
     [
@@ -7726,13 +8569,13 @@
       "news_at": "2026-11-14T18:32:42.175-05:00"
      },
      {
-      "name": "Ross Johnston",
+      "name": "Dalibor Dvorsky",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Johnston will draw back into the lineup in New York on Tuesday.",
-      "news_at": "2026-11-03T11:41:53.859-05:00"
+      "latest_news": "Dvorsky will draw back into the lineup on Sunday.",
+      "news_at": "2026-03-15T13:56:45.837-04:00"
      }
     ]
    ],
@@ -7744,8 +8587,8 @@
       "position_name": "Left Defense",
       "injury_status": null,
       "game_time_decision": true,
-      "latest_news": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day.",
-      "news_at": "2026-11-15T12:13:39.326-05:00"
+      "latest_news": "Broberg (lower-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:00:21.147-05:00"
      },
      {
       "name": "Logan Mailloux",
@@ -7824,8 +8667,8 @@
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Neighbours (upper-body) is considered day-to-day.",
-      "news_at": "2026-11-15T13:16:04.505-05:00"
+      "latest_news": "Neighbours (upper-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:01:18.608-05:00"
      },
      {
       "name": "Robert Thomas",
@@ -7842,8 +8685,8 @@
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": true,
-      "latest_news": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day.",
-      "news_at": "2026-11-15T12:13:39.326-05:00"
+      "latest_news": "Broberg (lower-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:00:21.147-05:00"
      }
     ],
     [
@@ -7911,8 +8754,8 @@
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Neighbours (upper-body) is considered day-to-day.",
-      "news_at": "2026-11-15T13:16:04.505-05:00"
+      "latest_news": "Neighbours (upper-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:01:18.608-05:00"
      },
      {
       "name": "Philip Broberg",
@@ -7920,8 +8763,8 @@
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": true,
-      "latest_news": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day.",
-      "news_at": "2026-11-15T12:13:39.326-05:00"
+      "latest_news": "Broberg (lower-body) returned to practice on Monday.",
+      "news_at": "2026-11-16T13:00:21.147-05:00"
      },
      {
       "name": "Colton Parayko",
@@ -7973,8 +8816,8 @@
     ]
    ],
    "goalies": [
-    "Joel Hofer",
-    "Jordan Binnington"
+    "Jordan Binnington",
+    "Joel Hofer"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -7993,8 +8836,8 @@
     {
      "name": "Philip Broberg",
      "injury_status": "dtd",
-     "details": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day.",
-     "news_at": "2026-11-15T12:13:39.326-05:00"
+     "details": "Broberg (lower-body) returned to practice on Monday.",
+     "news_at": "2026-11-16T13:00:21.147-05:00"
     }
    ],
    "game_time_decisions": [
@@ -8383,8 +9226,8 @@
    "team": "Toronto Maple Leafs",
    "abbr": "TOR",
    "slug": "toronto-maple-leafs",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T13:53:02.701Z",
+   "source": "David Alter",
+   "source_updated_at": "2026-11-16T17:02:02.414Z",
    "forwards": [
     [
      {
@@ -8546,13 +9389,13 @@
     ],
     [
      {
-      "name": "Dakota Mermis",
+      "name": "Morgan Rielly",
       "position": "ld",
       "position_name": "Left Defense",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Mermis will enter the lineup on Sunday.",
-      "news_at": "2026-11-08T16:46:40.299-05:00"
+      "game_time_decision": true,
+      "latest_news": "Rielly (lower-body) will participate in practice on Monday but is still considered day-to-day.",
+      "news_at": "2026-11-16T10:51:55.301-05:00"
      },
      {
       "name": "Troy Stecher",
@@ -8642,13 +9485,13 @@
       "news_at": "2026-02-28T09:56:42.936-05:00"
      },
      {
-      "name": "Oliver Ekman-Larsson",
+      "name": "Morgan Rielly",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Ekman-Larsson (undisclosed) will play vs. Colorado on Saturday.",
-      "news_at": "2026-10-10T20:19:53.743-04:00"
+      "game_time_decision": true,
+      "latest_news": "Rielly (lower-body) will participate in practice on Monday but is still considered day-to-day.",
+      "news_at": "2026-11-16T10:51:55.301-05:00"
      },
      {
       "name": "Gavin McKenna",
@@ -8740,8 +9583,8 @@
     ]
    ],
    "goalies": [
-    "Anthony Stolarz",
-    "Sergei Bobrovsky"
+    "Sergei Bobrovsky",
+    "Anthony Stolarz"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -8760,8 +9603,8 @@
     {
      "name": "Kirill Marchenko",
      "injury_status": "ir",
-     "details": "Marchenko (lower-body) has been placed on IR and is still considered week-to-week.",
-     "news_at": "2026-10-29T13:34:06.536-04:00"
+     "details": "Marchenko remains week-to-week with a lower-body injury",
+     "news_at": "2026-11-16T10:52:40.359-05:00"
     },
     {
      "name": "Marshall Rifai",
@@ -8772,28 +9615,30 @@
     {
      "name": "Morgan Rielly",
      "injury_status": "dtd",
-     "details": "Rielly (lower-body) is still considered day-to-day.",
-     "news_at": "2026-11-10T10:27:47.123-05:00"
+     "details": "Rielly (lower-body) will participate in practice on Monday but is still considered day-to-day.",
+     "news_at": "2026-11-16T10:51:55.301-05:00"
     }
    ],
-   "game_time_decisions": []
+   "game_time_decisions": [
+    "Morgan Rielly"
+   ]
   },
   "utah-mammoth": {
    "team": "Utah Mammoth",
    "abbr": "UTA",
    "slug": "utah-mammoth",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T14:10:11.060Z",
+   "source": "Utah Mammoth",
+   "source_updated_at": "2026-11-17T02:17:49.082Z",
    "forwards": [
     [
      {
-      "name": "Anders Lee",
+      "name": "Logan Cooley",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "3-year, $16,200,000 contract with the Utah Mammoth. NMC throughout ... 10 team no trade list from June 1, 2028 to July 4, 2028 .... no trade clause from July 5, 2028 until 28 days before 2029 NHL Trade Deadline. Expires 2029 (UFA).",
-      "news_at": "2026-07-01T19:59:00.000-04:00"
+      "latest_news": "Cooley (upper-body) is expected to play Monday vs. the Canucks.",
+      "news_at": "2026-11-16T21:11:15.533-05:00"
      },
      {
       "name": "Vincent Trocheck",
@@ -8816,13 +9661,13 @@
     ],
     [
      {
-      "name": "Kailer Yamamoto",
+      "name": "Anders Lee",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Yamamoto (upper-body) has been activated from IR and will play Wednesday.",
-      "news_at": "2026-11-11T21:13:16.837-05:00"
+      "latest_news": "3-year, $16,200,000 contract with the Utah Mammoth. NMC throughout ... 10 team no trade list from June 1, 2028 to July 4, 2028 .... no trade clause from July 5, 2028 until 28 days before 2029 NHL Trade Deadline. Expires 2029 (UFA).",
+      "news_at": "2026-07-01T19:59:00.000-04:00"
      },
      {
       "name": "Barrett Hayton",
@@ -8834,13 +9679,13 @@
       "news_at": "2026-07-08T12:36:10.813-04:00"
      },
      {
-      "name": "Daniil But",
+      "name": "Kailer Yamamoto",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "The Mammoth have recalled Daniil But from Tucson (AHL).",
-      "news_at": "2026-11-11T21:14:03.400-05:00"
+      "latest_news": "Yamamoto (upper-body) has been activated from IR and will play Wednesday.",
+      "news_at": "2026-11-11T21:13:16.837-05:00"
      }
     ],
     [
@@ -8874,13 +9719,13 @@
     ],
     [
      {
-      "name": "Ben McCartney",
+      "name": "Liam O'Brien",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "McCartney will make his season debut on Thursday.",
-      "news_at": "2026-11-12T20:36:56.382-05:00"
+      "latest_news": "O'Brien will be a healthy scratch on Thursday.",
+      "news_at": "2026-10-29T18:34:29.820-04:00"
      },
      {
       "name": "Kevin Stenlund",
@@ -8892,13 +9737,13 @@
       "news_at": "2026-07-01T19:59:00.000-04:00"
      },
      {
-      "name": "Liam O'Brien",
+      "name": "Daniil But",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "O'Brien will be a healthy scratch on Thursday.",
-      "news_at": "2026-10-29T18:34:29.820-04:00"
+      "latest_news": "The Mammoth have recalled Daniil But from Tucson (AHL).",
+      "news_at": "2026-11-11T21:14:03.400-05:00"
      }
     ]
    ],
@@ -8914,13 +9759,13 @@
       "news_at": "2026-10-08T12:36:43.118-04:00"
      },
      {
-      "name": "Artem Duda",
+      "name": "Andrew Peeke",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Duda will draw back into the lineup vs. Ottawa on Saturday.",
-      "news_at": "2026-11-07T18:41:52.410-05:00"
+      "latest_news": "1-year, $1,000,000 contract with the Utah Mammoth. Expires 2027 (UFA).",
+      "news_at": "2026-07-03T19:59:00.000-04:00"
      }
     ],
     [
@@ -8954,26 +9799,26 @@
       "news_at": "2026-11-12T20:51:38.592-05:00"
      },
      {
-      "name": "Andrew Peeke",
+      "name": "Nick DeSimone",
       "position": "rd",
       "position_name": "Right Defense",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "1-year, $1,000,000 contract with the Utah Mammoth. Expires 2027 (UFA).",
-      "news_at": "2026-07-03T19:59:00.000-04:00"
+      "latest_news": "DeSimone will be back in the Mammoth lineup on Monday.",
+      "news_at": "2026-11-16T21:18:18.629-05:00"
      }
     ]
    ],
    "powerplay": [
     [
      {
-      "name": "Kailer Yamamoto",
+      "name": "Barrett Hayton",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Yamamoto (upper-body) has been activated from IR and will play Wednesday.",
-      "news_at": "2026-11-11T21:13:16.837-05:00"
+      "latest_news": "Utah has matched New Jersey's offer sheet to Barrett Hayton, signing him to a one-year deal worth $4.775M.",
+      "news_at": "2026-07-08T12:36:10.813-04:00"
      },
      {
       "name": "Vincent Trocheck",
@@ -8985,13 +9830,13 @@
       "news_at": "2026-07-01T16:36:29.683-04:00"
      },
      {
-      "name": "Barrett Hayton",
+      "name": "Logan Cooley",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Utah has matched New Jersey's offer sheet to Barrett Hayton, signing him to a one-year deal worth $4.775M.",
-      "news_at": "2026-07-08T12:36:10.813-04:00"
+      "latest_news": "Cooley (upper-body) is expected to play Monday vs. the Canucks.",
+      "news_at": "2026-11-16T21:11:15.533-05:00"
      },
      {
       "name": "Mikhail Sergachev",
@@ -9032,31 +9877,31 @@
       "news_at": "2026-01-26T11:53:37.468-05:00"
      },
      {
-      "name": "Michael Carcone",
+      "name": "Kailer Yamamoto",
       "position": "sk3",
       "position_name": "Skater 3",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Carcone (upper-body) has been activated from IR and will play on Sunday.",
-      "news_at": "2026-11-01T15:32:32.807-05:00"
+      "latest_news": "Yamamoto (upper-body) has been activated from IR and will play Wednesday.",
+      "news_at": "2026-11-11T21:13:16.837-05:00"
      },
      {
-      "name": "Daniil But",
+      "name": "MacKenzie Weegar",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "The Mammoth have recalled Daniil But from Tucson (AHL).",
-      "news_at": "2026-11-11T21:14:03.400-05:00"
+      "latest_news": "Weegar (upper-body) will play against the Oilers on Tuesday.",
+      "news_at": "2026-04-07T21:29:37.094-04:00"
      },
      {
-      "name": "MacKenzie Weegar",
+      "name": "Michael Carcone",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Weegar (upper-body) will play against the Oilers on Tuesday.",
-      "news_at": "2026-04-07T21:29:37.094-04:00"
+      "latest_news": "Carcone (upper-body) has been activated from IR and will play on Sunday.",
+      "news_at": "2026-11-01T15:32:32.807-05:00"
      }
     ]
    ],
@@ -9163,391 +10008,16 @@
      "news_at": "2026-11-11T21:12:18.750-05:00"
     },
     {
-     "name": "Logan Cooley",
-     "injury_status": "dtd",
-     "details": "Cooley (upper-body) remains day-to-day and will not play on Saturday.",
-     "news_at": "2026-11-14T13:49:50.864-05:00"
-    },
-    {
      "name": "Nick Schmaltz",
      "injury_status": "dtd",
      "details": "Schmaltz (lower-body) will not play on Saturday and is still being evaluated.",
      "news_at": "2026-11-14T13:49:14.496-05:00"
-    }
-   ],
-   "game_time_decisions": []
-  },
-  "vancouver-canucks": {
-   "team": "Vancouver Canucks",
-   "abbr": "VAN",
-   "slug": "vancouver-canucks",
-   "source": "Brendan Batchelor",
-   "source_updated_at": "2026-11-16T01:41:44.808Z",
-   "forwards": [
-    [
-     {
-      "name": "Jake DeBrusk",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "DeBrusk (illness) is expected to return in Carolina on Thursday.",
-      "news_at": "2026-10-08T13:20:15.566-04:00"
-     },
-     {
-      "name": "Elias Pettersson",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pettersson (upper-body) will be back in the Canucks lineup on Saturday.",
-      "news_at": "2025-12-27T14:59:56.530-05:00"
-     },
-     {
-      "name": "Jonathan Lekkerimaki",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Lekkerimaki (shoulder) will miss the remainder of the 2025-26 season.",
-      "news_at": "2026-02-27T15:43:32.531-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Paul Cotter",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Cotter will be back in the Canucks lineup on Tuesday.",
-      "news_at": "2026-10-27T21:53:02.417-04:00"
-     },
-     {
-      "name": "Filip Chytil",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Chytil (upper-body) is on the ice for warmups and will play Friday vs. the Rangers.",
-      "news_at": "2026-11-13T20:36:19.668-05:00"
-     },
-     {
-      "name": "Brock Boeser",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Boeser (concussion) is on the ice for warmups and is expected to play against the Senators on Monday.",
-      "news_at": "2026-03-09T20:39:52.745-04:00"
-     }
-    ],
-    [
-     {
-      "name": "Liam Ohgren",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Ohgren will draw into the lineup on Sunday.",
-      "news_at": "2026-10-25T21:42:47.045-04:00"
-     },
-     {
-      "name": "Marco Rossi",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Rossi (illness) returned to Canucks' practice on Wednesday.",
-      "news_at": "2026-10-21T14:35:03.289-04:00"
-     },
-     {
-      "name": "Linus Karlsson",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Vancouver has signed Linus Karlsson to a two-year contract worth $2.25 million AAV ($4.5M total).",
-      "news_at": "2026-01-03T15:25:29.678-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Drew O'Connor",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "O'Connor (illness) will play in Carolina on Friday after missing practice on Thursday.",
-      "news_at": "2025-11-14T12:08:57.909-05:00"
-     },
-     {
-      "name": "Max Sasson",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Sasson will be a healthy scratch on Sunday.",
-      "news_at": "2026-04-12T18:26:50.249-04:00"
-     },
-     {
-      "name": "Brendan Gallagher",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Gallagher is expected to enter the lineup on Saturday.",
-      "news_at": "2026-10-31T18:46:25.019-04:00"
-     }
-    ]
-   ],
-   "defense": [
-    [
-     {
-      "name": "Zeev Buium",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "8-year, $75,040,000 contract with the Vancouver Canucks. Years 6-8 ... NMC; 15 team no trade list. Expires 2035 (UFA).",
-      "news_at": "2026-09-04T19:59:00.000-04:00"
-     },
-     {
-      "name": "Filip Hronek",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Hronek (illness) will play vs. Toronto on Saturday.",
-      "news_at": "2026-01-31T18:48:30.700-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Elias Nils Pettersson",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pettersson (D) will draw back into Vancouver's lineup vs. Vegas on Tuesday.",
-      "news_at": "2026-04-07T14:22:37.118-04:00"
-     },
-     {
-      "name": "Tom Willander",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Willander will be scratched Tuesday vs. the Ducks.",
-      "news_at": "2026-11-03T20:39:41.265-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Jamie Oleksiak",
-      "position": "ld",
-      "position_name": "Left Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Oleksiak will be back in the Canucks lineup on Tuesday.",
-      "news_at": "2026-10-27T21:52:28.115-04:00"
-     },
-     {
-      "name": "Cameron Crotty",
-      "position": "rd",
-      "position_name": "Right Defense",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Vancouver has claimed Cameron Crotty off waivers from Minnesota.",
-      "news_at": "2026-11-10T14:04:13.987-05:00"
-     }
-    ]
-   ],
-   "powerplay": [
-    [
-     {
-      "name": "Jake DeBrusk",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "DeBrusk (illness) is expected to return in Carolina on Thursday.",
-      "news_at": "2026-10-08T13:20:15.566-04:00"
-     },
-     {
-      "name": "Elias Pettersson",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pettersson (upper-body) will be back in the Canucks lineup on Saturday.",
-      "news_at": "2025-12-27T14:59:56.530-05:00"
-     },
-     {
-      "name": "Brock Boeser",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Boeser (concussion) is on the ice for warmups and is expected to play against the Senators on Monday.",
-      "news_at": "2026-03-09T20:39:52.745-04:00"
-     },
-     {
-      "name": "Jonathan Lekkerimaki",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Lekkerimaki (shoulder) will miss the remainder of the 2025-26 season.",
-      "news_at": "2026-02-27T15:43:32.531-05:00"
-     },
-     {
-      "name": "Filip Hronek",
-      "position": "sk5",
-      "position_name": "Skater 5",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Hronek (illness) will play vs. Toronto on Saturday.",
-      "news_at": "2026-01-31T18:48:30.700-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Paul Cotter",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Cotter will be back in the Canucks lineup on Tuesday.",
-      "news_at": "2026-10-27T21:53:02.417-04:00"
-     },
-     {
-      "name": "Filip Chytil",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Chytil (upper-body) is on the ice for warmups and will play Friday vs. the Rangers.",
-      "news_at": "2026-11-13T20:36:19.668-05:00"
-     },
-     {
-      "name": "Linus Karlsson",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Vancouver has signed Linus Karlsson to a two-year contract worth $2.25 million AAV ($4.5M total).",
-      "news_at": "2026-01-03T15:25:29.678-05:00"
-     },
-     {
-      "name": "Zeev Buium",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "8-year, $75,040,000 contract with the Vancouver Canucks. Years 6-8 ... NMC; 15 team no trade list. Expires 2035 (UFA).",
-      "news_at": "2026-09-04T19:59:00.000-04:00"
-     },
-     {
-      "name": "Marco Rossi",
-      "position": "sk5",
-      "position_name": "Skater 5",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Rossi (illness) returned to Canucks' practice on Wednesday.",
-      "news_at": "2026-10-21T14:35:03.289-04:00"
-     }
-    ]
-   ],
-   "penaltykill": [
-    [
-     {
-      "name": "Elias Pettersson",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pettersson (upper-body) will be back in the Canucks lineup on Saturday.",
-      "news_at": "2025-12-27T14:59:56.530-05:00"
-     },
-     {
-      "name": "Brock Boeser",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Boeser (concussion) is on the ice for warmups and is expected to play against the Senators on Monday.",
-      "news_at": "2026-03-09T20:39:52.745-04:00"
-     },
-     {
-      "name": "Elias Nils Pettersson",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Pettersson (D) will draw back into Vancouver's lineup vs. Vegas on Tuesday.",
-      "news_at": "2026-04-07T14:22:37.118-04:00"
-     },
-     {
-      "name": "Filip Hronek",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Hronek (illness) will play vs. Toronto on Saturday.",
-      "news_at": "2026-01-31T18:48:30.700-05:00"
-     }
-    ],
-    [
-     {
-      "name": "Filip Chytil",
-      "position": "sk1",
-      "position_name": "Skater 1",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Chytil (upper-body) is on the ice for warmups and will play Friday vs. the Rangers.",
-      "news_at": "2026-11-13T20:36:19.668-05:00"
-     },
-     {
-      "name": "Max Sasson",
-      "position": "sk2",
-      "position_name": "Skater 2",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Sasson will be a healthy scratch on Sunday.",
-      "news_at": "2026-04-12T18:26:50.249-04:00"
-     },
-     {
-      "name": "Jamie Oleksiak",
-      "position": "sk3",
-      "position_name": "Skater 3",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Oleksiak will be back in the Canucks lineup on Tuesday.",
-      "news_at": "2026-10-27T21:52:28.115-04:00"
-     },
-     {
-      "name": "Cameron Crotty",
-      "position": "sk4",
-      "position_name": "Skater 4",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Vancouver has claimed Cameron Crotty off waivers from Minnesota.",
-      "news_at": "2026-11-10T14:04:13.987-05:00"
-     }
-    ]
-   ],
-   "goalies": [
-    "Leevi Merilainen",
-    "Kevin Lankinen"
-   ],
-   "scratches": [],
-   "injured_reserve": [
+    },
     {
-     "name": "Thatcher Demko",
-     "injury_status": "ir",
-     "details": "Demko (hip) is hopeful to return before Christmas.",
-     "news_at": "2026-09-28T13:54:38.111-04:00"
+     "name": "Artem Duda",
+     "injury_status": "dtd",
+     "details": "Duda (lower-body) will not play Monday vs. the Canucks.",
+     "news_at": "2026-11-16T21:06:42.559-05:00"
     }
    ],
    "game_time_decisions": []
@@ -9556,18 +10026,18 @@
    "team": "Vegas Golden Knights",
    "abbr": "VGK",
    "slug": "vegas-golden-knights",
-   "source": "Sin Bin Vegas",
-   "source_updated_at": "2026-11-16T01:40:42.415Z",
+   "source": "Last Game (2026-11-15)",
+   "source_updated_at": "2026-11-16T15:13:32.468Z",
    "forwards": [
     [
      {
-      "name": "Ivan Barbashev",
+      "name": "Trevor Connelly",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Barbashev (rest) will not play in Vancouver on Wednesday.",
-      "news_at": "2025-04-16T22:00:59.487-04:00"
+      "latest_news": "Connelly has been recalled from Henderson (AHL).",
+      "news_at": "2026-04-26T14:09:35.805-04:00"
      },
      {
       "name": "Jack Eichel",
@@ -9590,13 +10060,13 @@
     ],
     [
      {
-      "name": "Brett Howden",
+      "name": "Braeden Bowman",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Howden (lower body) is expected to draw back into the lineup on Sunday.",
-      "news_at": "2026-03-08T13:56:08.993-04:00"
+      "latest_news": "6-year, $20,400,000 contract with the Vegas Golden Knights. Expires 2033 (UFA).",
+      "news_at": "2026-09-10T19:59:00.000-04:00"
      },
      {
       "name": "William Karlsson",
@@ -9619,13 +10089,13 @@
     ],
     [
      {
-      "name": "Trevor Connelly",
+      "name": "Ivan Barbashev",
       "position": "lw",
       "position_name": "Left Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Connelly has been recalled from Henderson (AHL).",
-      "news_at": "2026-04-26T14:09:35.805-04:00"
+      "latest_news": "Barbashev (rest) will not play in Vancouver on Wednesday.",
+      "news_at": "2025-04-16T22:00:59.487-04:00"
      },
      {
       "name": "Tomas Hertl",
@@ -9666,13 +10136,13 @@
       "news_at": "2026-03-05T11:22:58.015-05:00"
      },
      {
-      "name": "Braeden Bowman",
+      "name": "Brett Howden",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "6-year, $20,400,000 contract with the Vegas Golden Knights. Expires 2033 (UFA).",
-      "news_at": "2026-09-10T19:59:00.000-04:00"
+      "latest_news": "Howden (lower body) is expected to draw back into the lineup on Sunday.",
+      "news_at": "2026-03-08T13:56:08.993-04:00"
      }
     ]
    ],
@@ -9902,19 +10372,19 @@
       "news_at": "2026-06-09T11:43:15.815-04:00"
      },
      {
-      "name": "Shea Theodore",
+      "name": "Parker Wotherspoon",
       "position": "sk4",
       "position_name": "Skater 4",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Theodore is dealing with an illness and his status for Tuesday's game in Buffalo is uncertain.",
-      "news_at": "2026-03-02T19:06:56.930-05:00"
+      "latest_news": "Wotherspoon (lower-body) was a full participant in practice on Tuesday.",
+      "news_at": "2026-11-10T14:07:04.119-05:00"
      }
     ]
    ],
    "goalies": [
-    "Carter Hart",
-    "Adin Hill"
+    "Adin Hill",
+    "Carter Hart"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -10312,38 +10782,9 @@
    "team": "Winnipeg Jets",
    "abbr": "WPG",
    "slug": "winnipeg-jets",
-   "source": "Last Game (2026-11-14)",
-   "source_updated_at": "2026-11-15T13:49:17.701Z",
+   "source": "Connor Hrabchak",
+   "source_updated_at": "2026-11-16T16:53:04.630Z",
    "forwards": [
-    [
-     {
-      "name": "Kyle Connor",
-      "position": "lw",
-      "position_name": "Left Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "8-year, $96,000,000 contract with the Winnipeg Jets. Expires 2034 (UFA).",
-      "news_at": "2025-10-08T19:59:00.000-04:00"
-     },
-     {
-      "name": "Mark Scheifele",
-      "position": "c",
-      "position_name": "Center",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Scheifele (personal) will play Game 6 on Saturday night in Dallas.",
-      "news_at": "2025-05-17T17:32:44.718-04:00"
-     },
-     {
-      "name": "Viggo Björck",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "The Jets signed Viggo Björck to a three-year, entry-level contract.",
-      "news_at": "2026-08-16T13:29:28.960-04:00"
-     }
-    ],
     [
      {
       "name": "Cole Perfetti",
@@ -10355,22 +10796,51 @@
       "news_at": "2026-07-15T19:59:00.000-04:00"
      },
      {
-      "name": "Dawson Mercer",
+      "name": "Mark Scheifele",
       "position": "c",
       "position_name": "Center",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Mercer (upper-body) will play in Montreal on Tuesday.",
-      "news_at": "2026-11-03T12:22:32.426-05:00"
+      "latest_news": "Scheifele (personal) will play Game 6 on Saturday night in Dallas.",
+      "news_at": "2025-05-17T17:32:44.718-04:00"
      },
      {
-      "name": "Morgan Barron",
+      "name": "Gabriel Vilardi",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Barron is considered week-to-week with a lower-body injury.",
-      "news_at": "2026-04-06T11:29:41.933-04:00"
+      "latest_news": "6-year, $45,000,000 contract with the Winnipeg Jets. Expires 2031 (UFA).",
+      "news_at": "2025-07-18T19:59:00.000-04:00"
+     }
+    ],
+    [
+     {
+      "name": "Nino Niederreiter",
+      "position": "lw",
+      "position_name": "Left Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Niederreiter is expected to draw back into the lineup vs. Chicago on Saturday.",
+      "news_at": "2026-11-13T14:27:47.537-05:00"
+     },
+     {
+      "name": "Brayden Yager",
+      "position": "c",
+      "position_name": "Center",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Yager has been recalled from Manitoba (AHL).",
+      "news_at": "2026-11-05T10:07:34.167-05:00"
+     },
+     {
+      "name": "Dawson Mercer",
+      "position": "rw",
+      "position_name": "Right Wing",
+      "injury_status": null,
+      "game_time_decision": false,
+      "latest_news": "Mercer (upper-body) will play in Montreal on Tuesday.",
+      "news_at": "2026-11-03T12:22:32.426-05:00"
      }
     ],
     [
@@ -10393,13 +10863,13 @@
       "news_at": "2025-11-19T20:58:45.218-05:00"
      },
      {
-      "name": "Gabriel Vilardi",
+      "name": "Viggo Björck",
       "position": "rw",
       "position_name": "Right Wing",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "6-year, $45,000,000 contract with the Winnipeg Jets. Expires 2031 (UFA).",
-      "news_at": "2025-07-18T19:59:00.000-04:00"
+      "latest_news": "The Jets signed Viggo Björck to a three-year, entry-level contract.",
+      "news_at": "2026-08-16T13:29:28.960-04:00"
      }
     ],
     [
@@ -10413,22 +10883,13 @@
       "news_at": "2026-11-03T18:48:55.186-05:00"
      },
      {
-      "name": "Brayden Yager",
+      "name": "Morgan Barron",
       "position": "c",
       "position_name": "Center",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Yager has been recalled from Manitoba (AHL).",
-      "news_at": "2026-11-05T10:07:34.167-05:00"
-     },
-     {
-      "name": "Nino Niederreiter",
-      "position": "rw",
-      "position_name": "Right Wing",
-      "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Niederreiter is expected to draw back into the lineup vs. Chicago on Saturday.",
-      "news_at": "2026-11-13T14:27:47.537-05:00"
+      "latest_news": "Barron is considered week-to-week with a lower-body injury.",
+      "news_at": "2026-04-06T11:29:41.933-04:00"
      }
     ]
    ],
@@ -10475,13 +10936,13 @@
     ],
     [
      {
-      "name": "Haydn Fleury",
+      "name": "Elias Salomonsson",
       "position": "ld",
       "position_name": "Left Defense",
       "injury_status": null,
-      "game_time_decision": false,
-      "latest_news": "Fleury will draw back into the lineup vs. Chicago on Saturday.",
-      "news_at": "2026-11-13T14:26:42.134-05:00"
+      "game_time_decision": true,
+      "latest_news": "Salomonsson (personal) returned to practice on Monday.",
+      "news_at": "2026-11-16T10:55:47.768-05:00"
      },
      {
       "name": "Tyrel Bauer",
@@ -10533,24 +10994,24 @@
       "news_at": "2026-11-10T10:58:27.911-05:00"
      },
      {
-      "name": "Kyle Connor",
+      "name": "Alex Iafallo",
       "position": "sk5",
       "position_name": "Skater 5",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "8-year, $96,000,000 contract with the Winnipeg Jets. Expires 2034 (UFA).",
-      "news_at": "2025-10-08T19:59:00.000-04:00"
+      "latest_news": "Iafallo (undisclosed) is not expected to play on Monday.",
+      "news_at": "2026-04-13T14:46:41.500-04:00"
      }
     ],
     [
      {
-      "name": "Alex Iafallo",
+      "name": "Nino Niederreiter",
       "position": "sk1",
       "position_name": "Skater 1",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "Iafallo (undisclosed) is not expected to play on Monday.",
-      "news_at": "2026-04-13T14:46:41.500-04:00"
+      "latest_news": "Niederreiter is expected to draw back into the lineup vs. Chicago on Saturday.",
+      "news_at": "2026-11-13T14:27:47.537-05:00"
      },
      {
       "name": "Brayden Yager",
@@ -10640,13 +11101,13 @@
       "news_at": "2026-04-06T11:29:41.933-04:00"
      },
      {
-      "name": "Kyle Connor",
+      "name": "Alex Iafallo",
       "position": "sk2",
       "position_name": "Skater 2",
       "injury_status": null,
       "game_time_decision": false,
-      "latest_news": "8-year, $96,000,000 contract with the Winnipeg Jets. Expires 2034 (UFA).",
-      "news_at": "2025-10-08T19:59:00.000-04:00"
+      "latest_news": "Iafallo (undisclosed) is not expected to play on Monday.",
+      "news_at": "2026-04-13T14:46:41.500-04:00"
      },
      {
       "name": "Mario Ferraro",
@@ -10669,8 +11130,8 @@
     ]
    ],
    "goalies": [
-    "Stuart Skinner",
-    "Nico Daws"
+    "Nico Daws",
+    "Stuart Skinner"
    ],
    "scratches": [],
    "injured_reserve": [
@@ -10695,11 +11156,19 @@
     {
      "name": "Elias Salomonsson",
      "injury_status": "dtd",
-     "details": "Salomonsson (personal) missed practice on Saturday.",
-     "news_at": "2026-11-07T11:27:53.237-05:00"
+     "details": "Salomonsson (personal) returned to practice on Monday.",
+     "news_at": "2026-11-16T10:55:47.768-05:00"
+    },
+    {
+     "name": "Kyle Connor",
+     "injury_status": "dtd",
+     "details": "8-year, $96,000,000 contract with the Winnipeg Jets. Expires 2034 (UFA).",
+     "news_at": "2025-10-08T19:59:00.000-04:00"
     }
    ],
-   "game_time_decisions": []
+   "game_time_decisions": [
+    "Elias Salomonsson"
+   ]
   }
  },
  "errors": []

@@ -1,6 +1,6 @@
 {
  "ligue": "LAH",
- "date_donnees": "2026-11-16",
+ "date_donnees": "2026-11-17",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "1029321": {
@@ -50,8 +50,8 @@
     "visiting_goal_count": "1",
     "home_goals_actual": "0",
     "visiting_goals_actual": "0",
-    "public_notes": "Belleville Coaches Challenge Offside-pd2 5:30-Successful-Clock Reset to 5:23 (no goal)\nOffcials Video review-Pd2 @ 17:12, Call on ice is no goal Cleveland-Overturned Good Cleveland Goal",
-    "private_notes": "",
+    "public_notes": "",
+    "private_notes": "Belleville Coaches Challenge Offside-pd2 5:30-Successful-Clock Reset to 5:23 (no goal)\nOffcials Video review-Pd2 @ 17:12, Call on ice is no goal Cleveland-Overturned Good Cleveland Goal",
     "league_game_notes": "",
     "visiting_team_notes": "",
     "home_team_notes": "",
@@ -2135,6 +2135,7 @@
       "first_name": "Nick",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "4615"
      },
      {
@@ -2143,6 +2144,7 @@
       "first_name": "Chris",
       "description": "Associate Coach",
       "person_role_id": "6",
+      "roster": "1",
       "person_id": "10796"
      },
      {
@@ -2151,6 +2153,7 @@
       "first_name": "Stefan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "4502"
      },
      {
@@ -2159,6 +2162,7 @@
       "first_name": "Brad",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "2862"
      }
     ],
@@ -2169,6 +2173,7 @@
       "first_name": "Andrew",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "2426"
      },
      {
@@ -2177,6 +2182,7 @@
       "first_name": "Joe",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "7211"
      },
      {
@@ -2185,6 +2191,7 @@
       "first_name": "Stefan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "2342"
      },
      {
@@ -2193,6 +2200,7 @@
       "first_name": "Paul",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "10789"
      }
     ]
@@ -4526,6 +4534,7 @@
       "first_name": "Geordie",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "3769"
      },
      {
@@ -4534,6 +4543,7 @@
       "first_name": "Bobby",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "1592"
      },
      {
@@ -4542,6 +4552,7 @@
       "first_name": "Jamie",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "1478"
      },
      {
@@ -4550,6 +4561,7 @@
       "first_name": "Patrick",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "11851"
      }
     ],
@@ -4560,6 +4572,7 @@
       "first_name": "Derek",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "3865"
      },
      {
@@ -4568,6 +4581,7 @@
       "first_name": "Louis",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "205"
      },
      {
@@ -4576,6 +4590,7 @@
       "first_name": "Brent",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3746"
      },
      {
@@ -4584,6 +4599,7 @@
       "first_name": "Juha",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "9617"
      }
     ]
@@ -5235,12 +5251,8 @@
       "team_code": "TOR"
      },
      "player_served_info": {
-      "player_id": "10613",
-      "jersey_number": "39",
       "team_id": "335",
-      "team_code": "TOR",
-      "first_name": "Borya",
-      "last_name": "Valis"
+      "team_code": "TOR"
      }
     },
     {
@@ -5318,7 +5330,7 @@
      "home": "0",
      "period_id": "2",
      "period": "2nd",
-     "offence": "576",
+     "offence": "544",
      "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
@@ -5326,7 +5338,7 @@
      "minutes_formatted": "10:00",
      "penalty_class_id": "6",
      "penalty_class": "Game Misconduct",
-     "lang_penalty_description": "Game misconduct",
+     "lang_penalty_description": "Game misconduct - Continuing altercation",
      "s": 1200,
      "player_penalized_info": {
       "player_id": "10836",
@@ -5386,7 +5398,7 @@
      "home": "0",
      "period_id": "2",
      "period": "2nd",
-     "offence": "576",
+     "offence": "544",
      "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
@@ -5394,7 +5406,7 @@
      "minutes_formatted": "10:00",
      "penalty_class_id": "6",
      "penalty_class": "Game Misconduct",
-     "lang_penalty_description": "Game misconduct",
+     "lang_penalty_description": "Game misconduct - Continuing altercation",
      "s": 1200,
      "player_penalized_info": {
       "player_id": "10635",
@@ -5488,7 +5500,7 @@
      "home": "1",
      "period_id": "2",
      "period": "2nd",
-     "offence": "576",
+     "offence": "544",
      "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
@@ -5496,7 +5508,7 @@
      "minutes_formatted": "10:00",
      "penalty_class_id": "6",
      "penalty_class": "Game Misconduct",
-     "lang_penalty_description": "Game misconduct",
+     "lang_penalty_description": "Game misconduct - Continuing altercation",
      "s": 1200,
      "player_penalized_info": {
       "player_id": "7722",
@@ -5556,7 +5568,7 @@
      "home": "1",
      "period_id": "2",
      "period": "2nd",
-     "offence": "576",
+     "offence": "544",
      "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
@@ -5564,7 +5576,7 @@
      "minutes_formatted": "10:00",
      "penalty_class_id": "6",
      "penalty_class": "Game Misconduct",
-     "lang_penalty_description": "Game misconduct",
+     "lang_penalty_description": "Game misconduct - Continuing altercation",
      "s": 1200,
      "player_penalized_info": {
       "player_id": "8883",
@@ -7471,6 +7483,7 @@
       "first_name": "Steve",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "2712"
      },
      {
@@ -7479,6 +7492,7 @@
       "first_name": "Mark",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "350"
      },
      {
@@ -7487,6 +7501,7 @@
       "first_name": "Denver",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3704"
      },
      {
@@ -7495,6 +7510,7 @@
       "first_name": "Greg",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "1181"
      },
      {
@@ -7503,6 +7519,7 @@
       "first_name": "Hannu",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "1415"
      }
     ],
@@ -7513,6 +7530,7 @@
       "first_name": "Trent",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "728"
      },
      {
@@ -7521,6 +7539,7 @@
       "first_name": "Ryan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3502"
      },
      {
@@ -7529,6 +7548,7 @@
       "first_name": "Ryan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "7528"
      }
     ]
@@ -10220,6 +10240,7 @@
       "first_name": "Mark",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "3895"
      },
      {
@@ -10228,6 +10249,7 @@
       "first_name": "Morgan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "4925"
      },
      {
@@ -10236,6 +10258,7 @@
       "first_name": "Bob",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "843"
      },
      {
@@ -10244,6 +10267,7 @@
       "first_name": "Drew",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "50"
      }
     ],
@@ -10254,6 +10278,7 @@
       "first_name": "Spiros",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "4385"
      },
      {
@@ -10262,6 +10287,7 @@
       "first_name": "R.J.",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "11852"
      },
      {
@@ -10270,6 +10296,7 @@
       "first_name": "Dan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "10794"
      },
      {
@@ -10278,6 +10305,7 @@
       "first_name": "Stan",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "9332"
      }
     ]
@@ -10440,7 +10468,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-07-09 17:59:23",
-    "last_modified": "2026-11-16 01:33:39",
+    "last_modified": "2026-11-16 14:48:03",
     "htv_game_id": "1155419",
     "flo_core_event_id": "16051744",
     "flo_live_event_id": "256388",
@@ -10849,47 +10877,13 @@
     },
     {
      "event": "penalty",
-     "time_off_formatted": "8:14",
-     "team_id": "380",
-     "home": "0",
-     "period_id": "3",
-     "period": "3rd",
-     "offence": "597",
-     "pp": "0",
-     "bench": "0",
-     "penalty_shot": "1",
-     "minutes": 0,
-     "minutes_formatted": "0:00",
-     "penalty_class_id": "1",
-     "penalty_class": "Minor",
-     "lang_penalty_description": "Penalty Shot - Covering puck in crease/intentionally dislodging net",
-     "s": 494,
-     "player_penalized_info": {
-      "player_id": "10147",
-      "jersey_number": "37",
-      "team_id": "380",
-      "team_code": "TEX",
-      "first_name": "Kyle",
-      "last_name": "Looft"
-     },
-     "player_served_info": {
-      "player_id": "10147",
-      "jersey_number": "37",
-      "team_id": "380",
-      "team_code": "TEX",
-      "first_name": "Kyle",
-      "last_name": "Looft"
-     }
-    },
-    {
-     "event": "penalty",
      "time_off_formatted": "8:26",
      "team_id": "380",
      "home": "0",
      "period_id": "3",
      "period": "3rd",
      "offence": "459",
-     "pp": "1",
+     "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
      "minutes": 2,
@@ -10923,7 +10917,7 @@
      "period_id": "3",
      "period": "3rd",
      "offence": "459",
-     "pp": "1",
+     "pp": "0",
      "bench": "0",
      "penalty_shot": "0",
      "minutes": 2,
@@ -12413,6 +12407,7 @@
       "first_name": "Toby",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "435"
      },
      {
@@ -12421,6 +12416,7 @@
       "first_name": "Maxime",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "262"
      },
      {
@@ -12429,6 +12425,7 @@
       "first_name": "Travis",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "2041"
      },
      {
@@ -12437,6 +12434,7 @@
       "first_name": "Ryan",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "9336"
      }
     ],
@@ -12447,6 +12445,7 @@
       "first_name": "Steve",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "6764"
      },
      {
@@ -12455,6 +12454,7 @@
       "first_name": "Andrew",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3196"
      },
      {
@@ -12463,6 +12463,7 @@
       "first_name": "John",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3905"
      },
      {
@@ -12471,6 +12472,7 @@
       "first_name": "Jeff",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "2774"
      }
     ]
@@ -12484,8 +12486,8 @@
     "home": 0
    },
    "powerPlayCount": {
-    "visitor": 5,
-    "home": 4
+    "visitor": 4,
+    "home": 3
    },
    "goalCount": {
     "visitor": 2,
@@ -12504,7 +12506,7 @@
     "home": 10
    },
    "infCount": {
-    "visitor": 5,
+    "visitor": 4,
     "home": 5
    },
    "shotsByPeriod": {
@@ -12521,7 +12523,34 @@
    },
    "penaltyshots": {
     "visitor": [],
-    "home": []
+    "home": [
+     {
+      "event": "penaltyshot",
+      "id": "1600",
+      "game_id": "1029327",
+      "home": "1",
+      "period_id": "3",
+      "time": "8:14",
+      "player_id": "10210",
+      "goalie_id": "9576",
+      "penalty_code_id": "597",
+      "shot_took_place": "1",
+      "shot_wide": "0",
+      "game_goal_id": "",
+      "game_penalty_shot_id": "1600",
+      "penalty_number": "63.6",
+      "period_short": "3",
+      "period": "3rd",
+      "seconds": "494",
+      "shot_goalie_id": "9576",
+      "player_jersey_number": "77",
+      "player_first_name": "Tij",
+      "player_last_name": "Iginla",
+      "goalie_first_name": "Rémi",
+      "goalie_last_name": "Poirier",
+      "goalie_jersey_number": "1"
+     }
+    ]
    },
    "totalFaceoffs": {
     "visitor": {
@@ -12587,7 +12616,7 @@
     "end_time": "17:49:00",
     "forfeit": "0",
     "shootout": "1",
-    "shootout_first_shooter_home": "0",
+    "shootout_first_shooter_home": "1",
     "attendance": "5771",
     "location": "222",
     "home_coach": "",
@@ -12633,7 +12662,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-07-09 17:59:23",
-    "last_modified": "2026-11-16 02:03:32",
+    "last_modified": "2026-11-16 16:27:58",
     "htv_game_id": "1156028",
     "flo_core_event_id": "16053122",
     "flo_live_event_id": "257130",
@@ -12746,23 +12775,6 @@
    "shootoutDetail": [
     {
      "event": "shootout",
-     "id": "26603",
-     "game_id": "1029323",
-     "home": "0",
-     "player_id": "10117",
-     "goalie_id": "10126",
-     "shot_order": "1",
-     "goal": "0",
-     "winning_goal": "0",
-     "jersey_number": "46",
-     "first_name": "Vilmer",
-     "last_name": "Alriksson",
-     "goalie_first_name": "Victor",
-     "goalie_last_name": "Östman",
-     "goalie_jersey_number": "40"
-    },
-    {
-     "event": "shootout",
      "id": "26595",
      "game_id": "1029323",
      "home": "1",
@@ -12780,17 +12792,17 @@
     },
     {
      "event": "shootout",
-     "id": "26604",
+     "id": "26603",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "9674",
+     "player_id": "10117",
      "goalie_id": "10126",
-     "shot_order": "2",
-     "goal": "1",
+     "shot_order": "1",
+     "goal": "0",
      "winning_goal": "0",
-     "jersey_number": "79",
-     "first_name": "Ben",
-     "last_name": "Berard",
+     "jersey_number": "46",
+     "first_name": "Vilmer",
+     "last_name": "Alriksson",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12814,17 +12826,17 @@
     },
     {
      "event": "shootout",
-     "id": "26605",
+     "id": "26604",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "7669",
+     "player_id": "9674",
      "goalie_id": "10126",
-     "shot_order": "3",
-     "goal": "0",
+     "shot_order": "2",
+     "goal": "1",
      "winning_goal": "0",
-     "jersey_number": "64",
-     "first_name": "Trey",
-     "last_name": "Fix-Wolansky",
+     "jersey_number": "79",
+     "first_name": "Ben",
+     "last_name": "Berard",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12848,17 +12860,17 @@
     },
     {
      "event": "shootout",
-     "id": "26606",
+     "id": "26605",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "11363",
+     "player_id": "7669",
      "goalie_id": "10126",
-     "shot_order": "4",
+     "shot_order": "3",
      "goal": "0",
      "winning_goal": "0",
-     "jersey_number": "86",
-     "first_name": "Braeden",
-     "last_name": "Cootes",
+     "jersey_number": "64",
+     "first_name": "Trey",
+     "last_name": "Fix-Wolansky",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12882,17 +12894,17 @@
     },
     {
      "event": "shootout",
-     "id": "26607",
+     "id": "26606",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "10091",
+     "player_id": "11363",
      "goalie_id": "10126",
-     "shot_order": "5",
+     "shot_order": "4",
      "goal": "0",
      "winning_goal": "0",
-     "jersey_number": "62",
-     "first_name": "Jacob",
-     "last_name": "Quillan",
+     "jersey_number": "86",
+     "first_name": "Braeden",
+     "last_name": "Cootes",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12916,17 +12928,17 @@
     },
     {
      "event": "shootout",
-     "id": "26608",
+     "id": "26607",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "7101",
+     "player_id": "10091",
      "goalie_id": "10126",
-     "shot_order": "6",
-     "goal": "1",
+     "shot_order": "5",
+     "goal": "0",
      "winning_goal": "0",
-     "jersey_number": "72",
-     "first_name": "Kole",
-     "last_name": "Lind",
+     "jersey_number": "62",
+     "first_name": "Jacob",
+     "last_name": "Quillan",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12950,17 +12962,17 @@
     },
     {
      "event": "shootout",
-     "id": "26609",
+     "id": "26608",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "10089",
+     "player_id": "7101",
      "goalie_id": "10126",
-     "shot_order": "7",
-     "goal": "0",
+     "shot_order": "6",
+     "goal": "1",
      "winning_goal": "0",
-     "jersey_number": "39",
-     "first_name": "Ty",
-     "last_name": "Mueller",
+     "jersey_number": "72",
+     "first_name": "Kole",
+     "last_name": "Lind",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -12984,17 +12996,17 @@
     },
     {
      "event": "shootout",
-     "id": "26610",
+     "id": "26609",
      "game_id": "1029323",
      "home": "0",
-     "player_id": "11053",
+     "player_id": "10089",
      "goalie_id": "10126",
-     "shot_order": "8",
+     "shot_order": "7",
      "goal": "0",
      "winning_goal": "0",
-     "jersey_number": "68",
-     "first_name": "Riley",
-     "last_name": "Patterson",
+     "jersey_number": "39",
+     "first_name": "Ty",
+     "last_name": "Mueller",
      "goalie_first_name": "Victor",
      "goalie_last_name": "Östman",
      "goalie_jersey_number": "40"
@@ -13015,6 +13027,23 @@
      "goalie_first_name": "Ty",
      "goalie_last_name": "Young",
      "goalie_jersey_number": "85"
+    },
+    {
+     "event": "shootout",
+     "id": "26610",
+     "game_id": "1029323",
+     "home": "0",
+     "player_id": "11053",
+     "goalie_id": "10126",
+     "shot_order": "8",
+     "goal": "0",
+     "winning_goal": "0",
+     "jersey_number": "68",
+     "first_name": "Riley",
+     "last_name": "Patterson",
+     "goalie_first_name": "Victor",
+     "goalie_last_name": "Östman",
+     "goalie_jersey_number": "40"
     }
    ],
    "mvps": [
@@ -14536,6 +14565,7 @@
       "first_name": "Ryan",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "11847"
      },
      {
@@ -14544,6 +14574,7 @@
       "first_name": "Harry",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "10769"
      },
      {
@@ -14552,6 +14583,7 @@
       "first_name": "Mark",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "2194"
      },
      {
@@ -14560,6 +14592,7 @@
       "first_name": "Justin",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "1201"
      }
     ],
@@ -14570,6 +14603,7 @@
       "first_name": "Derek",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "5037"
      },
      {
@@ -14578,6 +14612,7 @@
       "first_name": "Scott",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "616"
      },
      {
@@ -14586,6 +14621,7 @@
       "first_name": "Brennan",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "10797"
      },
      {
@@ -14594,6 +14630,7 @@
       "first_name": "Vince",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "11280"
      }
     ]
@@ -17079,6 +17116,7 @@
       "first_name": "John",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "1085"
      },
      {
@@ -17087,6 +17125,7 @@
       "first_name": "Nick",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "11292"
      },
      {
@@ -17095,6 +17134,7 @@
       "first_name": "Terrence",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "6973"
      },
      {
@@ -17103,6 +17143,7 @@
       "first_name": "Brady",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "9802"
      }
     ],
@@ -17113,6 +17154,7 @@
       "first_name": "Kirk",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "1596"
      },
      {
@@ -17121,6 +17163,7 @@
       "first_name": "Nick",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "5318"
      },
      {
@@ -17129,6 +17172,7 @@
       "first_name": "Brad",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3477"
      },
      {
@@ -17137,6 +17181,7 @@
       "first_name": "Karel",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "11877"
      }
     ]
@@ -17299,7 +17344,7 @@
     "tickets_url_fr": "",
     "imported_id": "",
     "created": "2026-07-09 17:59:23",
-    "last_modified": "2026-11-16 03:55:14",
+    "last_modified": "2026-11-16 16:14:23",
     "htv_game_id": "1155973",
     "flo_core_event_id": "16052873",
     "flo_live_event_id": "256978",
@@ -18192,12 +18237,12 @@
       "last_name": "Isogai"
      },
      "assist2_player": {
-      "player_id": "8714",
-      "jersey_number": "8",
+      "player_id": "10125",
+      "jersey_number": "45",
       "team_id": "403",
       "team_code": "ONT",
-      "first_name": "Martin",
-      "last_name": "Chromiak"
+      "first_name": "Jack",
+      "last_name": "Millar"
      },
      "plus": [
       {
@@ -18638,7 +18683,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 1,
+      "assists": 0,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -18924,7 +18969,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -19570,6 +19615,7 @@
       "first_name": "Jussi",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "11862"
      },
      {
@@ -19578,6 +19624,7 @@
       "first_name": "Derek",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "5610"
      },
      {
@@ -19586,6 +19633,7 @@
       "first_name": "Tim",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "2789"
      },
      {
@@ -19594,6 +19642,7 @@
       "first_name": "Matt",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "2032"
      }
     ],
@@ -19604,6 +19653,7 @@
       "first_name": "Andrew",
       "description": "Head Coach",
       "person_role_id": "2",
+      "roster": "1",
       "person_id": "3187"
      },
      {
@@ -19612,6 +19662,7 @@
       "first_name": "Mike",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "3740"
      },
      {
@@ -19620,6 +19671,7 @@
       "first_name": "Brad",
       "description": "Assistant Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "9619"
      },
      {
@@ -19628,6 +19680,7 @@
       "first_name": "Adam",
       "description": "Goaltending Coach",
       "person_role_id": "22",
+      "roster": "1",
       "person_id": "10259"
      }
     ]

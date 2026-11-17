@@ -1,0 +1,871 @@
+{
+ "ligue": "USHL",
+ "date_donnees": "2026-11-17",
+ "source": "HockeyTech/LeagueStat",
+ "hier": {
+  "date": "2026-11-15",
+  "matchs": [
+   {
+    "game_id": "13607",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "CR",
+     "nom": "Cedar Rapids RoughRiders",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png"
+    },
+    "domicile": {
+     "code": "YNG",
+     "nom": "Youngstown Phantoms",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/24.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "4:00 pm (America/New_York)",
+    "heure_he": "4:00pm",
+    "arena": "Covelli Centre"
+   }
+  ]
+ },
+ "aujourdhui": {
+  "date": "2026-11-17",
+  "matchs": []
+ },
+ "prochains": [
+  {
+   "date": "2026-11-18",
+   "matchs": [
+    {
+     "game_id": "13608",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "OMA",
+      "nom": "Omaha Lancers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/19.png"
+     },
+     "domicile": {
+      "code": "SC",
+      "nom": "Sioux City Musketeers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/8.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "11:00 am (America/Chicago)",
+     "heure_he": "12:00pm",
+     "arena": "Tyson Events Center"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "matchs": [
+    {
+     "game_id": "13609",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "DBQ",
+      "nom": "Dubuque Fighting Saints",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/13.png"
+     },
+     "domicile": {
+      "code": "TC",
+      "nom": "Tri-City Storm",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/22.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "10:30 am (America/Chicago)",
+     "heure_he": "11:30am",
+     "arena": "Vee Arena"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "matchs": [
+    {
+     "game_id": "13617",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "NTDP",
+      "nom": "USA Hockey NTDP",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/21.png"
+     },
+     "domicile": {
+      "code": "YNG",
+      "nom": "Youngstown Phantoms",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/24.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/New_York)",
+     "heure_he": "7:00pm",
+     "arena": "Covelli Centre"
+    },
+    {
+     "game_id": "13616",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SF",
+      "nom": "Sioux Falls Stampede",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/20.png"
+     },
+     "domicile": {
+      "code": "WAT",
+      "nom": "Waterloo Black Hawks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/23.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:35 pm (America/Chicago)",
+     "heure_he": "7:35pm",
+     "arena": "Young Arena"
+    },
+    {
+     "game_id": "13611",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "GB",
+      "nom": "Green Bay Gamblers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/15.png"
+     },
+     "domicile": {
+      "code": "CHI",
+      "nom": "Chicago Steel",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/11.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Chicago)",
+     "heure_he": "8:00pm",
+     "arena": "USG Arena"
+    },
+    {
+     "game_id": "13610",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SC",
+      "nom": "Sioux City Musketeers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/8.png"
+     },
+     "domicile": {
+      "code": "CR",
+      "nom": "Cedar Rapids RoughRiders",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "ImOn Ice Arena (Cedar Rapids)"
+    },
+    {
+     "game_id": "13615",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "DBQ",
+      "nom": "Dubuque Fighting Saints",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/13.png"
+     },
+     "domicile": {
+      "code": "TC",
+      "nom": "Tri-City Storm",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/22.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "Vee Arena"
+    },
+    {
+     "game_id": "13614",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "FGO",
+      "nom": "Fargo Force",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png"
+     },
+     "domicile": {
+      "code": "OMA",
+      "nom": "Omaha Lancers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/19.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "Liberty First Credit Union Arena"
+    },
+    {
+     "game_id": "13613",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "LIN",
+      "nom": "Lincoln Stars",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/16.png"
+     },
+     "domicile": {
+      "code": "MAD",
+      "nom": "Madison Capitols",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/17.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "Wings Arena at DeForest Yards"
+    },
+    {
+     "game_id": "13612",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "MKG",
+      "nom": "Muskegon Lumberjacks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/18.png"
+     },
+     "domicile": {
+      "code": "DSM",
+      "nom": "Des Moines Buccaneers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "MidAmerican Energy Company RecPlex"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "matchs": [
+    {
+     "game_id": "13623",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "YNG",
+      "nom": "Youngstown Phantoms",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/24.png"
+     },
+     "domicile": {
+      "code": "NTDP",
+      "nom": "USA Hockey NTDP",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/21.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/New_York)",
+     "heure_he": "6:00pm",
+     "arena": "USA Hockey Arena"
+    },
+    {
+     "game_id": "13619",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "GB",
+      "nom": "Green Bay Gamblers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/15.png"
+     },
+     "domicile": {
+      "code": "CHI",
+      "nom": "Chicago Steel",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/11.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/Chicago)",
+     "heure_he": "7:00pm",
+     "arena": "USG Arena"
+    },
+    {
+     "game_id": "13621",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "LIN",
+      "nom": "Lincoln Stars",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/16.png"
+     },
+     "domicile": {
+      "code": "MAD",
+      "nom": "Madison Capitols",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/17.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:05 pm (America/Chicago)",
+     "heure_he": "7:05pm",
+     "arena": "Wings Arena at DeForest Yards"
+    },
+    {
+     "game_id": "13622",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "FGO",
+      "nom": "Fargo Force",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png"
+     },
+     "domicile": {
+      "code": "OMA",
+      "nom": "Omaha Lancers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/19.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:05 pm (America/Chicago)",
+     "heure_he": "7:05pm",
+     "arena": "Liberty First Credit Union Arena"
+    },
+    {
+     "game_id": "13624",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "DBQ",
+      "nom": "Dubuque Fighting Saints",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/13.png"
+     },
+     "domicile": {
+      "code": "TC",
+      "nom": "Tri-City Storm",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/22.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:05 pm (America/Chicago)",
+     "heure_he": "7:05pm",
+     "arena": "Vee Arena"
+    },
+    {
+     "game_id": "13620",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "MKG",
+      "nom": "Muskegon Lumberjacks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/18.png"
+     },
+     "domicile": {
+      "code": "DSM",
+      "nom": "Des Moines Buccaneers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:35 pm (America/Chicago)",
+     "heure_he": "7:35pm",
+     "arena": "MidAmerican Energy Company RecPlex"
+    },
+    {
+     "game_id": "13625",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "SF",
+      "nom": "Sioux Falls Stampede",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/20.png"
+     },
+     "domicile": {
+      "code": "WAT",
+      "nom": "Waterloo Black Hawks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/23.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:35 pm (America/Chicago)",
+     "heure_he": "7:35pm",
+     "arena": "Young Arena"
+    },
+    {
+     "game_id": "13618",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "SC",
+      "nom": "Sioux City Musketeers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/8.png"
+     },
+     "domicile": {
+      "code": "CR",
+      "nom": "Cedar Rapids RoughRiders",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Chicago)",
+     "heure_he": "8:05pm",
+     "arena": "ImOn Ice Arena (Cedar Rapids)"
+    }
+   ]
+  }
+ ],
+ "classement": [
+  {
+   "groupe": "USHL",
+   "equipes": [
+    {
+     "nom": "Cedar Rapids RoughRiders",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+     "pj": "19",
+     "v": "14",
+     "d": "5",
+     "dp": "0",
+     "bp": "75",
+     "bc": "53",
+     "pts": "28",
+     "an_pct": "24.0",
+     "dn_pct": "82.8",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Fargo Force",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+     "pj": "19",
+     "v": "13",
+     "d": "6",
+     "dp": "0",
+     "bp": "79",
+     "bc": "52",
+     "pts": "26",
+     "an_pct": "24.7",
+     "dn_pct": "79.4",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Waterloo Black Hawks",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/23.png",
+     "pj": "17",
+     "v": "11",
+     "d": "3",
+     "dp": "3",
+     "bp": "56",
+     "bc": "44",
+     "pts": "25",
+     "an_pct": "29.7",
+     "dn_pct": "79.3",
+     "sequence": "2L"
+    },
+    {
+     "nom": "Sioux Falls Stampede",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/20.png",
+     "pj": "21",
+     "v": "11",
+     "d": "9",
+     "dp": "1",
+     "bp": "69",
+     "bc": "66",
+     "pts": "23",
+     "an_pct": "15.1",
+     "dn_pct": "85.2",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Tri-City Storm",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/22.png",
+     "pj": "16",
+     "v": "11",
+     "d": "5",
+     "dp": "0",
+     "bp": "72",
+     "bc": "52",
+     "pts": "22",
+     "an_pct": "22.4",
+     "dn_pct": "78.9",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Dubuque Fighting Saints",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/13.png",
+     "pj": "18",
+     "v": "10",
+     "d": "7",
+     "dp": "1",
+     "bp": "73",
+     "bc": "63",
+     "pts": "21",
+     "an_pct": "22.0",
+     "dn_pct": "75.0",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Des Moines Buccaneers",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/12.png",
+     "pj": "18",
+     "v": "9",
+     "d": "8",
+     "dp": "1",
+     "bp": "52",
+     "bc": "51",
+     "pts": "19",
+     "an_pct": "14.3",
+     "dn_pct": "86.6",
+     "sequence": "2L"
+    },
+    {
+     "nom": "Madison Capitols",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/17.png",
+     "pj": "14",
+     "v": "9",
+     "d": "4",
+     "dp": "1",
+     "bp": "64",
+     "bc": "50",
+     "pts": "19",
+     "an_pct": "21.7",
+     "dn_pct": "72.0",
+     "sequence": "4W"
+    },
+    {
+     "nom": "Muskegon Lumberjacks",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/18.png",
+     "pj": "17",
+     "v": "8",
+     "d": "7",
+     "dp": "2",
+     "bp": "55",
+     "bc": "53",
+     "pts": "18",
+     "an_pct": "21.1",
+     "dn_pct": "87.5",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Sioux City Musketeers",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/8.png",
+     "pj": "18",
+     "v": "7",
+     "d": "10",
+     "dp": "1",
+     "bp": "67",
+     "bc": "70",
+     "pts": "15",
+     "an_pct": "20.6",
+     "dn_pct": "80.3",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Omaha Lancers",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/19.png",
+     "pj": "16",
+     "v": "7",
+     "d": "8",
+     "dp": "1",
+     "bp": "49",
+     "bc": "56",
+     "pts": "15",
+     "an_pct": "17.5",
+     "dn_pct": "84.5",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Chicago Steel",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/11.png",
+     "pj": "16",
+     "v": "6",
+     "d": "7",
+     "dp": "3",
+     "bp": "51",
+     "bc": "60",
+     "pts": "15",
+     "an_pct": "21.7",
+     "dn_pct": "80.6",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Youngstown Phantoms",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/24.png",
+     "pj": "18",
+     "v": "7",
+     "d": "10",
+     "dp": "1",
+     "bp": "58",
+     "bc": "75",
+     "pts": "15",
+     "an_pct": "21.0",
+     "dn_pct": "78.7",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Lincoln Stars",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/16.png",
+     "pj": "17",
+     "v": "5",
+     "d": "11",
+     "dp": "1",
+     "bp": "36",
+     "bc": "58",
+     "pts": "11",
+     "an_pct": "14.9",
+     "dn_pct": "80.8",
+     "sequence": "1L"
+    },
+    {
+     "nom": "USA Hockey NTDP",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/21.png",
+     "pj": "13",
+     "v": "5",
+     "d": "8",
+     "dp": "0",
+     "bp": "48",
+     "bc": "65",
+     "pts": "10",
+     "an_pct": "25.0",
+     "dn_pct": "63.8",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Green Bay Gamblers",
+     "logo": "https://assets.leaguestat.com/ushl/logos/50x50/15.png",
+     "pj": "17",
+     "v": "4",
+     "d": "13",
+     "dp": "0",
+     "bp": "37",
+     "bc": "73",
+     "pts": "8",
+     "an_pct": "11.6",
+     "dn_pct": "77.9",
+     "sequence": "2L"
+    }
+   ]
+  }
+ ],
+ "meneurs_points": [
+  {
+   "joueur": "Henry Lechner",
+   "equipe": "Cedar Rapids RoughRiders",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+   "pj": "19",
+   "b": "13",
+   "p": "15",
+   "pts": "28",
+   "pun": "4"
+  },
+  {
+   "joueur": "David Bosco",
+   "equipe": "Cedar Rapids RoughRiders",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+   "pj": "19",
+   "b": "10",
+   "p": "14",
+   "pts": "24",
+   "pun": "33"
+  },
+  {
+   "joueur": "Riley Zupfer",
+   "equipe": "Des Moines Buccaneers",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/12.png",
+   "pj": "18",
+   "b": "9",
+   "p": "14",
+   "pts": "23",
+   "pun": "12"
+  },
+  {
+   "joueur": "AJ Francisco",
+   "equipe": "Fargo Force",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+   "pj": "19",
+   "b": "6",
+   "p": "17",
+   "pts": "23",
+   "pun": "12"
+  },
+  {
+   "joueur": "Carter Ernst",
+   "equipe": "Cedar Rapids RoughRiders",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+   "pj": "19",
+   "b": "5",
+   "p": "18",
+   "pts": "23",
+   "pun": "2"
+  },
+  {
+   "joueur": "Lauri Kouhia",
+   "equipe": "Fargo Force",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+   "pj": "18",
+   "b": "16",
+   "p": "6",
+   "pts": "22",
+   "pun": "17"
+  },
+  {
+   "joueur": "Daniil Butin",
+   "equipe": "Sioux City Musketeers",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/8.png",
+   "pj": "18",
+   "b": "11",
+   "p": "11",
+   "pts": "22",
+   "pun": "4"
+  },
+  {
+   "joueur": "Caden Dabrowski",
+   "equipe": "Dubuque Fighting Saints",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/13.png",
+   "pj": "13",
+   "b": "10",
+   "p": "12",
+   "pts": "22",
+   "pun": "8"
+  },
+  {
+   "joueur": "AJ Garcia",
+   "equipe": "Fargo Force",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+   "pj": "19",
+   "b": "5",
+   "p": "17",
+   "pts": "22",
+   "pun": "6"
+  },
+  {
+   "joueur": "Bryce Mattern",
+   "equipe": "Fargo Force",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+   "pj": "19",
+   "b": "13",
+   "p": "8",
+   "pts": "21",
+   "pun": "8"
+  }
+ ],
+ "meneurs_gardiens": [
+  {
+   "gardien": "Charlie Menard",
+   "equipe": "Waterloo Black Hawks",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/23.png",
+   "pj": "9",
+   "v": "5",
+   "moy": "2.32",
+   "pct": "0.920",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Jon Kavcic",
+   "equipe": "Des Moines Buccaneers",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/12.png",
+   "pj": "11",
+   "v": "5",
+   "moy": "2.35",
+   "pct": "0.921",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Quinn Beumer",
+   "equipe": "Tri-City Storm",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/22.png",
+   "pj": "9",
+   "v": "7",
+   "moy": "2.37",
+   "pct": "0.924",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Samuel Doyon-Cataquiz",
+   "equipe": "Muskegon Lumberjacks",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/18.png",
+   "pj": "11",
+   "v": "5",
+   "moy": "2.46",
+   "pct": "0.909",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Sam Hrenak",
+   "equipe": "Fargo Force",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/14.png",
+   "pj": "14",
+   "v": "11",
+   "moy": "2.47",
+   "pct": "0.922",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Sebastian Charvat",
+   "equipe": "Waterloo Black Hawks",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/23.png",
+   "pj": "8",
+   "v": "6",
+   "moy": "2.51",
+   "pct": "0.905",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Ilya Ņikitins",
+   "equipe": "Sioux Falls Stampede",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/20.png",
+   "pj": "8",
+   "v": "5",
+   "moy": "2.74",
+   "pct": "0.905",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Joseph Skidmore",
+   "equipe": "Cedar Rapids RoughRiders",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+   "pj": "13",
+   "v": "9",
+   "moy": "2.75",
+   "pct": "0.896",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Will Prowse",
+   "equipe": "Lincoln Stars",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/16.png",
+   "pj": "11",
+   "v": "3",
+   "moy": "2.77",
+   "pct": "0.898",
+   "blanch": "3"
+  },
+  {
+   "gardien": "Ethan Phillips",
+   "equipe": "Cedar Rapids RoughRiders",
+   "logo": "https://assets.leaguestat.com/ushl/logos/50x50/10.png",
+   "pj": "7",
+   "v": "5",
+   "moy": "2.88",
+   "pct": "0.900",
+   "blanch": "1"
+  }
+ ],
+ "saison_commencee": true
+}

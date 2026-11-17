@@ -1,1 +1,1543 @@
-{"2026-11-08": [{"gameId": 2026020277, "date": "2026-11-08", "status": "FINAL", "away": "FLA", "awayScore": 1, "home": "BOS", "homeScore": 4, "venue": "TD Garden", "broadcasts": ["NHLN", "SN1", "TVAS", "NESN", "SCRIPPS"]}, {"gameId": 2026020278, "date": "2026-11-08", "status": "FINAL", "away": "VGK", "awayScore": 4, "home": "BUF", "homeScore": 1, "venue": "KeyBank Center", "broadcasts": ["SN1", "TVAS", "MSG-B", "SCRIPPS"]}, {"gameId": 2026020280, "date": "2026-11-08", "status": "FINAL", "away": "TBL", "awayScore": 3, "home": "WPG", "homeScore": 4, "venue": "Canada Life Centre", "broadcasts": ["TSN3", "The Spot"]}, {"gameId": 2026020279, "date": "2026-11-08", "status": "FINAL", "away": "NJD", "awayScore": 4, "home": "TOR", "homeScore": 0, "venue": "Scotiabank Arena", "broadcasts": ["NHLN", "TSN4", "MSGSN"]}, {"gameId": 2026020281, "date": "2026-11-08", "status": "FINAL", "away": "PHI", "awayScore": 3, "home": "CGY", "homeScore": 4, "venue": "Scotiabank Saddledome", "broadcasts": ["SNW", "NBCSP"]}, {"gameId": 2026020282, "date": "2026-11-08", "status": "FINAL", "away": "PIT", "awayScore": 2, "home": "ANA", "homeScore": 5, "venue": "Honda Center", "broadcasts": ["SN", "Prime Video", "SN-PIT"]}], "2026-11-09": [{"gameId": 2026020283, "date": "2026-11-09", "status": "FINAL", "away": "NYR", "awayScore": 1, "home": "EDM", "homeScore": 3, "venue": "Rogers Place", "broadcasts": ["SN+", "TVAS", "MSG"]}, {"gameId": 2026020284, "date": "2026-11-09", "status": "FINAL", "away": "PHI", "awayScore": 3, "home": "VAN", "homeScore": 1, "venue": "Rogers Arena", "broadcasts": ["SN+", "NBCSP"]}, {"gameId": 2026020285, "date": "2026-11-09", "status": "FINAL", "away": "NYI", "awayScore": 2, "home": "SJS", "homeScore": 3, "venue": "SAP Center at San Jose", "broadcasts": ["TVAS", "NBCSCA", "MSGSN"]}], "2026-11-10": [{"gameId": 2026020286, "date": "2026-11-10", "status": "FINAL", "away": "COL", "awayScore": 6, "home": "TOR", "homeScore": 3, "venue": "Scotiabank Arena", "broadcasts": ["TVAS", "TSN4", "ALT"]}, {"gameId": 2026020287, "date": "2026-11-10", "status": "FINAL", "away": "MIN", "awayScore": 2, "home": "MTL", "homeScore": 1, "venue": "Centre Bell", "broadcasts": ["TSN2", "RDS", "Wild+", "MINNHL"]}, {"gameId": 2026020288, "date": "2026-11-10", "status": "FINAL", "away": "WSH", "awayScore": 3, "home": "OTT", "homeScore": 2, "venue": "Canadian Tire Centre", "broadcasts": ["TSN5", "RDS2", "MNMT"]}, {"gameId": 2026020291, "date": "2026-11-10", "status": "FINAL", "away": "NJD", "awayScore": 2, "home": "WPG", "homeScore": 4, "venue": "Canada Life Centre", "broadcasts": ["TSN3", "MSGSN"]}, {"gameId": 2026020289, "date": "2026-11-10", "status": "FINAL", "away": "FLA", "awayScore": 4, "home": "CBJ", "homeScore": 1, "venue": "Nationwide Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SN"]}, {"gameId": 2026020290, "date": "2026-11-10", "status": "FINAL", "away": "DET", "awayScore": 2, "home": "STL", "homeScore": 3, "venue": "Enterprise Center", "broadcasts": ["TNT", "HBO MAX", "SN+"]}, {"gameId": 2026020292, "date": "2026-11-10", "status": "FINAL", "away": "NSH", "awayScore": 3, "home": "LAK", "homeScore": 0, "venue": "Crypto.com Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SNE"]}], "2026-11-11": [{"gameId": 2026020293, "date": "2026-11-11", "status": "FINAL", "away": "TBL", "awayScore": 8, "home": "BUF", "homeScore": 3, "venue": "KeyBank Center", "broadcasts": ["TNT", "truTV", "HBO MAX"]}, {"gameId": 2026020294, "date": "2026-11-11", "status": "FINAL", "away": "NYR", "awayScore": 3, "home": "CGY", "homeScore": 1, "venue": "Scotiabank Saddledome", "broadcasts": ["Prime", "MSGSN"]}, {"gameId": 2026020295, "date": "2026-11-11", "status": "FINAL", "away": "PHI", "awayScore": 2, "home": "EDM", "homeScore": 3, "venue": "Rogers Place", "broadcasts": ["SNW", "NBCSP"]}, {"gameId": 2026020296, "date": "2026-11-11", "status": "FINAL", "away": "UTA", "awayScore": 3, "home": "VGK", "homeScore": 5, "venue": "T-Mobile Arena", "broadcasts": ["TNT", "truTV", "HBO MAX"]}, {"gameId": 2026020297, "date": "2026-11-11", "status": "FINAL", "away": "NSH", "awayScore": 4, "home": "ANA", "homeScore": 2, "venue": "Honda Center", "broadcasts": ["FOXLA+", "Prime Video", "SCRIPPS"]}, {"gameId": 2026020298, "date": "2026-11-11", "status": "FINAL", "away": "PIT", "awayScore": 3, "home": "SJS", "homeScore": 2, "venue": "SAP Center at San Jose", "broadcasts": ["SN-PIT", "NBCSCA"]}], "2026-11-12": [{"gameId": 2026020309, "date": "2026-11-12", "status": "FINAL", "away": "CAR", "awayScore": 4, "home": "SEA", "homeScore": 1, "venue": "Veikkaus Arena", "broadcasts": ["NHLN", "SN+", "TVAS", "HHN", "Prime Video", "CARNHL", "KONG"]}, {"gameId": 2026020299, "date": "2026-11-12", "status": "FINAL", "away": "MTL", "awayScore": 5, "home": "BOS", "homeScore": 2, "venue": "TD Garden", "broadcasts": ["TSN2", "RDS", "NESN"]}, {"gameId": 2026020300, "date": "2026-11-12", "status": "FINAL", "away": "MIN", "awayScore": 5, "home": "TOR", "homeScore": 2, "venue": "Scotiabank Arena", "broadcasts": ["SN", "Wild+", "MINNHL"]}, {"gameId": 2026020301, "date": "2026-11-12", "status": "FINAL", "away": "COL", "awayScore": 3, "home": "OTT", "homeScore": 4, "venue": "Canadian Tire Centre", "broadcasts": ["TSN5", "RDS2", "ALT"]}, {"gameId": 2026020303, "date": "2026-11-12", "status": "FINAL", "away": "WSH", "awayScore": 2, "home": "NJD", "homeScore": 5, "venue": "Prudential Center", "broadcasts": ["MNMT", "MSGSN"]}, {"gameId": 2026020304, "date": "2026-11-12", "status": "FINAL", "away": "TBL", "awayScore": 3, "home": "CBJ", "homeScore": 1, "venue": "Nationwide Arena", "broadcasts": ["WWHO", "The Spot", "CBJHN", "CBJNHL"]}, {"gameId": 2026020302, "date": "2026-11-12", "status": "FINAL", "away": "DET", "awayScore": 4, "home": "FLA", "homeScore": 5, "venue": "Amerant Bank Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SN+"]}, {"gameId": 2026020305, "date": "2026-11-12", "status": "FINAL", "away": "BUF", "awayScore": 2, "home": "CHI", "homeScore": 3, "venue": "United Center", "broadcasts": ["CHSN", "MSG-B"]}, {"gameId": 2026020306, "date": "2026-11-12", "status": "FINAL", "away": "WPG", "awayScore": 8, "home": "DAL", "homeScore": 3, "venue": "American Airlines Center", "broadcasts": ["TSN3", "Prime Video", "KDFI"]}, {"gameId": 2026020307, "date": "2026-11-12", "status": "FINAL", "away": "STL", "awayScore": 1, "home": "UTA", "homeScore": 0, "venue": "Delta Center", "broadcasts": ["BN+", "Mammoth+", "Utah16", "STLNHL"]}, {"gameId": 2026020308, "date": "2026-11-12", "status": "FINAL", "away": "NYI", "awayScore": 5, "home": "LAK", "homeScore": 2, "venue": "Crypto.com Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SN", "TVAS"]}], "2026-11-13": [{"gameId": 2026020310, "date": "2026-11-13", "status": "FINAL", "away": "NYR", "awayScore": 5, "home": "VAN", "homeScore": 1, "venue": "Rogers Arena", "broadcasts": ["SN", "TVAS", "MSGSN"]}, {"gameId": 2026020311, "date": "2026-11-13", "status": "FINAL", "away": "NSH", "awayScore": 3, "home": "VGK", "homeScore": 2, "venue": "T-Mobile Arena", "broadcasts": ["SCRIPPS", "SCRIPPS"]}], "2026-11-14": [{"gameId": 2026020321, "date": "2026-11-14", "status": "FINAL", "away": "SEA", "awayScore": 1, "home": "CAR", "homeScore": 5, "venue": "Veikkaus Arena", "broadcasts": ["NHLN", "SN1", "HHN", "Prime Video", "CARNHL", "KING", "KONG"]}, {"gameId": 2026020312, "date": "2026-11-14", "status": "FINAL", "away": "WPG", "awayScore": 5, "home": "CHI", "homeScore": 4, "venue": "United Center", "broadcasts": ["SN", "CHSN"]}, {"gameId": 2026020313, "date": "2026-11-14", "status": "FINAL", "away": "MIN", "awayScore": 6, "home": "BOS", "homeScore": 2, "venue": "TD Garden", "broadcasts": ["Wild+", "NESN", "MINNHL"]}, {"gameId": 2026020314, "date": "2026-11-14", "status": "FINAL", "away": "EDM", "awayScore": 1, "home": "TOR", "homeScore": 0, "venue": "Scotiabank Arena", "broadcasts": ["SN", "NHLN"]}, {"gameId": 2026020315, "date": "2026-11-14", "status": "FINAL", "away": "COL", "awayScore": 4, "home": "MTL", "homeScore": 1, "venue": "Centre Bell", "broadcasts": ["SNE", "TVAS", "ALT2", "KTVD"]}, {"gameId": 2026020316, "date": "2026-11-14", "status": "FINAL", "away": "DET", "awayScore": 2, "home": "TBL", "homeScore": 0, "venue": "Benchmark International Arena", "broadcasts": ["DSN", "The Spot"]}, {"gameId": 2026020317, "date": "2026-11-14", "status": "FINAL", "away": "OTT", "awayScore": 4, "home": "PIT", "homeScore": 1, "venue": "PPG Paints Arena", "broadcasts": ["SN1", "TVAS2", "SN-PIT"]}, {"gameId": 2026020318, "date": "2026-11-14", "status": "FINAL", "away": "NJD", "awayScore": 7, "home": "WSH", "homeScore": 4, "venue": "Capital One Arena", "broadcasts": ["MNMT", "MSG"]}, {"gameId": 2026020319, "date": "2026-11-14", "status": "FINAL", "away": "PHI", "awayScore": 4, "home": "CBJ", "homeScore": 3, "venue": "Nationwide Arena", "broadcasts": ["CBJHN", "NBCSP", "CBJNHL"]}, {"gameId": 2026020320, "date": "2026-11-14", "status": "FINAL", "away": "FLA", "awayScore": 4, "home": "STL", "homeScore": 1, "venue": "Enterprise Center", "broadcasts": ["BN+", "STLNHL", "SCRIPPS"]}, {"gameId": 2026020322, "date": "2026-11-14", "status": "FINAL", "away": "BUF", "awayScore": 0, "home": "DAL", "homeScore": 2, "venue": "American Airlines Center", "broadcasts": ["Prime Video", "MSG-B"]}, {"gameId": 2026020323, "date": "2026-11-14", "status": "FINAL", "away": "SJS", "awayScore": 6, "home": "UTA", "homeScore": 5, "venue": "Delta Center", "broadcasts": ["Mammoth+", "Utah16", "NBCSCA"]}, {"gameId": 2026020324, "date": "2026-11-14", "status": "FINAL", "away": "NYI", "awayScore": 6, "home": "ANA", "homeScore": 2, "venue": "Honda Center", "broadcasts": ["FOXLA+", "Prime Video", "MSGSN"]}, {"gameId": 2026020325, "date": "2026-11-14", "status": "FINAL", "away": "CGY", "awayScore": 3, "home": "LAK", "homeScore": 2, "venue": "Crypto.com Arena", "broadcasts": ["SN", "TVAS", "ABTV "]}], "2026-11-15": [{"gameId": 2026020326, "date": "2026-11-15", "status": "FINAL", "away": "EDM", "awayScore": 5, "home": "PHI", "homeScore": 2, "venue": "Xfinity Mobile Arena", "broadcasts": ["SN", "TVAS", "NBCSP"]}, {"gameId": 2026020327, "date": "2026-11-15", "status": "FINAL", "away": "FLA", "awayScore": 1, "home": "DAL", "homeScore": 2, "venue": "American Airlines Center", "broadcasts": ["NHLN", "Prime Video", "SCRIPPS"]}, {"gameId": 2026020328, "date": "2026-11-15", "status": "FINAL", "away": "CGY", "awayScore": 1, "home": "ANA", "homeScore": 6, "venue": "Honda Center", "broadcasts": ["SN1", "FOXLA+", "Prime Video"]}, {"gameId": 2026020329, "date": "2026-11-15", "status": "FINAL", "away": "VAN", "awayScore": 6, "home": "VGK", "homeScore": 3, "venue": "T-Mobile Arena", "broadcasts": ["SNP", "SCRIPPS"]}, {"gameId": 2026020330, "date": "2026-11-15", "status": "FINAL", "away": "NSH", "awayScore": 2, "home": "SJS", "homeScore": 4, "venue": "SAP Center at San Jose", "broadcasts": ["NBCSCA", "SCRIPPS"]}], "2026-11-16": [{"gameId": 2026020331, "date": "2026-11-16", "status": "19:30 HE", "away": "MTL", "awayScore": null, "home": "NYR", "homeScore": null, "venue": "Madison Square Garden", "broadcasts": ["TNT", "truTV", "HBO MAX", "SN+", "TVAS"]}, {"gameId": 2026020332, "date": "2026-11-16", "status": "21:30 HE", "away": "VAN", "awayScore": null, "home": "UTA", "homeScore": null, "venue": "Delta Center", "broadcasts": ["SN+", "Mammoth+", "Utah16"]}], "2026-11-17": [{"gameId": 2026020333, "date": "2026-11-17", "status": "19:00 HE", "away": "LAK", "awayScore": null, "home": "BOS", "homeScore": null, "venue": "TD Garden", "broadcasts": ["ABTV ", "NESN"]}, {"gameId": 2026020335, "date": "2026-11-17", "status": "19:00 HE", "away": "EDM", "awayScore": null, "home": "FLA", "homeScore": null, "venue": "Amerant Bank Arena", "broadcasts": ["SN", "TVAS", "SCRIPPS"]}, {"gameId": 2026020336, "date": "2026-11-17", "status": "19:00 HE", "away": "CBJ", "awayScore": null, "home": "NYI", "homeScore": null, "venue": "UBS Arena", "broadcasts": ["CBJHN", "MSGSN", "CBJNHL"]}, {"gameId": 2026020337, "date": "2026-11-17", "status": "19:00 HE", "away": "BUF", "awayScore": null, "home": "PHI", "homeScore": null, "venue": "Xfinity Mobile Arena", "broadcasts": ["NBCSP", "MSG-B"]}, {"gameId": 2026020341, "date": "2026-11-17", "status": "19:00 HE", "away": "OTT", "awayScore": null, "home": "WPG", "homeScore": null, "venue": "Canada Life Centre", "broadcasts": ["TSN3", "TSN5", "RDS"]}, {"gameId": 2026020334, "date": "2026-11-17", "status": "19:30 HE", "away": "WSH", "awayScore": null, "home": "TBL", "homeScore": null, "venue": "Benchmark International Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SN+"]}, {"gameId": 2026020338, "date": "2026-11-17", "status": "19:30 HE", "away": "TOR", "awayScore": null, "home": "CHI", "homeScore": null, "venue": "United Center", "broadcasts": ["TNT", "HBO MAX", "TSN4"]}, {"gameId": 2026020339, "date": "2026-11-17", "status": "20:00 HE", "away": "ANA", "awayScore": null, "home": "STL", "homeScore": null, "venue": "Enterprise Center", "broadcasts": ["BN+", "Prime Video", "KTTV", "STLNHL"]}, {"gameId": 2026020340, "date": "2026-11-17", "status": "20:00 HE", "away": "NSH", "awayScore": null, "home": "MIN", "homeScore": null, "venue": "Grand Casino Arena", "broadcasts": ["Wild+", "MINNHL", "KSTC", "SCRIPPS"]}, {"gameId": 2026020342, "date": "2026-11-17", "status": "22:00 HE", "away": "DAL", "awayScore": null, "home": "VGK", "homeScore": null, "venue": "T-Mobile Arena", "broadcasts": ["TNT", "truTV", "HBO MAX"]}, {"gameId": 2026020343, "date": "2026-11-17", "status": "22:00 HE", "away": "CGY", "awayScore": null, "home": "SJS", "homeScore": null, "venue": "SAP Center at San Jose", "broadcasts": ["SN", "NBCSCA"]}], "2026-11-18": [{"gameId": 2026020344, "date": "2026-11-18", "status": "19:30 HE", "away": "BOS", "awayScore": null, "home": "DET", "homeScore": null, "venue": "Little Caesars Arena", "broadcasts": ["TNT", "HBO MAX"]}, {"gameId": 2026020345, "date": "2026-11-18", "status": "19:30 HE", "away": "MTL", "awayScore": null, "home": "NJD", "homeScore": null, "venue": "Prudential Center", "broadcasts": ["Prime", "MSGSN"]}, {"gameId": 2026020346, "date": "2026-11-18", "status": "22:00 HE", "away": "COL", "awayScore": null, "home": "UTA", "homeScore": null, "venue": "Delta Center", "broadcasts": ["TNT", "HBO MAX", "ALT"]}], "2026-11-19": [{"gameId": 2026020347, "date": "2026-11-19", "status": "19:00 HE", "away": "LAK", "awayScore": null, "home": "TOR", "homeScore": null, "venue": "Scotiabank Arena", "broadcasts": ["SN", "ABTV "]}, {"gameId": 2026020348, "date": "2026-11-19", "status": "19:00 HE", "away": "PHI", "awayScore": null, "home": "OTT", "homeScore": null, "venue": "Canadian Tire Centre", "broadcasts": ["TSN5", "RDS2", "NBCSP"]}, {"gameId": 2026020350, "date": "2026-11-19", "status": "19:00 HE", "away": "STL", "awayScore": null, "home": "PIT", "homeScore": null, "venue": "PPG Paints Arena", "broadcasts": ["ABC32", "BN+", "SN-PIT", "STLNHL"]}, {"gameId": 2026020351, "date": "2026-11-19", "status": "19:00 HE", "away": "BUF", "awayScore": null, "home": "WSH", "homeScore": null, "venue": "Capital One Arena", "broadcasts": ["MSG-B", "MNMT"]}, {"gameId": 2026020352, "date": "2026-11-19", "status": "19:00 HE", "away": "MTL", "awayScore": null, "home": "CAR", "homeScore": null, "venue": "Lenovo Center", "broadcasts": ["TSN2", "RDS", "HHN", "CARNHL"]}, {"gameId": 2026020354, "date": "2026-11-19", "status": "19:00 HE", "away": "NYI", "awayScore": null, "home": "WPG", "homeScore": null, "venue": "Canada Life Centre", "broadcasts": ["TSN3", "MSGSN"]}, {"gameId": 2026020349, "date": "2026-11-19", "status": "19:30 HE", "away": "EDM", "awayScore": null, "home": "TBL", "homeScore": null, "venue": "Benchmark International Arena", "broadcasts": ["ESPN+", "HULU", "Disney+", "SNW"]}, {"gameId": 2026020353, "date": "2026-11-19", "status": "20:00 HE", "away": "CBJ", "awayScore": null, "home": "CHI", "homeScore": null, "venue": "United Center", "broadcasts": ["CBJHN", "CHSN", "CBJNHL"]}, {"gameId": 2026020355, "date": "2026-11-19", "status": "20:00 HE", "away": "MIN", "awayScore": null, "home": "CGY", "homeScore": null, "venue": "Scotiabank Saddledome", "broadcasts": ["SN1", "Wild+", "MINNHL"]}, {"gameId": 2026020356, "date": "2026-11-19", "status": "21:00 HE", "away": "ANA", "awayScore": null, "home": "COL", "homeScore": null, "venue": "Ball Arena", "broadcasts": ["TVAS", "FOXLA+", "Prime Video", "KUSA", "ALT", "KTVD"]}, {"gameId": 2026020357, "date": "2026-11-19", "status": "21:40 HE", "away": "VAN", "awayScore": null, "home": "SEA", "homeScore": null, "venue": "Climate Pledge Arena", "broadcasts": ["SNP", "Prime Video", "KONG"]}, {"gameId": 2026020358, "date": "2026-11-19", "status": "22:00 HE", "away": "DAL", "awayScore": null, "home": "VGK", "homeScore": null, "venue": "T-Mobile Arena", "broadcasts": ["ESPN+", "HULU", "SN", "Disney+"]}], "2026-11-20": [], "2026-11-21": [{"gameId": 2026020359, "date": "2026-11-21", "status": "13:00 HE", "away": "EDM", "awayScore": null, "home": "CAR", "homeScore": null, "venue": "Lenovo Center", "broadcasts": ["SN", "NHLN", "HHN", "CARNHL"]}, {"gameId": 2026020360, "date": "2026-11-21", "status": "15:30 HE", "away": "CHI", "awayScore": null, "home": "CGY", "homeScore": null, "venue": "Scotiabank Saddledome", "broadcasts": ["SN", "SN1", "CHSN"]}, {"gameId": 2026020361, "date": "2026-11-21", "status": "18:00 HE", "away": "BUF", "awayScore": null, "home": "FLA", "homeScore": null, "venue": "Amerant Bank Arena", "broadcasts": ["MSG-B", "SCRIPPS"]}, {"gameId": 2026020362, "date": "2026-11-21", "status": "18:00 HE", "away": "PIT", "awayScore": null, "home": "NSH", "homeScore": null, "venue": "Bridgestone Arena", "broadcasts": ["SN-PIT", "SCRIPPS"]}, {"gameId": 2026020363, "date": "2026-11-21", "status": "19:00 HE", "away": "WSH", "awayScore": null, "home": "BOS", "homeScore": null, "venue": "TD Garden", "broadcasts": ["MNMT", "NESN"]}, {"gameId": 2026020364, "date": "2026-11-21", "status": "19:00 HE", "away": "CBJ", "awayScore": null, "home": "TOR", "homeScore": null, "venue": "Scotiabank Arena", "broadcasts": ["SN", "CBJHN", "CBJNHL"]}, {"gameId": 2026020365, "date": "2026-11-21", "status": "19:00 HE", "away": "PHI", "awayScore": null, "home": "MTL", "homeScore": null, "venue": "Centre Bell", "broadcasts": ["SNE", "NHLN", "TVAS", "NBCSP"]}, {"gameId": 2026020366, "date": "2026-11-21", "status": "19:00 HE", "away": "LAK", "awayScore": null, "home": "OTT", "homeScore": null, "venue": "Canadian Tire Centre", "broadcasts": ["SN1", "TVAS2", "ABTV "]}, {"gameId": 2026020367, "date": "2026-11-21", "status": "19:00 HE", "away": "NYI", "awayScore": null, "home": "DET", "homeScore": null, "venue": "Little Caesars Arena", "broadcasts": ["DSN", "MSGSN2"]}, {"gameId": 2026020368, "date": "2026-11-21", "status": "19:00 HE", "away": "NJD", "awayScore": null, "home": "STL", "homeScore": null, "venue": "Enterprise Center", "broadcasts": ["BN+", "MSGSN", "STLNHL"]}, {"gameId": 2026020369, "date": "2026-11-21", "status": "19:00 HE", "away": "VGK", "awayScore": null, "home": "WPG", "homeScore": null, "venue": "Canada Life Centre", "broadcasts": ["SNW", "SCRIPPS"]}, {"gameId": 2026020370, "date": "2026-11-21", "status": "21:00 HE", "away": "ANA", "awayScore": null, "home": "UTA", "homeScore": null, "venue": "Delta Center", "broadcasts": ["FOXLA+", "Mammoth+", "Prime Video", "Utah16"]}, {"gameId": 2026020371, "date": "2026-11-21", "status": "22:00 HE", "away": "MIN", "awayScore": null, "home": "VAN", "homeScore": null, "venue": "Rogers Arena", "broadcasts": ["SN", "Wild+", "MINNHL"]}, {"gameId": 2026020372, "date": "2026-11-21", "status": "22:00 HE", "away": "SEA", "awayScore": null, "home": "SJS", "homeScore": null, "venue": "SAP Center at San Jose", "broadcasts": ["Prime Video", "NBCSCA", "KONG"]}], "2026-11-22": [{"gameId": 2026020373, "date": "2026-11-22", "status": "12:30 HE", "away": "CAR", "awayScore": null, "home": "NYR", "homeScore": null, "venue": "Madison Square Garden", "broadcasts": ["NHLN", "SN", "TVAS", "HHN", "MSG", "CARNHL"]}, {"gameId": 2026020374, "date": "2026-11-22", "status": "17:00 HE", "away": "BUF", "awayScore": null, "home": "TBL", "homeScore": null, "venue": "Benchmark International Arena", "broadcasts": ["SN", "NHLN", "TVAS", "The Spot", "MSG-B"]}, {"gameId": 2026020375, "date": "2026-11-22", "status": "19:00 HE", "away": "EDM", "awayScore": null, "home": "STL", "homeScore": null, "venue": "Enterprise Center", "broadcasts": ["SNW", "SN1", "BN+", "STLNHL"]}, {"gameId": 2026020376, "date": "2026-11-22", "status": "19:00 HE", "away": "PIT", "awayScore": null, "home": "DAL", "homeScore": null, "venue": "American Airlines Center", "broadcasts": ["TVAS", "Prime Video", "SN-PIT"]}, {"gameId": 2026020377, "date": "2026-11-22", "status": "20:00 HE", "away": "CHI", "awayScore": null, "home": "VAN", "homeScore": null, "venue": "Rogers Arena", "broadcasts": ["SNP", "CHSN"]}], "2026-11-23": [{"gameId": 2026020378, "date": "2026-11-23", "status": "19:00 HE", "away": "CBJ", "awayScore": null, "home": "NJD", "homeScore": null, "venue": "Prudential Center", "broadcasts": ["NHLN", "CBJHN", "MSG", "CBJNHL"]}, {"gameId": 2026020379, "date": "2026-11-23", "status": "19:30 HE", "away": "LAK", "awayScore": null, "home": "MTL", "homeScore": null, "venue": "Centre Bell", "broadcasts": ["SN+", "TVAS", "ABTV "]}, {"gameId": 2026020380, "date": "2026-11-23", "status": "19:30 HE", "away": "CGY", "awayScore": null, "home": "OTT", "homeScore": null, "venue": "Canadian Tire Centre", "broadcasts": ["SN+"]}, {"gameId": 2026020381, "date": "2026-11-23", "status": "19:30 HE", "away": "TOR", "awayScore": null, "home": "NYI", "homeScore": null, "venue": "UBS Arena", "broadcasts": ["SN", "MSGSN"]}, {"gameId": 2026020382, "date": "2026-11-23", "status": "19:30 HE", "away": "UTA", "awayScore": null, "home": "WPG", "homeScore": null, "venue": "Canada Life Centre", "broadcasts": ["SN+", "Mammoth+", "Utah16"]}, {"gameId": 2026020383, "date": "2026-11-23", "status": "21:40 HE", "away": "ANA", "awayScore": null, "home": "SEA", "homeScore": null, "venue": "Climate Pledge Arena", "broadcasts": ["FOXLA+", "Prime Video", "Prime Video", "KONG"]}, {"gameId": 2026020384, "date": "2026-11-23", "status": "22:00 HE", "away": "MIN", "awayScore": null, "home": "SJS", "homeScore": null, "venue": "SAP Center at San Jose", "broadcasts": ["SN", "SN360", "Wild+", "NBCSCA", "MINNHL"]}]}
+{
+ "2026-11-10": [
+  {
+   "gameId": 2026020286,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "COL",
+   "awayScore": 6,
+   "home": "TOR",
+   "homeScore": 3,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "TVAS",
+    "TSN4",
+    "ALT"
+   ]
+  },
+  {
+   "gameId": 2026020287,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "MIN",
+   "awayScore": 2,
+   "home": "MTL",
+   "homeScore": 1,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "TSN2",
+    "RDS",
+    "Wild+",
+    "MINNHL"
+   ]
+  },
+  {
+   "gameId": 2026020288,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "WSH",
+   "awayScore": 3,
+   "home": "OTT",
+   "homeScore": 2,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "TSN5",
+    "RDS2",
+    "MNMT"
+   ]
+  },
+  {
+   "gameId": 2026020291,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "NJD",
+   "awayScore": 2,
+   "home": "WPG",
+   "homeScore": 4,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "TSN3",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020289,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "FLA",
+   "awayScore": 4,
+   "home": "CBJ",
+   "homeScore": 1,
+   "venue": "Nationwide Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SN"
+   ]
+  },
+  {
+   "gameId": 2026020290,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "DET",
+   "awayScore": 2,
+   "home": "STL",
+   "homeScore": 3,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "TNT",
+    "HBO MAX",
+    "SN+"
+   ]
+  },
+  {
+   "gameId": 2026020292,
+   "date": "2026-11-10",
+   "status": "FINAL",
+   "away": "NSH",
+   "awayScore": 3,
+   "home": "LAK",
+   "homeScore": 0,
+   "venue": "Crypto.com Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SNE"
+   ]
+  }
+ ],
+ "2026-11-11": [
+  {
+   "gameId": 2026020293,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "TBL",
+   "awayScore": 8,
+   "home": "BUF",
+   "homeScore": 3,
+   "venue": "KeyBank Center",
+   "broadcasts": [
+    "TNT",
+    "truTV",
+    "HBO MAX"
+   ]
+  },
+  {
+   "gameId": 2026020294,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "NYR",
+   "awayScore": 3,
+   "home": "CGY",
+   "homeScore": 1,
+   "venue": "Scotiabank Saddledome",
+   "broadcasts": [
+    "Prime",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020295,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "PHI",
+   "awayScore": 2,
+   "home": "EDM",
+   "homeScore": 3,
+   "venue": "Rogers Place",
+   "broadcasts": [
+    "SNW",
+    "NBCSP"
+   ]
+  },
+  {
+   "gameId": 2026020296,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "UTA",
+   "awayScore": 3,
+   "home": "VGK",
+   "homeScore": 5,
+   "venue": "T-Mobile Arena",
+   "broadcasts": [
+    "TNT",
+    "truTV",
+    "HBO MAX"
+   ]
+  },
+  {
+   "gameId": 2026020297,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "NSH",
+   "awayScore": 4,
+   "home": "ANA",
+   "homeScore": 2,
+   "venue": "Honda Center",
+   "broadcasts": [
+    "FOXLA+",
+    "Prime Video",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020298,
+   "date": "2026-11-11",
+   "status": "FINAL",
+   "away": "PIT",
+   "awayScore": 3,
+   "home": "SJS",
+   "homeScore": 2,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "SN-PIT",
+    "NBCSCA"
+   ]
+  }
+ ],
+ "2026-11-12": [
+  {
+   "gameId": 2026020309,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "CAR",
+   "awayScore": 4,
+   "home": "SEA",
+   "homeScore": 1,
+   "venue": "Veikkaus Arena",
+   "broadcasts": [
+    "NHLN",
+    "SN+",
+    "TVAS",
+    "HHN",
+    "Prime Video",
+    "CARNHL",
+    "KONG"
+   ]
+  },
+  {
+   "gameId": 2026020299,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "MTL",
+   "awayScore": 5,
+   "home": "BOS",
+   "homeScore": 2,
+   "venue": "TD Garden",
+   "broadcasts": [
+    "TSN2",
+    "RDS",
+    "NESN"
+   ]
+  },
+  {
+   "gameId": 2026020300,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "MIN",
+   "awayScore": 5,
+   "home": "TOR",
+   "homeScore": 2,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "SN",
+    "Wild+",
+    "MINNHL"
+   ]
+  },
+  {
+   "gameId": 2026020301,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "COL",
+   "awayScore": 3,
+   "home": "OTT",
+   "homeScore": 4,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "TSN5",
+    "RDS2",
+    "ALT"
+   ]
+  },
+  {
+   "gameId": 2026020303,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "WSH",
+   "awayScore": 2,
+   "home": "NJD",
+   "homeScore": 5,
+   "venue": "Prudential Center",
+   "broadcasts": [
+    "MNMT",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020304,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "TBL",
+   "awayScore": 3,
+   "home": "CBJ",
+   "homeScore": 1,
+   "venue": "Nationwide Arena",
+   "broadcasts": [
+    "WWHO",
+    "The Spot",
+    "CBJHN",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020302,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "DET",
+   "awayScore": 4,
+   "home": "FLA",
+   "homeScore": 5,
+   "venue": "Amerant Bank Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SN+"
+   ]
+  },
+  {
+   "gameId": 2026020305,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "BUF",
+   "awayScore": 2,
+   "home": "CHI",
+   "homeScore": 3,
+   "venue": "United Center",
+   "broadcasts": [
+    "CHSN",
+    "MSG-B"
+   ]
+  },
+  {
+   "gameId": 2026020306,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "WPG",
+   "awayScore": 8,
+   "home": "DAL",
+   "homeScore": 3,
+   "venue": "American Airlines Center",
+   "broadcasts": [
+    "TSN3",
+    "Prime Video",
+    "KDFI"
+   ]
+  },
+  {
+   "gameId": 2026020307,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "STL",
+   "awayScore": 1,
+   "home": "UTA",
+   "homeScore": 0,
+   "venue": "Delta Center",
+   "broadcasts": [
+    "BN+",
+    "Mammoth+",
+    "Utah16",
+    "STLNHL"
+   ]
+  },
+  {
+   "gameId": 2026020308,
+   "date": "2026-11-12",
+   "status": "FINAL",
+   "away": "NYI",
+   "awayScore": 5,
+   "home": "LAK",
+   "homeScore": 2,
+   "venue": "Crypto.com Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SN",
+    "TVAS"
+   ]
+  }
+ ],
+ "2026-11-13": [
+  {
+   "gameId": 2026020310,
+   "date": "2026-11-13",
+   "status": "FINAL",
+   "away": "NYR",
+   "awayScore": 5,
+   "home": "VAN",
+   "homeScore": 1,
+   "venue": "Rogers Arena",
+   "broadcasts": [
+    "SN",
+    "TVAS",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020311,
+   "date": "2026-11-13",
+   "status": "FINAL",
+   "away": "NSH",
+   "awayScore": 3,
+   "home": "VGK",
+   "homeScore": 2,
+   "venue": "T-Mobile Arena",
+   "broadcasts": [
+    "SCRIPPS",
+    "SCRIPPS"
+   ]
+  }
+ ],
+ "2026-11-14": [
+  {
+   "gameId": 2026020321,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "SEA",
+   "awayScore": 1,
+   "home": "CAR",
+   "homeScore": 5,
+   "venue": "Veikkaus Arena",
+   "broadcasts": [
+    "NHLN",
+    "SN1",
+    "HHN",
+    "Prime Video",
+    "CARNHL",
+    "KING",
+    "KONG"
+   ]
+  },
+  {
+   "gameId": 2026020312,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "WPG",
+   "awayScore": 5,
+   "home": "CHI",
+   "homeScore": 4,
+   "venue": "United Center",
+   "broadcasts": [
+    "SN",
+    "CHSN"
+   ]
+  },
+  {
+   "gameId": 2026020313,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "MIN",
+   "awayScore": 6,
+   "home": "BOS",
+   "homeScore": 2,
+   "venue": "TD Garden",
+   "broadcasts": [
+    "Wild+",
+    "NESN",
+    "MINNHL"
+   ]
+  },
+  {
+   "gameId": 2026020314,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "EDM",
+   "awayScore": 1,
+   "home": "TOR",
+   "homeScore": 0,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "SN",
+    "NHLN"
+   ]
+  },
+  {
+   "gameId": 2026020315,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "COL",
+   "awayScore": 4,
+   "home": "MTL",
+   "homeScore": 1,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "SNE",
+    "TVAS",
+    "ALT2",
+    "KTVD"
+   ]
+  },
+  {
+   "gameId": 2026020316,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "DET",
+   "awayScore": 2,
+   "home": "TBL",
+   "homeScore": 0,
+   "venue": "Benchmark International Arena",
+   "broadcasts": [
+    "DSN",
+    "The Spot"
+   ]
+  },
+  {
+   "gameId": 2026020317,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "OTT",
+   "awayScore": 4,
+   "home": "PIT",
+   "homeScore": 1,
+   "venue": "PPG Paints Arena",
+   "broadcasts": [
+    "SN1",
+    "TVAS2",
+    "SN-PIT"
+   ]
+  },
+  {
+   "gameId": 2026020318,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "NJD",
+   "awayScore": 7,
+   "home": "WSH",
+   "homeScore": 4,
+   "venue": "Capital One Arena",
+   "broadcasts": [
+    "MNMT",
+    "MSG"
+   ]
+  },
+  {
+   "gameId": 2026020319,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "PHI",
+   "awayScore": 4,
+   "home": "CBJ",
+   "homeScore": 3,
+   "venue": "Nationwide Arena",
+   "broadcasts": [
+    "CBJHN",
+    "NBCSP",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020320,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "FLA",
+   "awayScore": 4,
+   "home": "STL",
+   "homeScore": 1,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "BN+",
+    "STLNHL",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020322,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "BUF",
+   "awayScore": 0,
+   "home": "DAL",
+   "homeScore": 2,
+   "venue": "American Airlines Center",
+   "broadcasts": [
+    "Prime Video",
+    "MSG-B"
+   ]
+  },
+  {
+   "gameId": 2026020323,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "SJS",
+   "awayScore": 6,
+   "home": "UTA",
+   "homeScore": 5,
+   "venue": "Delta Center",
+   "broadcasts": [
+    "Mammoth+",
+    "Utah16",
+    "NBCSCA"
+   ]
+  },
+  {
+   "gameId": 2026020324,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "NYI",
+   "awayScore": 6,
+   "home": "ANA",
+   "homeScore": 2,
+   "venue": "Honda Center",
+   "broadcasts": [
+    "FOXLA+",
+    "Prime Video",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020325,
+   "date": "2026-11-14",
+   "status": "FINAL",
+   "away": "CGY",
+   "awayScore": 3,
+   "home": "LAK",
+   "homeScore": 2,
+   "venue": "Crypto.com Arena",
+   "broadcasts": [
+    "SN",
+    "TVAS",
+    "ABTV "
+   ]
+  }
+ ],
+ "2026-11-15": [
+  {
+   "gameId": 2026020326,
+   "date": "2026-11-15",
+   "status": "FINAL",
+   "away": "EDM",
+   "awayScore": 5,
+   "home": "PHI",
+   "homeScore": 2,
+   "venue": "Xfinity Mobile Arena",
+   "broadcasts": [
+    "SN",
+    "TVAS",
+    "NBCSP"
+   ]
+  },
+  {
+   "gameId": 2026020327,
+   "date": "2026-11-15",
+   "status": "FINAL",
+   "away": "FLA",
+   "awayScore": 1,
+   "home": "DAL",
+   "homeScore": 2,
+   "venue": "American Airlines Center",
+   "broadcasts": [
+    "NHLN",
+    "Prime Video",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020328,
+   "date": "2026-11-15",
+   "status": "FINAL",
+   "away": "CGY",
+   "awayScore": 1,
+   "home": "ANA",
+   "homeScore": 6,
+   "venue": "Honda Center",
+   "broadcasts": [
+    "SN1",
+    "FOXLA+",
+    "Prime Video"
+   ]
+  },
+  {
+   "gameId": 2026020329,
+   "date": "2026-11-15",
+   "status": "FINAL",
+   "away": "VAN",
+   "awayScore": 6,
+   "home": "VGK",
+   "homeScore": 3,
+   "venue": "T-Mobile Arena",
+   "broadcasts": [
+    "SNP",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020330,
+   "date": "2026-11-15",
+   "status": "FINAL",
+   "away": "NSH",
+   "awayScore": 2,
+   "home": "SJS",
+   "homeScore": 4,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "NBCSCA",
+    "SCRIPPS"
+   ]
+  }
+ ],
+ "2026-11-16": [
+  {
+   "gameId": 2026020331,
+   "date": "2026-11-16",
+   "status": "FINAL",
+   "away": "MTL",
+   "awayScore": 1,
+   "home": "NYR",
+   "homeScore": 3,
+   "venue": "Madison Square Garden",
+   "broadcasts": [
+    "TNT",
+    "truTV",
+    "HBO MAX",
+    "SN+",
+    "TVAS"
+   ]
+  },
+  {
+   "gameId": 2026020332,
+   "date": "2026-11-16",
+   "status": "FINAL",
+   "away": "VAN",
+   "awayScore": 3,
+   "home": "UTA",
+   "homeScore": 2,
+   "venue": "Delta Center",
+   "broadcasts": [
+    "SN+",
+    "Mammoth+",
+    "Utah16"
+   ]
+  }
+ ],
+ "2026-11-17": [
+  {
+   "gameId": 2026020333,
+   "date": "2026-11-17",
+   "status": "19:00 HE",
+   "away": "LAK",
+   "awayScore": null,
+   "home": "BOS",
+   "homeScore": null,
+   "venue": "TD Garden",
+   "broadcasts": [
+    "ABTV ",
+    "NESN"
+   ]
+  },
+  {
+   "gameId": 2026020335,
+   "date": "2026-11-17",
+   "status": "19:00 HE",
+   "away": "EDM",
+   "awayScore": null,
+   "home": "FLA",
+   "homeScore": null,
+   "venue": "Amerant Bank Arena",
+   "broadcasts": [
+    "SN",
+    "TVAS",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020336,
+   "date": "2026-11-17",
+   "status": "19:00 HE",
+   "away": "CBJ",
+   "awayScore": null,
+   "home": "NYI",
+   "homeScore": null,
+   "venue": "UBS Arena",
+   "broadcasts": [
+    "CBJHN",
+    "MSGSN",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020337,
+   "date": "2026-11-17",
+   "status": "19:00 HE",
+   "away": "BUF",
+   "awayScore": null,
+   "home": "PHI",
+   "homeScore": null,
+   "venue": "Xfinity Mobile Arena",
+   "broadcasts": [
+    "NBCSP",
+    "MSG-B"
+   ]
+  },
+  {
+   "gameId": 2026020341,
+   "date": "2026-11-17",
+   "status": "19:00 HE",
+   "away": "OTT",
+   "awayScore": null,
+   "home": "WPG",
+   "homeScore": null,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "TSN3",
+    "TSN5",
+    "RDS"
+   ]
+  },
+  {
+   "gameId": 2026020334,
+   "date": "2026-11-17",
+   "status": "19:30 HE",
+   "away": "WSH",
+   "awayScore": null,
+   "home": "TBL",
+   "homeScore": null,
+   "venue": "Benchmark International Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SN+"
+   ]
+  },
+  {
+   "gameId": 2026020338,
+   "date": "2026-11-17",
+   "status": "19:30 HE",
+   "away": "TOR",
+   "awayScore": null,
+   "home": "CHI",
+   "homeScore": null,
+   "venue": "United Center",
+   "broadcasts": [
+    "TNT",
+    "HBO MAX",
+    "TSN4"
+   ]
+  },
+  {
+   "gameId": 2026020339,
+   "date": "2026-11-17",
+   "status": "20:00 HE",
+   "away": "ANA",
+   "awayScore": null,
+   "home": "STL",
+   "homeScore": null,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "BN+",
+    "Prime Video",
+    "KTTV",
+    "STLNHL"
+   ]
+  },
+  {
+   "gameId": 2026020340,
+   "date": "2026-11-17",
+   "status": "20:00 HE",
+   "away": "NSH",
+   "awayScore": null,
+   "home": "MIN",
+   "homeScore": null,
+   "venue": "Grand Casino Arena",
+   "broadcasts": [
+    "Wild+",
+    "MINNHL",
+    "KSTC",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020342,
+   "date": "2026-11-17",
+   "status": "22:00 HE",
+   "away": "DAL",
+   "awayScore": null,
+   "home": "VGK",
+   "homeScore": null,
+   "venue": "T-Mobile Arena",
+   "broadcasts": [
+    "TNT",
+    "truTV",
+    "HBO MAX"
+   ]
+  },
+  {
+   "gameId": 2026020343,
+   "date": "2026-11-17",
+   "status": "22:00 HE",
+   "away": "CGY",
+   "awayScore": null,
+   "home": "SJS",
+   "homeScore": null,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "SN",
+    "NBCSCA"
+   ]
+  }
+ ],
+ "2026-11-18": [
+  {
+   "gameId": 2026020344,
+   "date": "2026-11-18",
+   "status": "19:30 HE",
+   "away": "BOS",
+   "awayScore": null,
+   "home": "DET",
+   "homeScore": null,
+   "venue": "Little Caesars Arena",
+   "broadcasts": [
+    "TNT",
+    "HBO MAX"
+   ]
+  },
+  {
+   "gameId": 2026020345,
+   "date": "2026-11-18",
+   "status": "19:30 HE",
+   "away": "MTL",
+   "awayScore": null,
+   "home": "NJD",
+   "homeScore": null,
+   "venue": "Prudential Center",
+   "broadcasts": [
+    "Prime",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020346,
+   "date": "2026-11-18",
+   "status": "22:00 HE",
+   "away": "COL",
+   "awayScore": null,
+   "home": "UTA",
+   "homeScore": null,
+   "venue": "Delta Center",
+   "broadcasts": [
+    "TNT",
+    "HBO MAX",
+    "ALT"
+   ]
+  }
+ ],
+ "2026-11-19": [
+  {
+   "gameId": 2026020347,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "LAK",
+   "awayScore": null,
+   "home": "TOR",
+   "homeScore": null,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "SN",
+    "ABTV "
+   ]
+  },
+  {
+   "gameId": 2026020348,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "PHI",
+   "awayScore": null,
+   "home": "OTT",
+   "homeScore": null,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "TSN5",
+    "RDS2",
+    "NBCSP"
+   ]
+  },
+  {
+   "gameId": 2026020350,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "STL",
+   "awayScore": null,
+   "home": "PIT",
+   "homeScore": null,
+   "venue": "PPG Paints Arena",
+   "broadcasts": [
+    "ABC32",
+    "BN+",
+    "SN-PIT",
+    "STLNHL"
+   ]
+  },
+  {
+   "gameId": 2026020351,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "BUF",
+   "awayScore": null,
+   "home": "WSH",
+   "homeScore": null,
+   "venue": "Capital One Arena",
+   "broadcasts": [
+    "MSG-B",
+    "MNMT"
+   ]
+  },
+  {
+   "gameId": 2026020352,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "MTL",
+   "awayScore": null,
+   "home": "CAR",
+   "homeScore": null,
+   "venue": "Lenovo Center",
+   "broadcasts": [
+    "TSN2",
+    "RDS",
+    "HHN",
+    "CARNHL"
+   ]
+  },
+  {
+   "gameId": 2026020354,
+   "date": "2026-11-19",
+   "status": "19:00 HE",
+   "away": "NYI",
+   "awayScore": null,
+   "home": "WPG",
+   "homeScore": null,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "TSN3",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020349,
+   "date": "2026-11-19",
+   "status": "19:30 HE",
+   "away": "EDM",
+   "awayScore": null,
+   "home": "TBL",
+   "homeScore": null,
+   "venue": "Benchmark International Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "Disney+",
+    "SNW"
+   ]
+  },
+  {
+   "gameId": 2026020353,
+   "date": "2026-11-19",
+   "status": "20:00 HE",
+   "away": "CBJ",
+   "awayScore": null,
+   "home": "CHI",
+   "homeScore": null,
+   "venue": "United Center",
+   "broadcasts": [
+    "CBJHN",
+    "CHSN",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020355,
+   "date": "2026-11-19",
+   "status": "20:00 HE",
+   "away": "MIN",
+   "awayScore": null,
+   "home": "CGY",
+   "homeScore": null,
+   "venue": "Scotiabank Saddledome",
+   "broadcasts": [
+    "SN1",
+    "Wild+",
+    "MINNHL"
+   ]
+  },
+  {
+   "gameId": 2026020356,
+   "date": "2026-11-19",
+   "status": "21:00 HE",
+   "away": "ANA",
+   "awayScore": null,
+   "home": "COL",
+   "homeScore": null,
+   "venue": "Ball Arena",
+   "broadcasts": [
+    "TVAS",
+    "FOXLA+",
+    "Prime Video",
+    "KUSA",
+    "ALT",
+    "KTVD"
+   ]
+  },
+  {
+   "gameId": 2026020357,
+   "date": "2026-11-19",
+   "status": "21:40 HE",
+   "away": "VAN",
+   "awayScore": null,
+   "home": "SEA",
+   "homeScore": null,
+   "venue": "Climate Pledge Arena",
+   "broadcasts": [
+    "SNP",
+    "Prime Video",
+    "KONG"
+   ]
+  },
+  {
+   "gameId": 2026020358,
+   "date": "2026-11-19",
+   "status": "22:00 HE",
+   "away": "DAL",
+   "awayScore": null,
+   "home": "VGK",
+   "homeScore": null,
+   "venue": "T-Mobile Arena",
+   "broadcasts": [
+    "ESPN+",
+    "HULU",
+    "SN",
+    "Disney+"
+   ]
+  }
+ ],
+ "2026-11-20": [],
+ "2026-11-21": [
+  {
+   "gameId": 2026020359,
+   "date": "2026-11-21",
+   "status": "13:00 HE",
+   "away": "EDM",
+   "awayScore": null,
+   "home": "CAR",
+   "homeScore": null,
+   "venue": "Lenovo Center",
+   "broadcasts": [
+    "SN",
+    "NHLN",
+    "HHN",
+    "CARNHL"
+   ]
+  },
+  {
+   "gameId": 2026020360,
+   "date": "2026-11-21",
+   "status": "15:30 HE",
+   "away": "CHI",
+   "awayScore": null,
+   "home": "CGY",
+   "homeScore": null,
+   "venue": "Scotiabank Saddledome",
+   "broadcasts": [
+    "SN",
+    "SN1",
+    "CHSN"
+   ]
+  },
+  {
+   "gameId": 2026020361,
+   "date": "2026-11-21",
+   "status": "18:00 HE",
+   "away": "BUF",
+   "awayScore": null,
+   "home": "FLA",
+   "homeScore": null,
+   "venue": "Amerant Bank Arena",
+   "broadcasts": [
+    "MSG-B",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020362,
+   "date": "2026-11-21",
+   "status": "18:00 HE",
+   "away": "PIT",
+   "awayScore": null,
+   "home": "NSH",
+   "homeScore": null,
+   "venue": "Bridgestone Arena",
+   "broadcasts": [
+    "SN-PIT",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020363,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "WSH",
+   "awayScore": null,
+   "home": "BOS",
+   "homeScore": null,
+   "venue": "TD Garden",
+   "broadcasts": [
+    "MNMT",
+    "NESN"
+   ]
+  },
+  {
+   "gameId": 2026020364,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "CBJ",
+   "awayScore": null,
+   "home": "TOR",
+   "homeScore": null,
+   "venue": "Scotiabank Arena",
+   "broadcasts": [
+    "SN",
+    "CBJHN",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020365,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "PHI",
+   "awayScore": null,
+   "home": "MTL",
+   "homeScore": null,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "SNE",
+    "NHLN",
+    "TVAS",
+    "NBCSP"
+   ]
+  },
+  {
+   "gameId": 2026020366,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "LAK",
+   "awayScore": null,
+   "home": "OTT",
+   "homeScore": null,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "SN1",
+    "TVAS2",
+    "ABTV "
+   ]
+  },
+  {
+   "gameId": 2026020367,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "NYI",
+   "awayScore": null,
+   "home": "DET",
+   "homeScore": null,
+   "venue": "Little Caesars Arena",
+   "broadcasts": [
+    "DSN",
+    "MSGSN2"
+   ]
+  },
+  {
+   "gameId": 2026020368,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "NJD",
+   "awayScore": null,
+   "home": "STL",
+   "homeScore": null,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "BN+",
+    "MSGSN",
+    "STLNHL"
+   ]
+  },
+  {
+   "gameId": 2026020369,
+   "date": "2026-11-21",
+   "status": "19:00 HE",
+   "away": "VGK",
+   "awayScore": null,
+   "home": "WPG",
+   "homeScore": null,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "SNW",
+    "SCRIPPS"
+   ]
+  },
+  {
+   "gameId": 2026020370,
+   "date": "2026-11-21",
+   "status": "21:00 HE",
+   "away": "ANA",
+   "awayScore": null,
+   "home": "UTA",
+   "homeScore": null,
+   "venue": "Delta Center",
+   "broadcasts": [
+    "FOXLA+",
+    "Mammoth+",
+    "Prime Video",
+    "Utah16"
+   ]
+  },
+  {
+   "gameId": 2026020371,
+   "date": "2026-11-21",
+   "status": "22:00 HE",
+   "away": "MIN",
+   "awayScore": null,
+   "home": "VAN",
+   "homeScore": null,
+   "venue": "Rogers Arena",
+   "broadcasts": [
+    "SN",
+    "Wild+",
+    "MINNHL"
+   ]
+  },
+  {
+   "gameId": 2026020372,
+   "date": "2026-11-21",
+   "status": "22:00 HE",
+   "away": "SEA",
+   "awayScore": null,
+   "home": "SJS",
+   "homeScore": null,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "Prime Video",
+    "NBCSCA",
+    "KONG"
+   ]
+  }
+ ],
+ "2026-11-22": [
+  {
+   "gameId": 2026020373,
+   "date": "2026-11-22",
+   "status": "12:30 HE",
+   "away": "CAR",
+   "awayScore": null,
+   "home": "NYR",
+   "homeScore": null,
+   "venue": "Madison Square Garden",
+   "broadcasts": [
+    "NHLN",
+    "SN",
+    "TVAS",
+    "HHN",
+    "MSG",
+    "CARNHL"
+   ]
+  },
+  {
+   "gameId": 2026020374,
+   "date": "2026-11-22",
+   "status": "17:00 HE",
+   "away": "BUF",
+   "awayScore": null,
+   "home": "TBL",
+   "homeScore": null,
+   "venue": "Benchmark International Arena",
+   "broadcasts": [
+    "SN",
+    "NHLN",
+    "TVAS",
+    "The Spot",
+    "MSG-B"
+   ]
+  },
+  {
+   "gameId": 2026020375,
+   "date": "2026-11-22",
+   "status": "19:00 HE",
+   "away": "EDM",
+   "awayScore": null,
+   "home": "STL",
+   "homeScore": null,
+   "venue": "Enterprise Center",
+   "broadcasts": [
+    "SNW",
+    "SN1",
+    "BN+",
+    "STLNHL"
+   ]
+  },
+  {
+   "gameId": 2026020376,
+   "date": "2026-11-22",
+   "status": "19:00 HE",
+   "away": "PIT",
+   "awayScore": null,
+   "home": "DAL",
+   "homeScore": null,
+   "venue": "American Airlines Center",
+   "broadcasts": [
+    "TVAS",
+    "Prime Video",
+    "SN-PIT"
+   ]
+  },
+  {
+   "gameId": 2026020377,
+   "date": "2026-11-22",
+   "status": "20:00 HE",
+   "away": "CHI",
+   "awayScore": null,
+   "home": "VAN",
+   "homeScore": null,
+   "venue": "Rogers Arena",
+   "broadcasts": [
+    "SNP",
+    "CHSN"
+   ]
+  }
+ ],
+ "2026-11-23": [
+  {
+   "gameId": 2026020378,
+   "date": "2026-11-23",
+   "status": "19:00 HE",
+   "away": "CBJ",
+   "awayScore": null,
+   "home": "NJD",
+   "homeScore": null,
+   "venue": "Prudential Center",
+   "broadcasts": [
+    "NHLN",
+    "CBJHN",
+    "MSG",
+    "CBJNHL"
+   ]
+  },
+  {
+   "gameId": 2026020379,
+   "date": "2026-11-23",
+   "status": "19:30 HE",
+   "away": "LAK",
+   "awayScore": null,
+   "home": "MTL",
+   "homeScore": null,
+   "venue": "Centre Bell",
+   "broadcasts": [
+    "SN+",
+    "TVAS",
+    "ABTV "
+   ]
+  },
+  {
+   "gameId": 2026020380,
+   "date": "2026-11-23",
+   "status": "19:30 HE",
+   "away": "CGY",
+   "awayScore": null,
+   "home": "OTT",
+   "homeScore": null,
+   "venue": "Canadian Tire Centre",
+   "broadcasts": [
+    "SN+"
+   ]
+  },
+  {
+   "gameId": 2026020381,
+   "date": "2026-11-23",
+   "status": "19:30 HE",
+   "away": "TOR",
+   "awayScore": null,
+   "home": "NYI",
+   "homeScore": null,
+   "venue": "UBS Arena",
+   "broadcasts": [
+    "SN",
+    "MSGSN"
+   ]
+  },
+  {
+   "gameId": 2026020382,
+   "date": "2026-11-23",
+   "status": "19:30 HE",
+   "away": "UTA",
+   "awayScore": null,
+   "home": "WPG",
+   "homeScore": null,
+   "venue": "Canada Life Centre",
+   "broadcasts": [
+    "SN+",
+    "Mammoth+",
+    "Utah16"
+   ]
+  },
+  {
+   "gameId": 2026020383,
+   "date": "2026-11-23",
+   "status": "21:40 HE",
+   "away": "ANA",
+   "awayScore": null,
+   "home": "SEA",
+   "homeScore": null,
+   "venue": "Climate Pledge Arena",
+   "broadcasts": [
+    "FOXLA+",
+    "Prime Video",
+    "Prime Video",
+    "KONG"
+   ]
+  },
+  {
+   "gameId": 2026020384,
+   "date": "2026-11-23",
+   "status": "22:00 HE",
+   "away": "MIN",
+   "awayScore": null,
+   "home": "SJS",
+   "homeScore": null,
+   "venue": "SAP Center at San Jose",
+   "broadcasts": [
+    "SN",
+    "SN360",
+    "Wild+",
+    "NBCSCA",
+    "MINNHL"
+   ]
+  }
+ ],
+ "2026-11-24": [
+  {
+   "gameId": 2026020385,
+   "date": "2026-11-24",
+   "status": "20:00 HE",
+   "away": "VGK",
+   "awayScore": null,
+   "home": "EDM",
+   "homeScore": null,
+   "venue": "Rogers Place",
+   "broadcasts": [
+    "TNT",
+    "HBO MAX",
+    "SN",
+    "TVAS"
+   ]
+  }
+ ]
+}

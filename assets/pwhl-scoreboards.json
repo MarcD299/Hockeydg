@@ -1,0 +1,428 @@
+{
+ "ligue": "PWHL",
+ "date_donnees": "2026-11-17",
+ "source": "HockeyTech/LeagueStat",
+ "hier": {
+  "date": "",
+  "matchs": []
+ },
+ "aujourdhui": {
+  "date": "2026-11-17",
+  "matchs": []
+ },
+ "prochains": [
+  {
+   "date": "2026-11-22",
+   "matchs": [
+    {
+     "game_id": "353",
+     "date": "2026-11-22",
+     "visiteur": {
+      "code": "MIN",
+      "nom": "Frost du Minnesota",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/2.png"
+     },
+     "domicile": {
+      "code": "VGS",
+      "nom": "Vanguards de Vegas",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "9:50 pm (America/New_York)",
+     "heure_he": "9:50pm",
+     "arena": "America First Center | Henderson"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "matchs": [
+    {
+     "game_id": "360",
+     "date": "2026-11-23",
+     "visiteur": {
+      "code": "DET",
+      "nom": "Clutch de Detroit",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/10.png"
+     },
+     "domicile": {
+      "code": "OTT",
+      "nom": "Charge d’Ottawa",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/5.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "1:30 pm (America/Toronto)",
+     "heure_he": "1:30pm",
+     "arena": "Morgan Firestone Arena | Ancaster"
+    },
+    {
+     "game_id": "354",
+     "date": "2026-11-23",
+     "visiteur": {
+      "code": "VAN",
+      "nom": "Goldeneyes de Vancouver",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/9.png"
+     },
+     "domicile": {
+      "code": "MIN",
+      "nom": "Frost du Minnesota",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/2.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:00 pm (America/New_York)",
+     "heure_he": "4:00pm",
+     "arena": "America First Center | Henderson"
+    },
+    {
+     "game_id": "361",
+     "date": "2026-11-23",
+     "visiteur": {
+      "code": "TOR",
+      "nom": "Sceptres de Toronto",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/6.png"
+     },
+     "domicile": {
+      "code": "HAM",
+      "nom": "Havoc de Hamilton",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/11.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "5:30 pm (America/Toronto)",
+     "heure_he": "5:30pm",
+     "arena": "Morgan Firestone Arena | Ancaster"
+    },
+    {
+     "game_id": "356",
+     "date": "2026-11-23",
+     "visiteur": {
+      "code": "NY",
+      "nom": "Sirens de New York",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/4.png"
+     },
+     "domicile": {
+      "code": "BOS",
+      "nom": "Fleet de Boston",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/1.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/New_York)",
+     "heure_he": "6:00pm",
+     "arena": "Boston Sports Institute | Wellesley"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "matchs": [
+    {
+     "game_id": "362",
+     "date": "2026-11-24",
+     "visiteur": {
+      "code": "HAM",
+      "nom": "Havoc de Hamilton",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/11.png"
+     },
+     "domicile": {
+      "code": "DET",
+      "nom": "Clutch de Detroit",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/10.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "1:30 pm (America/Toronto)",
+     "heure_he": "1:30pm",
+     "arena": "Morgan Firestone Arena | Ancaster"
+    },
+    {
+     "game_id": "355",
+     "date": "2026-11-24",
+     "visiteur": {
+      "code": "VGS",
+      "nom": "Vanguards de Vegas",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/12.png"
+     },
+     "domicile": {
+      "code": "VAN",
+      "nom": "Goldeneyes de Vancouver",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/9.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "3:00 pm (America/Toronto)",
+     "heure_he": "3:00pm",
+     "arena": "America First Center | Henderson"
+    },
+    {
+     "game_id": "357",
+     "date": "2026-11-24",
+     "visiteur": {
+      "code": "MTL",
+      "nom": "Victoire de Montréal",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/3.png"
+     },
+     "domicile": {
+      "code": "NY",
+      "nom": "Sirens de New York",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/4.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:00 pm (America/New_York)",
+     "heure_he": "4:00pm",
+     "arena": "Boston Sports Institute | Wellesley"
+    },
+    {
+     "game_id": "359",
+     "date": "2026-11-24",
+     "visiteur": {
+      "code": "OTT",
+      "nom": "Charge d’Ottawa",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/5.png"
+     },
+     "domicile": {
+      "code": "TOR",
+      "nom": "Sceptres de Toronto",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/6.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Mattamy Athletic Centre | Toronto"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "matchs": [
+    {
+     "game_id": "358",
+     "date": "2026-11-25",
+     "visiteur": {
+      "code": "BOS",
+      "nom": "Fleet de Boston",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/1.png"
+     },
+     "domicile": {
+      "code": "MTL",
+      "nom": "Victoire de Montréal",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/3.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "1:00 pm (America/New_York)",
+     "heure_he": "1:00pm",
+     "arena": "Boston Sports Institute | Wellesley"
+    }
+   ]
+  }
+ ],
+ "classement": [
+  {
+   "groupe": "Conférence de l'Ouest",
+   "equipes": [
+    {
+     "nom": "Frost du Minnesota",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/2.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Torrent de Seattle",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/8.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Goldeneyes de Vancouver",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/9.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Clutch de Detroit",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/10.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Vanguards de Vegas",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/12.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Sea Lions de San Jose",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/13.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    }
+   ]
+  },
+  {
+   "groupe": "Conférence de l'Est",
+   "equipes": [
+    {
+     "nom": "Fleet de Boston",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/1.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Victoire de Montréal",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/3.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Sirens de New York",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/4.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Charge d’Ottawa",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/5.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Sceptres de Toronto",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/6.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    },
+    {
+     "nom": "Havoc de Hamilton",
+     "logo": "https://assets.leaguestat.com/pwhl/logos/50x50/11.png",
+     "pj": "0",
+     "v": "0",
+     "d": "0",
+     "dp": "0",
+     "bp": "0",
+     "bc": "0",
+     "pts": "0",
+     "an_pct": "0.0",
+     "dn_pct": "100.0",
+     "sequence": ""
+    }
+   ]
+  }
+ ],
+ "meneurs_points": [],
+ "meneurs_gardiens": [],
+ "saison_commencee": false
+}

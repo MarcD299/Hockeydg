@@ -1,6 +1,6 @@
 {
  "ligue": "USHL",
- "date_donnees": "2026-11-16",
+ "date_donnees": "2026-11-17",
  "source": "HockeyTech/LeagueStat",
  "boxscores": {
   "13607": {
@@ -71,7 +71,7 @@
     "visiting_audio_url_fr": "",
     "tickets_url": "https://www.ticketmaster.com/youngstown-phantoms-tickets/artist/1373960",
     "tickets_url_fr": "",
-    "last_modified": "2026-11-15 23:24:51",
+    "last_modified": "2026-11-16 16:38:10",
     "imported_id": "",
     "created": "2026-06-23 11:38:52",
     "htv_game_id": "1154434",
@@ -463,16 +463,16 @@
        "last_name": "Spencer"
       },
       {
+       "player_id": "11529",
+       "jersey_number": "18",
+       "first_name": "Patrick",
+       "last_name": "McCormick"
+      },
+      {
        "player_id": "10912",
        "jersey_number": "27",
        "first_name": "Logan",
        "last_name": "Anderson"
-      },
-      {
-       "player_id": "10916",
-       "jersey_number": "42",
-       "first_name": "Jackson",
-       "last_name": "Adams"
       },
       {
        "player_id": "11443",
@@ -524,12 +524,12 @@
       "last_name": "Janulis"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10995",
+      "jersey_number": "21",
+      "team_id": "10",
+      "team_code": "CR",
+      "first_name": "Ruben",
+      "last_name": "Westerling"
      },
      "plus": [
       {
@@ -618,20 +618,20 @@
       "last_name": "Lechner"
      },
      "assist1_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "11230",
+      "jersey_number": "18",
+      "team_id": "10",
+      "team_code": "CR",
+      "first_name": "Jack",
+      "last_name": "Willmert"
      },
      "assist2_player": {
-      "player_id": null,
-      "jersey_number": null,
-      "team_id": null,
-      "team_code": null,
-      "first_name": null,
-      "last_name": null
+      "player_id": "10773",
+      "jersey_number": "14",
+      "team_id": "10",
+      "team_code": "CR",
+      "first_name": "Mason",
+      "last_name": "Minor"
      },
      "plus": [
       {
@@ -651,6 +651,12 @@
        "jersey_number": "14",
        "first_name": "Mason",
        "last_name": "Minor"
+      },
+      {
+       "player_id": "11230",
+       "jersey_number": "18",
+       "first_name": "Jack",
+       "last_name": "Willmert"
       },
       {
        "player_id": "10995",
@@ -1049,7 +1055,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 0,
-      "plusminus": 0,
+      "plusminus": -1,
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -1231,7 +1237,7 @@
       "rookie": "0",
       "goals": 0,
       "assists": 0,
-      "plusminus": -1,
+      "plusminus": 0,
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -1512,7 +1518,7 @@
       "status": "",
       "rookie": "1",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -1616,8 +1622,8 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
-      "plusminus": 0,
+      "assists": 1,
+      "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
       "faceoff_attempts": "0",
@@ -1694,7 +1700,7 @@
       "status": "",
       "rookie": "0",
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "plusminus": "+1",
       "pim": 0,
       "faceoff_wins": "0",
@@ -1876,6 +1882,7 @@
       "first_name": "Mark",
       "description": "General Manager/Head Coach",
       "person_role_id": "9",
+      "roster": "1",
       "person_id": "523"
      },
      {
@@ -1884,6 +1891,7 @@
       "first_name": "Matt",
       "description": "Assistant Coach",
       "person_role_id": "4",
+      "roster": "1",
       "person_id": "8489"
      },
      {
@@ -1892,6 +1900,7 @@
       "first_name": "Garrett",
       "description": "Assistant Coach",
       "person_role_id": "4",
+      "roster": "1",
       "person_id": "11847"
      }
     ],
@@ -1902,6 +1911,7 @@
       "first_name": "Nathan",
       "description": "Head Coach",
       "person_role_id": "3",
+      "roster": "1",
       "person_id": "12477"
      },
      {
@@ -1910,6 +1920,7 @@
       "first_name": "Brandon",
       "description": "Associate Head Coach",
       "person_role_id": "7",
+      "roster": "1",
       "person_id": "10199"
      },
      {
@@ -1918,6 +1929,7 @@
       "first_name": "Cal",
       "description": "Assistant Coach",
       "person_role_id": "4",
+      "roster": "1",
       "person_id": "8627"
      }
     ]
@@ -1939,11 +1951,11 @@
     "home": 0
    },
    "assistCount": {
-    "visitor": 2,
+    "visitor": 5,
     "home": 0
    },
    "pointsCount": {
-    "visitor": 5,
+    "visitor": 8,
     "home": 0
    },
    "pimTotal": {

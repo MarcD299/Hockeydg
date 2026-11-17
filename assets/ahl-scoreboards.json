@@ -1,0 +1,1631 @@
+{
+ "ligue": "LAH",
+ "date_donnees": "2026-11-17",
+ "source": "HockeyTech/LeagueStat",
+ "hier": {
+  "date": "2026-11-15",
+  "matchs": [
+   {
+    "game_id": "1029321",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "CLE",
+     "nom": "Cleveland Monsters",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/373.png"
+    },
+    "domicile": {
+     "code": "BEL",
+     "nom": "Belleville Senators",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/413.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "1:00 pm (America/Toronto)",
+    "heure_he": "1:00pm",
+    "arena": "CIBC Place"
+   },
+   {
+    "game_id": "1029324",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "CLT",
+     "nom": "Charlotte Checkers",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/384.png"
+    },
+    "domicile": {
+     "code": "HER",
+     "nom": "Hershey Bears",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/319.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Toronto)",
+    "heure_he": "3:00pm",
+    "arena": "Giant Center"
+   },
+   {
+    "game_id": "1029326",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "TOR",
+     "nom": "Toronto Marlies",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/335.png"
+    },
+    "domicile": {
+     "code": "PRO",
+     "nom": "Providence Bruins",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/309.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:05 pm (America/Toronto)",
+    "heure_he": "3:05pm",
+    "arena": "Amica Mutual Pavilion"
+   },
+   {
+    "game_id": "1029322",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "MB",
+     "nom": "Manitoba Moose",
+     "buts": "6",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png"
+    },
+    "domicile": {
+     "code": "CHI",
+     "nom": "Chicago Wolves",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/330.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Chicago)",
+    "heure_he": "4:00pm",
+    "arena": "Allstate Arena"
+   },
+   {
+    "game_id": "1029327",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "TEX",
+     "nom": "Texas Stars",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/380.png"
+    },
+    "domicile": {
+     "code": "TUC",
+     "nom": "Tucson Roadrunners",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/412.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "4:00 pm (America/Phoenix)",
+    "heure_he": "6:00pm",
+    "arena": "Tucson Convention Center Arena"
+   },
+   {
+    "game_id": "1029323",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "ABB",
+     "nom": "Abbotsford Canucks",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/440.png"
+    },
+    "domicile": {
+     "code": "CV",
+     "nom": "Coachella Valley Firebirds",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/445.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final SO",
+    "heure_locale": "3:00 pm (America/Los_Angeles)",
+    "heure_he": "6:00pm",
+    "arena": "Acrisure Arena"
+   },
+   {
+    "game_id": "1029328",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "LV",
+     "nom": "Lehigh Valley Phantoms",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/313.png"
+    },
+    "domicile": {
+     "code": "WBS",
+     "nom": "Wilkes-Barre/Scranton Penguins",
+     "buts": "5",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/316.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "6:05 pm (America/Toronto)",
+    "heure_he": "6:05pm",
+    "arena": "Mohegan Arena at Casey Plaza"
+   },
+   {
+    "game_id": "1029325",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "COL",
+     "nom": "Colorado Eagles",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/419.png"
+    },
+    "domicile": {
+     "code": "ONT",
+     "nom": "Ontario Reign",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "5:00 pm (America/Los_Angeles)",
+    "heure_he": "8:00pm",
+    "arena": "Toyota Arena"
+   }
+  ]
+ },
+ "aujourdhui": {
+  "date": "2026-11-17",
+  "matchs": [
+   {
+    "game_id": "1029332",
+    "date": "2026-11-17",
+    "visiteur": {
+     "code": "CLT",
+     "nom": "Charlotte Checkers",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/384.png"
+    },
+    "domicile": {
+     "code": "HFD",
+     "nom": "Hartford Wolf Pack",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/307.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "11:00 am (America/Toronto)",
+    "heure_he": "11:00am",
+    "arena": "PeoplesBank Arena"
+   },
+   {
+    "game_id": "1029329",
+    "date": "2026-11-17",
+    "visiteur": {
+     "code": "COL",
+     "nom": "Colorado Eagles",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/419.png"
+    },
+    "domicile": {
+     "code": "BAK",
+     "nom": "Bakersfield Condors",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/402.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "10:30 am (America/Los_Angeles)",
+    "heure_he": "1:30pm",
+    "arena": "Dignity Health Arena"
+   },
+   {
+    "game_id": "1029331",
+    "date": "2026-11-17",
+    "visiteur": {
+     "code": "HAM",
+     "nom": "Hamilton Hammers",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/457.png"
+    },
+    "domicile": {
+     "code": "CLE",
+     "nom": "Cleveland Monsters",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/373.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Toronto)",
+    "heure_he": "7:00pm",
+    "arena": "Rocket Arena"
+   },
+   {
+    "game_id": "1029333",
+    "date": "2026-11-17",
+    "visiteur": {
+     "code": "CHI",
+     "nom": "Chicago Wolves",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/330.png"
+    },
+    "domicile": {
+     "code": "RFD",
+     "nom": "Rockford IceHogs",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/372.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Chicago)",
+    "heure_he": "8:00pm",
+    "arena": "BMO Center"
+   },
+   {
+    "game_id": "1029330",
+    "date": "2026-11-17",
+    "visiteur": {
+     "code": "CV",
+     "nom": "Coachella Valley Firebirds",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/445.png"
+    },
+    "domicile": {
+     "code": "CGY",
+     "nom": "Calgary Wranglers",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/444.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Edmonton)",
+    "heure_he": "8:00pm",
+    "arena": "Scotiabank Saddledome"
+   }
+  ]
+ },
+ "prochains": [
+  {
+   "date": "2026-11-18",
+   "matchs": [
+    {
+     "game_id": "1029334",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "LAV",
+      "nom": "Laval Rocket",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png"
+     },
+     "domicile": {
+      "code": "BEL",
+      "nom": "Belleville Senators",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/413.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "10:30 am (America/Toronto)",
+     "heure_he": "10:30am",
+     "arena": "Canadian Tire Centre"
+    },
+    {
+     "game_id": "1029341",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "MIL",
+      "nom": "Milwaukee Admirals",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/327.png"
+     },
+     "domicile": {
+      "code": "WBS",
+      "nom": "Wilkes-Barre/Scranton Penguins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/316.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:35 pm (America/Toronto)",
+     "heure_he": "6:35pm",
+     "arena": "Mohegan Arena at Casey Plaza"
+    },
+    {
+     "game_id": "1029336",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "MB",
+      "nom": "Manitoba Moose",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png"
+     },
+     "domicile": {
+      "code": "GR",
+      "nom": "Grand Rapids Griffins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Van Andel Arena"
+    },
+    {
+     "game_id": "1029340",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "ROC",
+      "nom": "Rochester Americans",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/323.png"
+     },
+     "domicile": {
+      "code": "SYR",
+      "nom": "Syracuse Crunch",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/324.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Upstate Medical University Arena"
+    },
+    {
+     "game_id": "1029335",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "CV",
+      "nom": "Coachella Valley Firebirds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/445.png"
+     },
+     "domicile": {
+      "code": "CGY",
+      "nom": "Calgary Wranglers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/444.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Edmonton)",
+     "heure_he": "8:00pm",
+     "arena": "Scotiabank Saddledome"
+    },
+    {
+     "game_id": "1029337",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "SJ",
+      "nom": "San Jose Barracuda",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/405.png"
+     },
+     "domicile": {
+      "code": "HSK",
+      "nom": "Henderson Silver Knights",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/437.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Los_Angeles)",
+     "heure_he": "10:00pm",
+     "arena": "Lee’s Family Forum"
+    },
+    {
+     "game_id": "1029338",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "ABB",
+      "nom": "Abbotsford Canucks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/440.png"
+     },
+     "domicile": {
+      "code": "ONT",
+      "nom": "Ontario Reign",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Los_Angeles)",
+     "heure_he": "10:00pm",
+     "arena": "Toyota Arena"
+    },
+    {
+     "game_id": "1029339",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "BAK",
+      "nom": "Bakersfield Condors",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/402.png"
+     },
+     "domicile": {
+      "code": "SD",
+      "nom": "San Diego Gulls",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/404.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Los_Angeles)",
+     "heure_he": "10:00pm",
+     "arena": "Pechanga Arena San Diego"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "matchs": [
+    {
+     "game_id": "1029344",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "BEL",
+      "nom": "Belleville Senators",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/413.png"
+     },
+     "domicile": {
+      "code": "HAM",
+      "nom": "Hamilton Hammers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/457.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "TD Coliseum"
+    },
+    {
+     "game_id": "1029345",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "ROC",
+      "nom": "Rochester Americans",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/323.png"
+     },
+     "domicile": {
+      "code": "HER",
+      "nom": "Hershey Bears",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/319.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Giant Center"
+    },
+    {
+     "game_id": "1029349",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "CLT",
+      "nom": "Charlotte Checkers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/384.png"
+     },
+     "domicile": {
+      "code": "SPR",
+      "nom": "Springfield Thunderbirds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/411.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "MassMutual Center"
+    },
+    {
+     "game_id": "1029346",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "WBS",
+      "nom": "Wilkes-Barre/Scranton Penguins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/316.png"
+     },
+     "domicile": {
+      "code": "LV",
+      "nom": "Lehigh Valley Phantoms",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/313.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "PPL Center"
+    },
+    {
+     "game_id": "1029350",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SJ",
+      "nom": "San Jose Barracuda",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/405.png"
+     },
+     "domicile": {
+      "code": "TEX",
+      "nom": "Texas Stars",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/380.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Chicago)",
+     "heure_he": "8:00pm",
+     "arena": "H-E-B Center at Cedar Park"
+    },
+    {
+     "game_id": "1029347",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "RFD",
+      "nom": "Rockford IceHogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/372.png"
+     },
+     "domicile": {
+      "code": "MB",
+      "nom": "Manitoba Moose",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Winnipeg)",
+     "heure_he": "7:00pm",
+     "arena": "Canada Life Centre"
+    },
+    {
+     "game_id": "1029343",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "GR",
+      "nom": "Grand Rapids Griffins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png"
+     },
+     "domicile": {
+      "code": "COL",
+      "nom": "Colorado Eagles",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/419.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Denver)",
+     "heure_he": "9:05pm",
+     "arena": "Blue Federal Credit Union Arena"
+    },
+    {
+     "game_id": "1029342",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "TUC",
+      "nom": "Tucson Roadrunners",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/412.png"
+     },
+     "domicile": {
+      "code": "ABB",
+      "nom": "Abbotsford Canucks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/440.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Vancouver)",
+     "heure_he": "9:00pm",
+     "arena": "Rogers Forum"
+    },
+    {
+     "game_id": "1029348",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "IA",
+      "nom": "Iowa Wild",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/389.png"
+     },
+     "domicile": {
+      "code": "SD",
+      "nom": "San Diego Gulls",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/404.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Los_Angeles)",
+     "heure_he": "10:00pm",
+     "arena": "Pechanga Arena San Diego"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "matchs": [
+    {
+     "game_id": "1029363",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "CHI",
+      "nom": "Chicago Wolves",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/330.png"
+     },
+     "domicile": {
+      "code": "TOR",
+      "nom": "Toronto Marlies",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/335.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "1:30 pm (America/Toronto)",
+     "heure_he": "1:30pm",
+     "arena": "Scotiabank Arena"
+    },
+    {
+     "game_id": "1029356",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "CGY",
+      "nom": "Calgary Wranglers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/444.png"
+     },
+     "domicile": {
+      "code": "LAV",
+      "nom": "Laval Rocket",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "3:00 pm (America/Toronto)",
+     "heure_he": "3:00pm",
+     "arena": "Place Bell"
+    },
+    {
+     "game_id": "1029355",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "MIL",
+      "nom": "Milwaukee Admirals",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/327.png"
+     },
+     "domicile": {
+      "code": "HFD",
+      "nom": "Hartford Wolf Pack",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/307.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/Toronto)",
+     "heure_he": "6:00pm",
+     "arena": "PeoplesBank Arena"
+    },
+    {
+     "game_id": "1029364",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "ROC",
+      "nom": "Rochester Americans",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/323.png"
+     },
+     "domicile": {
+      "code": "WBS",
+      "nom": "Wilkes-Barre/Scranton Penguins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/316.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:05 pm (America/Toronto)",
+     "heure_he": "6:05pm",
+     "arena": "Mohegan Arena at Casey Plaza"
+    },
+    {
+     "game_id": "1029353",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "UTC",
+      "nom": "Utica Comets",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/390.png"
+     },
+     "domicile": {
+      "code": "CLE",
+      "nom": "Cleveland Monsters",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/373.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Rocket Arena"
+    },
+    {
+     "game_id": "1029361",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "BEL",
+      "nom": "Belleville Senators",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/413.png"
+     },
+     "domicile": {
+      "code": "SYR",
+      "nom": "Syracuse Crunch",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/324.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Upstate Medical University Arena"
+    },
+    {
+     "game_id": "1029357",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "HER",
+      "nom": "Hershey Bears",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/319.png"
+     },
+     "domicile": {
+      "code": "LV",
+      "nom": "Lehigh Valley Phantoms",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/313.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "PPL Center"
+    },
+    {
+     "game_id": "1029359",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "CLT",
+      "nom": "Charlotte Checkers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/384.png"
+     },
+     "domicile": {
+      "code": "PRO",
+      "nom": "Providence Bruins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/309.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Amica Mutual Pavilion"
+    },
+    {
+     "game_id": "1029362",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "SJ",
+      "nom": "San Jose Barracuda",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/405.png"
+     },
+     "domicile": {
+      "code": "TEX",
+      "nom": "Texas Stars",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/380.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Chicago)",
+     "heure_he": "8:00pm",
+     "arena": "H-E-B Center at Cedar Park"
+    },
+    {
+     "game_id": "1029351",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "TUC",
+      "nom": "Tucson Roadrunners",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/412.png"
+     },
+     "domicile": {
+      "code": "ABB",
+      "nom": "Abbotsford Canucks",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/440.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "5:00 pm (America/Vancouver)",
+     "heure_he": "7:00pm",
+     "arena": "Rogers Forum"
+    },
+    {
+     "game_id": "1029354",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "GR",
+      "nom": "Grand Rapids Griffins",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png"
+     },
+     "domicile": {
+      "code": "COL",
+      "nom": "Colorado Eagles",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/419.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:05 pm (America/Denver)",
+     "heure_he": "8:05pm",
+     "arena": "Blue Federal Credit Union Arena"
+    },
+    {
+     "game_id": "1029358",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "CV",
+      "nom": "Coachella Valley Firebirds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/445.png"
+     },
+     "domicile": {
+      "code": "ONT",
+      "nom": "Ontario Reign",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/Los_Angeles)",
+     "heure_he": "9:00pm",
+     "arena": "Toyota Arena"
+    },
+    {
+     "game_id": "1029360",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "IA",
+      "nom": "Iowa Wild",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/389.png"
+     },
+     "domicile": {
+      "code": "SD",
+      "nom": "San Diego Gulls",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/404.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/Los_Angeles)",
+     "heure_he": "9:00pm",
+     "arena": "Pechanga Arena San Diego"
+    },
+    {
+     "game_id": "1029352",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "HSK",
+      "nom": "Henderson Silver Knights",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/437.png"
+     },
+     "domicile": {
+      "code": "BAK",
+      "nom": "Bakersfield Condors",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ahl/logos/50x50/402.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:10 pm (America/Los_Angeles)",
+     "heure_he": "10:10pm",
+     "arena": "Dignity Health Arena"
+    }
+   ]
+  }
+ ],
+ "classement": [
+  {
+   "groupe": "Atlantic Division",
+   "equipes": [
+    {
+     "nom": "Charlotte Checkers",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/384.png",
+     "pj": "18",
+     "v": "10",
+     "d": "7",
+     "dp": "1",
+     "bp": "54",
+     "bc": "51",
+     "pts": "21",
+     "an_pct": "20.9",
+     "dn_pct": "86.4",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Hershey Bears",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/319.png",
+     "pj": "16",
+     "v": "10",
+     "d": "6",
+     "dp": "0",
+     "bp": "51",
+     "bc": "48",
+     "pts": "20",
+     "an_pct": "18.0",
+     "dn_pct": "81.1",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Wilkes-Barre/Scranton Penguins",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/316.png",
+     "pj": "16",
+     "v": "8",
+     "d": "5",
+     "dp": "3",
+     "bp": "57",
+     "bc": "46",
+     "pts": "19",
+     "an_pct": "24.0",
+     "dn_pct": "79.7",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Hartford Wolf Pack",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/307.png",
+     "pj": "18",
+     "v": "9",
+     "d": "8",
+     "dp": "1",
+     "bp": "47",
+     "bc": "51",
+     "pts": "19",
+     "an_pct": "22.5",
+     "dn_pct": "75.4",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Providence Bruins",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/309.png",
+     "pj": "17",
+     "v": "9",
+     "d": "8",
+     "dp": "0",
+     "bp": "58",
+     "bc": "50",
+     "pts": "18",
+     "an_pct": "15.6",
+     "dn_pct": "81.8",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Lehigh Valley Phantoms",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/313.png",
+     "pj": "16",
+     "v": "6",
+     "d": "9",
+     "dp": "1",
+     "bp": "43",
+     "bc": "63",
+     "pts": "13",
+     "an_pct": "17.0",
+     "dn_pct": "76.2",
+     "sequence": "2L"
+    },
+    {
+     "nom": "Springfield Thunderbirds",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/411.png",
+     "pj": "15",
+     "v": "4",
+     "d": "6",
+     "dp": "5",
+     "bp": "36",
+     "bc": "52",
+     "pts": "13",
+     "an_pct": "15.9",
+     "dn_pct": "80.9",
+     "sequence": "4L"
+    }
+   ]
+  },
+  {
+   "groupe": "North Division",
+   "equipes": [
+    {
+     "nom": "Laval Rocket",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png",
+     "pj": "17",
+     "v": "12",
+     "d": "3",
+     "dp": "2",
+     "bp": "65",
+     "bc": "36",
+     "pts": "26",
+     "an_pct": "31.3",
+     "dn_pct": "87.5",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Utica Comets",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/390.png",
+     "pj": "13",
+     "v": "10",
+     "d": "3",
+     "dp": "0",
+     "bp": "38",
+     "bc": "27",
+     "pts": "20",
+     "an_pct": "16.7",
+     "dn_pct": "90.0",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Toronto Marlies",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/335.png",
+     "pj": "16",
+     "v": "8",
+     "d": "5",
+     "dp": "3",
+     "bp": "50",
+     "bc": "47",
+     "pts": "19",
+     "an_pct": "26.2",
+     "dn_pct": "76.1",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Belleville Senators",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/413.png",
+     "pj": "17",
+     "v": "8",
+     "d": "7",
+     "dp": "2",
+     "bp": "48",
+     "bc": "48",
+     "pts": "18",
+     "an_pct": "24.6",
+     "dn_pct": "74.6",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Rochester Americans",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/323.png",
+     "pj": "15",
+     "v": "8",
+     "d": "6",
+     "dp": "1",
+     "bp": "48",
+     "bc": "39",
+     "pts": "17",
+     "an_pct": "21.0",
+     "dn_pct": "77.4",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Syracuse Crunch",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/324.png",
+     "pj": "15",
+     "v": "6",
+     "d": "6",
+     "dp": "3",
+     "bp": "40",
+     "bc": "49",
+     "pts": "15",
+     "an_pct": "19.1",
+     "dn_pct": "75.8",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Cleveland Monsters",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/373.png",
+     "pj": "15",
+     "v": "7",
+     "d": "8",
+     "dp": "0",
+     "bp": "44",
+     "bc": "54",
+     "pts": "14",
+     "an_pct": "19.7",
+     "dn_pct": "75.0",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Hamilton Hammers",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/457.png",
+     "pj": "18",
+     "v": "6",
+     "d": "10",
+     "dp": "2",
+     "bp": "48",
+     "bc": "67",
+     "pts": "14",
+     "an_pct": "17.3",
+     "dn_pct": "75.4",
+     "sequence": "1W"
+    }
+   ]
+  },
+  {
+   "groupe": "Central Division",
+   "equipes": [
+    {
+     "nom": "Grand Rapids Griffins",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png",
+     "pj": "17",
+     "v": "13",
+     "d": "2",
+     "dp": "2",
+     "bp": "66",
+     "bc": "38",
+     "pts": "28",
+     "an_pct": "25.6",
+     "dn_pct": "91.8",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Manitoba Moose",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png",
+     "pj": "18",
+     "v": "12",
+     "d": "6",
+     "dp": "0",
+     "bp": "63",
+     "bc": "45",
+     "pts": "24",
+     "an_pct": "18.5",
+     "dn_pct": "84.6",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Milwaukee Admirals",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/327.png",
+     "pj": "15",
+     "v": "9",
+     "d": "5",
+     "dp": "1",
+     "bp": "38",
+     "bc": "33",
+     "pts": "19",
+     "an_pct": "11.5",
+     "dn_pct": "84.2",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Rockford IceHogs",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/372.png",
+     "pj": "16",
+     "v": "7",
+     "d": "8",
+     "dp": "1",
+     "bp": "41",
+     "bc": "51",
+     "pts": "15",
+     "an_pct": "19.2",
+     "dn_pct": "82.9",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Iowa Wild",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/389.png",
+     "pj": "18",
+     "v": "6",
+     "d": "9",
+     "dp": "3",
+     "bp": "42",
+     "bc": "51",
+     "pts": "15",
+     "an_pct": "10.8",
+     "dn_pct": "75.3",
+     "sequence": "3L"
+    },
+    {
+     "nom": "Texas Stars",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/380.png",
+     "pj": "17",
+     "v": "5",
+     "d": "8",
+     "dp": "4",
+     "bp": "46",
+     "bc": "65",
+     "pts": "14",
+     "an_pct": "13.3",
+     "dn_pct": "81.2",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Chicago Wolves",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/330.png",
+     "pj": "15",
+     "v": "6",
+     "d": "8",
+     "dp": "1",
+     "bp": "41",
+     "bc": "55",
+     "pts": "13",
+     "an_pct": "17.6",
+     "dn_pct": "83.6",
+     "sequence": "2L"
+    }
+   ]
+  },
+  {
+   "groupe": "Pacific Division",
+   "equipes": [
+    {
+     "nom": "Tucson Roadrunners",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/412.png",
+     "pj": "15",
+     "v": "10",
+     "d": "3",
+     "dp": "2",
+     "bp": "47",
+     "bc": "32",
+     "pts": "22",
+     "an_pct": "17.0",
+     "dn_pct": "83.6",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Abbotsford Canucks",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/440.png",
+     "pj": "16",
+     "v": "9",
+     "d": "4",
+     "dp": "3",
+     "bp": "52",
+     "bc": "46",
+     "pts": "21",
+     "an_pct": "17.2",
+     "dn_pct": "86.3",
+     "sequence": "2L"
+    },
+    {
+     "nom": "Calgary Wranglers",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/444.png",
+     "pj": "17",
+     "v": "9",
+     "d": "8",
+     "dp": "0",
+     "bp": "53",
+     "bc": "50",
+     "pts": "18",
+     "an_pct": "17.2",
+     "dn_pct": "84.8",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Henderson Silver Knights",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/437.png",
+     "pj": "14",
+     "v": "9",
+     "d": "5",
+     "dp": "0",
+     "bp": "33",
+     "bc": "29",
+     "pts": "18",
+     "an_pct": "12.7",
+     "dn_pct": "87.5",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Coachella Valley Firebirds",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/445.png",
+     "pj": "16",
+     "v": "7",
+     "d": "5",
+     "dp": "4",
+     "bp": "46",
+     "bc": "52",
+     "pts": "18",
+     "an_pct": "18.6",
+     "dn_pct": "84.1",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Colorado Eagles",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/419.png",
+     "pj": "18",
+     "v": "8",
+     "d": "8",
+     "dp": "2",
+     "bp": "52",
+     "bc": "50",
+     "pts": "18",
+     "an_pct": "13.7",
+     "dn_pct": "82.9",
+     "sequence": "3L"
+    },
+    {
+     "nom": "Ontario Reign",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png",
+     "pj": "16",
+     "v": "8",
+     "d": "7",
+     "dp": "1",
+     "bp": "48",
+     "bc": "51",
+     "pts": "17",
+     "an_pct": "18.8",
+     "dn_pct": "80.3",
+     "sequence": "3W"
+    },
+    {
+     "nom": "San Diego Gulls",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/404.png",
+     "pj": "16",
+     "v": "7",
+     "d": "6",
+     "dp": "3",
+     "bp": "42",
+     "bc": "40",
+     "pts": "17",
+     "an_pct": "13.0",
+     "dn_pct": "81.2",
+     "sequence": "1L"
+    },
+    {
+     "nom": "San Jose Barracuda",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/405.png",
+     "pj": "16",
+     "v": "7",
+     "d": "9",
+     "dp": "0",
+     "bp": "44",
+     "bc": "58",
+     "pts": "14",
+     "an_pct": "16.7",
+     "dn_pct": "80.9",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Bakersfield Condors",
+     "logo": "https://assets.leaguestat.com/ahl/logos/50x50/402.png",
+     "pj": "14",
+     "v": "5",
+     "d": "7",
+     "dp": "2",
+     "bp": "34",
+     "bc": "41",
+     "pts": "12",
+     "an_pct": "17.0",
+     "dn_pct": "80.7",
+     "sequence": "1W"
+    }
+   ]
+  }
+ ],
+ "meneurs_points": [
+  {
+   "joueur": "Luke Mittelstadt",
+   "equipe": "Laval Rocket",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png",
+   "pj": "17",
+   "b": "5",
+   "p": "19",
+   "pts": "24",
+   "pun": "8"
+  },
+  {
+   "joueur": "Dominik Shine",
+   "equipe": "Grand Rapids Griffins",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png",
+   "pj": "17",
+   "b": "10",
+   "p": "9",
+   "pts": "19",
+   "pun": "6"
+  },
+  {
+   "joueur": "Danny Zhilkin",
+   "equipe": "Manitoba Moose",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png",
+   "pj": "18",
+   "b": "8",
+   "p": "11",
+   "pts": "19",
+   "pun": "12"
+  },
+  {
+   "joueur": "Gavin Hayes",
+   "equipe": "Rockford IceHogs",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/372.png",
+   "pj": "16",
+   "b": "9",
+   "p": "9",
+   "pts": "18",
+   "pun": "10"
+  },
+  {
+   "joueur": "Matthew Peca",
+   "equipe": "Rochester Americans",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/323.png",
+   "pj": "15",
+   "b": "6",
+   "p": "12",
+   "pts": "18",
+   "pun": "6"
+  },
+  {
+   "joueur": "Carter Bear",
+   "equipe": "Grand Rapids Griffins",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png",
+   "pj": "15",
+   "b": "5",
+   "p": "13",
+   "pts": "18",
+   "pun": "8"
+  },
+  {
+   "joueur": "Lane Pederson",
+   "equipe": "Ontario Reign",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png",
+   "pj": "16",
+   "b": "6",
+   "p": "11",
+   "pts": "17",
+   "pun": "22"
+  },
+  {
+   "joueur": "Logan Shaw",
+   "equipe": "Toronto Marlies",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/335.png",
+   "pj": "16",
+   "b": "5",
+   "p": "12",
+   "pts": "17",
+   "pun": "4"
+  },
+  {
+   "joueur": "Reilly Walsh",
+   "equipe": "Laval Rocket",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png",
+   "pj": "17",
+   "b": "5",
+   "p": "12",
+   "pts": "17",
+   "pun": "6"
+  },
+  {
+   "joueur": "Ben Jones",
+   "equipe": "Calgary Wranglers",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/444.png",
+   "pj": "14",
+   "b": "11",
+   "p": "5",
+   "pts": "16",
+   "pun": "6"
+  }
+ ],
+ "meneurs_gardiens": [
+  {
+   "gardien": "Michal Postava",
+   "equipe": "Grand Rapids Griffins",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/328.png",
+   "pj": "7",
+   "v": "7",
+   "moy": "1.29",
+   "pct": "0.952",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Jakub Málek",
+   "equipe": "Utica Comets",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/390.png",
+   "pj": "5",
+   "v": "4",
+   "moy": "1.39",
+   "pct": "0.921",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Carl Lindbom",
+   "equipe": "Henderson Silver Knights",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/437.png",
+   "pj": "6",
+   "v": "3",
+   "moy": "1.43",
+   "pct": "0.939",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Cameron Whitehead",
+   "equipe": "Henderson Silver Knights",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/437.png",
+   "pj": "6",
+   "v": "5",
+   "moy": "1.68",
+   "pct": "0.948",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Kevin Mandolese",
+   "equipe": "Laval Rocket",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/415.png",
+   "pj": "6",
+   "v": "5",
+   "moy": "1.83",
+   "pct": "0.921",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Matt Murray",
+   "equipe": "Milwaukee Admirals",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/327.png",
+   "pj": "8",
+   "v": "6",
+   "moy": "1.85",
+   "pct": "0.930",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Michael Hrabal",
+   "equipe": "Tucson Roadrunners",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/412.png",
+   "pj": "8",
+   "v": "5",
+   "moy": "1.90",
+   "pct": "0.919",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Damian Clara",
+   "equipe": "San Diego Gulls",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/404.png",
+   "pj": "7",
+   "v": "4",
+   "moy": "1.96",
+   "pct": "0.930",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Carter George",
+   "equipe": "Ontario Reign",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/403.png",
+   "pj": "6",
+   "v": "4",
+   "moy": "1.99",
+   "pct": "0.922",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Domenic DiVincentiis",
+   "equipe": "Manitoba Moose",
+   "logo": "https://assets.leaguestat.com/ahl/logos/50x50/321.png",
+   "pj": "9",
+   "v": "5",
+   "moy": "2.00",
+   "pct": "0.935",
+   "blanch": "2"
+  }
+ ],
+ "saison_commencee": true
+}

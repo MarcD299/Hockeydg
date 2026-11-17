@@ -1,0 +1,1121 @@
+{
+ "ligue": "OHL",
+ "date_donnees": "2026-11-17",
+ "source": "HockeyTech/LeagueStat",
+ "hier": {
+  "date": "2026-11-15",
+  "matchs": [
+   {
+    "game_id": "29200",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "PBO",
+     "nom": "Peterborough Petes",
+     "buts": "8",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png"
+    },
+    "domicile": {
+     "code": "BRAM",
+     "nom": "Brampton Steelheads",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/18.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "2:00 pm (America/Toronto)",
+    "heure_he": "2:00pm",
+    "arena": "CAA Centre"
+   },
+   {
+    "game_id": "29202",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "ER",
+     "nom": "Erie Otters",
+     "buts": "7",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png"
+    },
+    "domicile": {
+     "code": "NIAG",
+     "nom": "Niagara IceDogs",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/20.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "2:00 pm (America/Toronto)",
+    "heure_he": "2:00pm",
+    "arena": "Meridian Centre"
+   },
+   {
+    "game_id": "29201",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "OTT",
+     "nom": "Ottawa 67's",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png"
+    },
+    "domicile": {
+     "code": "KIT",
+     "nom": "Kitchener Rangers",
+     "buts": "6",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "2:00 pm (America/Toronto)",
+    "heure_he": "2:00pm",
+    "arena": "Kitchener Memorial Auditorium"
+   },
+   {
+    "game_id": "29204",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "KGN",
+     "nom": "Kingston Frontenacs",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png"
+    },
+    "domicile": {
+     "code": "OSH",
+     "nom": "Oshawa Generals",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/4.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final SO",
+    "heure_locale": "2:05 pm (America/Toronto)",
+    "heure_he": "2:05pm",
+    "arena": "Tribute Communities Centre"
+   },
+   {
+    "game_id": "29205",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "SAR",
+     "nom": "Sarnia Sting",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/15.png"
+    },
+    "domicile": {
+     "code": "SOO",
+     "nom": "Soo Greyhounds",
+     "buts": "5",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/16.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final OT",
+    "heure_locale": "2:07 pm (America/Toronto)",
+    "heure_he": "2:07pm",
+    "arena": "GFL Memorial Gardens"
+   },
+   {
+    "game_id": "29203",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "SBY",
+     "nom": "Sudbury Wolves",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png"
+    },
+    "domicile": {
+     "code": "NB",
+     "nom": "North Bay Battalion",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Toronto)",
+    "heure_he": "3:00pm",
+    "arena": "Boart Longyear Memorial Gardens"
+   },
+   {
+    "game_id": "29206",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "SAG",
+     "nom": "Saginaw Spirit",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png"
+    },
+    "domicile": {
+     "code": "WSR",
+     "nom": "Windsor Spitfires",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final OT",
+    "heure_locale": "4:05 pm (America/Toronto)",
+    "heure_he": "4:05pm",
+    "arena": "WFCU Centre"
+   }
+  ]
+ },
+ "aujourdhui": {
+  "date": "2026-11-17",
+  "matchs": []
+ },
+ "prochains": [
+  {
+   "date": "2026-11-18",
+   "matchs": [
+    {
+     "game_id": "29207",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "OTT",
+      "nom": "Ottawa 67's",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png"
+     },
+     "domicile": {
+      "code": "KGN",
+      "nom": "Kingston Frontenacs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "10:30 am (America/Toronto)",
+     "heure_he": "10:30am",
+     "arena": "Slush Puppie Place"
+    },
+    {
+     "game_id": "29208",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "NB",
+      "nom": "North Bay Battalion",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png"
+     },
+     "domicile": {
+      "code": "OS",
+      "nom": "Owen Sound Attack",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Harry Lumley Bayshore Community Centre"
+    },
+    {
+     "game_id": "29209",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "BFD",
+      "nom": "Brantford Bulldogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png"
+     },
+     "domicile": {
+      "code": "PBO",
+      "nom": "Peterborough Petes",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Peterborough Memorial Centre"
+    },
+    {
+     "game_id": "29210",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "KIT",
+      "nom": "Kitchener Rangers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
+     },
+     "domicile": {
+      "code": "SBY",
+      "nom": "Sudbury Wolves",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Sudbury Community Arena"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "matchs": [
+    {
+     "game_id": "29211",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "FLNT",
+      "nom": "Flint Firebirds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/13.png"
+     },
+     "domicile": {
+      "code": "BAR",
+      "nom": "Barrie Colts",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/7.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Sadlon Arena"
+    },
+    {
+     "game_id": "29212",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "SAG",
+      "nom": "Saginaw Spirit",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png"
+     },
+     "domicile": {
+      "code": "NIAG",
+      "nom": "Niagara IceDogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/20.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Meridian Centre"
+    },
+    {
+     "game_id": "29213",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "SOO",
+      "nom": "Soo Greyhounds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/16.png"
+     },
+     "domicile": {
+      "code": "WSR",
+      "nom": "Windsor Spitfires",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "WFCU Centre"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "matchs": [
+    {
+     "game_id": "29214",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "FLNT",
+      "nom": "Flint Firebirds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/13.png"
+     },
+     "domicile": {
+      "code": "BRAM",
+      "nom": "Brampton Steelheads",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/18.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "CAA Centre"
+    },
+    {
+     "game_id": "29215",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SAG",
+      "nom": "Saginaw Spirit",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png"
+     },
+     "domicile": {
+      "code": "ER",
+      "nom": "Erie Otters",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/New_York)",
+     "heure_he": "7:00pm",
+     "arena": "Erie Insurance Arena"
+    },
+    {
+     "game_id": "29216",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "OTT",
+      "nom": "Ottawa 67's",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png"
+     },
+     "domicile": {
+      "code": "GAT",
+      "nom": "Gatineau Olympiques",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/64.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Slush Puppie Centre"
+    },
+    {
+     "game_id": "29219",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SOO",
+      "nom": "Soo Greyhounds",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/16.png"
+     },
+     "domicile": {
+      "code": "LDN",
+      "nom": "London Knights",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/14.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Canada Life Place"
+    },
+    {
+     "game_id": "29220",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "OS",
+      "nom": "Owen Sound Attack",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png"
+     },
+     "domicile": {
+      "code": "NIAG",
+      "nom": "Niagara IceDogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/20.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Meridian Centre"
+    },
+    {
+     "game_id": "29221",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "KIT",
+      "nom": "Kitchener Rangers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
+     },
+     "domicile": {
+      "code": "NB",
+      "nom": "North Bay Battalion",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Boart Longyear Memorial Gardens"
+    },
+    {
+     "game_id": "29218",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "OSH",
+      "nom": "Oshawa Generals",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/4.png"
+     },
+     "domicile": {
+      "code": "KGN",
+      "nom": "Kingston Frontenacs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Slush Puppie Place"
+    },
+    {
+     "game_id": "29223",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "BFD",
+      "nom": "Brantford Bulldogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png"
+     },
+     "domicile": {
+      "code": "SBY",
+      "nom": "Sudbury Wolves",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Sudbury Community Arena"
+    },
+    {
+     "game_id": "29222",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "WSR",
+      "nom": "Windsor Spitfires",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png"
+     },
+     "domicile": {
+      "code": "SAR",
+      "nom": "Sarnia Sting",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/15.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "Progressive Auto Sales Arena"
+    },
+    {
+     "game_id": "29217",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "BAR",
+      "nom": "Barrie Colts",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/7.png"
+     },
+     "domicile": {
+      "code": "GUE",
+      "nom": "Guelph Storm",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:07 pm (America/Toronto)",
+     "heure_he": "7:07pm",
+     "arena": "Sleeman Centre"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "matchs": [
+    {
+     "game_id": "29226",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "LDN",
+      "nom": "London Knights",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/14.png"
+     },
+     "domicile": {
+      "code": "GUE",
+      "nom": "Guelph Storm",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:07 pm (America/Toronto)",
+     "heure_he": "4:07pm",
+     "arena": "Sleeman Centre"
+    },
+    {
+     "game_id": "29225",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "OS",
+      "nom": "Owen Sound Attack",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png"
+     },
+     "domicile": {
+      "code": "ER",
+      "nom": "Erie Otters",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "6:00 pm (America/New_York)",
+     "heure_he": "6:00pm",
+     "arena": "Erie Insurance Arena"
+    },
+    {
+     "game_id": "29227",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "PBO",
+      "nom": "Peterborough Petes",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png"
+     },
+     "domicile": {
+      "code": "WSR",
+      "nom": "Windsor Spitfires",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:05 pm (America/Toronto)",
+     "heure_he": "7:05pm",
+     "arena": "WFCU Centre"
+    },
+    {
+     "game_id": "29224",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "KIT",
+      "nom": "Kitchener Rangers",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
+     },
+     "domicile": {
+      "code": "BAR",
+      "nom": "Barrie Colts",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/7.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:30 pm (America/Toronto)",
+     "heure_he": "7:30pm",
+     "arena": "Sadlon Arena"
+    }
+   ]
+  }
+ ],
+ "classement": [
+  {
+   "groupe": "Eastern Conference",
+   "equipes": [
+    {
+     "nom": "Brantford Bulldogs",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png",
+     "pj": "21",
+     "v": "14",
+     "d": "6",
+     "dp": "1",
+     "bp": "86",
+     "bc": "58",
+     "pts": "29",
+     "an_pct": "27.7",
+     "dn_pct": "86.9",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Sudbury Wolves",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png",
+     "pj": "21",
+     "v": "14",
+     "d": "6",
+     "dp": "1",
+     "bp": "82",
+     "bc": "59",
+     "pts": "29",
+     "an_pct": "27.3",
+     "dn_pct": "82.1",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Kingston Frontenacs",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png",
+     "pj": "22",
+     "v": "13",
+     "d": "8",
+     "dp": "1",
+     "bp": "88",
+     "bc": "80",
+     "pts": "27",
+     "an_pct": "23.8",
+     "dn_pct": "80.3",
+     "sequence": "4L"
+    },
+    {
+     "nom": "Peterborough Petes",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png",
+     "pj": "22",
+     "v": "12",
+     "d": "10",
+     "dp": "0",
+     "bp": "80",
+     "bc": "73",
+     "pts": "24",
+     "an_pct": "27.7",
+     "dn_pct": "75.0",
+     "sequence": "4W"
+    },
+    {
+     "nom": "Ottawa 67's",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png",
+     "pj": "20",
+     "v": "10",
+     "d": "8",
+     "dp": "2",
+     "bp": "63",
+     "bc": "68",
+     "pts": "22",
+     "an_pct": "20.3",
+     "dn_pct": "75.0",
+     "sequence": "2L"
+    },
+    {
+     "nom": "North Bay Battalion",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png",
+     "pj": "21",
+     "v": "9",
+     "d": "11",
+     "dp": "1",
+     "bp": "74",
+     "bc": "81",
+     "pts": "19",
+     "an_pct": "16.3",
+     "dn_pct": "74.4",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Niagara IceDogs",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/20.png",
+     "pj": "20",
+     "v": "8",
+     "d": "9",
+     "dp": "3",
+     "bp": "59",
+     "bc": "79",
+     "pts": "19",
+     "an_pct": "15.2",
+     "dn_pct": "75.8",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Oshawa Generals",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/4.png",
+     "pj": "22",
+     "v": "7",
+     "d": "10",
+     "dp": "5",
+     "bp": "67",
+     "bc": "84",
+     "pts": "19",
+     "an_pct": "11.6",
+     "dn_pct": "78.4",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Brampton Steelheads",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/18.png",
+     "pj": "22",
+     "v": "5",
+     "d": "14",
+     "dp": "3",
+     "bp": "60",
+     "bc": "96",
+     "pts": "13",
+     "an_pct": "21.0",
+     "dn_pct": "75.3",
+     "sequence": "2L"
+    },
+    {
+     "nom": "Barrie Colts",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/7.png",
+     "pj": "22",
+     "v": "5",
+     "d": "14",
+     "dp": "3",
+     "bp": "51",
+     "bc": "83",
+     "pts": "13",
+     "an_pct": "18.9",
+     "dn_pct": "77.9",
+     "sequence": "1W"
+    }
+   ]
+  },
+  {
+   "groupe": "Western Conference",
+   "equipes": [
+    {
+     "nom": "Guelph Storm",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png",
+     "pj": "21",
+     "v": "17",
+     "d": "4",
+     "dp": "0",
+     "bp": "93",
+     "bc": "60",
+     "pts": "34",
+     "an_pct": "27.5",
+     "dn_pct": "79.2",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Soo Greyhounds",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/16.png",
+     "pj": "23",
+     "v": "14",
+     "d": "7",
+     "dp": "2",
+     "bp": "80",
+     "bc": "77",
+     "pts": "30",
+     "an_pct": "21.2",
+     "dn_pct": "73.9",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Kitchener Rangers",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png",
+     "pj": "22",
+     "v": "13",
+     "d": "6",
+     "dp": "3",
+     "bp": "77",
+     "bc": "60",
+     "pts": "29",
+     "an_pct": "24.7",
+     "dn_pct": "80.2",
+     "sequence": "5W"
+    },
+    {
+     "nom": "Windsor Spitfires",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png",
+     "pj": "22",
+     "v": "13",
+     "d": "6",
+     "dp": "3",
+     "bp": "79",
+     "bc": "64",
+     "pts": "29",
+     "an_pct": "20.5",
+     "dn_pct": "86.3",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Flint Firebirds",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/13.png",
+     "pj": "19",
+     "v": "13",
+     "d": "5",
+     "dp": "1",
+     "bp": "72",
+     "bc": "51",
+     "pts": "27",
+     "an_pct": "18.5",
+     "dn_pct": "81.8",
+     "sequence": "2W"
+    },
+    {
+     "nom": "London Knights",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/14.png",
+     "pj": "20",
+     "v": "11",
+     "d": "6",
+     "dp": "3",
+     "bp": "82",
+     "bc": "75",
+     "pts": "25",
+     "an_pct": "23.4",
+     "dn_pct": "66.3",
+     "sequence": "4L"
+    },
+    {
+     "nom": "Erie Otters",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png",
+     "pj": "22",
+     "v": "11",
+     "d": "8",
+     "dp": "3",
+     "bp": "73",
+     "bc": "79",
+     "pts": "25",
+     "an_pct": "23.5",
+     "dn_pct": "78.8",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Saginaw Spirit",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png",
+     "pj": "22",
+     "v": "9",
+     "d": "9",
+     "dp": "4",
+     "bp": "79",
+     "bc": "79",
+     "pts": "22",
+     "an_pct": "24.1",
+     "dn_pct": "69.7",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Sarnia Sting",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/15.png",
+     "pj": "23",
+     "v": "8",
+     "d": "13",
+     "dp": "2",
+     "bp": "82",
+     "bc": "95",
+     "pts": "18",
+     "an_pct": "28.9",
+     "dn_pct": "74.1",
+     "sequence": "3L"
+    },
+    {
+     "nom": "Owen Sound Attack",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png",
+     "pj": "21",
+     "v": "7",
+     "d": "10",
+     "dp": "4",
+     "bp": "55",
+     "bc": "84",
+     "pts": "18",
+     "an_pct": "23.5",
+     "dn_pct": "78.4",
+     "sequence": "1W"
+    }
+   ]
+  }
+ ],
+ "meneurs_points": [
+  {
+   "joueur": "Ryan Roobroeck",
+   "equipe": "Guelph Storm",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png",
+   "pj": "19",
+   "b": "18",
+   "p": "15",
+   "pts": "33",
+   "pun": "14"
+  },
+  {
+   "joueur": "Dima Zhilkin",
+   "equipe": "Saginaw Spirit",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png",
+   "pj": "22",
+   "b": "17",
+   "p": "16",
+   "pts": "33",
+   "pun": "27"
+  },
+  {
+   "joueur": "Michael Dec",
+   "equipe": "Erie Otters",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png",
+   "pj": "21",
+   "b": "15",
+   "p": "17",
+   "pts": "32",
+   "pun": "8"
+  },
+  {
+   "joueur": "Owen Griffin",
+   "equipe": "Guelph Storm",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png",
+   "pj": "19",
+   "b": "9",
+   "p": "22",
+   "pts": "31",
+   "pun": "18"
+  },
+  {
+   "joueur": "Cameron Arquette",
+   "equipe": "Kitchener Rangers",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png",
+   "pj": "22",
+   "b": "17",
+   "p": "13",
+   "pts": "30",
+   "pun": "14"
+  },
+  {
+   "joueur": "Braidy Wassilyn",
+   "equipe": "Saginaw Spirit",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png",
+   "pj": "22",
+   "b": "13",
+   "p": "17",
+   "pts": "30",
+   "pun": "2"
+  },
+  {
+   "joueur": "Mclean Agrette",
+   "equipe": "Erie Otters",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/8.png",
+   "pj": "22",
+   "b": "9",
+   "p": "21",
+   "pts": "30",
+   "pun": "0"
+  },
+  {
+   "joueur": "Easton Walos",
+   "equipe": "Sarnia Sting",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/15.png",
+   "pj": "23",
+   "b": "12",
+   "p": "17",
+   "pts": "29",
+   "pun": "10"
+  },
+  {
+   "joueur": "Pierce Mbuyi",
+   "equipe": "Owen Sound Attack",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png",
+   "pj": "21",
+   "b": "16",
+   "p": "12",
+   "pts": "28",
+   "pun": "40"
+  },
+  {
+   "joueur": "Adam Novotný",
+   "equipe": "Peterborough Petes",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png",
+   "pj": "20",
+   "b": "13",
+   "p": "14",
+   "pts": "27",
+   "pun": "10"
+  }
+ ],
+ "meneurs_gardiens": [
+  {
+   "gardien": "Zach Jovanovski",
+   "equipe": "Guelph Storm",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png",
+   "pj": "10",
+   "v": "9",
+   "moy": "2.00",
+   "pct": "0.929",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Michael Newlove",
+   "equipe": "Windsor Spitfires",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/17.png",
+   "pj": "17",
+   "v": "9",
+   "moy": "2.44",
+   "pct": "0.900",
+   "blanch": "3"
+  },
+  {
+   "gardien": "Paolo Frasca",
+   "equipe": "Sudbury Wolves",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png",
+   "pj": "12",
+   "v": "9",
+   "moy": "2.49",
+   "pct": "0.923",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Vilmer Salen Forsberg",
+   "equipe": "Brantford Bulldogs",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png",
+   "pj": "13",
+   "v": "7",
+   "moy": "2.68",
+   "pct": "0.914",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Jason Schaubel",
+   "equipe": "Kitchener Rangers",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png",
+   "pj": "16",
+   "v": "9",
+   "moy": "2.68",
+   "pct": "0.898",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Royden Smith",
+   "equipe": "Kingston Frontenacs",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png",
+   "pj": "15",
+   "v": "10",
+   "moy": "2.80",
+   "pct": "0.908",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Mason Courville",
+   "equipe": "Flint Firebirds",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/13.png",
+   "pj": "11",
+   "v": "8",
+   "moy": "2.92",
+   "pct": "0.881",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Aleksei Medvedev",
+   "equipe": "Peterborough Petes",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png",
+   "pj": "11",
+   "v": "6",
+   "moy": "2.94",
+   "pct": "0.904",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Brady Knowling",
+   "equipe": "Saginaw Spirit",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/34.png",
+   "pj": "15",
+   "v": "7",
+   "moy": "3.08",
+   "pct": "0.889",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Ben Hrebik",
+   "equipe": "Guelph Storm",
+   "logo": "https://assets.leaguestat.com/ohl/logos/50x50/9.png",
+   "pj": "9",
+   "v": "8",
+   "moy": "3.12",
+   "pct": "0.877",
+   "blanch": "0"
+  }
+ ],
+ "saison_commencee": true
+}

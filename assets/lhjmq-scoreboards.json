@@ -1,0 +1,988 @@
+{
+ "ligue": "LHJMQ",
+ "date_donnees": "2026-11-17",
+ "source": "HockeyTech/LeagueStat",
+ "hier": {
+  "date": "2026-11-15",
+  "matchs": [
+   {
+    "game_id": "32756",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "Que",
+     "nom": "Québec, Remparts",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png"
+    },
+    "domicile": {
+     "code": "Cha",
+     "nom": "Charlottetown, Islanders",
+     "buts": "1",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/7.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Halifax)",
+    "heure_he": "2:00pm",
+    "arena": "Eastlink Centre"
+   },
+   {
+    "game_id": "33080",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "Rim",
+     "nom": "Rimouski, Océanic",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/18.png"
+    },
+    "domicile": {
+     "code": "SNB",
+     "nom": "Saint John, Sea Dogs",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/8.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Halifax)",
+    "heure_he": "2:00pm",
+    "arena": "TD Station"
+   },
+   {
+    "game_id": "32885",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "NFL",
+     "nom": "Terre-Neuve, Régiment",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/2.png"
+    },
+    "domicile": {
+     "code": "Hal",
+     "nom": "Halifax, Mooseheads",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/5.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Halifax)",
+    "heure_he": "2:00pm",
+    "arena": "Scotiabank Centre"
+   },
+   {
+    "game_id": "32695",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "BaC",
+     "nom": "Baie-Comeau, Drakkar",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/16.png"
+    },
+    "domicile": {
+     "code": "BLB",
+     "nom": "Blainville-Boisbriand, Armada",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/19.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "3:00 pm (America/Toronto)",
+    "heure_he": "3:00pm",
+    "arena": "Centre Excellence Sports Rousseau"
+   },
+   {
+    "game_id": "33047",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "She",
+     "nom": "Sherbrooke, Phœnix ",
+     "buts": "6",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/60.png"
+    },
+    "domicile": {
+     "code": "Rou",
+     "nom": "Rouyn-Noranda, Huskies",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/11.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "4:00 pm (America/Toronto)",
+    "heure_he": "4:00pm",
+    "arena": "Aréna Glencore"
+   },
+   {
+    "game_id": "32818",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "Chi",
+     "nom": "Chicoutimi, Saguenéens",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/10.png"
+    },
+    "domicile": {
+     "code": "Dru",
+     "nom": "Drummondville, Voltigeurs",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/14.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "4:00 pm (America/Toronto)",
+    "heure_he": "4:00pm",
+    "arena": "Centre Marcel Dionne"
+   },
+   {
+    "game_id": "33107",
+    "date": "2026-11-15",
+    "visiteur": {
+     "code": "Gat",
+     "nom": "Gatineau, Olympiques",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/12.png"
+    },
+    "domicile": {
+     "code": "Sha",
+     "nom": "Shawinigan, Cataractes",
+     "buts": "3",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/13.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "4:00 pm (America/Toronto)",
+    "heure_he": "4:00pm",
+    "arena": "Centre Gervais Auto"
+   }
+  ]
+ },
+ "aujourdhui": {
+  "date": "2026-11-17",
+  "matchs": []
+ },
+ "prochains": [
+  {
+   "date": "2026-11-18",
+   "matchs": [
+    {
+     "game_id": "33211",
+     "date": "2026-11-18",
+     "visiteur": {
+      "code": "Cap",
+      "nom": "Cape Breton, Eagles",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png"
+     },
+     "domicile": {
+      "code": "Vic",
+      "nom": "Victoriaville, Tigres",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Colisée Desjardins"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "matchs": [
+    {
+     "game_id": "32757",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "NFL",
+      "nom": "Terre-Neuve, Régiment",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/2.png"
+     },
+     "domicile": {
+      "code": "Cha",
+      "nom": "Charlottetown, Islanders",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/7.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Halifax)",
+     "heure_he": "6:00pm",
+     "arena": "Eastlink Centre"
+    },
+    {
+     "game_id": "32662",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "Rou",
+      "nom": "Rouyn-Noranda, Huskies",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/11.png"
+     },
+     "domicile": {
+      "code": "BaC",
+      "nom": "Baie-Comeau, Drakkar",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/16.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre sportif Alcoa"
+    },
+    {
+     "game_id": "33144",
+     "date": "2026-11-19",
+     "visiteur": {
+      "code": "VdO",
+      "nom": "Val-d'Or, Foreurs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png"
+     },
+     "domicile": {
+      "code": "She",
+      "nom": "Sherbrooke, Phœnix ",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/60.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Palais des Sports Léopold-Drolet"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "matchs": [
+    {
+     "game_id": "32758",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "NFL",
+      "nom": "Terre-Neuve, Régiment",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/2.png"
+     },
+     "domicile": {
+      "code": "Cha",
+      "nom": "Charlottetown, Islanders",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/7.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Halifax)",
+     "heure_he": "6:00pm",
+     "arena": "Eastlink Centre"
+    },
+    {
+     "game_id": "32919",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "SNB",
+      "nom": "Saint John, Sea Dogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/8.png"
+     },
+     "domicile": {
+      "code": "Mon",
+      "nom": "Moncton, Wildcats",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/1.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Halifax)",
+     "heure_he": "6:00pm",
+     "arena": "Centre Avenir"
+    },
+    {
+     "game_id": "32696",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "Hal",
+      "nom": "Halifax, Mooseheads",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/5.png"
+     },
+     "domicile": {
+      "code": "BLB",
+      "nom": "Blainville-Boisbriand, Armada",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/19.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre Excellence Sports Rousseau"
+    },
+    {
+     "game_id": "33108",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "She",
+      "nom": "Sherbrooke, Phœnix ",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/60.png"
+     },
+     "domicile": {
+      "code": "Sha",
+      "nom": "Shawinigan, Cataractes",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/13.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre Gervais Auto"
+    },
+    {
+     "game_id": "33014",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "Vic",
+      "nom": "Victoriaville, Tigres",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png"
+     },
+     "domicile": {
+      "code": "Rim",
+      "nom": "Rimouski, Océanic",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/18.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Colisée Financière Sun Life"
+    },
+    {
+     "game_id": "32983",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "Cap",
+      "nom": "Cape Breton, Eagles",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png"
+     },
+     "domicile": {
+      "code": "Que",
+      "nom": "Québec, Remparts",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre Vidéotron"
+    },
+    {
+     "game_id": "32854",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "Ott",
+      "nom": "- Ottawa, 67's (OHL) -",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/52.png"
+     },
+     "domicile": {
+      "code": "Gat",
+      "nom": "Gatineau, Olympiques",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/12.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre Slush Puppie"
+    },
+    {
+     "game_id": "32819",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "VdO",
+      "nom": "Val-d'Or, Foreurs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png"
+     },
+     "domicile": {
+      "code": "Dru",
+      "nom": "Drummondville, Voltigeurs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/14.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre Marcel Dionne"
+    },
+    {
+     "game_id": "32663",
+     "date": "2026-11-20",
+     "visiteur": {
+      "code": "Rou",
+      "nom": "Rouyn-Noranda, Huskies",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/11.png"
+     },
+     "domicile": {
+      "code": "BaC",
+      "nom": "Baie-Comeau, Drakkar",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/16.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "7:00 pm (America/Toronto)",
+     "heure_he": "7:00pm",
+     "arena": "Centre sportif Alcoa"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "matchs": [
+    {
+     "game_id": "33081",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "Mon",
+      "nom": "Moncton, Wildcats",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/1.png"
+     },
+     "domicile": {
+      "code": "SNB",
+      "nom": "Saint John, Sea Dogs",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/8.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:00 pm (America/Halifax)",
+     "heure_he": "3:00pm",
+     "arena": "TD Station"
+    },
+    {
+     "game_id": "32789",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "Cap",
+      "nom": "Cape Breton, Eagles",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png"
+     },
+     "domicile": {
+      "code": "Chi",
+      "nom": "Chicoutimi, Saguenéens",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/10.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:00 pm (America/Toronto)",
+     "heure_he": "4:00pm",
+     "arena": "Centre Georges-Vézina"
+    },
+    {
+     "game_id": "33109",
+     "date": "2026-11-21",
+     "visiteur": {
+      "code": "Hal",
+      "nom": "Halifax, Mooseheads",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/5.png"
+     },
+     "domicile": {
+      "code": "Sha",
+      "nom": "Shawinigan, Cataractes",
+      "buts": "0",
+      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/13.png"
+     },
+     "statut": "À VENIR",
+     "detail": "",
+     "heure_locale": "4:00 pm (America/Toronto)",
+     "heure_he": "4:00pm",
+     "arena": "Centre Gervais Auto"
+    }
+   ]
+  }
+ ],
+ "classement": [
+  {
+   "groupe": "Association Est",
+   "equipes": [
+    {
+     "nom": "Québec, Remparts",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png",
+     "pj": "21",
+     "v": "15",
+     "d": "5",
+     "dp": "1",
+     "bp": "84",
+     "bc": "58",
+     "pts": "31",
+     "an_pct": "18.6",
+     "dn_pct": "85.1",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Saint John, Sea Dogs",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/8.png",
+     "pj": "21",
+     "v": "13",
+     "d": "5",
+     "dp": "3",
+     "bp": "78",
+     "bc": "68",
+     "pts": "29",
+     "an_pct": "27.4",
+     "dn_pct": "80.8",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Terre-Neuve, Régiment",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/2.png",
+     "pj": "22",
+     "v": "12",
+     "d": "7",
+     "dp": "3",
+     "bp": "69",
+     "bc": "67",
+     "pts": "27",
+     "an_pct": "14.3",
+     "dn_pct": "77.9",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Moncton, Wildcats",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/1.png",
+     "pj": "21",
+     "v": "11",
+     "d": "9",
+     "dp": "1",
+     "bp": "65",
+     "bc": "64",
+     "pts": "23",
+     "an_pct": "29.8",
+     "dn_pct": "79.0",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Chicoutimi, Saguenéens",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/10.png",
+     "pj": "19",
+     "v": "11",
+     "d": "8",
+     "dp": "0",
+     "bp": "68",
+     "bc": "60",
+     "pts": "22",
+     "an_pct": "19.1",
+     "dn_pct": "83.3",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Halifax, Mooseheads",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/5.png",
+     "pj": "19",
+     "v": "9",
+     "d": "6",
+     "dp": "4",
+     "bp": "64",
+     "bc": "74",
+     "pts": "22",
+     "an_pct": "17.2",
+     "dn_pct": "72.3",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Rimouski, Océanic",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/18.png",
+     "pj": "21",
+     "v": "9",
+     "d": "8",
+     "dp": "4",
+     "bp": "86",
+     "bc": "79",
+     "pts": "22",
+     "an_pct": "21.7",
+     "dn_pct": "78.5",
+     "sequence": "7L"
+    },
+    {
+     "nom": "Cape Breton, Eagles",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png",
+     "pj": "19",
+     "v": "8",
+     "d": "6",
+     "dp": "5",
+     "bp": "63",
+     "bc": "59",
+     "pts": "21",
+     "an_pct": "23.2",
+     "dn_pct": "81.9",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Charlottetown, Islanders",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/7.png",
+     "pj": "21",
+     "v": "8",
+     "d": "11",
+     "dp": "2",
+     "bp": "70",
+     "bc": "94",
+     "pts": "18",
+     "an_pct": "19.8",
+     "dn_pct": "73.3",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Baie-Comeau, Drakkar",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/16.png",
+     "pj": "20",
+     "v": "4",
+     "d": "15",
+     "dp": "1",
+     "bp": "45",
+     "bc": "84",
+     "pts": "9",
+     "an_pct": "9.5",
+     "dn_pct": "78.8",
+     "sequence": "2L"
+    }
+   ]
+  },
+  {
+   "groupe": "Association Ouest",
+   "equipes": [
+    {
+     "nom": "Val-d'Or, Foreurs",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png",
+     "pj": "20",
+     "v": "16",
+     "d": "2",
+     "dp": "2",
+     "bp": "84",
+     "bc": "49",
+     "pts": "34",
+     "an_pct": "29.9",
+     "dn_pct": "84.3",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Victoriaville, Tigres",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png",
+     "pj": "20",
+     "v": "14",
+     "d": "5",
+     "dp": "1",
+     "bp": "85",
+     "bc": "77",
+     "pts": "29",
+     "an_pct": "25.0",
+     "dn_pct": "75.6",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Rouyn-Noranda, Huskies",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/11.png",
+     "pj": "20",
+     "v": "11",
+     "d": "6",
+     "dp": "3",
+     "bp": "61",
+     "bc": "58",
+     "pts": "25",
+     "an_pct": "30.8",
+     "dn_pct": "78.0",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Gatineau, Olympiques",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/12.png",
+     "pj": "22",
+     "v": "10",
+     "d": "8",
+     "dp": "4",
+     "bp": "71",
+     "bc": "71",
+     "pts": "24",
+     "an_pct": "15.6",
+     "dn_pct": "73.7",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Sherbrooke, Phœnix ",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/60.png",
+     "pj": "18",
+     "v": "10",
+     "d": "5",
+     "dp": "3",
+     "bp": "71",
+     "bc": "53",
+     "pts": "23",
+     "an_pct": "22.6",
+     "dn_pct": "81.7",
+     "sequence": "1W"
+    },
+    {
+     "nom": "Drummondville, Voltigeurs",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/14.png",
+     "pj": "21",
+     "v": "10",
+     "d": "9",
+     "dp": "2",
+     "bp": "73",
+     "bc": "76",
+     "pts": "22",
+     "an_pct": "18.6",
+     "dn_pct": "77.8",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Blainville-Boisbriand, Armada",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/19.png",
+     "pj": "22",
+     "v": "9",
+     "d": "11",
+     "dp": "2",
+     "bp": "62",
+     "bc": "71",
+     "pts": "20",
+     "an_pct": "21.6",
+     "dn_pct": "79.3",
+     "sequence": "2W"
+    },
+    {
+     "nom": "Shawinigan, Cataractes",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/13.png",
+     "pj": "19",
+     "v": "4",
+     "d": "12",
+     "dp": "3",
+     "bp": "58",
+     "bc": "92",
+     "pts": "11",
+     "an_pct": "22.7",
+     "dn_pct": "76.1",
+     "sequence": "7L"
+    }
+   ]
+  }
+ ],
+ "meneurs_points": [
+  {
+   "joueur": "Veilleux, Philippe",
+   "equipe": "Val-d'Or, Foreurs",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png",
+   "pj": "20",
+   "b": "19",
+   "p": "23",
+   "pts": "42",
+   "pun": "6"
+  },
+  {
+   "joueur": "Shilov, Egor",
+   "equipe": "Victoriaville, Tigres",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png",
+   "pj": "20",
+   "b": "13",
+   "p": "19",
+   "pts": "32",
+   "pun": "2"
+  },
+  {
+   "joueur": "Desruisseaux, Thomas",
+   "equipe": "Victoriaville, Tigres",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png",
+   "pj": "20",
+   "b": "11",
+   "p": "21",
+   "pts": "32",
+   "pun": "12"
+  },
+  {
+   "joueur": "Vlasov, Alexey",
+   "equipe": "Victoriaville, Tigres",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png",
+   "pj": "17",
+   "b": "15",
+   "p": "15",
+   "pts": "30",
+   "pun": "14"
+  },
+  {
+   "joueur": "Lygitsakos, Chad",
+   "equipe": "Shawinigan, Cataractes",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/13.png",
+   "pj": "19",
+   "b": "10",
+   "p": "19",
+   "pts": "29",
+   "pun": "20"
+  },
+  {
+   "joueur": "Quinn, Nathan",
+   "equipe": "Québec, Remparts",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png",
+   "pj": "20",
+   "b": "12",
+   "p": "15",
+   "pts": "27",
+   "pun": "10"
+  },
+  {
+   "joueur": "Dubé, Mathys",
+   "equipe": "Rimouski, Océanic",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/18.png",
+   "pj": "21",
+   "b": "14",
+   "p": "12",
+   "pts": "26",
+   "pun": "18"
+  },
+  {
+   "joueur": "Schaaf, A.J.",
+   "equipe": "Rimouski, Océanic",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/18.png",
+   "pj": "20",
+   "b": "10",
+   "p": "16",
+   "pts": "26",
+   "pun": "16"
+  },
+  {
+   "joueur": "Brisson, Nathan",
+   "equipe": "Val-d'Or, Foreurs",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png",
+   "pj": "20",
+   "b": "6",
+   "p": "20",
+   "pts": "26",
+   "pun": "33"
+  },
+  {
+   "joueur": "Scantlebury, James",
+   "equipe": "Québec, Remparts",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png",
+   "pj": "21",
+   "b": "12",
+   "p": "12",
+   "pts": "24",
+   "pun": "4"
+  }
+ ],
+ "meneurs_gardiens": [
+  {
+   "gardien": "Moreau, Vincent",
+   "equipe": "Val-d'Or, Foreurs",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png",
+   "pj": "11",
+   "v": "8",
+   "moy": "2.18",
+   "pct": "0.916",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Raymond, Alexandre",
+   "equipe": "Rouyn-Noranda, Huskies",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/11.png",
+   "pj": "15",
+   "v": "9",
+   "moy": "2.32",
+   "pct": "0.907",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Beckman, Lucas",
+   "equipe": "Cape Breton, Eagles",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png",
+   "pj": "14",
+   "v": "7",
+   "moy": "2.43",
+   "pct": "0.911",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Lee, Justin",
+   "equipe": "Chicoutimi, Saguenéens",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/10.png",
+   "pj": "10",
+   "v": "5",
+   "moy": "2.46",
+   "pct": "0.913",
+   "blanch": "1"
+  },
+  {
+   "gardien": "Radkov, Arseni",
+   "equipe": "Val-d'Or, Foreurs",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/15.png",
+   "pj": "11",
+   "v": "8",
+   "moy": "2.46",
+   "pct": "0.914",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Déniger, Patrick",
+   "equipe": "Québec, Remparts",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png",
+   "pj": "14",
+   "v": "9",
+   "moy": "2.55",
+   "pct": "0.901",
+   "blanch": "2"
+  },
+  {
+   "gardien": "Weiner, Jacoby",
+   "equipe": "Moncton, Wildcats",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/1.png",
+   "pj": "12",
+   "v": "5",
+   "moy": "2.69",
+   "pct": "0.921",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Dubuc, Timothy",
+   "equipe": "Québec, Remparts",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/9.png",
+   "pj": "8",
+   "v": "6",
+   "moy": "2.73",
+   "pct": "0.895",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Précourt, Raphaël",
+   "equipe": "Victoriaville, Tigres",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png",
+   "pj": "10",
+   "v": "6",
+   "moy": "2.73",
+   "pct": "0.918",
+   "blanch": "0"
+  },
+  {
+   "gardien": "Shaiikov, Danai",
+   "equipe": "Gatineau, Olympiques",
+   "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/12.png",
+   "pj": "17",
+   "v": "8",
+   "moy": "2.78",
+   "pct": "0.895",
+   "blanch": "1"
+  }
+ ],
+ "saison_commencee": true
+}
