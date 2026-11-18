@@ -1,6 +1,6 @@
 {
  "ligue": "LHJMQ",
- "date_donnees": "2026-11-17",
+ "date_donnees": "2026-11-18",
  "source": "HockeyTech/LeagueStat",
  "hier": {
   "date": "2026-11-15",
@@ -155,36 +155,32 @@
   ]
  },
  "aujourdhui": {
-  "date": "2026-11-17",
-  "matchs": []
+  "date": "2026-11-18",
+  "matchs": [
+   {
+    "game_id": "33211",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "Cap",
+     "nom": "Cape Breton, Eagles",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png"
+    },
+    "domicile": {
+     "code": "Vic",
+     "nom": "Victoriaville, Tigres",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Toronto)",
+    "heure_he": "7:00pm",
+    "arena": "Colisée Desjardins"
+   }
+  ]
  },
  "prochains": [
-  {
-   "date": "2026-11-18",
-   "matchs": [
-    {
-     "game_id": "33211",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "Cap",
-      "nom": "Cape Breton, Eagles",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/3.png"
-     },
-     "domicile": {
-      "code": "Vic",
-      "nom": "Victoriaville, Tigres",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/lhjmq/logos/50x50/17.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:00 pm (America/Toronto)",
-     "heure_he": "7:00pm",
-     "arena": "Colisée Desjardins"
-    }
-   ]
-  },
   {
    "date": "2026-11-19",
    "matchs": [

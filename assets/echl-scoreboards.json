@@ -1,202 +1,8 @@
 {
  "ligue": "ECHL",
- "date_donnees": "2026-11-17",
+ "date_donnees": "2026-11-18",
  "source": "HockeyTech/LeagueStat",
  "hier": {
-  "date": "2026-11-15",
-  "matchs": [
-   {
-    "game_id": "25662",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "NM",
-     "nom": "New Mexico Goatheads",
-     "buts": "6",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/114.png"
-    },
-    "domicile": {
-     "code": "KAL",
-     "nom": "Kalamazoo Wings",
-     "buts": "5",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/50.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "3:00 pm (America/New_York)",
-    "heure_he": "3:00pm",
-    "arena": "Wings Event Center"
-   },
-   {
-    "game_id": "25660",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "WOR",
-     "nom": "Worcester Railers",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/77.png"
-    },
-    "domicile": {
-     "code": "GSO",
-     "nom": "Greensboro Gargoyles",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/108.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final SO",
-    "heure_locale": "3:00 pm (America/New_York)",
-    "heure_he": "3:00pm",
-    "arena": "First Horizon Coliseum"
-   },
-   {
-    "game_id": "25656",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "NOR",
-     "nom": "Norfolk Admirals",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/76.png"
-    },
-    "domicile": {
-     "code": "ADK",
-     "nom": "Adirondack Thunder",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/74.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "3:00 pm (America/New_York)",
-    "heure_he": "3:00pm",
-    "arena": "Harding Mazzotti Arena"
-   },
-   {
-    "game_id": "25657",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "TR",
-     "nom": "Trois-Rivières Lions",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/99.png"
-    },
-    "domicile": {
-     "code": "ATL",
-     "nom": "Atlanta Gladiators",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/10.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final 1st OT",
-    "heure_locale": "3:10 pm (America/New_York)",
-    "heure_he": "3:10pm",
-    "arena": "Gas South Arena"
-   },
-   {
-    "game_id": "25661",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "TOL",
-     "nom": "Toledo Walleye",
-     "buts": "5",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/21.png"
-    },
-    "domicile": {
-     "code": "IND",
-     "nom": "Indy Fuel",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/65.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "4:00 pm (America/New_York)",
-    "heure_he": "4:00pm",
-    "arena": "Fishers Event Center"
-   },
-   {
-    "game_id": "25664",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "ALN",
-     "nom": "Allen Americans",
-     "buts": "7",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/66.png"
-    },
-    "domicile": {
-     "code": "TUL",
-     "nom": "Tulsa Oilers",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/71.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "3:05 pm (America/Chicago)",
-    "heure_he": "4:05pm",
-    "arena": "BOK Center"
-   },
-   {
-    "game_id": "25658",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "WHL",
-     "nom": "Wheeling Nailers",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/25.png"
-    },
-    "domicile": {
-     "code": "BLM",
-     "nom": "Bloomington Bison",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/107.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final 1st OT",
-    "heure_locale": "4:00 pm (America/Chicago)",
-    "heure_he": "5:00pm",
-    "arena": "Grossinger Motors Arena"
-   },
-   {
-    "game_id": "25663",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "WIC",
-     "nom": "Wichita Thunder",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/72.png"
-    },
-    "domicile": {
-     "code": "KC",
-     "nom": "Kansas City Mavericks",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/68.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "4:05 pm (America/Chicago)",
-    "heure_he": "5:05pm",
-    "arena": "Cable Dahmer Arena"
-   },
-   {
-    "game_id": "25659",
-    "date": "2026-11-15",
-    "visiteur": {
-     "code": "CIN",
-     "nom": "Cincinnati Cyclones",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/5.png"
-    },
-    "domicile": {
-     "code": "FW",
-     "nom": "Fort Wayne Komets",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/60.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "5:05 pm (America/New_York)",
-    "heure_he": "5:05pm",
-    "arena": "Memorial Coliseum"
-   }
-  ]
- },
- "aujourdhui": {
   "date": "2026-11-17",
   "matchs": [
    {
@@ -205,17 +11,17 @@
     "visiteur": {
      "code": "BLM",
      "nom": "Bloomington Bison",
-     "buts": "0",
+     "buts": "4",
      "logo": "https://assets.leaguestat.com/echl/logos/50x50/107.png"
     },
     "domicile": {
      "code": "CIN",
      "nom": "Cincinnati Cyclones",
-     "buts": "0",
+     "buts": "1",
      "logo": "https://assets.leaguestat.com/echl/logos/50x50/5.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final",
     "heure_locale": "10:30 am (America/New_York)",
     "heure_he": "10:30am",
     "arena": "Heritage Bank Center"
@@ -232,128 +38,128 @@
     "domicile": {
      "code": "REA",
      "nom": "Reading Royals",
-     "buts": "0",
+     "buts": "6",
      "logo": "https://assets.leaguestat.com/echl/logos/50x50/17.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final",
     "heure_locale": "10:30 am (America/New_York)",
     "heure_he": "10:30am",
     "arena": "Santander Arena"
    }
   ]
  },
+ "aujourdhui": {
+  "date": "2026-11-18",
+  "matchs": [
+   {
+    "game_id": "25669",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "RC",
+     "nom": "Rapid City Rush",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/70.png"
+    },
+    "domicile": {
+     "code": "TOL",
+     "nom": "Toledo Walleye",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/21.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "10:35 am (America/New_York)",
+    "heure_he": "10:35am",
+    "arena": "Huntington Center"
+   },
+   {
+    "game_id": "25671",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "TRE",
+     "nom": "Trenton Ironhawks",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/113.png"
+    },
+    "domicile": {
+     "code": "NOR",
+     "nom": "Norfolk Admirals",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/76.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:05 pm (America/New_York)",
+    "heure_he": "7:05pm",
+    "arena": "Norfolk Scope"
+   },
+   {
+    "game_id": "25667",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "ORL",
+     "nom": "Orlando Solar Bears",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/61.png"
+    },
+    "domicile": {
+     "code": "FLA",
+     "nom": "Florida Everblades",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/8.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:30 pm (America/New_York)",
+    "heure_he": "7:30pm",
+    "arena": "Hertz Arena"
+   },
+   {
+    "game_id": "25670",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "ALN",
+     "nom": "Allen Americans",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/66.png"
+    },
+    "domicile": {
+     "code": "WIC",
+     "nom": "Wichita Thunder",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/72.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:05 pm (America/Chicago)",
+    "heure_he": "8:05pm",
+    "arena": "INTRUST Bank Arena"
+   },
+   {
+    "game_id": "25668",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "MNE",
+     "nom": "Maine Mariners",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/82.png"
+    },
+    "domicile": {
+     "code": "IDH",
+     "nom": "Idaho Steelheads",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/11.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:10 pm (America/Denver)",
+    "heure_he": "9:10pm",
+    "arena": "Idaho Central Arena"
+   }
+  ]
+ },
  "prochains": [
-  {
-   "date": "2026-11-18",
-   "matchs": [
-    {
-     "game_id": "25669",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "RC",
-      "nom": "Rapid City Rush",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/70.png"
-     },
-     "domicile": {
-      "code": "TOL",
-      "nom": "Toledo Walleye",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/21.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "10:35 am (America/New_York)",
-     "heure_he": "10:35am",
-     "arena": "Huntington Center"
-    },
-    {
-     "game_id": "25671",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "TRE",
-      "nom": "Trenton Ironhawks",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/113.png"
-     },
-     "domicile": {
-      "code": "NOR",
-      "nom": "Norfolk Admirals",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/76.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:05 pm (America/New_York)",
-     "heure_he": "7:05pm",
-     "arena": "Norfolk Scope"
-    },
-    {
-     "game_id": "25667",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "ORL",
-      "nom": "Orlando Solar Bears",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/61.png"
-     },
-     "domicile": {
-      "code": "FLA",
-      "nom": "Florida Everblades",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/8.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:30 pm (America/New_York)",
-     "heure_he": "7:30pm",
-     "arena": "Hertz Arena"
-    },
-    {
-     "game_id": "25670",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "ALN",
-      "nom": "Allen Americans",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/66.png"
-     },
-     "domicile": {
-      "code": "WIC",
-      "nom": "Wichita Thunder",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/72.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:05 pm (America/Chicago)",
-     "heure_he": "8:05pm",
-     "arena": "INTRUST Bank Arena"
-    },
-    {
-     "game_id": "25668",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "MNE",
-      "nom": "Maine Mariners",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/82.png"
-     },
-     "domicile": {
-      "code": "IDH",
-      "nom": "Idaho Steelheads",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/echl/logos/50x50/11.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:10 pm (America/Denver)",
-     "heure_he": "9:10pm",
-     "arena": "Idaho Central Arena"
-    }
-   ]
-  },
   {
    "date": "2026-11-19",
    "matchs": [
@@ -678,18 +484,32 @@
      "sequence": "4L"
     },
     {
-     "nom": "Adirondack Thunder",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/74.png",
+     "nom": "Reading Royals",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/17.png",
      "pj": "10",
      "v": "7",
      "d": "3",
      "dp": "0",
-     "bp": "42",
-     "bc": "27",
+     "bp": "36",
+     "bc": "18",
      "pts": "14",
-     "an_pct": "20.0",
-     "dn_pct": "91.1",
-     "sequence": "4W"
+     "an_pct": "15.6",
+     "dn_pct": "86.4",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Adirondack Thunder",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/74.png",
+     "pj": "11",
+     "v": "7",
+     "d": "4",
+     "dp": "0",
+     "bp": "42",
+     "bc": "33",
+     "pts": "14",
+     "an_pct": "17.9",
+     "dn_pct": "91.4",
+     "sequence": "1L"
     },
     {
      "nom": "Greensboro Gargoyles",
@@ -704,20 +524,6 @@
      "an_pct": "21.3",
      "dn_pct": "88.4",
      "sequence": "4L"
-    },
-    {
-     "nom": "Reading Royals",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/17.png",
-     "pj": "9",
-     "v": "6",
-     "d": "3",
-     "dp": "0",
-     "bp": "30",
-     "bc": "18",
-     "pts": "12",
-     "an_pct": "16.7",
-     "dn_pct": "85.0",
-     "sequence": "2W"
     },
     {
      "nom": "Trenton Ironhawks",
@@ -898,32 +704,32 @@
      "sequence": "6W"
     },
     {
-     "nom": "Cincinnati Cyclones",
-     "logo": "https://assets.leaguestat.com/echl/logos/50x50/5.png",
-     "pj": "13",
-     "v": "8",
-     "d": "4",
-     "dp": "1",
-     "bp": "42",
-     "bc": "36",
-     "pts": "17",
-     "an_pct": "18.2",
-     "dn_pct": "71.4",
-     "sequence": "2L"
-    },
-    {
      "nom": "Bloomington Bison",
      "logo": "https://assets.leaguestat.com/echl/logos/50x50/107.png",
-     "pj": "9",
-     "v": "7",
+     "pj": "10",
+     "v": "8",
      "d": "0",
      "dp": "2",
-     "bp": "33",
-     "bc": "24",
-     "pts": "16",
-     "an_pct": "18.2",
-     "dn_pct": "80.6",
-     "sequence": "2W"
+     "bp": "37",
+     "bc": "25",
+     "pts": "18",
+     "an_pct": "21.0",
+     "dn_pct": "83.3",
+     "sequence": "3W"
+    },
+    {
+     "nom": "Cincinnati Cyclones",
+     "logo": "https://assets.leaguestat.com/echl/logos/50x50/5.png",
+     "pj": "14",
+     "v": "8",
+     "d": "5",
+     "dp": "1",
+     "bp": "43",
+     "bc": "40",
+     "pts": "17",
+     "an_pct": "15.8",
+     "dn_pct": "70.0",
+     "sequence": "3L"
     },
     {
      "nom": "Wheeling Nailers",
@@ -1196,7 +1002,7 @@
    "joueur": "Shane Harper",
    "equipe": "Adirondack Thunder",
    "logo": "https://assets.leaguestat.com/echl/logos/50x50/74.png",
-   "pj": "10",
+   "pj": "11",
    "b": "3",
    "p": "11",
    "pts": "14",
@@ -1205,6 +1011,16 @@
  ],
  "meneurs_gardiens": [
   {
+   "gardien": "Keith Petruzzelli",
+   "equipe": "Reading Royals",
+   "logo": "https://assets.leaguestat.com/echl/logos/50x50/17.png",
+   "pj": "5",
+   "v": "3",
+   "moy": "1.21",
+   "pct": "0.952",
+   "blanch": "2"
+  },
+  {
    "gardien": "Owen Flores",
    "equipe": "Greenville Swamp Rabbits",
    "logo": "https://assets.leaguestat.com/echl/logos/50x50/52.png",
@@ -1212,16 +1028,6 @@
    "v": "3",
    "moy": "1.36",
    "pct": "0.952",
-   "blanch": "1"
-  },
-  {
-   "gardien": "Keith Petruzzelli",
-   "equipe": "Reading Royals",
-   "logo": "https://assets.leaguestat.com/echl/logos/50x50/17.png",
-   "pj": "4",
-   "v": "2",
-   "moy": "1.52",
-   "pct": "0.935",
    "blanch": "1"
   },
   {

@@ -1,244 +1,8 @@
 {
  "ligue": "WHL",
- "date_donnees": "2026-11-17",
+ "date_donnees": "2026-11-18",
  "source": "HockeyTech/LeagueStat",
  "hier": {
-  "date": "2026-11-14",
-  "matchs": [
-   {
-    "game_id": "1023299",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "WEN",
-     "nom": "Wenatchee Wild",
-     "buts": "0",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png"
-    },
-    "domicile": {
-     "code": "REG",
-     "nom": "Regina Pats",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/212.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "6:00 pm (America/Regina)",
-    "heure_he": "7:00pm",
-    "arena": "Brandt Centre - Regina, SK"
-   },
-   {
-    "game_id": "1023302",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "POR",
-     "nom": "Portland Winterhawks",
-     "buts": "5",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png"
-    },
-    "domicile": {
-     "code": "SC",
-     "nom": "Swift Current Broncos",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/216.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "6:00 pm (America/Regina)",
-    "heure_he": "7:00pm",
-    "arena": "InnovationPlex - Swift Current, SK"
-   },
-   {
-    "game_id": "1023295",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "CGY",
-     "nom": "Calgary Hitmen",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/202.png"
-    },
-    "domicile": {
-     "code": "LET",
-     "nom": "Lethbridge Hurricanes",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/205.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final OT",
-    "heure_locale": "6:00 pm (America/Edmonton)",
-    "heure_he": "7:00pm",
-    "arena": "VisitLethbridge.com Arena - Lethbridge, AB"
-   },
-   {
-    "game_id": "1023300",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "EDM",
-     "nom": "Edmonton Oil Kings",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png"
-    },
-    "domicile": {
-     "code": "SAS",
-     "nom": "Saskatoon Blades",
-     "buts": "6",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "7:00 pm (America/Regina)",
-    "heure_he": "8:00pm",
-    "arena": "SaskTel Centre - Saskatoon, SK"
-   },
-   {
-    "game_id": "1023297",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "BDN",
-     "nom": "Brandon Wheat Kings",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/201.png"
-    },
-    "domicile": {
-     "code": "PA",
-     "nom": "Prince Albert Raiders",
-     "buts": "6",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/209.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "7:00 pm (America/Regina)",
-    "heure_he": "8:00pm",
-    "arena": "Art Hauser Centre - Prince Albert, SK"
-   },
-   {
-    "game_id": "1023298",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "KAM",
-     "nom": "Kamloops Blazers",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/203.png"
-    },
-    "domicile": {
-     "code": "PG",
-     "nom": "Prince George Cougars",
-     "buts": "2",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/210.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final SO",
-    "heure_locale": "6:00 pm (America/Vancouver)",
-    "heure_he": "8:00pm",
-    "arena": "CN Centre - Prince George, BC"
-   },
-   {
-    "game_id": "1023296",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "RD",
-     "nom": "Red Deer Rebels",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/211.png"
-    },
-    "domicile": {
-     "code": "MH",
-     "nom": "Medicine Hat Tigers",
-     "buts": "5",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/206.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "7:00 pm (America/Edmonton)",
-    "heure_he": "8:00pm",
-    "arena": "Co-op Place - Medicine Hat, AB"
-   },
-   {
-    "game_id": "1023303",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "EVT",
-     "nom": "Everett Silvertips",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/226.png"
-    },
-    "domicile": {
-     "code": "TC",
-     "nom": "Tri-City Americans",
-     "buts": "3",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/217.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final OT",
-    "heure_locale": "6:05 pm (America/Los_Angeles)",
-    "heure_he": "9:05pm",
-    "arena": "Toyota Center - Kennewick, WA"
-   },
-   {
-    "game_id": "1023301",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "SPO",
-     "nom": "Spokane Chiefs",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/215.png"
-    },
-    "domicile": {
-     "code": "SEA",
-     "nom": "Seattle Thunderbirds",
-     "buts": "5",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/214.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final OT",
-    "heure_locale": "6:05 pm (America/Los_Angeles)",
-    "heure_he": "9:05pm",
-    "arena": "accesso ShoWare Center - Kent, WA"
-   },
-   {
-    "game_id": "1023294",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "VIC",
-     "nom": "Victoria Royals",
-     "buts": "7",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/227.png"
-    },
-    "domicile": {
-     "code": "KEL",
-     "nom": "Kelowna Rockets",
-     "buts": "1",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/204.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "6:05 pm (America/Vancouver)",
-    "heure_he": "8:05pm",
-    "arena": "Prospera Place - Kelowna, BC"
-   },
-   {
-    "game_id": "1023304",
-    "date": "2026-11-14",
-    "visiteur": {
-     "code": "PEN",
-     "nom": "Penticton Vees",
-     "buts": "6",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png"
-    },
-    "domicile": {
-     "code": "VAN",
-     "nom": "Vancouver Giants",
-     "buts": "4",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/223.png"
-    },
-    "statut": "FINAL",
-    "detail": "Final",
-    "heure_locale": "7:00 pm (America/Vancouver)",
-    "heure_he": "9:00pm",
-    "arena": "Langley Events Centre - Langley, BC"
-   }
-  ]
- },
- "aujourdhui": {
   "date": "2026-11-17",
   "matchs": [
    {
@@ -253,11 +17,11 @@
     "domicile": {
      "code": "PA",
      "nom": "Prince Albert Raiders",
-     "buts": "0",
+     "buts": "3",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/209.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final",
     "heure_locale": "7:00 pm (America/Regina)",
     "heure_he": "8:00pm",
     "arena": "Art Hauser Centre - Prince Albert, SK"
@@ -268,17 +32,17 @@
     "visiteur": {
      "code": "POR",
      "nom": "Portland Winterhawks",
-     "buts": "0",
+     "buts": "3",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png"
     },
     "domicile": {
      "code": "SAS",
      "nom": "Saskatoon Blades",
-     "buts": "0",
+     "buts": "2",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final",
     "heure_locale": "7:00 pm (America/Regina)",
     "heure_he": "8:00pm",
     "arena": "SaskTel Centre - Saskatoon, SK"
@@ -289,17 +53,17 @@
     "visiteur": {
      "code": "EDM",
      "nom": "Edmonton Oil Kings",
-     "buts": "0",
+     "buts": "4",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png"
     },
     "domicile": {
      "code": "MH",
      "nom": "Medicine Hat Tigers",
-     "buts": "0",
+     "buts": "3",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/206.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final SO",
     "heure_locale": "7:00 pm (America/Edmonton)",
     "heure_he": "8:00pm",
     "arena": "Co-op Place - Medicine Hat, AB"
@@ -310,17 +74,17 @@
     "visiteur": {
      "code": "SEA",
      "nom": "Seattle Thunderbirds",
-     "buts": "0",
+     "buts": "3",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/214.png"
     },
     "domicile": {
      "code": "PEN",
      "nom": "Penticton Vees",
-     "buts": "0",
+     "buts": "1",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png"
     },
-    "statut": "À VENIR",
-    "detail": "",
+    "statut": "FINAL",
+    "detail": "Final",
     "heure_locale": "6:35 pm (America/Vancouver)",
     "heure_he": "8:35pm",
     "arena": "South Okanagan Events Centre - Penticton, BC"
@@ -328,6 +92,95 @@
    {
     "game_id": "1023309",
     "date": "2026-11-17",
+    "visiteur": {
+     "code": "KAM",
+     "nom": "Kamloops Blazers",
+     "buts": "4",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/203.png"
+    },
+    "domicile": {
+     "code": "VIC",
+     "nom": "Victoria Royals",
+     "buts": "2",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/227.png"
+    },
+    "statut": "FINAL",
+    "detail": "Final",
+    "heure_locale": "7:05 pm (America/Vancouver)",
+    "heure_he": "9:05pm",
+    "arena": "Save-On-Foods Memorial Centre - Victoria, BC"
+   }
+  ]
+ },
+ "aujourdhui": {
+  "date": "2026-11-18",
+  "matchs": [
+   {
+    "game_id": "1023310",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "WEN",
+     "nom": "Wenatchee Wild",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png"
+    },
+    "domicile": {
+     "code": "MJ",
+     "nom": "Moose Jaw Warriors",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/207.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Regina)",
+    "heure_he": "8:00pm",
+    "arena": "Temple Gardens Centre - Moose Jaw, SK"
+   },
+   {
+    "game_id": "1023312",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "EDM",
+     "nom": "Edmonton Oil Kings",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png"
+    },
+    "domicile": {
+     "code": "SC",
+     "nom": "Swift Current Broncos",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/216.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Regina)",
+    "heure_he": "8:00pm",
+    "arena": "InnovationPlex - Swift Current, SK"
+   },
+   {
+    "game_id": "1023311",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "REG",
+     "nom": "Regina Pats",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/212.png"
+    },
+    "domicile": {
+     "code": "PG",
+     "nom": "Prince George Cougars",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/210.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Vancouver)",
+    "heure_he": "9:00pm",
+    "arena": "CN Centre - Prince George, BC"
+   },
+   {
+    "game_id": "1023313",
+    "date": "2026-11-18",
     "visiteur": {
      "code": "KAM",
      "nom": "Kamloops Blazers",
@@ -349,95 +202,6 @@
   ]
  },
  "prochains": [
-  {
-   "date": "2026-11-18",
-   "matchs": [
-    {
-     "game_id": "1023310",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "WEN",
-      "nom": "Wenatchee Wild",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png"
-     },
-     "domicile": {
-      "code": "MJ",
-      "nom": "Moose Jaw Warriors",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/207.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:00 pm (America/Regina)",
-     "heure_he": "8:00pm",
-     "arena": "Temple Gardens Centre - Moose Jaw, SK"
-    },
-    {
-     "game_id": "1023312",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "EDM",
-      "nom": "Edmonton Oil Kings",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png"
-     },
-     "domicile": {
-      "code": "SC",
-      "nom": "Swift Current Broncos",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/216.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:00 pm (America/Regina)",
-     "heure_he": "8:00pm",
-     "arena": "InnovationPlex - Swift Current, SK"
-    },
-    {
-     "game_id": "1023311",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "REG",
-      "nom": "Regina Pats",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/212.png"
-     },
-     "domicile": {
-      "code": "PG",
-      "nom": "Prince George Cougars",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/210.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:00 pm (America/Vancouver)",
-     "heure_he": "9:00pm",
-     "arena": "CN Centre - Prince George, BC"
-    },
-    {
-     "game_id": "1023313",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "KAM",
-      "nom": "Kamloops Blazers",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/203.png"
-     },
-     "domicile": {
-      "code": "VIC",
-      "nom": "Victoria Royals",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/whl/logos/50x50/227.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:05 pm (America/Vancouver)",
-     "heure_he": "9:05pm",
-     "arena": "Save-On-Foods Memorial Centre - Victoria, BC"
-    }
-   ]
-  },
   {
    "date": "2026-11-20",
    "matchs": [
@@ -881,6 +645,20 @@
      "sequence": "1L"
     },
     {
+     "nom": "Medicine Hat Tigers",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/206.png",
+     "pj": "20",
+     "v": "12",
+     "d": "6",
+     "dp": "2",
+     "bp": "79",
+     "bc": "63",
+     "pts": "26",
+     "an_pct": "24.6",
+     "dn_pct": "83.5",
+     "sequence": "1L"
+    },
+    {
      "nom": "Calgary Hitmen",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/202.png",
      "pj": "21",
@@ -893,20 +671,6 @@
      "an_pct": "24.7",
      "dn_pct": "84.1",
      "sequence": "2W"
-    },
-    {
-     "nom": "Medicine Hat Tigers",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/206.png",
-     "pj": "19",
-     "v": "12",
-     "d": "6",
-     "dp": "1",
-     "bp": "76",
-     "bc": "59",
-     "pts": "25",
-     "an_pct": "25.4",
-     "dn_pct": "83.3",
-     "sequence": "1W"
     },
     {
      "nom": "Swift Current Broncos",
@@ -937,6 +701,20 @@
      "sequence": "4W"
     },
     {
+     "nom": "Prince Albert Raiders",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/209.png",
+     "pj": "21",
+     "v": "10",
+     "d": "8",
+     "dp": "3",
+     "bp": "68",
+     "bc": "66",
+     "pts": "23",
+     "an_pct": "26.7",
+     "dn_pct": "75.3",
+     "sequence": "4W"
+    },
+    {
      "nom": "Lethbridge Hurricanes",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/205.png",
      "pj": "20",
@@ -951,31 +729,31 @@
      "sequence": "2L"
     },
     {
-     "nom": "Prince Albert Raiders",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/209.png",
-     "pj": "20",
-     "v": "9",
-     "d": "8",
-     "dp": "3",
-     "bp": "65",
-     "bc": "66",
-     "pts": "21",
-     "an_pct": "26.5",
-     "dn_pct": "74.3",
-     "sequence": "3W"
-    },
-    {
      "nom": "Saskatoon Blades",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png",
+     "pj": "19",
+     "v": "8",
+     "d": "6",
+     "dp": "5",
+     "bp": "73",
+     "bc": "71",
+     "pts": "21",
+     "an_pct": "22.5",
+     "dn_pct": "75.9",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Edmonton Oil Kings",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png",
      "pj": "18",
      "v": "8",
-     "d": "5",
-     "dp": "5",
-     "bp": "71",
-     "bc": "68",
-     "pts": "21",
-     "an_pct": "23.3",
-     "dn_pct": "74.5",
+     "d": "7",
+     "dp": "3",
+     "bp": "56",
+     "bc": "62",
+     "pts": "19",
+     "an_pct": "21.8",
+     "dn_pct": "77.2",
      "sequence": "1W"
     },
     {
@@ -991,20 +769,6 @@
      "an_pct": "16.0",
      "dn_pct": "73.2",
      "sequence": "1W"
-    },
-    {
-     "nom": "Edmonton Oil Kings",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/228.png",
-     "pj": "17",
-     "v": "7",
-     "d": "7",
-     "dp": "3",
-     "bp": "52",
-     "bc": "59",
-     "pts": "17",
-     "an_pct": "22.5",
-     "dn_pct": "76.6",
-     "sequence": "3L"
     }
    ]
   },
@@ -1028,30 +792,30 @@
     {
      "nom": "Kamloops Blazers",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/203.png",
-     "pj": "20",
-     "v": "12",
+     "pj": "21",
+     "v": "13",
      "d": "5",
      "dp": "3",
-     "bp": "67",
-     "bc": "55",
-     "pts": "27",
-     "an_pct": "28.4",
-     "dn_pct": "78.6",
-     "sequence": "1L"
+     "bp": "71",
+     "bc": "57",
+     "pts": "29",
+     "an_pct": "27.6",
+     "dn_pct": "79.2",
+     "sequence": "1W"
     },
     {
      "nom": "Victoria Royals",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/227.png",
-     "pj": "18",
+     "pj": "19",
      "v": "13",
-     "d": "5",
+     "d": "6",
      "dp": "0",
-     "bp": "77",
-     "bc": "59",
+     "bp": "79",
+     "bc": "63",
      "pts": "26",
-     "an_pct": "26.1",
-     "dn_pct": "80.6",
-     "sequence": "1W"
+     "an_pct": "25.5",
+     "dn_pct": "81.1",
+     "sequence": "1L"
     },
     {
      "nom": "Vancouver Giants",
@@ -1070,16 +834,30 @@
     {
      "nom": "Penticton Vees",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png",
-     "pj": "21",
+     "pj": "22",
      "v": "10",
+     "d": "9",
+     "dp": "3",
+     "bp": "64",
+     "bc": "63",
+     "pts": "23",
+     "an_pct": "15.1",
+     "dn_pct": "80.3",
+     "sequence": "1L"
+    },
+    {
+     "nom": "Portland Winterhawks",
+     "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png",
+     "pj": "20",
+     "v": "9",
      "d": "8",
      "dp": "3",
-     "bp": "63",
-     "bc": "60",
-     "pts": "23",
-     "an_pct": "15.5",
-     "dn_pct": "81.1",
-     "sequence": "1W"
+     "bp": "56",
+     "bc": "62",
+     "pts": "21",
+     "an_pct": "16.0",
+     "dn_pct": "85.9",
+     "sequence": "2W"
     },
     {
      "nom": "Kelowna Rockets",
@@ -1108,20 +886,6 @@
      "an_pct": "18.1",
      "dn_pct": "84.1",
      "sequence": "1L"
-    },
-    {
-     "nom": "Portland Winterhawks",
-     "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png",
-     "pj": "19",
-     "v": "8",
-     "d": "8",
-     "dp": "3",
-     "bp": "53",
-     "bc": "60",
-     "pts": "19",
-     "an_pct": "16.7",
-     "dn_pct": "85.3",
-     "sequence": "1W"
     },
     {
      "nom": "Everett Silvertips",
@@ -1154,30 +918,30 @@
     {
      "nom": "Seattle Thunderbirds",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/214.png",
-     "pj": "19",
-     "v": "6",
+     "pj": "20",
+     "v": "7",
      "d": "10",
      "dp": "3",
-     "bp": "51",
-     "bc": "72",
-     "pts": "15",
-     "an_pct": "14.5",
-     "dn_pct": "74.2",
-     "sequence": "1W"
+     "bp": "54",
+     "bc": "73",
+     "pts": "17",
+     "an_pct": "15.4",
+     "dn_pct": "74.7",
+     "sequence": "2W"
     },
     {
      "nom": "Wenatchee Wild",
      "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png",
-     "pj": "19",
+     "pj": "20",
      "v": "6",
-     "d": "12",
+     "d": "13",
      "dp": "1",
      "bp": "39",
-     "bc": "59",
+     "bc": "62",
      "pts": "13",
-     "an_pct": "14.9",
-     "dn_pct": "81.0",
-     "sequence": "6L"
+     "an_pct": "14.3",
+     "dn_pct": "80.3",
+     "sequence": "7L"
     }
    ]
   }
@@ -1204,6 +968,26 @@
    "pun": "9"
   },
   {
+   "joueur": "Kazden Mathies",
+   "equipe": "Saskatoon Blades",
+   "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png",
+   "pj": "19",
+   "b": "11",
+   "p": "19",
+   "pts": "30",
+   "pun": "10"
+  },
+  {
+   "joueur": "Gavin Katz",
+   "equipe": "Penticton Vees",
+   "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png",
+   "pj": "22",
+   "b": "15",
+   "p": "14",
+   "pts": "29",
+   "pun": "6"
+  },
+  {
    "joueur": "Carter Sanderson",
    "equipe": "Calgary Hitmen",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/202.png",
@@ -1224,16 +1008,6 @@
    "pun": "14"
   },
   {
-   "joueur": "Gavin Katz",
-   "equipe": "Penticton Vees",
-   "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png",
-   "pj": "21",
-   "b": "14",
-   "p": "14",
-   "pts": "28",
-   "pun": "4"
-  },
-  {
    "joueur": "Dayne Beuker",
    "equipe": "Lethbridge Hurricanes",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/205.png",
@@ -1247,21 +1021,11 @@
    "joueur": "Hunter Laing",
    "equipe": "Saskatoon Blades",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png",
-   "pj": "18",
+   "pj": "19",
    "b": "12",
    "p": "16",
    "pts": "28",
    "pun": "7"
-  },
-  {
-   "joueur": "Kazden Mathies",
-   "equipe": "Saskatoon Blades",
-   "logo": "https://assets.leaguestat.com/whl/logos/50x50/213.png",
-   "pj": "18",
-   "b": "11",
-   "p": "17",
-   "pts": "28",
-   "pun": "10"
   },
   {
    "joueur": "Chase Harrington",
@@ -1277,11 +1041,11 @@
    "joueur": "Markus Ruck",
    "equipe": "Medicine Hat Tigers",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/206.png",
-   "pj": "17",
+   "pj": "18",
    "b": "6",
    "p": "22",
    "pts": "28",
-   "pun": "10"
+   "pun": "12"
   }
  ],
  "meneurs_gardiens": [
@@ -1309,10 +1073,10 @@
    "gardien": "Kaenan Smith",
    "equipe": "Penticton Vees",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/277.png",
-   "pj": "9",
+   "pj": "10",
    "v": "4",
-   "moy": "2.15",
-   "pct": "0.907",
+   "moy": "2.24",
+   "pct": "0.901",
    "blanch": "0"
   },
   {
@@ -1326,6 +1090,16 @@
    "blanch": "2"
   },
   {
+   "gardien": "Carsten Leyerzapf",
+   "equipe": "Wenatchee Wild",
+   "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png",
+   "pj": "8",
+   "v": "2",
+   "moy": "2.46",
+   "pct": "0.932",
+   "blanch": "0"
+  },
+  {
    "gardien": "Burke Hood",
    "equipe": "Vancouver Giants",
    "logo": "https://assets.leaguestat.com/whl/logos/50x50/223.png",
@@ -1336,14 +1110,14 @@
    "blanch": "0"
   },
   {
-   "gardien": "Carsten Leyerzapf",
-   "equipe": "Wenatchee Wild",
-   "logo": "https://assets.leaguestat.com/whl/logos/50x50/222.png",
-   "pj": "7",
-   "v": "2",
-   "moy": "2.53",
-   "pct": "0.933",
-   "blanch": "0"
+   "gardien": "Cruz Chase",
+   "equipe": "Portland Winterhawks",
+   "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png",
+   "pj": "9",
+   "v": "4",
+   "moy": "2.51",
+   "pct": "0.918",
+   "blanch": "1"
   },
   {
    "gardien": "Kason Kobelka",
@@ -1354,16 +1128,6 @@
    "moy": "2.54",
    "pct": "0.911",
    "blanch": "0"
-  },
-  {
-   "gardien": "Cruz Chase",
-   "equipe": "Portland Winterhawks",
-   "logo": "https://assets.leaguestat.com/whl/logos/50x50/208.png",
-   "pj": "8",
-   "v": "3",
-   "moy": "2.58",
-   "pct": "0.915",
-   "blanch": "1"
   },
   {
    "gardien": "Taylor Tabashniuk",

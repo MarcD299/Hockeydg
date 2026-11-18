@@ -1,6 +1,6 @@
 {
  "ligue": "OHL",
- "date_donnees": "2026-11-17",
+ "date_donnees": "2026-11-18",
  "source": "HockeyTech/LeagueStat",
  "hier": {
   "date": "2026-11-15",
@@ -155,99 +155,95 @@
   ]
  },
  "aujourdhui": {
-  "date": "2026-11-17",
-  "matchs": []
+  "date": "2026-11-18",
+  "matchs": [
+   {
+    "game_id": "29207",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "OTT",
+     "nom": "Ottawa 67's",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png"
+    },
+    "domicile": {
+     "code": "KGN",
+     "nom": "Kingston Frontenacs",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "10:30 am (America/Toronto)",
+    "heure_he": "10:30am",
+    "arena": "Slush Puppie Place"
+   },
+   {
+    "game_id": "29208",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "NB",
+     "nom": "North Bay Battalion",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png"
+    },
+    "domicile": {
+     "code": "OS",
+     "nom": "Owen Sound Attack",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:00 pm (America/Toronto)",
+    "heure_he": "7:00pm",
+    "arena": "Harry Lumley Bayshore Community Centre"
+   },
+   {
+    "game_id": "29209",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "BFD",
+     "nom": "Brantford Bulldogs",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png"
+    },
+    "domicile": {
+     "code": "PBO",
+     "nom": "Peterborough Petes",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:05 pm (America/Toronto)",
+    "heure_he": "7:05pm",
+    "arena": "Peterborough Memorial Centre"
+   },
+   {
+    "game_id": "29210",
+    "date": "2026-11-18",
+    "visiteur": {
+     "code": "KIT",
+     "nom": "Kitchener Rangers",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
+    },
+    "domicile": {
+     "code": "SBY",
+     "nom": "Sudbury Wolves",
+     "buts": "0",
+     "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png"
+    },
+    "statut": "À VENIR",
+    "detail": "",
+    "heure_locale": "7:05 pm (America/Toronto)",
+    "heure_he": "7:05pm",
+    "arena": "Sudbury Community Arena"
+   }
+  ]
  },
  "prochains": [
-  {
-   "date": "2026-11-18",
-   "matchs": [
-    {
-     "game_id": "29207",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "OTT",
-      "nom": "Ottawa 67's",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/5.png"
-     },
-     "domicile": {
-      "code": "KGN",
-      "nom": "Kingston Frontenacs",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/2.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "10:30 am (America/Toronto)",
-     "heure_he": "10:30am",
-     "arena": "Slush Puppie Place"
-    },
-    {
-     "game_id": "29208",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "NB",
-      "nom": "North Bay Battalion",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/19.png"
-     },
-     "domicile": {
-      "code": "OS",
-      "nom": "Owen Sound Attack",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/11.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:00 pm (America/Toronto)",
-     "heure_he": "7:00pm",
-     "arena": "Harry Lumley Bayshore Community Centre"
-    },
-    {
-     "game_id": "29209",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "BFD",
-      "nom": "Brantford Bulldogs",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/1.png"
-     },
-     "domicile": {
-      "code": "PBO",
-      "nom": "Peterborough Petes",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/6.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:05 pm (America/Toronto)",
-     "heure_he": "7:05pm",
-     "arena": "Peterborough Memorial Centre"
-    },
-    {
-     "game_id": "29210",
-     "date": "2026-11-18",
-     "visiteur": {
-      "code": "KIT",
-      "nom": "Kitchener Rangers",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/10.png"
-     },
-     "domicile": {
-      "code": "SBY",
-      "nom": "Sudbury Wolves",
-      "buts": "0",
-      "logo": "https://assets.leaguestat.com/ohl/logos/50x50/12.png"
-     },
-     "statut": "À VENIR",
-     "detail": "",
-     "heure_locale": "7:05 pm (America/Toronto)",
-     "heure_he": "7:05pm",
-     "arena": "Sudbury Community Arena"
-    }
-   ]
-  },
   {
    "date": "2026-11-19",
    "matchs": [
